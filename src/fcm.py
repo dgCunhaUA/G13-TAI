@@ -6,30 +6,6 @@ import math
 import copy
 
 
-## Not used. Can be removed
-def fill_fcm_model(text, k, fcm_model):
-    # Recursive way to create fcm_model has the problem of "Maximum recursion depth exceeded" when running with a big text
-    # That's why we must use a iterative function instead
-
-    if len(text) <= k:
-        return fcm_model
-
-    ctx = text[:k]
-    letter = text[k:k+1]
-    if ctx in fcm_model:
-        if letter in fcm_model[ctx]:
-            fcm_model[ctx][letter] += 1
-        else:
-            fcm_model[ctx][letter] = 1
-    else:
-        fcm_model[ctx] = {}
-        fcm_model[ctx][letter] = 1
-
-    return fill_fcm_model(text[1:], k, fcm_model)
-
-
-
-
 class Fcm:
 
     def __init__(self, text:str, k:int, alpha:float):
@@ -109,7 +85,7 @@ def checkAlphaValue(a):
     ### Function to ensure alpha is between 0 and 1
     a = float(a)
     if a > 1 or a <= 0:
-        raise argparse.ArgumentTypeError("Alpha must be a value within [0,1]")
+        raise argparse.ArgumentTypeError("Alpha must be a value within ]0,1]")
     return a
 
 
@@ -118,9 +94,9 @@ def main():
 
     ### Verify Parameters
     parser = argparse.ArgumentParser(description='Define context length and a smoothing parameter.')
-    parser.add_argument('-f', type=str, required=True)
-    parser.add_argument('-k', type=int, required=True)
-    parser.add_argument('-a', type=checkAlphaValue, required=True)
+    parser.add_argument('-f', type=str, required=True, help='Path to file with an text example')
+    parser.add_argument('-k', type=int, required=True, help='Context length')
+    parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
     args = parser.parse_args()
 
     file_name = args.f

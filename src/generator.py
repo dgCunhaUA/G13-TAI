@@ -17,10 +17,10 @@ def main():
 
     ### Verify Parameters
     parser = argparse.ArgumentParser(description='Define filename, context length, the smoothing parameter and the size of text to be generated.')
-    parser.add_argument('-f', type=str, required=True)
-    parser.add_argument('-k', type=int, required=True)
-    parser.add_argument('-a', type=checkAlphaValue, required=True)
-    parser.add_argument('-l', type=int, required=True)
+    parser.add_argument('-f', type=str, required=True, help='Path to file with an text example')
+    parser.add_argument('-k', type=int, required=True, help='Context length')
+    parser.add_argument('-a', type=checkAlphaValue, required=True, help='Smoothing parameter')
+    parser.add_argument('-l', type=int, required=True, help='Desired size of the generated text')
     args = parser.parse_args()
 
     file_name = args.f
