@@ -28,8 +28,8 @@ def main():
     alpha = args.a
     text_size = args.l
 
-    if text_size < k:
-        print("Error: Can't generate text with size smaller than k.")
+    if text_size <= 0:
+        print("Error: Can't generate text with size smaller than 0.")
         sys.exit()
 
     ### Read Content
@@ -60,16 +60,19 @@ def main():
     # Get the first context that is the first one, but can be a different one
     context = list(state_probabilities.keys())[0]
 
-    generated_text = context    # Initialize the generated text with first context
-    for i in range(0, text_size-k):     # Iterate text_size - k times because the first context with k chars is already in the generated text
-        if context in state_probabilities:
-            # Random char choice using their probabilities according to this context
-            generated_text += random.choices( list(state_probabilities[context].keys()), list(state_probabilities[context].values()), k=1)[0]
-        else:
-            # If the context does not exist in the fcm model, then assign a random character (It can be risky, discuss later about this)
-            generated_text += random.choice(list(fcm_model.alphabet))
-        # Update context with the new generated char
-        context = context[1:] + generated_text[-1]
+    if text_size < k:
+        generated_text = context[:text_size]    # Initialize the generated text with first context
+    else:
+        generated_text = context     # Initialize the generated text with first context
+        for i in range(0, text_size-k):     # Iterate text_size - k times because the first context with k chars is already in the generated text
+            if context in state_probabilities:
+                # Random char choice using their probabilities according to this context
+                generated_text += random.choices( list(state_probabilities[context].keys()), list(state_probabilities[context].values()), k=1)[0]
+            else:
+                # If the context does not exist in the fcm model, then assign a random character (It can be risky, discuss later about this)
+                generated_text += random.choice(list(fcm_model.alphabet))
+            # Update context with the new generated char
+            context = context[1:] + generated_text[-1]
 
     print("Generated text: ", generated_text)
 
