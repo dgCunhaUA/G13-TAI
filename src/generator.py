@@ -2,7 +2,6 @@
 
 import sys
 import argparse
-import math
 from fcm import Fcm
 import random
 
@@ -49,30 +48,41 @@ def main():
     ### Creation of Finite Context Model
     fcm_model = Fcm(text, k, alpha)
     fcm_model.create_fcm_model()
-    print(fcm_model)
 
     ### Calculate entropy
     fcm_model.calculate_entropy()
 
     # Probabilities of each char in each context/state 
     state_probabilities = fcm_model.state_probabilities
+    # Probabilities of each context in the text
+    context_probabilities = fcm_model.context_probabilities
 
     # Get the first context that is the first one, but can be a different one
-    context = list(state_probabilities.keys())[0]
+    context = list(context_probabilities.keys())[0] # random.choices( list(context_probabilities.keys()), list(context_probabilities.values()), k=1)[0]
 
     if text_size < k:
         generated_text = context[:text_size]    # Initialize the generated text with first context
     else:
         generated_text = context     # Initialize the generated text with first context
-        for i in range(0, text_size-k):     # Iterate text_size - k times because the first context with k chars is already in the generated text
+
+        while len(generated_text) != text_size: # Iterate until we finished generating text with size text_size
             if context in state_probabilities:
                 # Random char choice using their probabilities according to this context
                 generated_text += random.choices( list(state_probabilities[context].keys()), list(state_probabilities[context].values()), k=1)[0]
             else:
-                # If the context does not exist in the fcm model, then assign a random character (It can be risky, discuss later about this)
-                generated_text += random.choice(list(fcm_model.alphabet))
-            # Update context with the new generated char
-            context = context[1:] + generated_text[-1]
+                #generated_text += random.choice(list(fcm_model.alphabet)) # Choosing a random char (Older version)
+                
+                if text_size - len(generated_text) >= k:  # If the remaning text has size > k
+                    #generated_text += random.choices( list(context_probabilities.keys()) )[0]   # Choose a random context (Older version)
+               
+                    # Choose a random context using their probabilities
+                    generated_text += random.choices( list(context_probabilities.keys()), list(context_probabilities.values()), k=1)[0]   
+                else:
+                    # Assign a random character
+                    generated_text += random.choice(list(fcm_model.alphabet))
+                
+            # Update context with last k chars of the new generated text
+            context = generated_text[-k:]
 
     print("Generated text: ", generated_text)
 

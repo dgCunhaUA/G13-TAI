@@ -24,7 +24,8 @@ class Fcm:
         self.alphabet_size = len(self.alphabet)
         self.model = {}
         self.final_entropy = 0
-        self.state_probabilities = {}
+        self.state_probabilities = {}   # Probabilities of each char in each context
+        self.context_probabilities = {} # Probabilities of each context
 
     
     def create_fcm_model(self):
@@ -48,22 +49,22 @@ class Fcm:
 
         self.state_probabilities = copy.deepcopy(self.model) # Same dictionary with the same keys to store the value of the probabilities of each char
         self.final_entropy = 0
+        self.context_probabilities = {}
         for state in self.model.keys():
             state_info = self.model[state]
             state_sum = sum(state_info.values())  # Sum of occurences
             state_entropy = 0
             
-            if self.alpha > 0:  # If alpha != 0, the probabilities of the chars that didn't appear next to these context have importance
-                number_of_not_shown_chars = self.alphabet_size - len(state_info) # Number of chars that didn't appear
-                if number_of_not_shown_chars != 0:  # If there are at least one char that didn't appear
-                    # Probability calculation with alpha parameter 
-                    prob_chars = self.alpha / (state_sum + self.alpha * self.alphabet_size )
-                    
-                    # Entropy multiplied by the number of chars that didn't appear
-                    state_entropy += number_of_not_shown_chars * (prob_chars * math.log2(prob_chars))
-                    
-                    for char in self.alphabet:
-                        self.state_probabilities[state][char] = prob_chars   # Save the probability
+            number_of_not_shown_chars = self.alphabet_size - len(state_info) # Number of chars that didn't appear
+            if number_of_not_shown_chars != 0:  # If there are at least one char that didn't appear
+                # Probability calculation with alpha parameter 
+                prob_chars = self.alpha / (state_sum + self.alpha * self.alphabet_size )
+                
+                # Entropy multiplied by the number of chars that didn't appear
+                state_entropy += number_of_not_shown_chars * (prob_chars * math.log2(prob_chars))
+                
+                for char in self.alphabet:
+                    self.state_probabilities[state][char] = prob_chars   # Save the probability
                     
             for char in state_info: 
                 # Probability calculation with alpha parameter 
@@ -76,6 +77,7 @@ class Fcm:
 
             # Probability of this context = number of occurences/number of all states
             prob_context = state_sum/self.number_of_states
+            self.context_probabilities[state] = prob_context    # Save the probability of the context
             self.final_entropy += prob_context * (state_entropy)
             
         #print(self.model)
