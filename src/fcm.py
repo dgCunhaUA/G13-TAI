@@ -80,7 +80,6 @@ class Fcm:
             self.context_probabilities[state] = prob_context    # Save the probability of the context
             self.final_entropy += prob_context * (state_entropy)
             
-        #print(self.model)
         print("Final Entropy: " + str(self.final_entropy))
 
 def checkAlphaValue(a):

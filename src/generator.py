@@ -58,10 +58,10 @@ def main():
     context_probabilities = fcm_model.context_probabilities
 
     # Get the first context that is the first one, but can be a different one
-    context = list(context_probabilities.keys())[0] # random.choices( list(context_probabilities.keys()), list(context_probabilities.values()), k=1)[0]
+    context = list(context_probabilities.keys())[0]
 
     if text_size < k:
-        generated_text = context[:text_size]    # Initialize the generated text with first context
+        generated_text = context[:text_size]    # The generated text will be the first text_size chars of first context
     else:
         generated_text = context     # Initialize the generated text with first context
 
@@ -70,11 +70,8 @@ def main():
                 # Random char choice using their probabilities according to this context
                 generated_text += random.choices( list(state_probabilities[context].keys()), list(state_probabilities[context].values()), k=1)[0]
             else:
-                #generated_text += random.choice(list(fcm_model.alphabet)) # Choosing a random char (Older version)
                 
                 if text_size - len(generated_text) >= k:  # If the remaning text has size > k
-                    #generated_text += random.choices( list(context_probabilities.keys()) )[0]   # Choose a random context (Older version)
-               
                     # Choose a random context using their probabilities
                     generated_text += random.choices( list(context_probabilities.keys()), list(context_probabilities.values()), k=1)[0]   
                 else:
