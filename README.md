@@ -6,7 +6,7 @@
 #### 95278 - Diogo Cunha - Participação 1/3 
 #### 93367 - Rafael Baptista - Participação 1/3 
 
-----
+
 ## Instruções de execução
 
 ### Calculo da entropia
