@@ -1,4 +1,4 @@
-# GX-TAI
+# G13-TAI
 
 # Assignment I - Teoria Algorítmica da Informação
 
