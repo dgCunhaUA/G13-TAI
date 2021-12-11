@@ -50,6 +50,8 @@ def get_number_of_bits_required_to_compress(fcm_model, text, target_alphabet, mu
             word_total_bits = 0
             completeWord = True
             while True:
+                if current_pos == len(text) - 1:
+                    break
                 if text[current_pos] != " ":
                     if current_pos in symbols:
                         new_word += text[current_pos]
