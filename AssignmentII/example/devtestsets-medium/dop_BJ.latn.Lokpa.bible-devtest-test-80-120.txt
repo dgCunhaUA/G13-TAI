@@ -1,0 +1,456 @@
+dop	Tɛtʋ ntɩ tɩɩ wɛ kpɛtɛ kɛ́ tǝ fɛɩ tɑpʋɣʋ tǝ fɛɩ nɔɣɔ, nɑ teŋku lumɑŋ nyǝŋ wɑɑsɑ pǝ
+dop	Pǝ kɛɛsɑ tɑɑnɑɣɑ ɩlɛ Ɩsɔ Tɑcɑɑ polɑ ɩ tɑɑlɛ tɔɔ kɛ́ cɔɔʋ ntɛ́ nɑ pɑ́ nɩɩ ɩ nɔɣɔ.
+dop	Kʋyɑkʋ ŋkʋ kʋ mɑɣɑmɑɣɑ kɛ Nowee nɑ ɩ ɑlʋ nɑ ɩ pǝyɑlɑɑ Sem nɑ Kɑm nɑ Yɛfɛtɛ nɑ ɩ poolɑɑ
+dop	20-21 Ḿpʋ́ɣʋ́ Ɩsɔ koolɑ lʋlǝsǝlɑɑ mpɛɣɛ kʋpɑntʋ, nɑ ɩ́ lɑ́ nɑ pɑ piitim tɑɣɑlɩ. Mpi
+dop	tɔ, pɑ nyɑŋɑɣɑnɑ-ɩ tɔ pǝ tɔɔ. Ɩlɛnɑ Ɩsɛɣɛlɩ nyǝ́mɑ nɑ́ɑ́ hukiɣi nɑ pɑ́ nyɔɔkɩ toŋ.
+dop	sɩ: Ɩ́ tɑɑ tɑsɑ-wɛɣɛ pilikinɑɑ kɑsɑɑlokɑ cɛlʋɣʋ kɛ fɑɑlɑɑ. Pɑ mɑɣɑmɑɣɑ pɑɑ pukinɑ
+dop	Yɑkɔpʋ pǝyɑlʋ kɑncɑɑlɑɣɑ nyǝŋ Lupɛŋ pǝyɑlɑɑ ntɛ́ Hɑnɔkɩ nɑ Pɑlu nɑ Hɛsǝlɔŋ nɑ Kɑɑmi,
+dop	Pɑɑ nɑ mpʋ Icipiti wulɑʋ lɑpɑ lɑŋkpɩɩsǝŋ nɑ ɩ́ kisi nti Moisi nɑ Alɔŋ pɑ polɑ-ɩ sǝlǝmʋɣʋ
+dop	Ɩsɔtʋ wei ɩ tɑɑ ɩ́ wɛ ɩsǝntɔ tɔ, ɩ kɑ́ wɛɛ-mɛɣɛ pǝnɑɣɑ tɑɑ ɩsɔtʋ kɑncɑɑlɑɣɑ nyǝŋ
+dop	Ḿpʋ́ɣʋ́ Ɩsɛɣɛlɩ nyǝ́mɑ lɑpɑ teitei ɩsɩɩ Moisi kɑ heeluɣu-wɛ tɔ. Pɑ sǝlǝmɑ Icipiti nyǝ́mɑ
+dop	Hɑlɩ pǝ tɔm tɑɑ, Icipiti wulɑʋ kisɑɑ kɛ́ tǝsɑɣɑsɑɣɑ sɩ tǝ́ tɑɑ nyǝɣǝlǝnɑ tiili. Ɩlɛnɑ
+dop	Ɩsɔ nɑ́ɑ́ kʋ́ Icipiti nyǝ́mɑ ɑpɑlʋpiyɑ kɑncɑɑlɑɣɑ nyǝnsɩ tǝnɑ, nɑ pǝ́ kpɛnnɑ tɔlɑ
+dop	nyǝnsɩ tǝnɑ. Pǝ tɔɔ mɑɣɑmɑɣɑ kɛ pǝ wɛɛ sɩ tǝ́ lɑkɩ kɔtɑsɩ kɛ kɑncɑɑlɑɣɑ piyɑ ɑpɑlʋ
+dop	Ɩlɛnɑ ɩ́ tɑɑ cɑlǝm mpɩ tɔtɔɣɔ tulɑɑlʋ tǝwɔtɛ hǝlǝŋɑsɩ tɔɔ kɛ́ cokǝle tɑɑ tǝnɑ. Pǝ
+dop	wɑɑlɩ, ɩlɛnɑ ɩ́ pǝlɩ cɑlǝm kʋkɑɑsǝm kɛ kɔtɑɣɑ tǝlɑtɛ nte tǝ wɛ cokǝle nɔnɔɣɔ tɔ tǝ
+dop	Yɑɑ pǝ yʋkǝnɑ nɔɣɔlʋɣʋ tɑnɑɑʋ tɑɑ, nɑ ɩ́ tuunɑ kʋpɑntʋ yɑɑ ɩsɑɣɑtʋ. Ɩlɛnɑ ɩ́ kɔɔ
+dop	Ɩlɛ Alɔŋ lʋlʋɣʋ nyǝ́mɑ ɑpɑlʋ nyǝ́mɑ tike kɑ́ tɔkǝnɑ pǝ tɔɣɔnɑɣɑ ŋkɛ. Mpi tɔ, kɔtɑɣɑ
+dop	ŋkɑ pɑ kɔnɑ Tɑcɑɑ kɛ mpʋ tɔ, kɑ hɔɣɔlʋɣʋ kɛ́ pɑ nyǝm kɛ tɑm tɔɔ kɛ́. Pǝ tɔɔ kɛ́ ye
+dop	Wei ɩ́ tɔɣɔ pǝ nɑntʋ kɛ kʋyɑkʋ tooso nyǝŋkʋ wule, Tɑcɑɑ kɑɑ mʋ ɩ kɔtɑɣɑ. Pǝyele ɩ
+dop	kɔtɑɣɑ kɑɑ wɑɑsɩ tɔtɔ. Pǝ pǝsɑ kʋsɔɣɔtʋ pʋlʋpʋ kɛ́. Ye wei ɩ tɔɣɑɑ pǝ mǝlɩ ɩ nyʋɣʋ
+dop	Ḿpʋ́ɣʋ́ Moisi kpɑɣɑ kɔtɑɣɑ nim, nɑ ɩ́ fɛɛnɩ tǝsulle cokǝle, nɑ tǝ tɑɑ wontu tǝnɑ, nɑ tǝ́
+dop	Pǝ fɛɩ sɩ nyɑnɑ nyɑ́ pǝyɑlɑɑ mǝ tɑɑ nɔɣɔlʋ ɩ́ nyɔɔ sʋlʋm, yɑɑ kʋkʋkʋm nɑpǝlɩ, nɑ
+dop	pǝ́cɔ́ ɩ́ sʋʋ tǝsulle cokǝle tɑɑ. Ye ɩ́ lɑpɑ mpʋ, ɩ́ kɑ́ sɩ. Kiiu ŋku pǝ wɛɛ sɩ mǝ nɑ mǝ
+dop	Ye tǝ kʋsǝpʋɣʋ hotɑ wontu nti pɑ lɑkǝnɑ tɔ tǝ tɑɑ nɑkʋlɩ tɑɑ, kʋlɛ kʋ pǝsɑ ɑsilimɑ kɛ́.
+dop	Pɑɑ kʋsɑɑkǝm, pɑɑ wontu kʋsusuutu, yɑɑ tɔnʋɣʋ pʋlʋpʋ, yɑɑ huluɣu. Pɑɑ wontuɣu ŋku te, pǝ
+dop	wɛɛ sɩ pɑ́ nyɑɑlɩ-kʋɣʋ nɑ lʋm nɑ kʋ cɑɣɑ ɑsilimɑ tɑɑ, hɑlǝnɑ tɑɑnɑɣɑ. Pǝ wɑɑlɩ kɛ
+dop	Pǝ wɑɑlɩ ɩlɛnɑ pɑ́ cɑɑ pɛɛ kʋfɑnɑ nɑ pɑ́ lɛɛtɩ kɑncɑɑlɑɣɑ nyǝnɑ lonɑ, nɑ pɑ́ lɑ́
+dop	Ye pʋlʋpʋ tokinɑ kʋhǝntʋɣʋ ŋkʋ yɑɑ kpete ntɛ́, ɩlɛnɑ nɔɣɔlʋ nɑ́ɑ́ tokinɑ-wɩ ɩ pǝsɑ
+dop	nɑɑtosompɔɣɔlɑɣɑ nɑ nɑsǝtoso (157600). Ɩsɛɣɛlɩ yoolɑɑ looŋɑ kɑntǝkɑɣɑ nyǝŋkɑ ntɛ́. Pɑɑ
+dop	Pɑ kɑlɑ pǝ kpɑɣɑʋ ɑpɑlɑɑ, nɑ ɑpɑlʋpiyɑ mpɑ pɑ wɛnɑ ɩsɔtʋ kʋlʋm nɑ wɑɑlɩ tɔ. Pɑ wɛ
+dop	iyisi pǝlefɛɩ nɑ nɑsǝtoso (8600). Pɑ nyǝntɛ ntɛ́ Ɩsɔ cokǝle tɑɑ wontunɑɑ pɑɑsǝnɑʋ.
+dop	Ɩlɛnɑ pɑ́ tʋ́ pǝ tǝnɑɣɑ tɔnʋɣʋ tɛɛlǝŋ nyǝŋkʋ nɑkʋlɩ kʋ tɑɑ, nɑ pɑ́ sɩɩ kpɑtǝlɛ nte
+dop	Yutɑ kpekǝle tʋ Aminɑtɑpɩ pǝyɑlʋ Nɑsɔŋ kɛlɛ kʋyɑkʋ kɑncɑɑlɑɣɑ nyǝŋkʋ. Ɩsɑkɑɑ nyǝntɛ tʋ
+dop	Suwɑɑ pǝyɑlʋ Netɑneyɛlɩ kɛ kʋyɑkʋ nɑɑlɛ nyǝŋkʋ. Sɑpulɔŋ nyǝntɛ tʋ Helɔŋ pǝyɑlʋ Ɩliyɑpɩ
+dop	kɛ kʋyɑkʋ tooso nyǝŋkʋ. Lupɛŋ nyǝntɛ tʋ Setewu pǝyɑlʋ Ɩlisuu kɛ kʋyɑkʋ liɣiti nyǝŋkʋ. Simiyɔŋ
+dop	nyǝntɛ tʋ Sulisɑtɑɩ pǝyɑlʋ Selumǝyɛlɩ kɛ kʋyɑkʋ kɑkpɑsɩ nyǝŋkʋ. Kɑtɩ nyǝntɛ tʋ Teuwɛlɩ
+dop	pǝyɑlʋ Ɩliyɑsɑfɩ kɛ kʋyɑkʋ nɑɑtoso nyǝŋkʋ. Ɩfǝlɑyim nyǝntɛ tʋ Amihuti pǝyɑlʋ Ɩlisɑmɑ kɛ
+dop	kʋyɑkʋ nɑɑtosomopɔɣɔlɑɣɑ nyǝŋkʋ. Mɑnɑsee nyǝntɛ tʋ Petɑsuu pǝyɑlʋ Kɑmliyɛlɩ kɛ kʋyɑkʋ
+dop	nɑɑnʋwɑ nyǝŋkʋ. Tɑŋ nyǝntɛ tʋ Amisɑtɑɩ pǝyɑlʋ Ahiyesɛɛ kɛ nɑɑnʋwɑ nyǝŋkʋ. Asɛɛ nyǝntɛ
+dop	tʋ Okǝlɑŋ pǝyɑlʋ Pɑkiyɛlɩ kɛ nɑɑnʋwɑ nɑ kʋlʋmʋɣʋ nyǝŋkʋ. Nɛfǝtɑli nyǝntɛ tʋ Ɩnɑŋ
+dop	kɑncɑɑlɑɣɑ kʋyɛɛŋ, kɛ wɑɑtʋ wei ɩ lɑkɩ kɔtɑsɩ nsi kɔkɔ lusɑ sɩ tǝnɑ tɔ nɑ ciikuɣu
+dop	Hɑlǝnɑ pɑ́ tɔ́ sɩ: Tɑcɑɑ yɔɣɔtǝɣǝnɑ tɑ́ tɔtɔɣɔ. Pǝ tɑɣɑ Moisi tike kɛ ɩ yɔɣɔtǝɣǝnɑ.
+dop	Mpɑ Moisi tilɑ Kɑnɑɑŋ tɔ pɑ hǝlɑ ntɛ́. Nuŋ pǝyɑlʋ Hosee kɛ Moisi cuɣusɑ hǝtɛ sɩ Yosuwee.
+dop	Pɑ kɑɑ lɑŋ-tǝɣɩ tɑɣɑsʋɣʋ kɛ tɛtʋ tǝnɛ tǝ nyǝ́mɑ. Pɛlɛ pɑ nyǝ́mɑ sɩ n wɛ tɑ́ wɑɑlɩ
+dop	kɛ́, nɑ ń hʋlǝɣɩ-tʋɣʋ nyɑ́ tɩ. Nɑ tǝ́ nɑɑkɩ nyɑ́ tǝmɑ nɑ ń kentiɣi tɑ́ tɔɔ. Mpi tɔ, n
+dop	Tɛlǝsɩ Ɩsɛɣɛlɩ nyǝ́mɑ sɩ, wɑɑtʋ wei ɩ́ kɑ́ sʋʋ tɛtʋ nti mɑ hɑɑkɩ-mɛ tɔ, tǝ tɑɑ sɩ ɩ́
+dop	Ntɛnɑ sɑmɑɑ hɑtǝlǝnɑ Kolee pɑ cokɑ. Wɑɑtʋ ɩnɩ Tɑtɑŋ nɑ Apilɑm pɑ ɑlɑɑ, nɑ pɑ lʋlʋɣʋ
+dop	Tɛʋ femɑ, nɑ Moisi sʋʋ tǝ tɑɑ, ɩlɛ ɩ mɑɣɑnɑ Lefii kpekǝle tʋ Alɔŋ kpɑ́tʋ́ɣʋ́ nɛɣɛtɑɑ
+dop	Ɩ tɩɩ lǝsɑ-tʋɣʋ Icipiti, nɑ ɩ́ kɔnɑ-tʋɣʋ lonte ɩsɑɣɑlɛ tǝnɛ tǝ tɑɑ suwe? Pǝ fɛɩ hɑlǝm,
+dop	pǝ́cɔ́ yʋlʋ kɑɑ hiki tɩɩŋ kʋlʋlǝŋ, ɩsɩɩ fikinɑɑ yɑɑ lɛsɛŋnɑɑ, yɑɑ tʋɣʋ nɑkʋlɩ. Anɩ
+dop	Ḿpʋ́ɣʋ́ ɩsɔtɑɑ tillu tuusɑ lɔlɔ, nɑ ɩ́ sǝŋ mpɑɑʋ tɑɑ kɛ́ lɛsɛŋ tɑwɑ koloosi hɛkʋ.
+dop	Acimɑ ɑnɩ ɑ kʋyɑkʋ kɑncɑɑlɑɣɑ nyǝŋkʋ wule, Ɩsɔ sɛɛtʋ kɛ ɩ́ kɑ́ koti. Ɩ́ kɑɑ lɑ tǝmlɛ
+dop	Nɑ ɩ́ tǝnɩ pɑɑ tɔtɛ nte tǝ tɔɔ kɛ́ kɔtɑɣɑ tɔɣɔnɑɣɑ, nɑ pǝ sʋlʋm mpi pɑ lɑkǝnɑ tɑm tɔ.
+dop	Ɩlɛnɑ pɑ́ ponɑ pǝ tǝnɑɣɑ pɑ tǝsikile kɛ Mowɑpʋ tɛtɛkǝlɛ tɑɑ, kɛ Yɑɑtɑnɩ pɔɣɔ nɔɣɔ, kɛ
+dop	Amɑ Tɑcɑɑ lɑpɑ wulɑʋ Sihoŋ kɛ lɑŋkpɩɩsǝŋ nɑ ɩ́ kisi sɩ tǝ́ tɑɑ tǝŋnɑ ɩ tɛ. Ɩsɔ lɑpɑ-ɩ
+dop	Ɩsɔ Tɑcɑɑ, nyɑ́ toŋ nɑ nyɑ́ sɔsɔɔntʋ kɛ n hʋlɑ nyɑ́ tǝmlɛ tʋ mɑ́. Mpi tɔ, pɑɑ ɩsɔtɑɑ
+dop	yɑɑ ɑtɛ, nyɑ́ sɑɑlɑ nɔɣɔlʋ ɩ fɛɩ sɩ ɩ kɛɛkǝnɑ nyɑ́ tǝmɑ sɔsɔɔnɑ, yɑɑ nyɑ́ kɔkɔlɔ
+dop	Ɩsɔtɔnʋɣʋ nɑ tɛtʋ ntɛ́ mɑ ɑseetɑ nyǝ́mɑ. Ye ɩ́ lɑpɑ mpʋ, ɩsɩɩ sǝm kpiisɑ-mɛɣɛ lɔŋ kɛ
+dop	Tɑcɑɑ. Mɑ kisɑɑ sɩ ɩ́ tɑɑ kpɩ mɑ́ nɑ tʋɣʋ nɑkʋlɩ. Ye wei ɩ́ kisɑ-m, mɑ lɛɛtǝɣɩ-ɩ nɑ
+dop	mɑ́ kpɛŋnɑ ɩ piyɑ, nɑ pɑ sɑɑlǝnɑɑ. Nɑ pǝ́ polo pɑ lʋlǝŋ loosi ɩsɩɩ tooso yɑɑ liɣiti.
+dop	Ɩ kɑ́ sɔɔlɩ-mɛ nɑ ɩ́ kooli-mɛɣɛ kʋpɑntʋ kɛ tɛtʋ nti ɩ kɑ heelinɑ mǝ cɑɑnɑɑ nɑ tuunɑʋ sɩ
+dop	ɩ kɑ́ hɑ-mɛ tɔ tǝ tɑɑ. Ɩlɛnɑ mǝ nɑ mǝ tɔlɑ ɩ́ huki. Nɑ tǝ́ lʋlɩ-mɛɣɛ tɔɣɔnɑɣɑ pee nɑ
+dop	Apɑlɑɑ mpɛ pɑ tɑlɑ pɔɔŋ tɑɑ, ɩlɛnɑ pɑ́ ŋmɛlɩ tǝnɑɣɑ kʋyɛɛŋ tooso. Hɑlǝnɑ mpɑ pɑɑ
+dop	sewɑ pɑ wɑɑlɩ tɔ, pɑ́ pɛɛkɩ-wɛɣɛ hɔɣɔlʋɣʋ ŋkʋ kʋ tǝnɑ kʋ tɑɑ, pɑ tɑ nɑ-wɛ. Ɩlɛnɑ
+dop	Ḿpʋ́ɣʋ́ Ɩsɛɣɛlɩ nyǝ́mɑ yoolɑɑ lɩɩwɑ Tɑcɑɑ ɩsɛntɑɑ, ɩsɩɩ yǝlɑɑ iyisi nɩɩlɛ (40000)
+dop	Mpʋ tɔ, yoolɑɑ mɛ, ɩ́ tɔ nɑ ɩ́ cɔɔnɑ ɩcɑtɛ ntɛɣɛ tɔm kʋlʋm. Ɩlɛnɑ ɩ́ lɑkɩ ḿpʋ́ɣʋ́
+dop	Kɛnɑ Tɑcɑɑ nɑ́ɑ́ kpɑɑkɩ pɑ tɑɑ kɛ́ pɑɑsǝnlɑɑ sɩ pɛlɛ pɑ́ wɑɑsɩ-wɛɣɛ lɛɛkǝlɑɑ mpɛ
+dop	Ɩlɛnɑ Yɑyɛɛ lɩɩ nɑ ɩ́ sǝŋ Siselɑ nɑ ɩ́ tɔmɩ-ɩ sɩ: Tɑ cɑɑ, sʋʋ mɑ tɛ cǝnɛ, tɑɑ nyɑnɑ
+dop	Ɩlɛnɑ pɑ́ tɛɛnɑ Penuwɛlɩ, nɑ Ketiyɔŋ sǝlǝmɩ kʋlʋmtʋ ntǝɣɩ ɩcɑtɛ nyǝ́mɑ, nɑ pɛlɛ pɑ́
+dop	Pɑɑ nɑ Ketiyɔŋ kɑ lʋpɑ pɑ tɔɔ kɛ́ teu tɔ, pɑ tɑɑ nɔɣɔlʋ tɑ tɔɔsɩ ɩ tǝyɑɣɑ nyǝ́mɑ tɔɔ.
+dop	Nɑ ɩ́ tili mukɑɣɑ nɑ ɩ́ heeli Apimelɛkɩ sɩ: Kɑɑlɩ nɑ ɩ tɛɛtʋnɑɑ pɑ kɔmɑ Sikɛm nɑ pɑ́
+dop	Ɩ pǝyɑlɑɑ kɑ wɛ yʋlʋ nyɔɔŋ hiu nɑ nɑɑnʋwɑ kɛ́. Pɑɑ wei nɑ ɩ kpɑŋɑɣɑ nɑ ɩ ɩcɑtɛ kɛ
+dop	Tǝnɑɣɑ pɑ tilɑɑ nɑ pɑ́ sǝlǝmɩ Ɩtɔm wulɑʋ sɩ: Hɑ-tʋɣʋ mpɑɑʋ nɑ tǝ fɑɣɑnɑ nyɑ́ tɛtʋ
+dop	tɑɑ. Amɑ ɩ́lɛ́ ɩ kisɑɑ. Ɩlɛnɑ pɑ́ sǝlǝmɩ Mowɑpʋ nyǝ́mɑ nɑ pɛlɛ pɑ́ kisi mpʋ tɔtɔ.
+dop	Mpʋ tɔ, mɑ pɛɛlɔ tɑɑ nǝɣǝsɩ. Mpi n cɑɑkɩ tɔ mpǝɣɩ mɑɑ lɑ-ŋ. Mpi tɔ, ɩcɑtɛ yǝlɑɑ tǝnɑ
+dop	Ɩlɛnɑ Anɑ sɩ: Kɑɑfɑlɑ mɑ cɛ, n tɔɔsɑ mɑ tɔɔ? Mɑɑ kɔmɑ nyɑ́ kiŋ cǝnɛ nɑ mɑ́ sǝlǝmɩ
+dop	Nn nɑɑkɩ kʋyɛɛŋ tɔŋnɑ kɔntɛ, wei ɩ tɑɑ mɑɑ kpiisi nyɑ́ ɩfepiyɑ nɑ nyɑ́ lʋlʋɣʋ tɑɑ
+dop	Mpʋɣʋlɛ Sɑmiyɛɛlɩ tɔmɑ Ɩsɛɣɛlɩ nyǝ́mɑ tǝnɑ sɩ: Ye lotu kʋlʋmtʋ kɛ ɩ́ mǝlǝnɑ Tɑcɑɑ
+dop	kiŋ, ɩlɛ ɩ yele tʋɣʋ Asǝtɑtɩ lɑɑʋ nɑ ɩ́ lɔ tɩɩŋ wei ɩnɩ ɩ́ ceelɑ mpʋ tɔ. Ɩlɛnɑ ɩ́ ponɑ
+dop	Ɩnɩ ɩ kɑ kpɑɣɑnɑ mǝ hʋntʋ wontu hɔɣɔlǝŋ nɑɑnʋwɑ tɑɑ kʋlʋmʋɣʋ, nɑ mɩɩ pǝsɩ ɩ yomɑɑ.
+dop	Kʋ femɑ, ɩlɛnɑ Sɑmiyɛɛlɩ kʋlɩ tɑnɑŋ tɛɛ kɛ́ sɑɑ wei hɑɣɑ yʋɣɩ kɑ tʋ tɔ, nɑ ɩ́ yɑɑ
+dop	Ḿpʋ́ɣʋ́ Ɩsɔ tʋ yoolɑɑ kpelikpekɑ nyǝ́mɑ nɑpǝlɩ pɑ tɑɑ, nɑ pɑ́ wɛɛ Sɑyuli wɑɑlɩ nɑ ɩ́
+dop	Ye ɩ́ nyɑŋnɑ Tɑcɑɑ nɑ ɩ́ lɑkɩ-ɩ tǝmlɛ nɑ ɩ́ nɩɩkǝnɑ-ɩ, nɑ ɩ́ tɑ kpɛɛsǝnɑ nti ɩ tʋ-mɛ
+dop	Ɩlɛnɑ nɑɑlɛ nyǝntɛ nɑ́ɑ́ mǝlǝnɑ Pɛtɩ-Holoŋ tɔɔ, nɑ tooso nyǝntɛ nɑ́ɑ́ kpɑɣɑ toŋɑ
+dop	Mpi tɔ, kpɛɛnɑʋ kɛ́ Ɩsɔ kɛ́ ɩsɑɣɑtʋ kɛ teitei kɛ́ ɩsɩɩ tɩɩtʋ. Ɩ nyǝnǝɣɩ kɑŋkɑntɛ kɛ
+dop	teitei ɩsɩɩ tɩɩŋ lɑɑʋ. Timpi nyɑ́ lɔ Ɩsɔ Tɔm tɔ, ɩ́lɛ́ ɩ kɑ lɔ-ŋ tɔtɔɣɔ nɑ ń lɑŋ
+dop	Ḿpʋ́ɣʋ́ Tɑcɑɑ lǝsɑ ɩ Feesuɣu kɛ Sɑyuli tɑɑ, nɑ ɩ́ tʋ-ɩ lǝmɑɣɑsǝlɛ ɩsɑɣɑlɛ nɑ tǝ́
+dop	Wɑɑtʋ wei Tɑfiiti pukɑɣɑ Koliyɑtɩ yoonɑʋ tɔ, Sɑyuli pɔɔsɑ ɩ yoolɑɑ wulɑʋ Apǝnɛɛ sɩ: Awe
+dop	pǝyɑlʋ kɛ ɩfepu ɩnɛ ɩnɩ ye? Ntɛnɑ ɩ́lɛ́ sɩ: Hɑɩ, tɑ cɑɑ, nɑ mɑ́ sǝŋnɑ ntɛɣɛ cǝnɛ, mɑ
+dop	Tǝnɑɣɑlɛ Sonɑtɑŋ cɔwɑ sɩ: Ɩsɔ ɩ́ ponɑ pooluŋ. Pɔpɔtʋ kɛ́, n kɑɑ sɩ. Mɑ cɑɑ ɩɩ lɑkɩ
+dop	Ɩlɛnɑ Sɑyuli lɔɣɔ Sonɑtɑŋ kɛ ŋmɑntɑɑɣɑ. Tǝnɑɣɑlɛ Sonɑtɑŋ cɛkǝnɑɑ sɩ ɩ cɑɑ tɛmɑ ɩ
+dop	Pǝ kpɑɣɑʋ mpɑ pɑ lɑŋɑ wɑkǝlɑɑ tɔ, nɑ kǝmɑ nyǝ́mɑ, nɑ nǝɣǝsɛɛ nyǝ́mɑ, pɑ kotinɑ ɩ kiŋ,
+dop	Sɑyuli nɩɩwɑ sɩ Tɑfiiti polɑ Keilɑ, ɩlɛnɑ ɩ́ tɔ sɩ: Ɩsɔ cɑɑ ɩ tʋ-ɩ mɑ niŋ tɑɑ kɛ́. Mpi tɔ,
+dop	ɩ kɔmɑ nɑ ɩ́ tǝkɩ ɩ tǝɣɩ ɩcɑtɛ nte tǝ wɛnɑ koluŋɑ nɑ kɑmpʋnɑɑ nɑ kʋkɑlǝsǝŋ kʋpɑŋ tɔ
+dop	Mpʋ tɔ, nyɩ ɩsǝnɑ n kɑ́ lɑ tɔ. Mpi tɔ, pɑ tɛmɑ tɑ cɑɑ nɑ ɩ nyǝm tǝnɑ pǝ tomle tɑm kɛ́.
+dop	Tǝnɑɣɑlɛ Sɑyuli kʋlɑɑ, nɑ ɩ́ kpɑɣɑ Ɩsɛɣɛlɩ yoolɑɑ tɑɑ yoolɑɑ kɛ iyisi tooso (3000) nɑ pɑ́
+dop	Kɛlɛnɑ yom cɔ sɩ: Tuunɑ Ɩsɔ hǝtɛ sɩ n kɑɑ kʋ-m. Pǝyele n kɑɑ cɛlɛ-m mɑ cɑɑ, ɩlɛnɑ pǝ́cɔ́
+dop	Ḿpʋ́ɣʋ́ ɑpɑlɑɑ tɑɑ ɑpɑlɑɑ kotɑɑ, nɑ pɑ́ tɔ ɑhoo tǝnɑ nɑ pɑ́ polo Pɛtɩ-Seyɑŋ nɑ pɑ́
+dop	Sɑyuli pǝyɑlʋ Ɩsǝpɑɑlɩ nɩɩwɑ sɩ Apǝnɛɛ sǝpɑ Hepǝlɔŋ, ɩlɛnɑ pǝ́ yɔɔlɩ-ɩ nɑ Ɩsɛɣɛlɩ
+dop	Nɑ ɩ́ ponɑ yoolɑɑ kɛ Tɑmɑsɩ Silii tɑɑ, nɑ ɩcɑtɛ nyǝ́mɑ lɑkɩ-ɩ tǝmlɛ nɑ pɑ́ fɛlǝɣɩ-ɩ
+dop	Ḿpʋ́ɣʋ́ fɛɛlɛ kpɑ-wɛɣɛ sɔsɔm. Tɑfiiti nɩɩ mpi pɑ lɑpɑ-wɛ tɔ, ɩlɛnɑ ɩ́ tili sɩ pɑ́
+dop	Ɩlɛnɑ pǝyɑɣɑ sɩ kʋyɑkʋ nɑɑtosompɔɣɔlɑɣɑ nyǝŋkʋ wule. Amɑ Tɑfiiti wɑɑlɩ nyǝ́mɑ nyɑmnɑ-ɩ
+dop	Ntɛnɑ wulɑʋ sɩ: Pepe lɑpɑ ye? Ntɛnɑ ɑlʋ sɩ: Hɑɩ, tɑ cɑɑ, mɑ pɑɑlʋ sǝpɑɣɑ nɑ pǝ́ yele-m
+dop	Pǝlɛ pǝ wɑɑlɩ kɛ́ Apǝsɑlɔm hikɑ yoou kɛɛkɛ nɑ kpɑɣɑnǝŋ nɑ tɑŋlɑɑ kɛ nɩɩlɛ nɑ nɑɑnʋwɑ
+dop	Ḿpʋ́ɣʋ́ Tɑfiiti tɑkɑ ɩ ɩsɛntɔɔ kɛ sɑɑlɑɣɑ nɑ ɩ́ wiiki nɑ ɩ́ kpɑɑkɩ Olifinɑɑ pulɑɣɑ
+dop	tɔɔ kɛ́ nɔɔhɛɛ kpɛtɛ. Nɑ ɩ wɑɑlɩ nyǝ́mɑ nɑ́ɑ́ tɑkɩ pɛlɛ pɑ ɩsɛntɔɔ nɑ pɑ́ wiiki mpʋ
+dop	Nɑ tɩɩŋ nim nɑ nɑɑnim nɑ heeŋ, nɑ wɑɑkɑsǝnɑɑ. Mpi tɔ, pɑ tɔŋɑɣɑ kɛ́ sɩ ɩkɑɑlɛ nɑ
+dop	heeli nɔnɔɣɔ tɑŋlʋ sɩ: Nɔɣɔlʋ nɑ́ kɔŋnɑ ntɛɣɛ ɩ tike tǝkoŋ tɔtɔ. Wulɑʋ sɩ: Tɔm kʋpɑntʋ
+dop	Mpʋɣʋlɛ Ɩsɛɣɛlɩ nyǝ́mɑ tǝnɑ sewɑ Tɑfiiti nɑ pɑ́ tʋ Sepɑ wɑɑlɩ. Amɑ Yutɑ nyǝ́mɑ nɑ́ tɑ́
+dop	Ɩlɛnɑ pɑ́ cɔ sɩ: Timpi Sɑyuli wɑkǝlɑ-tʋɣʋ sɔsɔm nɑ ɩ́ tʋ́ ɩ tɑɑ sɩ ɩ kpiisiɣi-tʋ
+dop	Mpʋɣʋlɛ wulɑʋ Tɑfiiti tilɑɑ nɑ pɑ́ yɑɑ-ɩ kɔtʋlʋ Sɑtɔkɩ, nɑ Ɩsɔ kʋyɔɣɔtʋtʋ tɛlǝsʋlʋ
+dop	Ntɛnɑ kɑncɑɑlɑɣɑ nyǝŋ sɩ: Pɔpɔtʋ kɛ́. Nyɑ́ pǝyɑɣɑ sǝpǝnɑ, mɑ nyǝŋkɑ ntɛ́ weesuɣu
+dop	kʋnyɑɑlǝm tɔɔnǝnɑɑ pɔɣɔlɑɣɑfɛɩ nɑɑnʋwɑ, nɑ mʋlʋm kʋkpǝsǝm kɛ tɔɔnǝnɑɑ pǝlefɛɩ hiu.
+dop	Ḿpʋ́ɣʋ́ Sɑlʋmɔŋ tǝmlɛ nyǝ́mɑ, nɑ Hilɑm tǝmlɛ nyǝ́mɑ, nɑ Pipǝlɔsɩ ɩcɑtɛ nyǝ́mɑ pɑ́
+dop	Yele nɑ tǝ́ nɩɩkǝnɑ-ŋ tɑm, nɑ tǝ́ tɔŋ nyɑ́ mpɑɑŋ tɑɑ ɩsɩɩ n cɑɑkɩ tɔ, nɑ tǝ́ tɔkɩ
+dop	Ḿpʋ́ɣʋ́ tǝmlɛ pɑɑsǝnlɑɑ kpɑ tǝmɑ lɑtɑɑ kpekɑ nyʋɣʋ nyǝ́mɑ kɛ nɑsǝlɛ nɑ nɩɩnʋwɑ nɑ
+dop	kpeŋkpelɑsɩ kʋpɑŋsɩ nɑ́ɑ́ tɔlɩ yem ɩsɩɩ tɩɩŋ kpɑɩ nyǝŋ wei ɩ nyɔɔkɩ tɛtɛkǝlɛ tɑɑ tɔ.
+dop	Pǝ wɑɑlɩ kɛ́ ɩ́ tɔmɑ Solopʋwɑm sɩ: Mʋ hɔɣɔlɑsɩ nɑɑnʋwɑ. Mpi tɔ, Ɩsɛɣɛlɩ Ɩsɔ Tɑcɑɑ
+dop	yɔɣɔtɑɑ sɩ: Mɑ tɔŋnɑ Sɑlʋmɔŋ kɑwulɑɣɑ lɛɛkʋɣʋ sɩ, mɑ cɛlǝɣɩ-ŋ nɑ ń tɔɣɔ kɑwulɑɣɑ
+dop	Mpʋɣʋlɛ wulɑʋ tɔmɑ Ɩsɔ kʋyɔɣɔtʋtʋ tɛlǝsʋlʋ sɩ: Kɔɔ nɑ tǝ́ polo tǝyɑɣɑ nɑ ń nyɔɔ lʋm,
+dop	1-2 Ɩsɛɣɛlɩ wulɑʋ Solopʋwɑm kɑwulɑɣɑ pǝnɑɣɑ pǝlefɛɩ hiu nyǝŋkɑ tɑɑ kɛ́ Apiyɑm tɔɣɔ
+dop	kɑwulɑɣɑ kɛ Yosɑlɛm, kɛ Yutɑ tɛtʋ tɑɑ kɛ́ pɩɩsɩ tooso. Pɑ yɑɑkɑɣɑ ɩ too sɩ Mɑɑkɑ. Ɩ too
+dop	Yutɑ wulɑʋ Asɑ pǝnɑɣɑ tooso nyǝŋkɑ tɑɑ kɛ́ Ahiyɑ pǝyɑlʋ Pɑsɑ tɔɣɔ Ɩsɛɣɛlɩ tǝnɑ tɔɔ
+dop	Pǝ tɑɣɑ Solopʋwɑm ɩsɑɣɑtʋ tike kɛ Akɑpɩ kɛɛnɑɑ. Ɩ polɑ Sitɔŋ nyǝ́mɑ tɛɣɛ nɑ ɩ́ kpɑɣɑ
+dop	tǝnɑ nyǝ́mɑ wulɑʋ Ɩpɑɑlɩ pɛɛlɔ Sesɑpɛɛlɩ kɛ ɑlʋ. Hɑlǝnɑ ɩ́ luŋ pɛlɛ pɑ tʋɣʋ Pɑɑlɩ
+dop	Ɩlɛnɑ wulɑʋ yɑɑ kɑwulɑɣɑ tǝyɑɣɑ nyʋɣʋ tʋ Opɑtiyɑ. Apɑlʋ ɩnɩ ɩ sɛɛkɑɣɑ Ɩsɔ kɛ́ teu
+dop	Pɛɛ ɑnǝɣɩ ɩ ŋmɑnɑ Tɑcɑɑ kɛ kɔtɑɣɑ tǝlɑtɛ. Nɑ ɩ́ hɛɛ lonte nɑ ɩ́ cɔɔnɑ-tɛ. Lonte ntɛ́
+dop	Ntɛnɑ Tɑcɑɑ sɩ: Lɩɩ nɑ ń kpɑ pʋɣʋ tɔɔ nɑ ń sǝŋ mɑ ɩsɛntɑɑ, nɑ mɑ́ tɔ́ nɑ mɑ́ tɛɛ.
+dop	Pǝlɛ pǝ wɑɑlɩ, ɑpɑlʋ nɔɣɔlʋ ɩ kɑ wɛnɑ Sisilee, nɑ pɑ́ yɑɑ-ɩ sɩ Nɑpɔtɩ. Ɩ wɛnɑ tɩɩŋ wei
+dop	Ɩlɛnɑ Sosɑfɑtɩ tili nɑ pɑ́ pɔɔsɩ-ɩ sɩ: Le tɔɔ kɛ́ tɩɩ tǝŋnɑ? Mpʋɣʋlɛ sɩ: Tǝ́ tǝŋnɑ
+dop	Ɩlɛnɑ ɑlʋ polo nɑ ɩ́ heeli Ɩsɔ kʋyɔɣɔtʋtʋ tɛlǝsʋlʋ kɛ mpi pǝ lɑpɑ tɔ. Nɑ ɩ́lɛ́ ɩ tɔ
+dop	sɩ: Polo nɑ ń pɛɛtɩ nim mpɩ nɑ ń fɛlɩ nyɑ́ kǝmɑ. Ye pǝ kɑɑsɑ-ŋ wenɑ, ɩlɛ nyɑnɑ nyɑ́ piyɑ
+dop	Ɩlɛnɑ ɩ́ pɑpɩ pǝyɑɣɑ tɔɔ, nɑ pɑ nɔɔsɩ nɑ pɑ ɩsɛ nɑ pɑ niŋ kɛ tǝmɑ tɔɔ, nɑ kɑ tɔnʋɣʋ
+dop	Tɔʋ, ɑnɩ ye tǝ tɔmɑ sɩ tǝ sʋʋkɩ ɩcɑtɛ tɑɑ, tɩɩ sɩ nyɔɣɔsɩ kɛ́, tɔɣɔnɑɣɑ fɛɩ. Tǝ́
+dop	tɩɩ cɑɣɑ cǝnɛ, pǝ tɑɑ pǝ tɑɑ ɩnǝɣɩ. Pǝ tɔɔ ɩlɛ, tǝ́ tii kolontunɑɑ tǝsikile. Ye pɑ tɩɩ
+dop	Ɩ tɛmɑ mpʋ, ɩlɛnɑ ɩ́ kpɑ ɩ kɛɛkɛ tɔɔ nɑ ɩ́ tɛɛ Sisilee. Tǝnɑɣɑ Solɑm hǝntɑɑ, nɑ Yutɑ
+dop	Wɑɑtʋ wei sɔsɑɑ mpɛ pɑ nɑwɑ Yehu lɛɛtǝlɩ, ɩlɛnɑ pɑ́ koti wulɑʋ lʋlʋɣʋ nyǝ́mɑ nɩɩtoso nɑ
+dop	35-36 Ɩ tɔɣɔ kɑwulɑɣɑ kɛ pɩɩsɩ pǝlefɛɩ hiu kɛ Sɑmɑlii kɛ Ɩsɛɣɛlɩ tɑɑ. Ɩ sǝpɑ, ɩlɛnɑ
+dop	Pɑ́ nyǝ́mɑ́ wenɑ ɑ nyʋɣʋ, ɩlɛ pɑ cɛlɑ-yɛɣɛ tǝmɑ lɑtɑɑ tɔɔ feŋlɑɑ, nɑ pɛlɛ pɑ́ fɛlɩ
+dop	Yutɑ wulɑʋ Amɑsiyɑ kɑwulɑɣɑ pɩɩsɩ nɑɑnʋwɑ nɑ kɑkpɑsɩ nyǝŋkɑ tɑɑ, Ɩsɛɣɛlɩ wulɑʋ Sowɑsɩ
+dop	Ɩlɛnɑ ɑpɑlʋ wei pɑ yɑɑ sɩ Lemɑliyɑ tɔ, ɩ pǝyɑlʋ Pekɑ wei ɩ́ pɑɑsɑɣɑnɑ Pekɑhiyɑ yoolɑɑ
+dop	tɔ, ɩ́ kpɑɣɑ Kɑlɑɑtɩ yoolɑɑ kɛ nɩɩlɛ nɑ nɑɑnʋwɑ, nɑ pɑ́ polo pɑ kʋ-ɩ kɑwulɑɣɑ tǝyɑɣɑ
+dop	Ɩlɛnɑ wulɑʋ hɛtɩ Ɩsɔ tǝsɛɛlɛ lʋm kɛɛkɛnɑɑ nyǝɣǝtʋ nɑ pɑ lʋm cɛmsɛnɑɑ. Nɑ ɩ́ tisi lʋm
+dop	nyɑmpɑɑni ɑnɑɑm wei ɩ kɑ wɛ lɑtǝcɛnɑɑ nɑɑnʋwɑ nɑ nɑɑlɛ lɛɛsǝŋ tɔɔ tɔ nɑ ɩ́ sɩɩ ɑtɛ.
+dop	Kɛnɑ Sɑmɑlii kɔtʋlʋ nɔɣɔlʋ ɩ́ mǝlɩ Petɛɛlɩ, nɑ ɩ́ sɛɣɛsɩ tǝnɑ yǝlɑɑ kɛ Tɑcɑɑ sɛɛʋ.
+dop	nɑ pɑ́ pɔɔsɩ sɩ: Tǝ cɑɑ tǝ nɑ́ wulɑʋ. Ɩlɛnɑ kɑwulɑɣɑ tǝyɑɣɑ nyʋɣʋ tʋ Hilikiyɑ pǝyɑlʋ
+dop	Awulɑɑ mpɑ pɑ kɑɑsɑ-m tɔ, wɑɑtʋ wei pɛlɛ pɑ kʋkɑɣɑ Kosɑŋ, nɑ Hɑlɑŋ, nɑ Lesɛfɩ, nɑ Ɩteni
+dop	Ḿpʋ́ɣʋ́ Mɑnɑsee lɑpɑ mpi pǝ tɑ mɑɣɑ Tɑcɑɑ tɔ, nɑ ɩ́ tusi Yutɑ nyǝ́mɑ kɛ lɑɑtʋ tɑɑ, nɑ
+dop	Ḿpʋ́ɣʋ́ kɔtʋlʋ sɔsɔ Hilikiyɑ nɑ ɩ tɑɑpɑlɑɑ, pɑ polɑɑ nɑ pɑ́ heeli tɔm ntǝɣɩ wulɑʋ
+dop	Yelɛtɩ pǝyɑlʋ kɛlɛ Henɔkɩ, Henɔkɩ pǝyɑlʋ kɛlɛ Mɑtusɑlɛm, Mɑtusɑlɛm pǝyɑlʋ kɛlɛ Lemɛkɩ.
+dop	Ɩlifɑsɩ pǝyɑlɑɑ ntɛ́ Temɑŋ nɑ Omɑɑ nɑ Sefi nɑ Kɑtɑm nɑ Kenɑsɩ nɑ Timnɑ nɑ Amɑleke.
+dop	Pelɑ nɑ́ɑ́ wɛnɑ piyɑ kɑkpɑsɩ kɛ́. Mpɛɣɛlɛ, Ɩsǝpɔŋ, nɑ Usi, nɑ Usiyɛlɩ, nɑ Yelimɔtɩ, nɑ
+dop	Ili. Pɑɑ kɛ́ kpelikpekɑ nyǝ́mɑ kɛ́. Mpɛ pɑ pǝsǝnɑ pɑ lʋlʋŋ nyɔɔŋ nyǝ́mɑ. Nɑ pɑ hǝlɑ wɛ
+dop	kʋkɑlʋɣʋ tɑkǝlɑsɩ tɑɑ kɛ́ yʋlʋnyɔɔŋ iyisi hiu nɑ nɑɑlɛ nɑ hiu nɑ nɑɑnʋwɑ nɑ liɣiti
+dop	Ahɑsɩ pǝyɑlʋ kɛlɛ Yowɑtɑ. Yowɑtɑ pǝyɑlɑɑ ntɛ́ Alemɛtɩ, nɑ Asǝmɑfɛtɩ, nɑ Simili. Simili
+dop	Ḿpʋ́ɣʋ́ Yɑpɛɛsɩ nyǝ́mɑ kɛ Kɑlɑɑtɩ tɛtʋ tɑɑ nɩɩwɑ pǝ tǝnɑ mpi Filiisi nyǝ́mɑ lɑpɑ
+dop	Ɩlɛnɑ pǝ́ kɑɑsɩ yoolɑɑ lɛlɑɑ, ɩsɩɩ Sowɑpɩ neu Asɑyɛɛlɩ nɑ Pɛtǝlɛhɛm tʋ Toto pǝyɑlʋ
+dop	10-14 Pɑɑ wɛ yǝlɑɑ nɑɑnʋwɑ nɑ nɑɑlɛɣɛ. Hɑlɩ pɑ hǝlɑ ntɛ́ Ɩsɛɛ, nɑ Opɑtiyɑ, nɑ Ɩliyɑpɩ
+dop	nɑ Misemɑnɑ, nɑ Ɩlǝmeyɑ, nɑ Atɑyi, nɑ Ɩliyɛlɩ, nɑ Yohɑnɑŋ, nɑ Ɩlǝsɑpɑtɩ, nɑ Ɩlǝmeyɑ, nɑ
+dop	Yoolɑɑ mpɛ pɑ tǝnɑ pɑ polǝnɑ Hepǝlɔŋ nɑ luɣu kʋlʋmʋɣʋ, nɑ pɑ́ kpɑ Tɑfiiti kɛ Ɩsɛɣɛlɩ
+dop	Ntɛnɑ Tɑfiiti tɑsɑ Tɑcɑɑ kɛ yɔɣɔtǝnɑʋ, nɑ Ɩsɔ cɔ-ɩ sɩ: Tɑɑ polo pɑ tɔɔ nɑ pɑ wɑɑlɩ
+dop	Ye pǝ tɑlɑ nyɑ́ kʋyɑkʋ nɑ ń sǝpɑ, ɩlɛ mɑɑ lǝsɩ nyɑ́ piyɑ mpɑ n lʋlǝnɑ nyɑ́ tɑpʋɣʋ tɔ
+dop	Seluyɑ pǝyɑlʋ Sowɑpɩ kɛlɛ yoolɑɑ nyʋɣʋ tʋ. Ahiluti pǝyɑlʋ Yosɑfɑtɩ kɛlɛ tɑkǝlɑsɩ sɩɩlʋ.
+dop	Pǝ tɔɔ kɛ́ Tɑfiiti tɔŋɑɣɑ sɩ: Cǝnɛɣɛ pɑɑ ŋmɑ́ Tɑcɑɑ tǝsɛɛlɛ nɑ kɔtɑɣɑ tǝlɑtɛ nte
+dop	Amǝlɑm piyɑ ntɛ́ Alɔŋ nɑ Moisi. Ḿpʋ́ɣʋ́ pɑ lǝsɑ Alɔŋ nɑ ɩ lʋlʋɣʋ nyǝ́mɑ kɛ tɑm tɔɔ sɩ
+dop	pɑ tike pɑ́ pɑɑsǝnɑ kɑtɛ tɑɑ kɑtɛ tǝcɑɣɑlɛ nɑ pɑ́ lɑkɩ Tɑcɑɑ kɛ tulɑɑlʋnɑɑ kɔtɑsɩ
+dop	Selomitɩ nɑ ɩ newɑɑ pɑ pɑɑsɑɣɑnɑ wontunɑɑ mpɑ pɑ hɑwɑ Ɩsɔ tɔ. Pɑɑ wulɑʋ Tɑfiiti nɑ ɩ
+dop	lʋlʋŋ nyɔɔŋ nyǝ́mɑ nɑ yoolɑɑ iyɑɣɑ (1000) nyʋɣʋ nyǝ́mɑ nɑ nɩɩnʋwɑ (100) nyʋɣʋ nyǝ́mɑ
+dop	Tɑfiiti cɑɑ neu Yonɑtɑŋ kɑ kɛ́ yʋlʋ lɑɣɑtʋ kɛ́ nɑ ɩ́ wɛnɑ nyǝm. Ɩnɩ ɩ kɑ kɛnɑ wulɑʋ
+dop	Ḿpʋ́ɣʋ́ Tɑcɑɑ lɩɩ ɩ tɔɔ kɛ́ ɑhoo ɑnɩ nɑ ɩ́ tɔmɩ-ɩ sɩ: Sǝlǝmɩ-m mpi n cɑɑ sɩ mɑ hɑ-ŋ
+dop	Ɩlɛnɑ pɑ́ lɑ́ kpɑɑŋ nɑ ɩsɛntɑɑ tɔɔ. Kʋ wɑŋ wɛ mɛɛtǝlǝnɑɑ nɑɑnʋwɑ kɛ́ teitei, ɩsɩɩ
+dop	Ɩsɔ tǝsɛɛlɛ, nɑ kʋ kʋŋkʋlʋmǝŋ kɛ mɛɛtǝlǝnɑɑ nɩɩtoso. Nɑ pɑ́ wɑɑsɩ kʋ tɑɑ kɛ́ wʋlɑ
+dop	Ye ɩsɩɩ kpɑɩ tʋ wei ɩ tɑ kɛ Ɩsɛɣɛlɩ tʋ tɔ ɩ nɩɩ nyɑ́ hǝtɛ sɔsɔɔlɛ nɑ nyɑ́ toŋ wei n
+dop	Pǝ kpɑɣɑʋ pǝnɛntɛ tɔ, mɑɑ kuli ɩsɛ nɑ mɑ́ ke ŋkpɑŋʋɣʋ nɑ mɑ́ nɩɩkɩ sǝlǝmǝŋ wei ɩ
+dop	Nyɑ́ wɑɑlɩ nyǝ́mɑ nɑ nyɑ́ tǝyɑɣɑ tɑɑ yǝlɑɑ tǝnɑ nɩɩwɑ leleŋ kɛ́. Mpi tɔ, pɑ wɛ nyɑ́
+dop	Ḿpʋ́ɣʋ́ Lʋpʋwɑm ŋmɑ́ koloosi kʋpɑŋsɩ nɑ ɩ́ cɔɔnɑ-yɛ. Nɑ ɩ́ sɩɩ nyʋɣʋ nyǝ́mɑ kɛ ɑ
+dop	Ḿpʋ́ɣʋ́ Apiyɑ kpɑɣɑ ɩ yoolɑɑ tɑɑ yoolɑɑ kɛ iyisi nɑsǝlɛ (400000) sɩ ɩ yookinɑ Selopʋwɑm. Nɑ
+dop	Wɑɑtʋ ɩnɩ ɩ tɑɑ kɛ́ Ɩsɔ kʋyɔɣɔtʋtʋ tɛlǝsʋlʋ Hɑnɑni polɑ Yutɑ wulɑʋ Asɑ kiŋ, nɑ ɩ́
+dop	kɑlǝnɑ-ɩ sɩ: N kisɑ Tɑcɑɑ kɛ pɛɛkʋɣʋ, nɑ ń sɔɔlɩ sɩ Silii wulɑʋ ɩ́ tʋ-ŋ niŋ tɔ. N lǝsɑ
+dop	Mpʋɣʋlɛ Ɩsɛɣɛlɩ wulɑʋ kotɑ ɩ Ɩsɔ kʋyɔɣɔtʋtʋ tɛlǝsǝlɑɑ. Pɑ wɛ yʋlʋnyɔɔŋ nɑsǝlɛ (400)
+dop	kɛ mpʋ. Nɑ ɩ́ pɔɔsɩ-wɛ sɩ: Pǝ wɛɛ sɩ tǝ́ polo tǝ́ lɛɛkɩ Lɑmɔtɩ ɩcɑtɛ kɛ Kɑlɑɑtɩ yɑɑ
+dop	Pǝyele Silii wulɑʋ kɑ heelɑ ɩ yoou kɛɛkɛnɑɑ nyʋɣʋ nyǝ́mɑ sɩ pɑ́ tɑɑ pɑɑsǝnɑ yoolɑɑ
+dop	Cele ɩ́ kɑ́ polo mǝ kolontunɑɑ tɔɔ. Pɑ tɔŋnɑ ntɛɣɛ kpɑʋ nɑ yɑɑyenɑɑ mpɑɑʋ. Ɩ́ kɑ́
+dop	Ḿpʋ́ɣʋ́ Solɑm kpɑɣɑ ɩ yoolɑɑ sɔsɑɑ, nɑ ɩ yoou kɛɛkɛnɑɑ tǝnɑ nɑ pɑ́ tii Ɩtɔm nyǝ́mɑ
+dop	Kɔtǝlɑɑ nɑ Lefii nyǝ́mɑ pɑ tike pɑ wɛnnɑ mpɑɑʋ sɩ pɑ́ sʋʋ Ɩsɔ tǝsɛɛlɛ tɑɑ. Mpi tɔ,
+dop	Wɑɑtʋ wei tǝmɑ tɛmɑ, ɩlɛnɑ ɑ nyʋɣʋ nyǝ́mɑ kɔnɑ liɣitee kʋkɑɑsɛɛ, nɑ pɑ́ cɛlɑ wulɑʋ nɑ
+dop	Yoyɑtɑ. Nɑ pɑ́ lu wontu nti pɑ lɑkǝnɑ Ɩsɔ tǝsɛɛlɛ tɑɑ tɔ. Ɩsɩɩ Ɩsɔ sɛɛʋ wontu, nɑ kɔtʋɣʋ
+dop	nyǝntʋ, nɑ wʋlɑ nɑ liɣitee nyǝɣǝtʋ kɔpʋnɑɑ. Pɑ lɑkɑɣɑ kɔtɑsɩ nsi kɔkɔ lusɑ sɩ tǝnɑ tɔɣɔ
+dop	Ḿpʋ́ɣʋ́ Amɑsiyɑ cɑɑ ɩ lɑɣɑtʋ tɑsǝlɑɑ. Ɩlɛnɑ ɩ́ tili nɑ pɑ́ heeli Yehu pǝyɑlʋ Sowɑkɑsɩ
+dop	Wɑɑtʋ ɩnɩ tɔ, nɑ Osiyɑsɩ tɔkɑ tulɑɑlʋ cofolo kɛ ɩ niŋ tɑɑ sɩ ɩ wɔkɩ. Tǝnɑɣɑlɛ ɩ mʋ
+dop	kɔtǝlɑɑ nɑ pɑ́ɑ́nɑ́. Ḿpʋ́ɣʋ́ kʋtɔŋ ŋku kʋ pilisiɣi yʋlʋ tɔ kʋ lɩɩ ɩ tokuɣu tɑɑ kɛ́
+dop	kpɑkpɑɑ kɛ Ɩsɔ tǝsɛɛlɛ tɑɑ. Nɑ kɔtǝlɑɑ sǝŋɑ kɔtɑɣɑ tǝlɑtɛ kite tǝnɑ nɑ pɑ́ nyǝnǝɣɩ.
+dop	Ayɑlɔŋ, nɑ Ketelɔtɩ, nɑ Soko, nɑ Timnɑ nɑ Kimso nɑ pǝ cɔlɔ ɑcɑlɛɛ, nɑ pɑ́ cɑɣɑ ɑ tɑɑ.
+dop	Hɑɩ, tɑ́ cɔsɔnɑɑ Ɩsɔ Tɑcɑɑ, wii mpɑ pɑ kɑɑsǝɣɩ pɑ tɩ nɑ lotu kʋlʋmtʋ sɩ pɑ́ nyɩ nyɑ́
+dop	Ɩ kɑwulɑɣɑ pǝnɑɣɑ pǝlefɛɩ nɑɑnʋwɑ nyǝŋkɑ tɑɑ tɔ, nɑ ɩ́ tɔŋɑ ɩfepu kɛ́. Wɑɑtʋ ɩnɩ ɩ
+dop	tɑɑ kɛ́ ɩ cɑɑlɑ ɩ lɔŋcɛ Tɑfiiti Ɩsɔ luɣu nyǝntʋ kɛ pɛɛkʋɣʋ. Pɩɩsɩ liɣiti tɛɛwɑ, ɩlɛnɑ
+dop	ɩ́ sʋʋ cefelinɑɑ tǝkɔtǝlɛnɑɑ nɑ pǝ tɩɩŋ nɑ pǝ tesikɑsɩ kɛ kpiisuɣu kɛ Yosɑlɛm nɑ Yutɑ pǝ
+dop	Sowɑkim lʋlʋɣʋ pɩɩsɩ hiu nɑ kɑkpɑsɩ nyǝŋkɑ tɑɑ kɛ́ ɩ pǝsɑ wulɑʋ kɛ Yosɑlɛm tɑɑ kɛ́
+dop	Mpɑ pɑ kpɑɣɑ-wɛ nɑ pɑ́ mǝlǝnɑ tɔɣɔlɛ Solopɑpɛɛlɩ, nɑ Yesuwɑ, nɑ Nehemiyɑ, nɑ Selɑyɑ, nɑ
+dop	Lelɑyɑ, nɑ Motokɑyi, nɑ Pilisɑŋ, nɑ Misipɑɑ, nɑ Pikifɑyi, nɑ Lehum, nɑ Pɑɑnɑ. Ɩsɛɣɛlɩ lʋlʋŋ
+dop	Ɩsɛɣɛlɩ nyǝ́mɑ mpɑ pɑ lɩɩnɑ Pɑpiloni tɔ pɑ kpɛntɑ iyisi nɩɩlɛ nɑ nɑɑlɛ nɑ ŋmʋnʋɣʋ
+dop	Tɑ heeliɣinɑ-ŋ sɩ Yutɑ nyǝ́mɑ mpɑ pɑ lɩɩ nyɑ́ tɛ tɔ pɑ tɑlɑ Yosɑlɛm cǝnɛ nɑ pɑ tɑɑ wɛɛ
+dop	Ḿpʋ́ɣʋ́ wulɑʋ sɔsɔ Tɑliyusi tʋ yǝlɑɑ sɩ pɑ́ pɛɛkɩ Pɑpiloni ɩcɑtɛ tɑɑ kɛ́ timpi pɑ
+dop	Ḿpʋ́ɣʋ́ tɑ́ Ɩsɔ kentɑ tɑ́ tɔɔ nɑ pɑ́ pǝsɩ nɑ pɑ́ kɔnɑ Mɑlii nɑ Lefii pɑ lʋlʋɣʋ tʋ
+dop	nɑ mpʋ n tɑ kɛɛsǝnɑ tɑ́ ɩsɑɣɑtʋ nɑ ń fɛlɩ-tʋ. Hɑlɩ tɑɣɑ n kɑɑsɑɑ nɑ n mǝlǝnɑ-tʋɣʋ
+dop	nɑ Pɑni lʋlʋɣʋ nyǝ́mɑ, Mesulɑm, nɑ Mɑlukɩ, nɑ Atɑyɑ, nɑ Yɑsupi, nɑ Seyɑlɩ, nɑ Yelemɔtɩ,
+dop	Pɑ kɔŋkɔŋ tɑɑ kɛ́ Huuu pǝyɑlʋ Lefɑyɑ wei ɩ kɛ́ Yosɑlɛm hɔɣɔlʋɣʋ lɛŋkʋ nyʋɣʋ tʋ tɔ ɩ
+dop	Nɑ pɑ́ lɑ́ nɔɣɔ kʋlʋmɑɣɑ kɛ pɑ tǝnɑ sɩ pɑ kɔŋ Yosɑlɛm tɑɑ, nɑ pɑ́ lɑ́ nɑ pǝ́ cʋkɩ.
+dop	Ɩsɛɣɛlɩ nyǝ́mɑ tǝnɑ mpɑ pɑ lɩɩnɑ Pɑpiloni tɔ pɑ kpɛntɑ iyisi nɩɩlɛ nɑ nɑɑlɛ nɑ ŋmʋnʋɣʋ
+dop	Nɑ pǝ́ sɔɔsǝnɑ yoolɑɑ tɑɑ yoolɑɑ nɩɩnʋwɑ nɑ pǝlefɛɩ hiu nɑ nɑɑnʋwɑ (128), mpɑ pɑ kɛ́ ɩ
+dop	Nɑ kɔtǝlɑɑ Ɩliyɑkim, nɑ Mɑɑseyɑ, nɑ Miniyɑmɛŋ, nɑ Mikɑyɑ, nɑ Ɩliyohenɑyi, nɑ Sɑkɑlɩ, nɑ
+dop	Wɑɑtʋ ɩnɩ ɩ tɑɑ tɔtɔɣɔ mɑ nɑwɑ sɩ, Yutɑ nyǝ́mɑ kpɑɣɑ Asǝtɔtɩ nɑ Amoni nɑ Mowɑpʋ nyǝ́mɑ
+dop	Ḿpʋ́ɣʋ́ ɩ tilinɑ ɩ kɑwulɑɣɑ tɛtʋ tǝnɑ tɑɑ sɩ, pɑɑ ɑpɑlʋ wei ɩ kɛ sɔsɔ kɛ ɩ tǝyɑɣɑ
+dop	Ḿpʋ́ɣʋ́ Aselusi kɑwulɑɣɑ pǝnɑɣɑ nɑɑnʋwɑ nɑ nɑɑlɛ nyǝŋkɑ ɩsɔtʋ kɑncɑɑlɑɣɑ nyǝŋ wei
+dop	pɑ yɑɑ sɩ Nisɑŋ tɔ ɩ tɑɑ Hɑmɑŋ mɑɣɑsɑ pǝle nte pɑ yɑɑ sɩ pulim tɔ, sɩ ɩ nyǝŋ kʋyɑkʋ ŋku
+dop	ɩ kɑ́ kpiisi Yutɑ nyǝ́mɑ ɩsɩɩ ɩ mɑɣɑsʋɣʋ ɩ tɑɑ tɔ. Ɩlɛnɑ pǝ́ tɔɣɔ pɑ ɩsɔtʋ nɑɑnʋwɑ
+dop	7-8 Mpʋɣʋlɛ Ɩsǝtɛɛ sɩ: Hɑɩ, mɑ cɛ, nti mɑ nyɩɩlǝɣɩ teu tɔɣɔlɛ sɩ cele nyɑnɑ Hɑmɑŋ ɩ́
+dop	Hɑmɑŋ cɛkǝnɑɑ sɩ ɩ tɔm tɛmɑ, ɩlɛnɑ ɩ́ sɑɑlɩ Ɩsǝtɛɛ kiŋ nɑ ɩ́ wiikinɑ-ɩ sɩ: Wɑɑsɩ-m.
+dop	Ɩlɛnɑ Ɩsǝtɛɛ sɩ: Hɑɩ, mɑ cɛ, mɑ cɑɑ kɛ́ sɩ ń hɑ Yutɑ nyǝ́mɑ kɛ kʋyɑkʋ kɛ cele ɩsɩɩ
+dop	Kɛlɛnɑ Tɑcɑɑ sɩ: Ɩsǝntɔ n tɑ lɑŋ mɑ tǝmlɛ tʋ Soopu kɛ nɑʋ. Ɩ fɛɩnɑ sɑɑlɑ kɛ́ ɑtɛ. Ɩ
+dop	Soopu kɑ wɛnɑ tɑɑpɑlɑɑ tooso kɛ́. Mpɛɣɛlɛ Temɑŋ tʋ Ɩlifɑsɩ, nɑ Suhɑ tʋ Pilitɑtɩ, nɑ Nɑɑmɑ
+dop	tʋ Sofɑɑ. Pɑ nɩɩwɑ Soopu wʋsɑsɩ tɔm, ɩlɛnɑ pɑ́ polo sɩ pɑ wiiliɣɩ-ɩ nɑ pɑ́ cɑɣɑ ɩ kiŋ nɑ
+dop	Siɣisilu kʋyɔɣɔtʋtʋ wɛ teu kɛ́ ɩsɩɩ liɣitee nyəɣəlʋɣʋ. Ɩsɑɣɑʋ lotu tɑɑ hʋwɛɛ tɑ kɛ
+dop	Yʋlʋpɑŋ yekinɑ ɩ lʋlʋɣʋ nyə́mɑ kɛ ɩ kpɑncoou kɛ́. Ɩlɛnɑ siɣisilɑɑ nɑ́ɑ́ tɔɣɔ ɩsɑɣɑʋ
+dop	Nyʋɣʋ tɑɑ mɑɣɑsəm tʋ təŋəɣɩ weesuɣu mpɑɑʋ ŋku kʋ pukinɑ ɩsɔtɑɑ tɔɣɔ. Ɩlɛnɑ ɩ́ fiti
+dop	Wulɑʋ wɛ Tɑcɑɑ niŋ tɑɑ kɛ́ nɑ Tɑcɑɑ lɑkənɑ-ɩ ɩsənɑ ɩ sɔɔlɑɑ tɔ. Ɩsɩɩ lʋm kpeŋuɣu
+dop	Pə kəlɑ teu sɩ nyɑ́ hətɛ ɩ́ yɑɑ, nɑ mpi n kɑ́ wɛɛnɑ wɛnɑʋ sɔsɔɔm tɔ, pɛɛlɛɛ kəlɑ wʋlɑ
+dop	Ḿpʋ́ɣʋ́ kʋyɑkʋ nɑkʋlɩ, mɑ təŋnɑ felentú wei ɩ fɛɩnɑ ləmɑɣɑsɛɛ tɔ, ɩ tɩɩŋ tɑɑlɛ kiŋ.
+dop	Pə kəlɑ teu sɩ yʋlʋ ɩ́ wɛɛ kʋnyɔntʋ nɑ ɩ tɔntɛ tewɑ, nɑ mpi ɩ kɑ́ wɛɛnɑ liɣitee nɑ ɩ
+dop	Ye lɑɣɑtʋ nɑ kʋmɛlɛŋ pɑ lɑkɩ tɔm, pɑɑ lɑɣɑtʋ mʋ pɑ́ɑ́nɑ́ yɑɑ ɩ woŋɑɑ hɛɛsʋɣʋ kɑɑ
+dop	Hɑlənɑ mɑ nyʋɣʋ kʋlɩ nɑ pə́ kəlɩ mpɑ pɑ lɑɑlɑ-m Yosɑlɛm kɛ wɛɛʋ tɔ. Pɑɑ nɑ mpʋ, mɑ
+dop	Ɩlɛnɑ mɑ́ cɛkənɑ sɩ pə tənɑ mpi Ɩsɔ lɑkɩ tɔ pə wɛ tɑm tɔɔ kɛ́. Pʋlʋ tɑ sɔɔsɩ pə́cɔ́
+dop	Toosee kɑtɑtəlɑɣɑ kɛ́ tɔm kpɑɩ nyəntʋ kɛ yem kɛ́. Pə tɔɔ kɛ́ pə wɛɛ sɩ ń nyɑnɑ Ɩsɔ.
+dop	Pə tɑɣɑ pʋlʋ, ləmɑɣɑsɛɛ fɛɩ tʋ woŋɑ wɛ kɛ́ ɩsɩɩ sɔwɑ yɑɑkʋɣʋ kɔkɔ tɑɑ kɛ tiipile
+dop	Yʋlʋ nɔɣɔlʋ ɩ tɑ tɩ ɩ weesuɣu sɩ ɩ kɑ́ səŋsɩ-kʋ. Pəyele nɔɣɔlʋ tɑ kɛ səm kʋyɑkʋ tʋ. Pə
+dop	Ye nyɑ́ sɔsɔ mʋ-ŋ nɑ pɑ́ɑ́nɑ́, tɑɑ kisi nyɑ́ təmlɛ. Mpi tɔ, təpɑmm lɑkɑsɩ cɔləɣənɑ yʋlʋ
+dop	Nɑ ń wɩɩ təkpɑlɛnɑɑ, nɑ mpɑɑʋ wɛ-ŋ sɔɣɔntʋ, nɑ nyɑ́ nyʋɣʋ hʋlʋmɩ ɩsɩɩ tʋɣʋ ŋku kʋ
+dop	hɛtʋ hʋlʋmɑɑ tɔ. Nɑ nyɑ́ nɔɔhɛɛ məlɩ-ŋ yuŋ ɩsɩɩ səɣəlɑ, nɑ tuusi pee kʋnyɩɩlʋɣʋ sɩ
+dop	nyɑ́ nɔɣɔ tɑɑ. Kʋyɑkʋ nɑkʋlɩ ɩlɛnɑ pɑ́ ponɑ-ŋ nyɑ́ kɑntəkɑɣɑ təyɑɣɑ tɑɑ nɑ wiilɑɑ
+dop	Kʋyɑkʋ nɑkʋlɩ, Pǝ tǝnɑ pǝ tʋ Tɑcɑɑ kɑ́ nyɑɑsɩ Icipiti nyǝ́mɑ mɛ nɑ niŋ tʋɣʋ. Sɔɣɔntʋ
+dop	Asilii wulɑʋ yɔɣɔtɑɑ sɩ: Ɩ́ tɑɑ yele nɑ Ɩsekiyɑsɩ tʋsɩ-mɛ. Mpi tɔ, ɩ kɑɑ pǝsɩ nɑ ɩ́
+dop	Mɑɑ yele nɑ nyɑ́ nyʋɣʋ tɑɑ wʋlɩ ɩsɩɩ liɣitee pǝlɛ tiŋ toŋ nyǝŋ nyǝntɛ. Hɑlǝnɑ tǝ kǝlɩ
+dop	kʋkpɑmʋɣʋ kɛ toŋ. Pɑɑ pɑ kɛ́ tɔɔ kʋllɑɑ piitim tɔ, sɔɣɔntʋ ɩ́ tɑɑ kpɑ-ŋ, pǝ́cɔ́ tɑɑ
+dop	ɑsilimɑ nyǝŋkɑ. Piitimnɑɑ mpɑ pɑ tɑɑ mɑɑ yele nɑ pɑ́ polo tɔ tǝnɑɣɑ pɑɑ tɔɣɔ-kɛ.
+dop	Wɑɑtʋ ɩnǝɣɩ pɑɑ nyɩ sɩ mɑ kɛ́ Tɑcɑɑ. Ɩlɛ pǝ tɑɣɑ yem tɔɔ kɛ́ mɑ yelɑɑ, nɑ wɑhɑlɑnɑɑ
+dop	Ḿpʋ́ɣʋ́ Tɑcɑɑ teeli kʋlɑ ɩsɔtɑɑ tɑŋlɑɑ mpɛ pɑ tɔɔ nɑ ɩ́ polo Ɩsɔ tǝsɛɛlɛ nɔnɔɣɔ,
+dop	Wɑɑtʋ wei mɑ tɔŋɑ Ɩsɔ kʋyɔɣɔtʋtʋ tɛlǝsʋɣʋ kɛ mpʋ tɔɣɔ Penɑyɑ pǝyɑlʋ Pelɑtiyɑ sǝpɑ.
+dop	Ḿpʋ́ɣʋ́ mɑ hotɑ mɑ ɩsɛntɔɔ nɑ mɑ́ mɑ́ kɑpukɑ sɩ: Hɑɩ, Tɑcɑɑ, Ɩsɔ. N kɑ kʋ Ɩsɛɣɛlɩ
+dop	pɑɑ tɔɣɔ pɑ tɔɣɔnɑɣɑ nɑ sɔɣɔntʋ nɑ pɑ́ nyɔɔ pɑ lʋm nɑ seluɣu. Mpi tɔ, pɑɑ kpiisi pɑ
+dop	Mpi tɔ, ɩ́ wɑkǝlǝɣɩ siɣisilɑɑ lɑŋɑ nɑ mǝ kɑloolɑsɩ, pǝ́cɔ́ pǝ tɑɣɑ mɑ. Pǝyele ɩ́
+dop	Mɑɑ kuli ɩsǝlɛ nɑ mɑ́ nyǝnɩ-mɛ. Ɩ́ hʋʋ sɩ ɩ́ fitɑ kɔkɔ kɛ́. Ɩlɛ ŋkɛ kɑɑ nyɑɣɑnɑ-mɛ.
+dop	Mɑ tǝnnɑ yǝlɑɑ tǝnɑ weesiŋ. Pɑɑ cɛcɛnɑɑ nyǝŋ, pɑɑ piyɑ nyǝŋ. Wei ɩ lɑpɑ ɩsɑɣɑtʋ tɔ,
+dop	hɔŋ-mɛ tɔ. Pǝ́cɔ́ ɩ́ tɑ lɔ Icipiti tɩɩŋ. Ɩlɛnɑ mɑɑ hiki hʋwɛɛ sɩ, mɑɑ lɑnɑ-mɛ nɑ
+dop	pǝlɛ pǝ wɑɑlɩ kɛ́ ɩ́ kɑ́ nɩɩnɑ-m. Ɩ́ kɑɑ tɑsɑ mɑ hǝtɛ wɑkʋlʋɣʋ nɑ mǝ kʋcɔɔŋ nɑ mǝ
+dop	Ḿpʋ́ɣʋ́ pɑɑ lɑ-mɛ. Mpi tɔ, ɩ́ lɑpɑ wɑsɑŋkɑlǝtʋ nɑ piitimnɑɑ. Ɩ pilisɑ mǝ tɩ nɑ pɑ
+dop	Nmɛsɩ nyɑ́ lɑŋwɑkǝllɛ, tɑɑ cɑɣɑ lǝyɑɣɑ. Amɑ te nyɑ́ nyʋɣʋ sɑɑlɑɣɑ, nɑ ń lɛɛ nyɑ́
+dop	Pɑɑ yɔkɩ Tiii ɩcɑtɛ koloosi, nɑ pɑ́ hu mǝ ɑtɛ nɑ ɩsɔ kutuluŋ. Ɩlɛnɑ mɑ́ pɑɑlɩ ɩcɑtɛ tɛtʋ
+dop	Ɩtɔm nyǝ́mɑ yɑkɑɣɑ mǝ wontu pɑɣɑlɛ kɛ́, nɑ pɑ́ fɛlǝɣɩ-mɛɣɛ liɣitee pɛɛ tiŋ ɑtɔntɔɔtɛ
+dop	nɑ kʋsɛɛmlɛ, nɑ pɔɔŋ wei pɑ lii ɑkpɑɑyɑlɑ tɔ. Nɑ wei pɑ sɔpɑ tɔ, nɑ kpoŋkpontu toŋ nyǝntʋ
+dop	Yʋlʋ nyɑ́, mɑ pɛlɑ Icipiti wulɑʋ ŋkpɑlǝŋɑ. Nɔɣɔlʋ tɑ tʋ-ɩ kɔɔlɛ, yɑɑ ɩ́ hɔkɔ-ɩ sɩ,
+dop	Pɑɑ hɑɑ nɔɔsɩ nɑ mpi pɩɩ mɑɣɑnɑ-ŋ tɔ pǝ tɔm. Pɑ ɑwulɑɑ sɔsɑɑ kɑ́ sele. Wɑɑtʋ wei pɑɑ
+dop	nɑ́ mɑ kʋsɑ mɑ lɑɣɑtɛ kɛ pɑ nyɔɔŋ tɑɑ tɔ. Kʋyɑŋku n kɑ́ hoti tɔ, pɑɑ wei ɩ kɑ́ seliɣi
+dop	Mɑɑ kpiisi Seyii pʋɣʋ nyɑ́. N kɑ́ pǝsɩ wʋlɑɣɑ tɛtʋ nti tǝ tɑɑ nɔɣɔlʋ fɛɩ tɔ. Mɑɑ kʋ
+dop	kɑwulɑɣɑ kɑnɛ kɑ tɑɑ tɔ. Kpɑɣɑ tǝhɔɣɔlɑɣɑ lɛŋkɑ. Nmɑɑ kɛlɛ kɑ tɔɔ sɩ: Ɩfǝlɑyim nɑ
+dop	Mɑ pɑ́ɑ́nɑ́ sɔsɔɔnɑ kɛ mɑ́ tuukinɑ. Tɛtʋ kɑ́ sele kɑtɑtǝlɑɣɑ kɛ kʋyɑkʋ ŋkʋ kʋ tɑɑ.
+dop	Mɑɑ lǝsɩ-mɛɣɛ piitimnɑɑ tɑɑ. Mɑɑ cɔɔ mǝ kolontunɑɑ ɑcɑlɛɛ, nɑ mɑ́ kpeɣeli-mɛ. Wɑɑtʋ
+dop	Ɩsɔ tǝyɑɣɑ hɔɣɔlʋɣʋ ŋku kʋ kɛɛsǝnɑ ilim tǝlɩɩlɛ tɔɔ tɔ, nɑ kɔŋkɔmǝŋ tɔɔ pɑtǝmɑnɑɑ
+dop	hɔɣɔlʋɣʋ. Tǝ wɑŋ kɛ kilomɛɛtǝlǝnɑɑ kɑkpɑsɩ. Tǝnɑɣɑ ɩ́ kɑ́ ŋmɑ́ Ɩsɔ tǝyɑɣɑ. Lonte
+dop	Wɑɑtʋ wei Ɩsɛɣɛlɩ yǝlɑɑ kɑ́ sʋʋ Ɩsɔ sɛɛʋ kɛ ɑcimɑ kʋyɛɛŋ tɑɑ tɔ. Mpɑ pɑɑ sʋʋnɑ ilim
+dop	ntɔɣɔŋ tɔɔ nɔnɔɣɔ nɑ pɑ́ sɛɛ-ɩ tɔ, ilim mpǝtǝŋ tɔɔ nyǝŋkɑ kɛ pɑɑ lɩɩnɑ. Mpɑ pɛlɛ
+dop	pɑ́ sʋʋnɑ pǝ mpǝtǝŋ tɔɔ nyǝŋkɑ, ɩlɛ pɑ lɩɩnɑ pǝ ntɔɣɔŋ tɔɔ nyǝŋkɑ. Yʋlʋ kɑɑ lɩɩnɑ
+dop	Pǝ wɑɑlɩ ɩlɛnɑ kɑ́ lɩɩ Pelotɑ nɑ Sipǝlɑyim pǝ ɑcɑlɛɛ. Anɩ ɑ wɛnnɑ Tɑmɑsɩ nɑ Hɑmɑtɩ
+dop	Pɛncɑmɛɛ nyǝntʋ tǝŋɑ ilim kɛ ɩtɑɣɑlɑʋ tɔɔ kɛ́. Tǝ kɔŋkɔŋ tɑɑ kɛ́ Simiyɔŋ tɛtʋ wɛɛ.
+dop	Pɑɑ tɔm kɑtɛ nyǝntʋ ntiɣi ɩ ponɑ-wɛ pɑ nyǝŋ-tǝɣɩ. Ɩlɛnɑ ɩ́ nɑ́ sɩ Tɑniyɛɛlɩ pɑ kǝlɑ
+dop	Pǝlɛ pǝ wɑɑlɩ kɛ́ Tɑniyɛɛlɩ polɑ Aliyɔkɩ kiŋ. Ɩnǝɣɩ wulɑʋ kɑ tʋwɑ sɩ ɩ́ kʋ Pɑpiloni
+dop	nyǝntɑɑ. Ɩ polɑ ɩ kiŋ nɑ ɩ́ tɔmɩ-ɩ sɩ: Yele nyǝntɑɑ mpɛ. Amɑ ponɑ-m wulɑʋ kiŋ nɑ mɑ́ heeli-ɩ
+dop	Kɛlɛnɑ tʋwɑɑ nɑ ɩsɔtʋlʋŋɑsɩ tɔm nyǝntɑɑ nɑ pee nɑlɑɑ nɑ topotopo nyǝ́mɑ pɑ kɔɔ nɑ mɑ́
+dop	Nɑ pǝ́ lɑ nɑ piitimnɑɑ nɑ nsǝmɑ tǝnɑ yǝlɑɑ nyɑŋnɑ-ɩ nɑ pɑ́ seliɣi. Ye ɩ nɔkǝnɑ wei ɩ kʋ
+dop	ɩ́lɛ́, nɑ ɩ́ sɔɔlɑ wei ɩ yele ɩ́lɛ́. Ɩ kʋsɑɣɑ mpɑ ɩ cɑɑ tɔ pɑ nyɔɔŋ, nɑ ɩ́ tisiɣi mpɑ
+dop	Ɩ kpǝtǝnɑ-kʋ, ɩlɛnɑ ɩ́ yɑɑ Tɑniyɛɛlɩ nɑ lɑŋwɑkǝllɛ nɑ ɩ́ pɔɔsɩ sɩ: O oo Tɑniyɛɛlɩ.
+dop	Ɩsɔ Weesuɣu tʋ wei ɩ tǝmlɛ n lɑkǝnɑ ɩsǝlɛ kʋsɛɛmlɛ tɔ. Ɩ pǝsɑɑ nɑ ɩ́ wɑɑsɩ-ŋ tɔɣɔlɑsɩ
+dop	Pǝ wɛɛ sɩ ń nyɩ nɑ ń cɛkǝnɑ sɩ, pǝ kpɑɣɑʋ wɑɑtʋ wei pɑ kpɑɑlɑɑ sɩ, pɑɑ tɑɣɑnɩ Yosɑlɛm
+dop	kɛ ŋmɑʋ tɔ, nɑ pǝ́ polo nyʋɣʋ tʋ wei pɑ pǝlɑ nim nɑ pɑ́ kpɑ tɔ ɩ kɔntɛ tɔ. Pǝ wɛ pɩɩsɩ
+dop	nɑɑtosompɔɣɔlɑɣɑ kɛ tɔm nɑɑtosompɔɣɔlɑɣɑ kɛ́. Pǝlɛ pǝ pɑɑsi, pɩɩsɩ nɑɑtosompɔɣɔlɑɣɑ
+dop	tɔm nɩɩtoso nɑ nɑɑlɛ tɑɑ kɛ́ pɑɑ tɑɣɑnɩ ɩcɑtɛ ŋmɑʋ nɑ tǝ koluŋɑ. Amɑ pǝ wɑɑtʋnɑɑ kɑ
+dop	Hɑlɩ ɩ kɑ́ kuu pɑ tɩɩŋ nɑ pɑ wontu nti pɑ lupɑ wʋlɑ nɑ liɣitee nyǝɣǝtʋ tɔ, nɑ ɩ́ ponɑ
+dop	Tʋɣʋ ŋkʋ kʋ toŋ kɛ ɩ kɑ́ yoonɑ koloosi ɑcɑlɛɛ nɑ ɩ́ kʋsɩ kʋ tǝŋlɑɑ nyɔɔŋ. Ɩ kɑ́ kpɑ
+dop	Mpʋɣʋlɛ Amɔɔsɩ cɔ-ɩ sɩ: Pɑɑ fɛlǝɣɩ-m mɑ Ɩsɔ kʋyɔɣɔtʋtʋ tɛlǝsʋɣʋ tɔɔ. Amɑ tɔlɑ kɛ
+dop	Yutɑ nyǝ́mɑ kɑ́ tɔɣɔnɑ Ɩtɔm tɛtʋ nɑ ilim mpǝtǝŋ tɔɔ. Pɑɑ tɔɣɔ Filiisi nyǝ́mɑ tɛtʋ
+dop	hɔɣɔlʋɣʋ tɛtɛkǝlɛ, nɑ Ɩfǝlɑyim nyǝ́mɑ tɛtʋ kɛ Sɑmɑlii. Ɩlɛnɑ Pɛncɑmɛɛ nyǝ́mɑ nɑ́ɑ́
+dop	Ɩ́ tɑɑ kɛɛnɑ mə cɑɑnɑɑ. Mɑɑ tɛmɑ mɑ kʋyɔɣɔtʋtʋ tɛləsəlɑɑ heeluɣu kɛ lɔŋtɑɑ sɩ pɑ́
+dop	tɛləsɩ-mɛ sɩ, ɩ́ lɔ mə tɔntɛ nɑ mə lɑkɑsɩ ɩsɑɣɑsɩ. Amɑ ɩ́ tɑ tisi nɑ ɩ́ mʋ mɑ tɔm nɑ
+dop	Ntɛnɑ ɩsɔtɑɑ tillu wei ɩ yɔɣɔtənɑ-m tɔ ɩ́ kpətənɑ ɩsɔtɑɑ tillu lɛlʋ wei ɩ səŋɑ-ɩ tɔ.
+dop	Tɑcɑɑ kɑ́ kɔɔ nɑ ɩ́ wɑɑsɩ Yutɑ nyə́mɑ. Ɩlɛ Tɑfiiti lʋlʋɣʋ nyə́mɑ nɑ Yosɑlɛm nyə́mɑ
+dop	tɔm. Mpi tɔ, pə tɑɑ wɛ səm kɛ́. Pɑɑ wei ɩ́ lɑ lɑɑkɑlɩ nɑ ɩ tɩ. Ɩ́ tɑɑ wɑkəlɩ ɩ nɔɣɔ
+dop	sɔ-wɛɣɛ Ɩsɔ lʋm. Ɩlɛnɑ ɩ́ tɔ-wɛ sɩ: Akɑlɑ piyɑ mɛ, ɑwe kpɑɑlɑ-mɛ nɑ ɩ́ seeki Ɩsɔ
+dop	Amɑ mɑ́ heeliɣi-mɛ sɩ, ɩ tɑɑ tɩɩ tuunɑ pʋlʋɣʋ pɑɑ pǝcɔ. Pɑɑ ɩsɔtɑɑ. Pǝ tɑɣɑ pʋlʋ, Ɩsɔ
+dop	Ɩ́ tɑɑ kpɑɣɑ mpi pǝ kɛ́ Ɩsɔ nyǝm tɔ nɑ ɩ́ pɛtɩ hɑsɩ, sɩ́ tɑɑ kɔɔ nɑ sɩ́ kʋlɩ mǝ tɔɔ
+dop	Tǝnɑɣɑ Ɩsɔ Tɔm sɛɣɛsǝlɑɑ nɑpǝlɩ pɑ hʋʋ pɑ tɑɑ sɩ: Apɑlʋ ɩnɛ ɩ kpɑkǝɣɩ ɩ tɩ nɑ ɩ́
+dop	Yǝlɑɑ tǝnɑ tɑɑ kɑ́ kpɑnɑ-mɛɣɛ mɑ tɔɔ. Amɑ wei ɩ́ nyɑɣɑ ɑpɑlʋtʋ nɑ ɩ́ tɑlɑ tǝnɑɣɑ,
+dop	Mɑ heeliɣi-mɛɣɛ tɑmpɑnɑ sɩ, yʋlʋpiyɑ tǝnɑ tɑɑ nɔɣɔlʋ fɛɩ wei ɩ kǝlɑ Ɩsɔ Lʋm Sɔlʋ
+dop	Nɑ yʋlʋ nɑ heu kɛ we? Tɔʋ, ye mpʋ pɑ pǝsǝɣɩ nɑ pɑ́ wɑɑsɩ yʋlʋ kɛ kʋyɑkʋ kʋhɛɛsʋɣʋ wule
+dop	Ye wei ɩ yɔɣɔtɑ Yʋlʋ Pǝyɑɣɑ mɑ́, mɑ tɔɔ kɛ́ ɩsɑɣɑtʋ, pɑɑ hʋ́lɩ́ pʋntʋ kɛ suulu. Amɑ
+dop	wei ɩ́ yɔɣɔtɑ Feesuɣu Nɑŋŋtʋ tɔɔ kɛ́ ɩsɑɣɑtʋ, pʋntʋ kɑɑ nɑ suulu, pɑɑ sɑŋɑ, pɑɑ cele.
+dop	Pǝ tɔɔ kɛ́ mɑ tukiɣi-wɛɣɛ ɑtuwɑ kɛ kʋtuku. Mpi tɔ, pɑ nyǝnǝɣɩ pɑɑ nɑɑ, pɑ keŋ ŋkpɑŋŋ
+dop	Amɑ ɑlʋ ɩnɩ ɩ kʋlɑɑ nɑ ɩ́ kɔɔ ɩ́ sopi Yesu tɛɛ nɑ ɩ́ tɔ sɩ: Hɑɩ, Tɑcɑɑ, wɑɑsɩ-m.
+dop	Ḿpʋ́ɣʋ́ Yesu ɩfɑlɑɑ pɔɔsɑ-ɩ pɑ tike sɩ: Pepe tɔɔ kɛ́ tǝ tɑ pǝsɩ nɑ tǝ loo ɩlɔɣɔʋ ɩnɩ?
+dop	Ḿpʋ́ɣʋ́ Piyɛɛ polɑ Yesu kiŋ nɑ ɩ́ pɔɔsɩ-ɩ sɩ: Tɑcɑɑ, ye mɑ tɔɣɔntǝlɛ pǝntǝɣǝnɑ-m tɑm
+dop	Ḿpʋ́ɣʋ́ Yesu cɔ-ɩ sɩ: Pepe tɔɔ kɛ́ n pɔɔsǝɣɩ-m kʋpɑntʋ tɔɔ? Yʋlʋ kʋlʋm tǝkoŋ kɛnɑ
+dop	Yesu kɔmɑ nɑ ɩ́ sʋʋ Yosɑlɛm tɑɑ, ɩlɛnɑ ɩcɑtɛ lɑ yuŋ tǝkɛmm, nɑ yǝlɑɑ pɔɔsǝɣɩ sɩ: Aweɣe
+dop	Ɩ́ kɑ́ nɩɩnɑ-wɛɣɛ teu nɑ ɩ́ lɑ pǝ tǝnɑ mpi pɑ heeliɣi-mɛ sɩ ɩ́ lɑ tɔ. Amɑ ɩ́ tɑɑ lɑ
+dop	sǝm tesikɑsɩ tɔɔ. Ɩ́ kɑ́ mɑ lɛlɑɑ kɛ ɑkpɑtɛɛ kɛ mǝ tǝkotilenɑɑ tɑɑ nɑ ɩ́ tǝŋ nɑ ɩ́
+dop	Mpʋ tɔ ye pɑ kɔmɑ nɑ pɑ́ heeli-mɛ sɩ: Ɩ́ nyǝnɩ, ɩ wɛnnɑ ntɛɣɛ wʋlɑɣɑ tɛtʋ tɑɑ, ɩ́ tɑɑ
+dop	Ḿpʋ́ɣʋ́ pǝ kɛɛsɑ ɑhoo hɛkɑ, ɩlɛnɑ pɑ́ nɩɩ pǝ kiisɑɑ sɩ: Akpɑɣɑlʋ ntɛ́, ɩ́ kʋlɩ nɑ
+dop	Kʋpɑmɑ kɑ́ cɔ-m sɩ: Tɑcɑɑ, leɣe tǝ nɑ-ŋ nɑ nyɔɣɔsɩ wɩɩ-ŋ nɑ tǝ́ hɑ-ŋ tɔɣɔnɑɣɑ, nɑ
+dop	Pɑ tɔŋnɑ tɔɣɔʋ kɛ mpʋ, ɩlɛnɑ Yesu yɔɣɔtɩ sɩ: Tɑmpɑnɑ kɛ mɑ heeliɣi-mɛ yoo mɑɑ cɛsǝɣɩ,
+dop	Tǝnɑɣɑ Yesu polɑ ɩ kiŋ nɑ ɩ́ tɔkɩ ɩ niŋ tɑɑ nɑ ɩ́ kʋsɩ, nɑ ɩ wɑtʋ yɑ nɑ ɩ́ kʋlɩ nɑ ɩ́
+dop	Pǝlɛ pǝ wɑɑlɩ Yesu cɑɣɑɑ nɑ ɩ́ tɔkɩ kʋtɔɣɔʋ kɛ Lefii tɛ. Ɩ́ nɑ lɑmpuu mʋlɑɑ pɑɣɑlɛ,
+dop	Yǝlɑɑ nɑɑnʋwɑ nɑ nɑɑlɛ wei ɩ lǝsɑɑ tɔ pɑ hǝlɑ ntɔ. Simɔŋ wei Yesu hɑ hǝtɛ sɩ Piyɛɛ tɔ,
+dop	Tǝnɑɣɑ pɑ cɑɣɑ loosi, lɛlɑɑ kɛ nɩɩnʋwɑ (100) nɩɩnʋwɑ (100), lɛlɑɑ kɛ nɩɩlɛ nɑ nɑɑnʋwɑ
+dop	Moisi kɑ yɔɣɔtɑɑ sɩ: Se nyɑ́ cɑɑ nɑ nyɑ́ too. Nɑ tɔtɔ sɩ: Ye wei ɩ tʋʋ ɩ cɑɑ yɑɑ ɩ too,
+dop	Ye mɑ yelɑɑ sɩ pɑ́ kpenɑ nyɔɣɔsɩ, lɛlɑɑ kɑ́ kpisi tɔnǝŋ kɛ mpɑɑʋ tɑɑ. Pǝ tɑɣɑ pʋlʋ, pɑ
+dop	Tǝnɑɣɑ Yesu pǝsǝnɑ ɩ ɩfɑlɑɑ tɔɔ nɑ ɩ́ kɑlǝnɑ Piyɛɛ kɛ teu sɩ: Sɑtɑnɩ tɛɛ mɑ tɔɔ, nyɑ́
+dop	Yesu nɑwɑ sɑmɑɑ kotiɣinɑ-wɛ, ɩlɛnɑ ɩ́ kɑlǝnɑ ɩlɔɣɔʋ ɩnɩ, nɑ ɩ́ tɔmɩ-ɩ sɩ: Ɩlɔɣɔʋ
+dop	nyɑ́ wei n pǝsǝɣɩ yǝlɑɑ kɛ kɑmumusi nɑ ntɑmɑɑ tɔ, mɑ heeliɣi-ŋ kʋlʋmɑɣɑ sɩ ń se pǝyɑɣɑ
+dop	Ḿpʋ́ɣʋ́ pɑ cɔwɑ sɩ: Sɑɑ wei n kɑ wɛɛ nyɑ́ teeli kɑwulɑɣɑ tɑɑ tɔ tǝ cɑɑ sɩ ń yele nɑ
+dop	Pɛlɛ pɑ nɩɩ mpʋ ɩlɛnɑ pɑ lɑŋɑ hɛɛ sɔsɔm nɑ pɑ́ tɔ sɩ pɑɑ hɑ-ɩ liɣitee. Ɩlɛnɑ Yutɑɑsɩ
+dop	Yesu mǝlɑ tooso nyǝm ɩlɛnɑ ɩ́ pɔɔsɩ-wɛ sɩ: Ɩ́ tɔŋnɑ tom nɑ ɩ́ hɛɛsǝɣɩ yɑɑ? Tɔʋ, ɩ́ yele
+dop	Yesu fem ḿpʋ́ɣʋ́ cimɑɑsɩ tɑnɑŋ kʋpɑŋkʋ tɛɛ tɔ, Mɑkǝtɑlɑ Mɑlɩ tɔɔ kɛ́ ɩ cɑɑlɑ lɩɩʋ.
+dop	Mpi pǝ tɔɔ n tɑ tʋnɑ mɑ tɔm nti tɩɩ tɛ nɑ tǝ́ lɑ tɑmpɑnɑ kɛ tǝ wɑɑtʋ tɔ pǝ tɔɔ n kɑ́ lɑ
+dop	kɑmumukɑ. Nyɑ́ nɔɣɔ kɑɑ kuli, hɑlǝnɑ wule nte mɑ tɔm tǝnɛ tɩɩ lɑ ɩsɩɩ mɑ yɔɣɔtʋɣʋ tɔ.
+dop	Ḿpʋ́ɣʋ́ pɑ tǝnɑ pɑ tisɑ teu nɑ pɑ́ sɑmɩ-ɩ. Nɑ ɩ kʋyɔɣɔtʋtʋ tǝnɑ lɑpɑ-wɛɣɛ leleŋ,
+dop	Simɔŋ Piyɛɛ nɑwɑ mpʋ, ɩlɛnɑ ɩ luŋ Yesu kɛ ɑkulɑ kɛ kpɑkpɑɑ nɑ ɩ́ tɔ sɩ: Tɑcɑɑ, tɑɑ
+dop	Ḿpʋ́ɣʋ́ lɛnnɑ hotɑ kʋwɑʋ tɔɔ, ɩlɛnɑ ɑ nyɔ nɑ ɑ tɑɣɑnɩ wʋlʋɣʋ kɛ nikɑɣɑ fɛɩ tɔ pǝ
+dop	Mpɛ pɑ kɔmnɑ nɑ ɩsɔtɑɑ teu sɔsɔɔm, nɑ pɑ́ yɔɣɔtǝɣǝnɑ-ɩ ɩ kpente nte tǝ cɑɑ Yosɑlɛm kɛ
+dop	Tǝnɑɣɑlɛ Yesu tɔmɑ-ɩ sɩ: Yele nɑ sǝtɑɑ pi pɑ sǝtɑɑ. Amɑ nyɑɑ polo nɑ ń kpɑɑlɩ Ɩsɔ
+dop	Ɩnɩ ɩ cɑɑkɑɣɑ sɩ pɑɑ nɑ mpʋ ɩ tɔm ɩ te, ḿpʋ́ɣʋ́lɛ ɩ tɑsɑ Yesu kɛ́ pɔɔsʋɣʋ sɩ: Nɑ
+dop	Ye ɑsɑɣɑɑ mɛ mɩɩ pǝsɑ mǝ piyɑ kɛ kʋpɑntʋ lɑpʋ, Tɑcɑɑ wei ɩ wɛ ɩsɔtɑɑ tɔ ɩ kɑɑ cɛlɑ ɩ
+dop	Fɑlisɑnɑɑ mɛ, mǝ tɔm wɛ wɑɩyo kɛ́. Ɩ́ wɛ kɛ́ ɩsɩɩ pǝlɑɑŋ wei ɩ sɑlǝtɑɑ nɑ pɑ́ tɔŋ ɩ
+dop	Ɩlɛnɑ Yesu tɑsɑ sɩ: Ḿpʋ́ɣʋ́ pǝ wɛɛ nɑ mpɑ pɑ kɑɑ wɛnɑʋ kɛ pɑ mɑɣɑmɑɣɑ pɑ tike tɔɔ,
+dop	Pǝ kpɑɣɑ pǝnɛntɛ tɔ, yǝlɑɑ ɩ́ wɛ kɑkpɑsɩ kɛ pɑ tǝyɑɣɑ tɑɑ, pɑɑ fɑɣɑ. Tooso kɑ́ lɩɩ
+dop	Fɑlisɑnɑɑ nɩɩ tɔm ntɩ tǝ tǝnɑ, ɩlɛnɑ pɑ́ woŋ Yesu. Pǝ tɑɣɑ pʋlʋ, mpɛ pɑɑ wɛnɑ liɣitee
+dop	Amɑ ɩsɩɩ leelu ɩnɛ ɩ kɔŋʋɣʋ tɑm nɑ ɩ́ pɛkǝlǝɣɩ-m tɔ pǝ tɔɔ, mɑɑ pɑɑsǝnɑ ɩ tɔm nɑ
+dop	Ḿpʋ́ɣʋ́ ɩ heelɑ ɩ cɔlɔ nyǝ́mɑ sɩ: Ɩ́ lɛɛkɩ liɣitee nyǝɣǝlʋɣʋ ŋkʋɣʋ ɩ niŋ tɑɑ, nɑ
+dop	Ɩ́ tɑɣɑnɩ mǝ tɩ sɩ, pɑɑ pɩɩ lɑ ɩsǝnɑ, ɩ́ tɑɑ nǝɣǝsɩ nti ɩ́ kɑ hʋʋ nɑ ɩ́ lɩɩ tɔ nɑ
+dop	Potopotonɑɑ mpɑ pɑ tɑɑ kʋkʋsʋm fɛɩ tɔ pɑ ɑcimɑ kʋyɑkʋ ŋku kʋ wule pɑ kʋɣɩ Tɛɛʋ ɑcimɑ
+dop	Tǝnɑɣɑ Yesu ɩfɑlɑɑ tɔmɑ sɩ: Tɑcɑɑ, lɑɣɑlɛɛ ntɔ cǝnɛɣɛ nɑɑlɛ. Ɩlɛnɑ Yesu cɔ-wɛ sɩ:
+dop	Alɑɑ mpɑ pɑ tǝŋɑɣɑ Yesu kɛ́ hɑtoo Kɑlilee tɔ pɑ́ nɑ Yosɛɛfʋ pɑ polǝnɑ. Pɑ wiilɑ pǝlɑɑʋ
+dop	Ḿpʋ́ɣʋ́ ɩ kpɑɣɑ Ɩsɔ Tɔm tɑkǝlɑɣɑ tɑɑ tɔm nɑ ɩ́ sɛɣɛsɩ-wɛɣɛ timpi pɑ yɔɣɔtɑ ɩ tɔm
+dop	Ɩnɩ ɩ kiŋ kɛ weesuɣu kɑ wɛɛ, nɑ weesuɣu ŋkʋ kʋ yelinɑ nɑ kɔkɔ kɔɔ yǝlɑɑ kiŋ nɑ pǝ́ nɑɑ-wɛ.
+dop	Mɑ tɑɑ nyɩ sɩ ɑweɣelɛ pʋntʋ ɩnɩ. Amɑ mɑ kɔmɑɣɑ sɩ mɑ sɔɔ yǝlɑɑ kɛ Ɩsɔ lʋm nɑ lʋm sɩ
+dop	Nɔɣɔlʋ tɑ kpɑtɑ ɩsɔtɑɑ ye pǝ tɑɣɑ Yʋlʋ Pǝyɑɣɑ mɑ́ wei mɑ lɩɩnɑ ɩsɔtɑɑ nɑ mɑ́ tii tɔ
+dop	Mpʋ tɔtɔɣɔ, mɑ tilɑ-mɛ sɩ ɩ́ kʋ hɑlǝm mpi ɩ́ tɑɑ hɑlɑ tɔ. Lɛlɑɑ nɑ́ hɑlɑɑ nɑ kɑɣɑnɑ
+dop	Pǝlɛ pǝ wɑɑlɩ Yesu nɑ́ ɑpɑlʋ ɩnǝɣɩ Ɩsɔ tǝsɛɛlɛ tɑɑ nɑ ɩ́ heeli-ɩ sɩ: Nyǝnɩ, pǝnɛntɛ
+dop	pǝ wɑɑ-ŋ ɩsǝntɔ tɔ, tɑɑ tɑsɑ ɩsɑɣɑtʋ lɑpʋ tɔtɔ. Pǝ́cɔ́ pǝ tɑɑ kɔɔ nɑ ŋku kʋlɛ kʋ
+dop	Ɩ́ tɑɑ hʋʋ sɩ mɑɑ polo mɑ́ kuli mǝ wɑɑlɩ kɛ́ Ɩsɔ ɩsɛntɑɑ. Amɑ Moisi wei ɩ́ tɛɛlǝɣɩ tɔ
+dop	Ɩlɛnɑ Yesu cɔ sɑmɑɑ sɩ: Tǝmlɛ nte Ɩsɔ cɑɑ sɩ ɩ́ lɑpɩ-ɩ tɔɣɔlɛ sɩ ɩ́ mʋ ɩ tillu tɔm.
+dop	Wɑɑtʋ wei Yesu ɩfɑlɑɑ nɩɩ tɔm tǝnɛ tɔ, pɑ tɑɑ pɑɣɑlɛ tɔmɑ sɩ: Tɔm tǝnɛ tǝ kǝlɑ kɑtɛ. Awe
+dop	Anɩ ɩ nyǝmɑ́ sɩ, tɑ kʋlɑpʋtʋ tɑɑ pǝ fɛɩ sɩ tǝ kʋ yʋlʋ tɔm kɛ mpʋ, nɑ tǝ tɑ́ cɑɣɑ nɑ tǝ
+dop	Tǝnɑɣɑ Yesu tɔmɑ-wɛ sɩ: Wɑɑtʋ wei ɩ́ kɑ́ kpɑɑsɩ Yʋlʋ Pǝyɑɣɑ mɑ́ ɩlɛ, wɑɑtʋ ɩnǝɣɩ
+dop	Ḿpʋ́ɣʋ́ Yesu cɔ Yutɑ nyǝ́mɑ sɩ: Tɑmpɑnɑ kɛ mɑ heeliɣi-mɛ yoo, mɑɑ cɛsǝɣɩ tuu nɑ pǝ́cɔ́
+dop	Tǝnɑɣɑ ɑpɑlʋ ɩnɩ ɩ cɔ Fɑlisɑnɑɑ sɩ: Mɑ tɑ nyɩ sɩ ɩ kɛ́ ɩsɑɣɑʋ yɑɑ ɩ kɛ́ kʋpɑŋ tɔ.
+dop	heelɑ-wɛ sɩ: Ɩ́ tɑɑ hɑtǝlǝnɑ Yosɑlɛm. Amɑ ɩ́ keŋnɑ mpi Tɑcɑɑ kɑ tɔmɑ sɩ ɩ kɑ́ hɑ tɔ,
+dop	Nɑ yʋlʋ ɩnǝɣɩ Ɩsɔ kpɑɣɑɑ nɑ ɩ́ cɛlɛ-mɛ ɩsɩɩ ɩ kɑ hʋʋ ɩ tɑɑ nɑ ɩ́ tʋ pǝ pǝlɛ sɩ ɩ
+dop	Ḿpʋ́ɣʋ́ Piyɛɛ tɑsɑ Ɩsɛɣɛlɩ nyǝ́mɑ kɛ tɔm pɑɣɑlɛ kɛ heeluɣu tɔtɔ, nti tɩɩ sǝnɑ-wɛ nɑ
+dop	Pǝ tɔɔ tɔ, ɑpɑlɑɑ mɛ, ɩ́ nyǝnɩ nɑ ɩ́ lǝsɩ mǝ tɑɑ kɛ́ yǝlɑɑ nɑɑtosompɔɣɔlɑɣɑ, mpɑ
+dop	yǝlɑɑ sɑmɑ nɑ Feesuɣu Nɑŋŋtʋ toŋ tɔɔ pɑ kiŋ nɑ pɑ́ wɛnɑ lǝmɑɣɑsɛɛ kɛ sɔsɔm tɔ, nɑ tǝ́
+dop	Wulɑʋ ɩnɩ ɩ lɑpɑ tɑ́ piitim kɛ ɑcilɑɣɑtʋ. Ɩ tʋ tɑ cɑɑnɑɑ cɑɑnɑɑ kɛ wɑhɑlɑ kɛ teu nɑ
+dop	Ḿpʋ́ɣʋ́ pʋlʋpʋnɑɑ ɩsɩɩ hutu tɑkɑ kɔɔlɑ Sɔɔlɩ ɩsɛntɔɔ kɛ́ kpɑkpɑɑ nɑ pǝ́ hoti ɑtɛ
+dop	Ɩsɩɩ pɑɑ tʋ Ɩsɔ wei ɩɩ sǝkɩ tɔɣɔ teeli tɔ, yʋlʋ wei ɩ sǝkɩ tɔ ɩ lɛɛsǝŋ nɑ sumɑsɩ nɑ
+dop	Nyɑ́ wei n tɔŋ sɩ pɑ́ tɑɑ lɑ wɑsɑŋkɑlǝtʋ tɔ, pepe tɔɔ kɛ́ nyɑ́ lɑkɩ? Nyɑ́ wei nn cɑɑ
+dop	Pɑɑ nɑ mpʋ sǝm nɑɑ tɔɣɔ kɑwulɑɣɑ kɛ pǝ kpɑɣɑʋ Atɑm nɑ pǝ́ polo Moisi, hɑlǝnɑ pǝ́ cɑŋ
+dop	pǝ́ kpɛŋnɑ mpɑ pɑ tɑɑ lɑ ɩsɑɣɑtʋ nti Atɑm lɑpɑ tɔ. Ɩsɔ kʋheelitu kɛ Atɑm nɑ́ kpɛɛsǝnɑɑ
+dop	Ɩsɑɣɑtʋ fɔɔtɔ kɛlɛ sǝm. Amɑ weesuɣu ŋku kɩɩ tɛŋ tɔɣɔ Ɩsɔ nɑ́ hɑɑ fɑɑlɑɑ kɛ mpɑ nɑ
+dop	Mpɑ pɑ tɔŋnɑ tɔntɛ kɛ yʋlʋ wɛɛtʋ kʋpǝntʋ tɑɑ tɔ tǝ tike tǝ tɔm kɛ pɑ nyǝmɑ́. Nɑ mpɑ pɑ
+dop	Mɑ sɛɛ mɑ Ɩsɔ kɛ́ tɑm sɩ ɩ́ nɑ tǝmlɛ kɛ mǝ tɔɔ kɛ́ pɛɛlɛɛ nnɑ ɩ lɑpɑ-mɛɣɛ Yesu Kilisiti
+dop	Mɑ cɑɣɑlɛ tǝnɑɣɑ mǝ kiŋ mɑ tɑ cɑɑ sɩ mɑ́ lɑ nɑtǝlǝɣɩ mǝ hɛkʋ kɛ yem nɑ pǝ́ tɑ́ kɛ́
+dop	Yesu Kilisiti tɔm. Ɩsɩɩ pɑ kɑmɑ-ɩ sǝm tesikɑ tɔɔ tɔ pǝ tɔm mɑɣɑmɑɣɑ kɛ mɑ siɣisinɑɑ.
+dop	Yɑɑ mɑ nɑ Pɑɑnɑpɑsɩ tɑ́ tike kɛ pǝ wɛɛ sɩ tǝ́ lɑnɑ tɑ́ niŋ nɑ tǝ́ tɔɣɔnɑ tɑ́ nɔɣɔ?
+dop	Nɑ ye ɑlʋ kɑɑ te sɑɑlɑɣɑ ɩlɛ pɑ́ kɔ́ ɩ nyɔɔsɩ. Amɑ ye pǝ wɛ-ɩ fɛɛlɛ sɩ pɑ́ kɔ-ɩ yɑɑ
+dop	Ɩ́ nyǝmɑ́ teu sɩ ɩ́ kɑ kɛʋ mɑ tɑ nyɩ ɩsɔnɑɑ tɔ tɩɩŋ wei ɩɩ yɔɣɔtǝɣɩ nɑtǝlɩ tɔ ɩ tɔm
+dop	Pɑɑ mɑ yɔɣɔtǝɣɩ yǝlɑɑ nsǝmɑ nɑ ɩsɔtɑɑ tillɑɑ nsǝmɑ tɔtɔ, ye mɑɑ sɔɔlǝɣɩ yǝlɑɑ mɑ
+dop	kɑkpɑsɩ tike nti pɑɑ nɩɩ teu nɑ pǝ kuliɣi lɛlɑɑ ɩsɛ tɔ, nɑ mpi mɑɑ hutiɣi tɔmǝŋ tɔmǝŋ nɑ
+dop	Ntɑnyɩ nɔɣɔlʋ nɑ́ wɛɛ nɑ ɩ́ mɑɣɑsǝɣɩ sɩ ɩsǝnɑɣɑ sǝtɑɑ kɑ́ tɛ nɑ pɑ́ fe ɩlɛ yee? Nɑ
+dop	Pǝ tɑɣɑ pʋlʋ, tǝ nyǝmɑ́ sɩ Yesu sǝpɑ nɑ Ɩsɔ feesi-ɩ tɔ ɩ kɑ́ tɛ nɑ ɩ́ feesi-tʋ nɑ Yesu, nɑ
+dop	Tɩɩ cɑɑ sɩ nɔɣɔlʋ ɩ́ footi tɑ́ tǝmlɛ, pǝ tɔɔ kɛ́ tɩɩ cɑɑ tǝ́ tusi nɔɣɔlʋɣʋ pɑɑ mpi
+dop	Tǝ pɛɛkǝɣɩ nɑ tǝ́ cɔlǝɣɩ sɩ tǝ pɑɑsʋɣʋnɑ liɣitee sɔsɔɔnɑ ɑnɛ ɑ tɔm tɔ, nɔɣɔlʋ ɩ́
+dop	Ntɔŋ pɑ kɛ́ Hepǝlɑ nyǝ́mɑ yɑɑ? Nɑ mɑ́ tɔtɔɣɔ te. Ntɔŋ pɑ kɛ́ Ɩsɛɣɛlɩ nyǝ́mɑ yɑɑ? Nɑ
+dop	Mɑ nyɑŋ sɩ ye mɑ kɔmɑ nɑ mɑ́ tɑlɑ mǝ tɛ mɑ́ tɑɑ mɑɣɑnɑ-mɛɣɛ nti mɑɑ cɑɑ tɔ tǝ tɑɑ, nɑ
+dop	mɩɩ tɑɑ nɑ nti mɩɩ cɑɑ tɔɣɔ mɑ kiŋ. Mɑ nyɑŋ kɛ́ sɩ pǝ́ tɑɑ kɔɔ nɑ yoou, nɑ ɩsǝsɛɛmlɛ,
+dop	Ɩlɛ tɔm kʋlʋmtʋ tǝkoŋ kɛ́ mɑ pɔɔsǝɣɩ-mɛ, sɩ ɩ́ tǝŋʋɣʋ Ɩsɔ kʋsǝsɩɩtʋ tɔɣɔ ɩ́ hikɑ
+dop	Amɑ pǝ kɔmɑ pǝ tɑlɑ sɑɑ wei Ɩsɔ kɑ sɩɩwɑ tɔ, ɩlɛnɑ ɩ́ tili ɩ pǝyɑɣɑ, nɑ ɑlʋ lʋlǝnɑ-kɛ,
+dop	Mɑ sǝlǝmǝɣɩ Ɩsɔ kɛ́ sɩ pǝ́ tʋ-mɛɣɛ lɑɣɑtʋ kɛ hɑtuu mǝ tɑɑ nɑ ɩ́ nyɩ mpi pǝ tɔɔ Ɩsɔ
+dop	yɑɑ-mɛ nɑ ɩ́ tɛɛlǝɣɩ tɔ, nɑ ɩ́ nyɩ kʋpɑntʋ sɔsɔɔntʋ teu teu nyǝntʋ nti ɩ sɩɩ mpɑ ɩ tɩ
+dop	Nɑ ye ɩ́ kɑlɑɑ ɩ́ kɑ́ nɑ́ ɩsǝnɑ mpi mɑ nyǝmɑ́ Kilisiti tɔm nti ɩnɩ nɔɣɔlʋ tɑɑ cɛkǝnɑ
+dop	Yomɑɑ mɩɩ nɩɩkǝnɑ mǝ cɑɑnɑɑ mpɑ pɑ tɔkɑ-mɛɣɛ ɑntulinyɑ tɑɑ cǝnɛ tɔ nɑ luɣu kʋlʋmʋɣʋ.
+dop	Ɩ́ wɛɛnɑ pɑ sɔɣɔntʋ nɑ ɩ́ nyɑnɑ-wɛɣɛ teitei ɩsɩɩ ye pɩɩ kɛ Kilisiti ɩ kɑ lɑpɑ tɔ.
+dop	Mɑ tɑɑpɑlɑɑ mɑ cɑɑ sɩ ɩ́ nyɩ sɩ tɑmpɑnɑ tɔɔ ɩsǝntɔ, mpi pǝ mɑɣɑnɑ-m tɔ pǝ wɑɑsɑɑ
+dop	Ye mɑɑ nɔkɑɑ kɔlɔ, mɑ pǝsǝɣɩ nɑ mɑ́ tʋ kʋlɑpǝlɛnɑɑ pɑnɛɣɛ nɑɑni. Nɑ ye nɔɣɔlʋ wɛɛ
+dop	Amɑ ɩ Pǝyɑɣɑ sǝpʋ kɑ tɔnʋɣʋ kʋnɛ kʋ sǝm tɔ pǝnɛntɛ Ɩsɔ ciikɑ mǝ nɑ-ɩ kɛ́, sɩ pǝ́ yele
+dop	nɑ ɩ́ lǝsɩ-mɛɣɛ ɩ ɩsɛntɑɑ nɑ ɩ́ wɛ tǝnɑŋŋ nɑ ɩ́ kɛ́ kʋpɑmɑ nɑ pɑɑ kɑwɑliyɑ kɑ fɛɩ
+dop	Mǝ nɑ kilisiti kɛ pɑ feesɑɑ. Pǝ tɔɔ ɩlɛ timpi Kilisiti cɑɣɑ ɩsɔtɑɑ kɛ́ Ɩsɔ kɔŋkɔŋ tɑɑ tɔ
+dop	Tɑ́ tɑɑpɑlʋ kʋpɑŋ Tisikɩ kɑ́ heelinɑ-mɛɣɛ mɑ tɔm tǝnɑ tǝpɑɩpɑɩ. Mɑ nɑ-ɩ tǝ lɑkǝnɑ
+dop	Tǝ sɔɔlɑ-mɛɣɛ kɑtɑtǝlɑɣɑ kɛ́, hɑlǝnɑ tǝ tɛm-mɛɣɛ Lɑɑpɑɑlɩ Kʋpɑŋ kɛ heeluɣu tɔ, ye
+dop	pɑɑ tɔmɑ sɩ tǝ́ lǝsɩ tɑ́ weesiŋ mɑɣɑmɑɣɑ nɑ tǝ́ tʋ-mɛ, tɩɩ lǝsɑɑ. Pɔpɔtʋ fɛɩ, tɑ́
+dop	Nɔɣɔlʋ ɩ́ tɑɑ pǝntǝnɑ ɩ tɔɣɔntǝlɛ kɛ tɔm tǝnɛ tǝ tɑɑ nɑ ɩ́ tɑɑ wɑkǝlɩ-ɩ pʋlʋ. Tǝ
+dop	tɛmɑ-mɛɣɛ tɔm tǝnɛɣɛ heeluɣu nɑ tǝ kpɑɑlɑ-mɛɣɛ teu sɩ Tɑcɑɑ kɑ́ tʋ sɑlǝkɑ kɛ mpɑ pɑ
+dop	Sɑtɑnɩ toŋ kɛ ɩsɑɣɑtʋ Yʋlʋ ɩnɩ ɩ kɑ́ kɔnɑ nɑ ɩ́ lɑ́ piti tǝmɑ nɑ kɔkɔlɔ nyǝmnɑɑ nɑ
+dop	Mɑ tʋ-wɛɣɛ ḿpʋ́ɣʋ́ sɩ pɑ́ wɛɛnɑ lotu kʋlʋmtʋ, nɑ pɑ́ tǝŋǝɣɩ siɣisuɣu, nɑ pɑ́ tɛ́
+dop	Tɔm nti tǝ kɛ́ tɑmpɑnɑ nyǝntʋ tǝkelekele tɔɣɔlɛ sɩ, ye yʋlʋ cɑɑ ɩ́ lɑ Ɩsɔ yǝlɑɑ kpekǝle
+dop	Mpi pǝ tɔɔ tɑ́ wɛɛ nɑ tǝ́ tɔŋnɑ tǝmlɛ lɑpʋ nɑ tǝ́ lʋkɩ tɔɣɔlɛ. Pǝ tɑɣɑ pʋlʋ tɔɔ,
+dop	weesuɣu tʋ Ɩsɔ wei ɩ yɑkɩ yǝlɑɑ tǝnɑ nyɔɔŋ ɩlɛnɑ pǝ́ tɩɩ kǝlǝnɑ mpɑ pɑ tɛŋɩ-ɩ nɑ pɑ
+dop	Ɩnɩ ɩ yɑpǝnɑ tɑ́ nyɔɔŋ nɑ ɩ́ yɑɑ-tʋ sɩ tǝ́ lɑ ɩ yǝlɑɑ. Pǝ tɑɣɑ tɑ́ lɑkɑsɩ kʋpɑŋsɩ
+dop	N tɑ nɑ nti n kɑ́ tɔɔsǝɣɩ-wɛ tɔɣɔlɛ. Heeli-wɛ nɑ ɩsǝlɛ kʋsɛɛmlɛ kɛ Ɩsɔ ɩsɛntɑɑ sɩ pɑ́
+dop	yele tɔmnɑɑ tɔɔ yoou kɛ pɑ hɛkʋ. Mpi tɔ yooŋ ɩnɩ ɩɩ wɑɑsǝɣɩ nɔɣɔlʋ. Amɑ wɑkǝlʋɣʋ tike kɛ
+dop	ń lɑkɩ Ɩsɔ wɑɑsʋ, nyɑɑ sɛɛsɩ ɩsǝlɛ te, pɑɑ pǝ mɑɣɑ-ŋ pɑɑ pǝ tɑ mɑɣɑ-ŋ. Kɑɑnɑ-wɛ nɑ
+dop	ń lɑ nɑ pɑ́ mʋ-tɩ. Kɑlǝɣǝnɑ-wɛɣɛ timpi timpi pɑ pǝntǝɣɩ tɔ. Sɛɣɛsǝɣɩ-wɛ nɑ suulu sɔsɔ
+dop	Heeli ɑlɑɑ kʋkpɑtǝlɑɑ sɩ pɛlɛ pɑ́ tɔkɩ yɑɑsi kʋpɑŋ ɩsɩɩ Ɩsɔ yǝlɑɑ wɛɛkʋɣʋ tɔ. Pɑ́
+dop	tɑɑ cɑkǝnɑ yǝlɑɑ, nɑ pɑ́ tɑɑ yele nɑ sʋlʋm hɔkɔ-wɛ. Amɑ pɑ́ wɛɛ mpɑ pɑ tɑsǝɣɩ ɑlɑɑ
+dop	Kutuluɣu ŋmɑlʋ wɛnnɑ sɑm nɑ pǝ́ kǝlɩ kutuluɣu mɑɣɑmɑɣɑ. Mpʋ tɔtɔɣɔ Yesu mʋnɑ sɑm nɑ pǝ́
+dop	nyǝ́mɑ mpɛ. Pɑ nɩɩ tɔm ntɩ tɔ tǝ tɑ wɑɑsɩ-wɛɣɛ pʋlʋ. Mpi tɔ, pɑ nɩɩʋ-tɩ tɔ pɑ tɑ mʋ-tɩ
+dop	Amɑ tǝmlɛ nte pɑ tʋ Yesu tɔ tǝ kǝlɑ mpɛ pɑ nyǝnɑ tǝcɑɣɑcɑɣɑ. Pǝ tɑɣɑ pʋlʋ tɔɔ, ɩnɩ ɩ
+dop	tɛlǝsǝnɑ-tʋɣʋ nɔɣɔ pɛɛlʋɣʋ kʋpɑmpɑm mpi pǝ lɩɩnɑ kʋpɑntʋ kʋkǝlǝtʋ nti Ɩsɔ kɑ tɔmɑ sɩ
+dop	Nɑ tǝnɑɣɑ wʋlɑ cofolo kɑ wɛɛ nɑ pɑ́ wɔkɩ tulɑɑlʋnɑɑ kɛ ɩ tɑɑ, nɑ Ɩsɔ nɔɣɔ pɛɛlʋɣʋ
+dop	kɑ tɑɑ nɑ mɑnɑ, nɑ Alɔŋ kpɑ́tʋ́ɣʋ́ ŋku kɩɩ tʋwɑ hɛtʋ tɔ nɑ pɛɛ kpɑɑtɑnɑɑ mpɑ pɑ tɔɔ
+dop	Pɑ sɩɩwɑ sɩ ye nɔɣɔlʋ pǝntɑ Moisi kʋsǝsɩɩtʋ nɑ yǝlɑɑ nɑɑlɛ yɑɑ tooso nɑ-ɩ nɑ pɑ ɩsǝpee
+dop	Ɩsɔ tɑɑ tɛmnɑʋ yelinɑ Apǝlɑhɑm kpɑ ɩ pǝyɑɣɑ Ɩsɑɑkɑ sɩ ɩ kʋɣɩ-kɛ nɑ ɩ́ lɑ́ Ɩsɔ kɛ́
+dop	kɔtɑɣɑ kɛ wɑɑtʋ wei Ɩsɔ nɑ́ tɛɛ ɩ wɑɑlɩ kɛ́ kʋtɛɛ sɩ ɩ nɑɑ tɔ. Ɩsɔ kɑ tɛmɑ Apǝlɑhɑm
+dop	kɛ nɔɔsɩ sɩɩʋ, pɑɑ nɑ mpʋ ɩ kpɑɣɑ ɩ pǝyɑɣɑ ŋkɑ kɑ tike ɩ kɑ lʋlɑ mpʋ tɔ sɩ ɩ kʋɣɩ.
+dop	nɑ́ɑ́ tɑɑ lɑ yem yem tɔtɔ. Ɩsɔ kɑ́ hʋʋnɑ tɔm kɛ mpɑ pɑ lɑkɩ ɑsilimɑ nɑ mpɑ pɑ lɑkɩ
+dop	Amɑ ye pʋntʋ ɩ́ sǝlǝmǝɣɩ Ɩsɔ, ɩ́ sǝlǝmɩ nɑ ɩ́ tɛ ɩ tɑɑ, ɩ́ tɑɑ lɑ sikɑ. Ye yʋlʋ ɩ́
+dop	sǝlǝmǝɣǝnɑ sikɑ, pʋntʋ wɛ kɛ́ ɩsɩɩ teŋku lʋm holɑ nnɑ heelim lɑkɩ nɑ ɑ́ lɑŋtǝɣɩ yem tɔ.
+dop	Nɑ ɩsǝnɑ pǝ wɛɛ tɔɣɔlɛ sɩ ye nɔɣɔlʋ tǝŋɑ kʋsǝsɩɩtʋ kʋheelitu tǝnɑ nɑ ɩ́ kɔɔ ɩ́ kpisi
+dop	Amɑ ye mǝ lotunɑɑ tɑɑ wɛ hɑŋɑɣɑ sɔsɔɣɑ nɑ ɩkǝllɛ pɛɛkʋɣʋ hʋwɛɛ, ɩlɛ ɩ́ tɑɑ nɔkɩ mǝ
+dop	Aɑɩ, pǝ tɑɣɑ mpʋ, Kilisiti wei ɩ wɛ ɩsɩɩ ɩwǝyɑɣɑ ŋkɑ kɑ tiili tɑ́ cɑɑmɩ nɑ kɑ fɛɩnɑ
+dop	Hʋʋlɛ wɑɑtʋ tɑlɑɑ kɛ́, nɑ Ɩsɔ yǝlɑɑ kɛ pɑ cɑɑlǝɣǝnɑ tɔm hʋʋnɑʋ. Tɔʋ, ye tɑɣɑ Ɩsɔ
+dop	tɑɑlǝɣǝnɑ hʋʋnɑʋ, ɩlɛ ɩsǝnɑɣɑlɛ hʋʋlɛ ntɛ́ tii tɛɛsǝnɑ wɑɑtʋ wei pɩɩ tɑlɑ mpɑ pɑ
+dop	Mpʋ pɩɩ yelinɑ nɑ pɑ́ tʋlɩ-mɛɣɛ Tɑcɑɑ nɑ tɑ́ Yɑtʋ Yesu Kilisiti Kɑwulɑɣɑ tɑm nyǝŋkɑ nɔɣɔ
+dop	Tɑmpɑnɑ tɔɔ, ye yǝlɑɑ nyǝmɑ́ Tɑcɑɑ nɑ tɑ́ Yɑtʋ Yesu Kilisiti nɑ pǝ́ lǝsɑ-wɛɣɛ ɑntulinyɑ
+dop	yelɑɑ nɑ nɔɣɔlʋ lɑ ɩsɑɣɑtʋ, ɩlɛ tǝ wɛnɑ tɑ tɔm tɑɣɑnlʋ kɛ Tɑcɑɑ kiŋ. Ɩnǝɣǝlɛ Yesu
+dop	Yǝlɑɑ tǝnɑ mpɑ pɑ tɛɛlǝɣɩ Kilisiti kɛ mpʋ tɔ pɑ́ tɑɣɑnǝɣɩ pɑ tǝɣɩ nɑ pɑ́ lɑ́ kʋpɑmɑ
+dop	Ɩsɔ wei ɩ wɛɛ, nɑ ɩ kɑ wɛɛ, nɑ ɩ kɑ́ kɔɔ tɔ, ɩ́ hʋ́lɩ́-mɛɣɛ pɛɛlɛɛ nɑ ɩ́ hɑ-mɛɣɛ
+dop	ɑlɑɑfǝyɑ. Nɑ feesiŋ nɑɑtosompɔɣɔlɑɣɑ wei ɩ wɛ Ɩsɔ kɑwulɑɣɑ kumte ɩsɛntɑɑ tɔ, ɩ́lɛ́ ɩ́
+dop	Nmɑɑ tɑkǝlɑɣɑ nɑ ń heeli Pɛɛkɑm Yesu sɛɛlɑɑ kpekǝle ɩsɔtɑɑ tillu sɩ: Mɑ́ wei mɑ wɛnɑ
+dop	Mɑ nyǝmɑ́ pǝ tǝnɑ mpi ń lɑkɩ tɔ. Mɑ nyǝmɑ́ sɩ nyɑɣɑlɛ nyɑ́, n tɑ niɣiti pǝyele n tɑ hɑŋ.
+dop	Ḿpʋ́ɣʋ́ sɔsɑɑ tɑɑ nɔɣɔlʋ tɔmɑ-m sɩ: Tɑɑ wii. Nyǝnɩ, Yutɑ kpekǝle tɑɑ tɔɣɔlɑɣɑ, wulɑʋ
+dop	Mɑ nyǝnɑɣɑ mpʋ ɩlɛnɑ mɑ́ nɑ́ kpɑɣɑnʋ ɑtɔntɔɔtɛ tɑkɑ lɩɩwɑ. Nɑ pɑ yɑɑ ɩ tɔɔ cɑɣɑlʋ
+dop	Pǝ wɑɑlɩ kɛ́ ɩsɔtɑɑ tillu kpɑɣɑ tulɑɑlʋnɑɑ cofolo ɩnɩ nɑ ɩ́ hɑɑ kɔtɑɣɑ tǝlɑtɛ tɔɔ
+dop	kɛ́ mɑmɑlɑ kɛ ɩ lǝpɑm nɑ ɩ́ mǝŋnɑ nɑ ɩ́ pɛtɩ-ɩ tɛtʋ tɔɔ. Ḿpʋ́ɣʋ́ tɛʋ sʋʋ holɑ kɛ
+dop	kpɑŋ kpɑŋ, nɑ pǝ́ yɔɣɔtǝɣɩ yem yem, nɑ tɛʋ nyǝɣǝsǝɣɩ ŋmɛlɛʋ ŋmɛlɛʋ, nɑ tɛtʋ nɑ́ɑ́
+dop	Ɩ kɑ tɔkɑ ɩ niŋ tɑɑ kɛ́ tɑkiliyɑ nɑ kɑ́ hɛtɑɑ, nɑ ɩ́ sɩɩ ɩ ntɔɣɔŋ nɔɔhǝlɛ kɛ teŋku
+dop	Tǝnɑɣɑ yǝlɑɑ tǝnɑ sʋʋ tʋm sɔsɔ kɛ sɛɛʋ kɛ ɩ hɑʋ ɩ pǝsʋɣʋ kɛ wontuɣu tɔ pǝ tɔɔ. Nɑ pɑ
+dop	sɛɛkɑɣɑ wontuɣu tɔtɔ nɑ pɑ́ fɑɑlǝɣɩ sɩ: Wontuɣu kʋnɛ kʋ tɑkɑ wɛɛ kɛlɛ? N kɛ ɑwe nɑ nyɑ́
+dop	Ɩsɔtɑɑ tillu liɣiti nyǝŋ nɑ́ pǝlɑ ɩ kɔpʋ kɛ ilim tɔɔ, ɩlɛnɑ pǝ́ kpɑɑsɩ-wǝɣɩ toŋ sɩ pǝ
+dop	Nɑ ɑlʋ wei n nɑwɑ mpʋ tɔ, ɩcɑtɛ sɔsɔɔlɛ nte tǝ ŋmɑkǝlǝɣɩ ɑtɛ ɑwulɑɑ sɔsɑɑ tɔɣɔlɛ.
+dop	wɛ yuŋ ɩsɩɩ lʋm kpeŋuɣu nɑ pǝ́ fɑlǝɣɩ cooo tɔ, ɩsɩɩ tɛʋ holuɣuu sɔsɔm tɔ tɑkɑ. Mɑ nɩɩ pǝ

@@ -1,0 +1,2230 @@
+gla	(1ad an t-Iuchar 2005 tuairmse)
+gla	A bharrachd air sin, tha iad air an rathad tro ghleann La
+gla	Llorona a leasachadh co-dhiù. Bha an rathad sin uabhasach
+gla	cunnartach 's chuireadh sin dragh air daoine a' bhaile is air
+gla	Ach bhris cogadh a-mach a-rithist eadar an dà dhùthaich, agus
+gla	chaidh Seumas IV a mharbhadh a' sabaid aig ceann airm, latha
+gla	Blàr Flodden (9 an t-Sultain 1513), batail mòr an ceann
+gla	a-tuath Shasainn an aghaidh nan Sasannach. Bha e mar amas aige
+gla	cuideachadh a thoirt do na Fraingich, oir bha cogadh ann eadar
+gla	an Fhraing agus Sasainn aig an àm.
+gla	Ach rinn gunnachan arm Rìgh Deòrsa milleadh uabhasach. Sheall
+gla	na Gaidheil cho treun 's a bha iad le biodag is claidheamh.
+gla	A dh’aindeoin nach e prìomh-bhaile na dùthcha a th’ ann am
+gla	Bonn nas motha, tha am baile air blas polataigeach dioplòmasach
+gla	a chumail fhathast. Thathar a’ cumail gnothaichean na NA ann
+gla	am Bonn, chaidh Comhairle na Roinn Eòrpa a chumail an seo ann
+gla	an 1999 fad cinneas na Gearmailte air an Roinn Eòrpa. A
+gla	bharrachd air sin, thachair trì co-labhairtean cudromach ann am
+gla	Bonn taobh càirdeis pholataigich agus marsanta còmhla ri An
+gla	t-Seapan, Canada agus na Stàitean Aonaichte.
+gla	Agus a-nis tha’n Sasunnach gad coimhead,
+gla	Aig àm nan Cogaidhean Napoleonach bha Blàr Bhautzen (1813)
+gla	a’ cur sgrios mòr air a’ bhaile. Anns an Dàrna Cogadh bha
+gla	campa concentration faisg air Bautzen. Bha sabaid mhòr ann
+gla	eadar 21 an Giblean agus 30 an Giblean 1945. Aig àm DDR bha
+gla	prìosan (Bautzen II) ann do phrìosanaich phoileataigeich.
+gla	Chaidh a dhùnadh ann an 1992. An–diugh 's e àite
+gla	cuimhneachan a tha anns a' phrìosan.
+gla	Aig deireadh nan 1060an, thàinig na Normanaich chun na Cuimrigh
+gla	agus dh’atharraich poilitigs na dùthcha. Chuir iad tigheanas
+gla	nan crìochan air bhonn eadar a’ Chuimrigh agus Sasainn. Beag
+gla	air bheag ghabh iad grèim air a’ Chuimrigh air fad, cha
+gla	mhòr, ach shoirbhich le Gruffydd ap Cynan agus Owain Gwynedd
+gla	sin a sheachnadh. Shoirbhich le Llywelyn Fawr (Llywelyn Mòr)
+gla	bunait Cuimrigh aonaichte a leigeil. Chaidh an ogha aige,
+gla	Llywelyn ap Gruffydd a ghairm mar Phrionnsa na Cuimrigh ach lean
+gla	rìghrean Shasainn orra ionsaigh a thoirt air a’ Chuimrigh fad
+gla	Air ainmeachadh air René Descartes, am matamataigear Frangach,
+gla	's e an toradh Cartesach dà àlaich A agus B, an t-àlach C
+gla	anns am bi a h-uile paidhir òrdaichte nan eileamaidean de A
+gla	agus B. Tha toradh Cartesach air a sgrìobhadh: C = A × B, agus
+gla	ma tha A = { a, b } agus B = { 1, 2, 3 }, 's e A × B = { (a,
+gla	1), (a, 2), (a, 3), (b, 1), (b, 2), (b, 3) }. Mar as coitchinne,
+gla	's e an toradh Cartesach:
+gla	Air culaibh: Taigh-solais Orasaigh ann an Eilean Sionnach, air
+gla	beulaibh: Solas air Eilean Orasaigh
+gla	Airson bliadhnaichean bha muinntir Köln ag iarradh an oilthigh
+gla	air ais. Mu dheireadh thall dh’fhosgail an Oilthigh a-rithist
+gla	ann an 1919 le cuideachadh bho Konrad Adenauer. An-diugh tha
+gla	Oilthigh Chologne ball den Deutsche Forschungsgemeinschaft,
+gla	comann den oilthighean Gearmailteach a tha a’ dèanamh
+gla	rannsachadh. Tha nas motha na 200 cuspairean eadar-dhealaichte
+gla	ann airson nan oileanach. Tha an t-oilthigh ceangailte cuideachd
+gla	le 16 oilthighean eile air feadh an t-saoghail.
+gla	Alaria esculenta (Linnaeus) Greville
+gla	Am bitheantas, atharraichidh an dath na gruaige nam
+gla	daoine-cloinne agus nan inbheachan à buidhe bàn ri dubh
+gla	dìomhair. Tha an sgaoileadh dùthchasach nan dathan air a
+gla	chaochladh gu h-eachdraidheil leis na h-àiteachan
+gla	eòlas-cruinneil. Mar eisimpleir, tha dubh-dhonn agus dubh a'
+gla	buadhachadh air an Ear Mheadhanach, Aimearaga a Tuath, agus
+gla	Roinn-Eòrpa mu Dheas, agus tha dathan fiù is nas duirche a'
+gla	tachairt air an Àisia an Ear, Àisia a Deas, cho math ri Afraga
+gla	sna Criosan agus air Aimearaga Mheadhanach; tha nas cumainte
+gla	donn nas soilleire air an Roinn-Eòrpa Mheadhanach, bàn/fionn
+gla	'san Roinn-Eòrpa, agus ruadh air Èireann agus Breatainn Mhòr.
+gla	Am measg nan leabhraichean cliùiteach tha a' chiad leabhar ann
+gla	a bha sgrìobhte ann an Cuimris, nochd e ann an 1546. Tha a'
+gla	chiad eadar-theangachadh dhen bhìoball às a' bhliadhna 1588 ri
+gla	fhaicinn cuideachd. Chithear làmh-sgrìobhainn mar
+gla	An ceann greiseag na bhantrach-duine, phòs e María Ignacia
+gla	Arboleda Arboleda, nighean pheathar a’ chiad bhean aige.
+gla	A-rèir eachdraichean an àm, bha Mosquera mothachail gu robh e
+gla	uabhasach aosda agus nuair a ghairm a ghràidh chun a’
+gla	chaileig òg thuirt esan dhi: " Am bu thoil leat a bhith
+gla	banntrach an t-Seanaileir Mosquera?". Cha d’ fhuair iad ach
+gla	aon mhac, José Bolívar Carlos Dorico Mosquera y Arboleda, a
+gla	rugadh ann an 1878, beagan an dèidh bàs an t-Seanaileir.
+gla	an Cèitean - Niccolò Paganini, ann an Nice. Ceòladair às an
+gla	An dèidh a' bheatha sin fo armaibh rè na 1840an, b' urrainn
+gla	dha crìoch a chur air a chuid fhoghlaim aig an Oilthigh Central
+gla	agus thug e ceum anns an Lagh 28mh an t-Samhain 1845. An ceann
+gla	dà bhliadhna, 1 9mh an Giblean 1847, chaidh e a dh'ainmeachadh
+gla	Fear Lagh le àrd-cùirt a' cheartais.
+gla	An dèidh dham Chrìosdaidheachadh nam Ceiltich, bha Brìghde
+gla	air smaoineachadh 'bhith 'na muime Iosa agus air chantainn ri gu
+gla	tric Naomh Brìghde, an nighean an draoidhe, Dùghall
+gla	MacGilleDhuinn. Cuiridh roinn nam bun an ceann gun robh Brìghde
+gla	'na h-Easbaig Caitligeach às an Eireann.
+gla	An-diugh cleachdar coimpiutairean gu tric ann an roinnean
+gla	cànanachais gnìomhaichte. Cleachdaidh co-thàthadh labhairt
+gla	(speech synthesis) agus aithneachadh cànain (speech
+gla	recognition) eòlas fogharach agus foineimeach gus
+gla	eadar-aghaidhean gutha a dhèanamh airson coimpiùtairean.
+gla	Cuidichidh e cuideachd le eadar-theangachadh coimpiùtarail agus
+gla	cuspairean coltach ri sin. Tha buaidh air na cùisean seo air
+gla	teòiric co-chàraidh agus seimeantaig.
+gla	an Fhraing - Fìdi - Na h-Eileanan Filipineach - Fionnlainn
+gla	Ann am beathaichean (a' gabhail a-staigh daoine daonna) a tha an
+gla	gealachd aig, faodaidh na cearcallan nan sùilean dearg nochdadh
+gla	do bhrìgh de dìth nan dathan — gabhaidh an cearcall na sùla
+gla	an dath na fala. Bheir buaidh air na dathan nan sùilean na
+gla	ginean cumanta dhan ghealachd, agus th' ann tuilleadh ginean
+gla	ionadaile an datha cuideachd, mar gealachd na sùla.
+gla	Ann an 1753, thòisich an Fhraing air sreath de dhùin a thogail
+gla	sa sgìre Ohio a bha na laighe mun iar, air taobh thall nam
+gla	Beanntan Appalaiseanach. B’ e an rùn aca an ceangal eadar
+gla	Louisiana ’s Canada a dhaingneachadh. Ach bha tagraidhean aig
+gla	na tìrean-imrich Breatannaich, Virginia agus Pennsylvania, air
+gla	na dearbh sgìrean. Chaidh George Washington a chur a
+gla	dh’ionnsaigh nam Fraingeach ann an sgìre Ohio airson faicinn
+gla	dè cho làidir sa bha iad, agus gus iarraidh orra an sgìre-sa
+gla	fhàgail cuideachd. Dhiùlt na Fraingich sin a dhèanamh agus an
+gla	ath-bhliadhna, chaidh Washington a chur air ais dhan sgìre Ohio
+gla	ach an turas seo os cionn Reiseamaid Virginia a bh’ air
+gla	ùr-chruthachadh airson ruaig a chuir air na Fraingich.
+gla	Bhuannaich e ann an còmhraig ri buidhinn bheag de 30 Fraingich
+gla	air 28 an Chèitean, 1754. An uair sin, thog iad dùn car lag
+gla	ris an tuirt iad Fort Necessity. An ceann greis, chaidh an
+gla	cuairteachadh le feachd Fhraingeach ’s b’ fheudar do
+gla	Washington gèilleadh dhaibh. Leig na Fraingich mu sgaoil e, ach
+gla	an ath-bhliadhna bha Washington air ais le feachd a bha fo
+gla	stiùir a’ Sheanaileir Edward Braddock. Thachair iad ri na
+gla	Fraingich aig blàr Monongahela; chaidh na Fraingich a ruagadh
+gla	ach chaidh Braddock fhèin a mharbhadh. A dh’aindeoin sin
+gla	ge-tà, fhuair Washington deagh chliù; chaidh dà each a
+gla	mharbhadh fodha ’s chaidh ceithir peilearan tron chòta aige.
+gla	Ann an 1918, an dèidh 123 bliadhna, bha A’ Phòlainn
+gla	neo-eisimeileach a-rithist, is bha Łódź an sàs ann an
+gla	gnìomhachas a’ chlò, is e am baile na bu chudromach na Roinn
+gla	Eòrpa a bh’ann co-dhiù. Bha am baile cliùiteach airson a
+gla	chuid chotain a bhathar a’ fighe anns na
+gla	taighean-ghnìomhachais. A bharrachd air sin, bha an àireamh sa
+gla	cheud dhe Iùdhaich na b’ àirde eadar na bailtean le còrr is
+gla	100,000 luchd-àiteachaidh san Roinn Eòrpa air fad aig Łódź.
+gla	Ri linn an Dàrna Cogaidh, chaidh am baile a mhilleadh ann am
+gla	pàirt le feachdan na Gearmailte, mar phàirt Plana Coitcheann
+gla	an Ear (Gearmailtis: Generalplan Ost) mar bailtean eile anns
+gla	A’ Phòlainn. Bha am broinn na Reichsgau Wartherland. Chaill
+gla	Łódź 420,000 luchd-àiteachaidh, a chaidh a thoirt am brùid
+gla	gu campaichean-bàis, 300,000 Iùdhaich nam measg.
+gla	Ann an 19mh linn, tha eilthireachd, fuadaichean is
+gla	atharrachaidhean sòisealta air leth cudromach anns a'
+gla	bhàrdachd Ghàidhlig. Bha Màiri Mhòr nan Òran an sàs ann an
+gla	Còmhstri an Fhearainn, is sgrìobh i tòrr airson na croitearan
+gla	a bhrosnachadh.  Tha bàrdachd Uilleim MhicDhunlèibhe a' toirt
+gla	dealbh air seann eachdraidh na h-Alba, air na fuadaichean agus
+gla	tachartasan co-aimsireil eile.
+gla	Ann an àirde tuath Sagsainn-Anhalt bruidhnear „Anhaltisch“.
+gla	Is e Thuringian dual-chainnt  (Upper Saxon German sa Bheurla) a
+gla	th’ ann. Tha i coltach ri Ard-Ghearmailtis oifigeal, ach le
+gla	faclan agus abairtean sònraichte a thàinig às a’
+gla	Mhark-Brandenburg. M.e chanar „ick“ an àite „ich“. Anns
+gla	an Deas agus timcheall air Mhagdeburg cluinnear Altmärkisch am
+gla	measg nan seann-daoine, cànan a tha ceangailte ri
+gla	Ostniederdeutsche Sprache (East Low German sa Bheurla).
+gla	Ann an eòlas-talmhainn bhiodh sin a' tachairt fo teas eadar
+gla	150° is 200°C agus fo bhrùthadh na bu mhotha na 1500 bars,
+gla	gheibhte atharrachaidhean fiosaigeach a bhiodh maireannach.
+gla	Bhiodh meud nan clachan ag atharrachadh agus bhiodh gluasad a'
+gla	phàtrain mhòir, mar a bhios iad nan laighe, ann. Biodh am
+gla	pàtran no an structar am broinn nan clachan air caochladh gu
+gla	Ann an tirean bochda 's an treas domhain chan fhaigh h-uile
+gla	paisde cothrom air a' bhun-fhoghlam a tha ann leughadh,
+gla	sgriobhadh agus aireamhachd ach ann an tirean beartaich cuirear
+gla	dleasdanas laghail air parantaibh a chuir an clann aca dhan
+gla	sgoile. Ann an Alba (mar eisimplir de duthach a bhuineas don
+gla	chiad domhain), is fheadar do clann eadar 5 agus 16
+gla	bliadhnaichean a dh'aois a bhi ann an fhoghlam lan t-side. Is
+gla	ann leis an stait fhein a tha an cuid bu mhor ri na sgoiltean an
+gla	Alba, tha iad maoinichte a-mach a cisean na duthcha agus chanar
+gla	"sgoiltean pobalach" riu.
+gla	Anns a' bhliadhna 2001 bha 4,064 duine a' fuireach an seo. Tha
+gla	Sgìre Chùil Lodair a' gabhail a-steach trì coimhearsnachdan
+gla	eile: Balloch, Smithton agus Westhill.
+gla	Anns a' gheoimeatras Eoclaideach, 's e astar as giorra eadar dà
+gla	phuing a th' ann an loidhne dhìrich, agus chan ann ach an aon
+gla	loidhne dhìreach a thèid tro dà phuing. Air plàna, faodaidh
+gla	dà loidhne bhith co-shìnte, 's e sin ri ràdh nach tig iad
+gla	còmhla a-chaoidh no, mur eil, thèid an trasnadh aig aon phuing
+gla	a-mhàin. Bidh an treas cuis ann ann an spàs le còrr is dà
+gla	sheòl-tomhais. San t-suidheachadh seo, faodaidh dà loidhne
+gla	bhith air fiaradh. Cha tig iad còmhla a-chaoidh ach chan eil
+gla	iad co-shìnte chionns gu bheil cùrsaichean eadar-dhealaichte
+gla	aca. Cha laigh dà loidhne air fiaradh air an aon phlàna.
+gla	Anns an fharsaingeachd is e Siubhal-Adhair as cosgaile an
+gla	cumhachd, ged as e am modh-siubhail as luaithe.
+gla	Anns an tuath tha earran bheag de na beanntan Harz. Anns an
+gla	earra-dheas tha an Thüringer Wald (coille Thuringia), beanntan
+gla	le tòrr choilltean. Tha slighe fhada chliùiteach an-seo air a
+gla	bheil “Rennsteig” mar ainm. Is e a’ bheinn as airde am
+gla	Großer Beerberg le 982 m. Anns an ear tha an dùthaich rèidh.
+gla	Is e Thuringia ris an canar „an cridhe uine na Gearmailt“.
+gla	an Ridire Harry Lauder, oirfideach Albannach (r. 4 an Lùnasdal
+gla	An tòiseach b’ e clachan a bha ann an Lilongwe ach bha e na
+gla	mheadhan chlèireachail aig àm colonaidh Bhreatainneach aig
+gla	tòiseach na 20mh linn. Ach dh' fhàs am baile nas motha, anns
+gla	a’ bhliadhna 2003 bha 597,619 duine a’ fuireach an seo. Ann
+gla	an 1974 dh’ imrich an riaghaltas Mhalabhaidh bho Zomba, an
+gla	ceithreamh baile as motha gu Lilongwe. Ged as e Lilongwe an teas
+gla	meadhan poileataigeach ann am Malabhaidh , ‘s e Blantyre, am
+gla	baile as motha na dùthcha, an cridhe eaconomaidh fhathast.
+gla	An uair sin, thugadh ionnsaidh air feachd Uilleim Duibhe air
+gla	sgiath cheàrr nan Seumasach le na mortairean is na saighdearan
+gla	dearga, fhad 's a bha Clann MhicAoidh ag obrachadh timcheall gu
+gla	h-àrd g' a chliathaich a thionndachadh. Sheas na fir-chinnidh
+gla	Tàileach gu daingeann ris na h-ionnsaighean, ach chaidh Uilleam
+gla	Dubh a leòn agus mu dheireadh bha acasan ri dhol air n-ais
+gla	cuideachd, mus ruigeadh Rob Ruadh agus Clann Fhionghuin iad gus
+gla	A rèir an lagha chaidh Coimisean nan Croitearan a chur air
+gla	bhonn. B' urrainnear dol ann nan robh trioblaidean eadar na
+gla	h-uachdaran agus na croitearan. A-measg na ciad dleastanasan a
+gla	bha aig a' choimisean bha e ri ràdh dè na sgìrean a bha nan
+gla	sgìrean croitearachd agus mar sin a' tighinn fon achd ùr. B’
+gla	e sin na Siorrachdan tràidiseanta na h-Alba a leanas Sealtainn,
+gla	Àrcaibh, Gallaibh, Cataibh, Siorrachd Rois, Cromba, Inbhir Nis
+gla	is Earra-Ghàidheal. 'S e coimhearsnachd croitearachd a bha ann
+gla	anns na sgìrean far an robh croitearan ann fad 's 80 bliadhna
+gla	gun chùmhnant màil agus a' pàigheadh màl na b' ìsle na £30
+gla	gach bliadhna agus aig an robh coitcheann.
+gla	A-rèir nan eaglaisean Crìosdail tha a' Chàisg a' tòiseachadh
+gla	tràth sa mhadainn, nuair a chunnaic na boireannaich an uamh
+gla	fhalamh. Tha e sgrìobhte anns a' Bhìoball: "Agus thàinig iad
+gla	gu ro mhoch air madainn a’ cheud là de’n t-seachduin chum
+gla	na h-uaighe, aig éirigh na greine". Mar sin bidh aifreannan na
+gla	Càisge a’ tachairt oidhche Di-Dòmhnaich (uaireannan oidhche
+gla	Shathairne) neo aig èirigh na grèine Di-Dòmhnaich. Mar as
+gla	trice thèid teine beag a losgadh air beulaibh na h-eaglaise,
+gla	far an losgar coinneal na Càisge mus tèid an luchd creideamh
+gla	a-steach dhan eaglais. Le coinneal na Càisge bidh an sagart
+gla	a’ coisrigeadh an uisge-choisrigte ùir anns an aifreann.
+gla	Às deidh an Ath-leasachadh anns an 15mh linn 's e an cuid a bu
+gla	mhotha nan daoine Pròstanaich a bh' annta. Anns an 18mh linn
+gla	thoir Frederic Mòr an ceadachas-cràbhach. An-diugh 's e baile
+gla	mòr glè ioma-chultarach a th' ann am Berlin agus tha torr
+gla	A-thaobh Aeolian harp (clàrsach gaoithe), autoharp neo cumadh
+gla	sam bith den liora neo ciothara, chan e clàrsachan a th' annta
+gla	seo air sgàth s nach bi na teudan aca ag éirigh gu dìreach a
+gla	cuim na clàirsiche. Bidh na teudan aca seo a' dol tarsainn na
+gla	cuime agus mar sin buinidh na h-ionnsramaidean seo dhan
+gla	ghné-orghain zither, mar a bhuineas agus pianoforte is
+gla	Bāb al-Yaman (geata na h-Eamain) ann an meadhan na seann bhaile
+gla	BALL-BODHAIG: Gàirdean – Uilinn – Ruighe – Caol an dùirn
+gla	– Làmh – Corrag (Òrdag - Sgealbag - Gunna fada -
+gla	Mac-an-aba - Lùdag) – cas – Uchd – Sliasaid – Glùin
+gla	– Calpa – Sàil – Adhbrann – Bun-na-coise – Meur-coise
+gla	B' e 22na (is 24mh) ceann-suidhe nan Stàitean Aonaichte a bha
+gla	ann an Grover Cleveland (Am Mart 18, 1837–An t-Og-Mhios 24,
+gla	1908). Bha e ann dà thurais 1885–1889 agus 1893–1897, le
+gla	Benjamin Harrison eatorra.
+gla	B‘ e Alan Graham MacDiarmid (Masterton 14 an Giblean 1927 –
+gla	Philadelphia 7 an Gearran 2007) Ceimeagair à Sealainn Nuadh.
+gla	Bhuannaich e an Duais Nobel ann an Ceimeagachd ann an 2000,
+gla	còmhla ri Alan J Heeger agus Hideki Shirakawa.
+gla	B' e an rian a ghabh Uallas na chiad èiridh a bhith cumail
+gla	grunnan beag de luchd-leanmhainn còmhla ris fhèin, leis an
+gla	tugadh e garg-ionnsaigh air buidheann bhig sam bith den arm
+gla	Shasannach a gheibheadh e air leth bho chàch. Agus leis sin
+gla	ghlacadh e stòr bìdh no armachd a bhiodh a' dol gu aonan sam
+gla	bith de na caistealan. Leis an rian seo, bha e a' dèanamh
+gla	mòran call air an nàmhaid. Aig an àm cheudna bheireadh e aire
+gla	gun seachnadh e aghaidh a thoirt air buidheann lìonmhor sam
+gla	bith dhiubh air nach robh e cinnteach gum b' urrainn dha buaidh
+gla	fhaotainn. Bha aig an àm cheudna mòran de luchd-fearainn 's de
+gla	àrd-mhaithean na rìoghachd ag obrachadh fo òrdagh-san, agus
+gla	dhèanadh iad creachadh agus marbhadh air na Sasannach agus
+gla	chuireadh iad na h-uile maille a b' urrainn orra.
+gla	B' e baile eachdraidheil Gearmailteach a bha ann an Königsberg
+gla	(Laideann: Regimontium Prussorum). B' e Königsberg i. Pr. an
+gla	t-ainm oifigeil a bha air gus a' bhliadhna 1936, an uair sin
+gla	Königsberg (Pr) agus eadar 1945 is 1946 Кёнигсберг
+gla	(Ruiseis) no Karaliaučius (Liotuànais) no Królewiec
+gla	(Pòlais). An dèidh 1946 dh'atharraich an t-ainm gu Kaliningrad
+gla	(Gearmailtis) no Калининград (Ruisis). Tha am baile
+gla	suidhichte faisg air a' Mhuir Bhaltach.
+gla	B' e ceannard na Poblachd Ròmanach a bha ann an Gaius Iulius
+gla	Caesar (IPA: ˈɡaː.i.ʊs ˈjuː.lɪ.ʊs ˈkaj.sar, An Ròimh,
+gla	13 an t-Iuchar 100 RC – Ibidem, 15 am Màrt 44 RC).
+gla	B' e cleasaiche à Connecticut sna Stàitean Aonaichte a bha ann
+gla	an Ernest Borgnine neo Ermes Effron Borgnino (Hamden, 24 am
+gla	Faoilleach 1917 – Los Angeles, 8 an t-Iuchar 2012).
+gla	B' e Constantin Guys (Fìor ainm: Ernest Adolphe Hyacinthe
+gla	Constantin, Vlissingen, 3 an Dùbhlachd 1802 - Paris, 3 am Màrt
+gla	1892) saighdear, dealbhadair, peantair agus fear-aithris ainmeil
+gla	B' e eaconamaiche às Na Stàitean Aonaichte a bha ann an
+gla	Theodore Schultz (30 an Giblean 1902, Arlington, Dakota a Deas
+gla	– 26 an Gearran 1998). Còmhla ri Sir Arthur Lewis bhuannaich
+gla	e an Duais Nobel ann an 1979.
+gla	B’ e Froilán Largacha Hurtado (Popayán, 15 an Dùbhlachd
+gla	1823 - Bogotá, 5 an Cèitean 1892) fear-lagha agus
+gla	fear-poileataigs à Coloimbia a bha na cheann-suidhe na dùthcha
+gla	eadar 10 an Gearran 1863 gu ruige 4 an Cèitean 1863 mar bhall
+gla	a’ chomataidh riaghlaidh a stiùireadh an dùthaich fhad 's a
+gla	bhathar a’ deiseachadh a’ bhun-reachd dhe 1863.
+gla	B' e Imre Nagy (rug 7 an t-Ògmhios, 1896, chuir gu bàs 16 an
+gla	t-Ògmhios, 1958) Prìomhaire na h-Ungair air dà thuras.
+gla	B' e José de Obadía y Orejuela (Santiago de Veraguas, 19mh an
+gla	t-Iuchar 1806 - San José de David, Chiriqui, Panama, 28mh an
+gla	Dùbhlachd 1889) fear-poileataigs agus fear-lagha à Panama .
+gla	Bha e an sàs anns na Seòmraichean Riaghalaidh ann an Coloimbia
+gla	agus bha e na Riaghladair air Roinn a' Chaolais (Panamá an
+gla	latha an-diugh). Bha e os cionn Riaghaltais Choloimbia seachd
+gla	tursan mar leas ceann-suidhe; ged an robh sin airson greiseagan
+gla	beaga, an turas mu dheireadh bho 5mh an Lùnasdal 1854 gu ruige
+gla	1 an Giblean 1855 . Shabaid e an aghaidh an deachdaire José
+gla	María Melo agus chuir e às a' chathair e, agus mar sin chuir e
+gla	an Riaghaltas laghail air dòigh a-rithist. Chuir e ainm gu
+gla	cruthachadh Stàit Uachdaranach na Panama. Le sin, thug e pàirt
+gla	uabhasach cudromach ann an sabaid airson Neo-Eisimeileachd na
+gla	Panama. A bharrachd air, bha a mhac, José Domingo de Obaldía
+gla	an darna cheann-suidhe Phanama, eadar 1908 agus 1910.
+gla	B’e Marie-Henri Beyle neo Stendhal ùghdair Fraingeach a bha
+gla	an sàs ann an litreachas fad a’ chiad leth na 19mh linne.
+gla	Rugadh e ann an Grenoble air an 23mh latha dhen Fhaoilleach 1783
+gla	agus chaochail e ann am Paris air an 23mh latha dhen Mhàrt
+gla	1842. Chleachdadh e tòrr ainmean pinn, mar eisimpleir Louis
+gla	Alexandre, Anastase de Serpière agus Bombet , a bharrachd air
+gla	B' e Neach-teagaisg, fear-saidheans agus feallsanaiche a bh'ann
+gla	an Baruch Spinoza (Laideann: Benedictus de Spinoza, Eabhra:
+gla	ברוך שפינוזה, Amsterdam 24 an t-Samhain 1632 – Den
+gla	Haag 21 an Gearran 1677). Thogadh e ann an coimhearsneachd
+gla	Iùdhach (Duitsis: Joedenbuurt) san Òlain, ach bhuineadh a
+gla	theaghlach dhan A' Phortagail. Fhoillseachadh an Ethica, ordine
+gla	geometrico demonstrata, ann an 1677, dìreach an dèidh a bhàis.
+gla	B' e Pàpa Eadailteach a bha ann am Pàpa Clemens X (Laideann
+gla	Clemens P.P. X, An Ròimh, 13 an t-Iuchar 1590 - Cathair na
+gla	Bhatacain, 2 an Gearran 1676. B' e Emilio Bonaventura Altieri,
+gla	an t-ainm a bh' air bho thùs. Chaidh a thaghadh air an 29 an
+gla	Giblean 1670 mar phàpa an dèidh bàs Pàpa Clemens IX. 'S e an
+gla	239mh fear a bh'ann. Bhuineadh e do theaghalach beairteach air
+gla	uaisleachadh o chionn fhada.
+gla	B' e Pär Fabian Lagerkvist sgrìobhadair agus bàrd às an
+gla	t-Suain. Rugadh e ann an Växjö ann an 1891 agus chaochail e
+gla	ann an Stockholm ann an 1974. Bhuannaich e an Duais Nobel ann an
+gla	B' e radio-ceimeadair Sasannach a bha ann an Frederick Soddy
+gla	(Eastbourne 2 an t-Sultain 1877 – Brighton 22 an t-Sultain
+gla	1956). Rugadh e ann an Eastbourne, Sassain agus dh'ionnsaich e
+gla	ceimeagachd ann an Colaiste na Cuimrigh ann an Aberystwyth agus
+gla	an uair sin ann an Oilthigh Oxford far an robh e ag obair
+gla	an-dèidh a dheuchainnean gus 1900. An uair sin rinn e
+gla	rannsachaidhean air rèidio-beò (radioactivity) ann am Montreal
+gla	còmhla ri Ernest Rutherford agus le Sir William Ramsay ann an
+gla	Lunnainn. Eadar 1904 is 1913 bha e a' teagaisg ann an Oilthigh
+gla	Ghlaschu, an uair sin ann an Oilthigh Obar Dheathain, mus thill
+gla	e air ais gu Oxford ann an 1919, far an robh e ag obair gus
+gla	1936. Chaochail e ann am Brighton, Sasainn. Bhunnaich e ann
+gla	Duais Nobel ann an Ceimeagachd ann an 1921.
+gla	B' e Robert Sanderson Mulliken (Newburyport (Massachusetts 7 an
+gla	t-Ògmhios 1896 - Arlington (Virginia) 14 an Giblean 1986)
+gla	Ceimeagair às na Stàitean Aonaichte. Bhuannaich e an Duais
+gla	Nobel ann an Ceimeagachd ann an 1966. Tha e ainmeil ais sgàths
+gla	an obair aige airson molecular orbital theory.
+gla	B' e sgrìobhadair agus feallsanaiche a bha ann an Henry David
+gla	Thoreau (1817 – 1862). Bha e às na Stàitean Aonaichte. Tha e
+gla	ainmeil airson na leabhraichean Walden agus Civil Disobedience.
+gla	B' e Sugamuxi (a chaochail ann an 1539) riaghladair
+gla	Co-chaidreachas nam Muisca (neo Iraca) ann an Tìr nan Chibcha.
+gla	Tha an t-ainm sin a’ ciallachadh "Am Fear air Falach" agus
+gla	‘s e fear-ionaid Nompanim a bh’ann, ged gur e ùghdarras nas
+gla	dhiadhiadh na sìobhalta a bh’ann. Bha e na caidreabhach an
+gla	Zaque ann an strì an aghaidh an Zipa Nemequene. Ach nuair a
+gla	bhàsaich an Zipa, cha do chuir e taic gu Quemuenchatocha is bha
+gla	e dìreach airson còrdadh na sìthe fhaighinn. Le sin, B’
+gla	urrainn dhàsan sgur-cogaidh dhe fichead mìosan (dà bhliadhna)
+gla	a lorg eadar na cinn-feadhna comhstrìtheach sin.
+gla	B' e William Golding sgrìobhadair às a' Chorn. Rugadh e ann an
+gla	baile beag ris an canar Sen Kolomm Vyghan ann an 1911 agus
+gla	chaochail e ann am Pyran ar Woethel ann an 1993. Bhuannaich e an
+gla	Duais Nobel ann an Litreachas ann an 1983.
+gla	Bha a chuid mhòr de smuaintean Phlato mu fios bho na
+gla	ciad-fàthan an còmhnaidh mi-chinnteach agus nach b'urrainn do
+gla	dhuine sam bith fios firinneach fhaighean ach bho tionndadh air
+gla	falbh bho'n neach a thionndas air falbh bhon t-Saoghal.
+gla	Bha an 19mh linn, eadar 1 am Faoilleach 1801 is 31 an Dùbhlachd
+gla	1900. Bha na 1800an eadar 1 am Faoilleach 1800 is 31 an
+gla	Dùbhlachd 1899, ach tha ciall eile aca; na bliadhnaichean eadar
+gla	Bha an t-Ollamh còir air chuairt ann an Caisteal Dhùn Bheagain
+gla	anns a' bhliadhna 1799. Thachair do ghobha Gallda a bhith ag
+gla	obair mun Chaisteal, agus aon là dh'innis e don Ollamh gun robh
+gla	a' chiste iarainn anns an robh a' bhratach air a glasadh gu
+gla	bhith air a fosgladh. Bha Tormod an làthair aig àm fosgladh na
+gla	ciste, agus an taobh a-staigh dhith bha bocsa fiodha den robh
+gla	fàile ro-chùbhraidh. Am broinn a' bhocsa fhiodha bha a'
+gla	bhratach iomraiteach na laighe, is i air a dèanamh den t-sìoda
+gla	bu bhrèagha, agus obair-ghrèis ro-ghrinn air a chur oirre, le
+gla	croisean de shnàth òr. Goirid an dèidh sin thàinig fios gun
+gla	deachaidh an long-chogaidh air an robh Tormod Dhùn Bheagain na
+gla	oifigear fodha, agus gun robh e air a chall.
+gla	Bha buaidh mhòr dha-rìreabh aig Buckley air cultar Ameireaga
+gla	agus thuirt George H. Nash, eachdraiche an gluasad conservative
+gla	Ameireaganach, mu dheidhinn:
+gla	Bha cuid e na beachdan aig Tomás Ó Rathaile gu math
+gla	connspaideach. Dh'fhoillsich e leabhar air a bheil Early Irish
+gla	history and mythology ann an 1946 agus chuir e nar sùilean gun
+gla	do rinn muinntir aig an robh cànain Cheiltich tìr-ghabhail
+gla	ceithir tursan ann an Èirinn, stèidhichte air sgrùdadh nan
+gla	seann-sgrìobhainnean. Ann an òraid sa bhliadhna 1942, nochd e
+gla	beachd gun robh dà Naomh Pàdraig ann.
+gla	Bha eadhdraidh na Cuimrigh caochlaideach san 20 linn. Ach, a
+gla	dh’aindheon a’ Chogaidh Mhòir, gainne moir nan 1930, an
+gla	darna chogadh agus lagachadh na Cànain anns na 1970an agus na
+gla	1980an, tha Seanadh Nàiseanta aig an dùthaich a-nis agus tha
+gla	dùil gu bheil cor na Cànain nas dòchasaiche na smaoineachadh
+gla	daoine o chionn ginealach air ais, ged nach eil ach 18% dhen
+gla	Bha e dìreach 15 bliadhna a dh’aois ann an 1932, nuair a
+gla	thòisich An Cogadh Chaco eadar Paraguaidh agus Boilibhia.
+gla	Theich e le feadhainn bhon an sgoil is chaidh e air falbh chun
+gla	a’ chogaidh airson a chuid cuairt-dànachd fhaighinn is e na
+gla	nurs an siud. Ach chuir na chunnaic e sgath air is bha e gu math
+gla	an aghaidh ainneart agus brùidealachd gus a bhàsaich e.
+gla	Bha e na Phrionnsa Orange bho rugadh e
+gla	Bha Gàidhlig aice agus bha comas aice ceòl a sgrìobhadh agus
+gla	Bha Jim MacGilleEathain air 18 mìosan a chur seachad na chòids
+gla	aig Pàirc Dhens nuair a thug co-strìtheach Dhùn Dèagh Dùn
+gla	Dèagh Aonaichte tairgse dha dreuchd a' mhanaidsear a ghabhail
+gla	anns an Dùbhlachd 1971. B'e sin an àite Jerry MacGillechiar a
+gla	bha a' leigeil dheth a dhreuchd. Ghabh Jim ris an tairgse agus
+gla	dh'imrich e a-null an rathaid gus tòiseachadh air obair a'
+gla	mhanaidsear aig Pàirc Thanachais, aig aois 34.
+gla	Bha mòran leannain ainmeil eile ann an saoghal an ealain aig
+gla	Rodin fad a bheatha cuideachd. Mar eisimpleir, sgrìobh an
+gla	dannsair Isadora Duncan mu dheidhinn a cuid leannanachd
+gla	neo-thorrach còmhla ris an deilbhear: ’S e dìreach a h-uile
+gla	càil a thoirt dhasan gum bu mhiann leamsa fhèin agus sin a
+gla	dhèanainn gu dearbh, nan cuireadh mo chuid fhoghlaim amaideach
+gla	an dearg eagal ormsa (...). Abair na tursan a ghabh mi
+gla	aithreachas air a’ mhì-thuigsinn ghòrach leis gun do chaill
+gla	mi an cothrom seunta mo mhaighdeanas a thoirt dhan dhia Pan, do
+gla	Rodin uamhasach! A bharrachd air sin, thug mòran de
+gla	luchd-ealain is cleasaichean pàirt ann am beatha Rodin, is bho
+gla	àm gu àm bhite ag iarraidh a bhith ga mì-chliùthachadh gu
+gla	poblach, air an sgàth; Sgaoileadh Sergei Diaguilev droch
+gla	fhathannan mu dheidhinn Rodin agus Vatslav Nijinski, nuair a
+gla	chunnaic e an dithis dhuibh nan cadal còmhla air an fheur an
+gla	comhair an Taigh-òsda Hôtel Biron.
+gla	Bha na leabhraichean foillsichte fo suidheachadh 'codachadh nan
+gla	rath', far chan fhaigheadh Tolkien iasad no dleas-ùghdair gus
+gla	bha na leabhraichean gu cothrom air bhriseadh, ach as dèidh sin
+gla	ghabhadh cuid mhòr nan rath.
+gla	Bha port-mara beag aige a bha cudromach airson Gleann Iucha,
+gla	baile faisg air. Ach nuair a bha Ceann Fhàil a' fàs na bu
+gla	mhotha chaidh an gnìomhachas ann am Blackness sìos.
+gla	Bha siod ann uair gobha ann an Ratharsaidh. [...] Agus bha a
+gla	nighean oidhche ag iarraidh nan caorach, agus cha tànaig i
+gla	dhachaigh. [...] Agus bha loch ann am mullach Rarsair air an
+gla	robh an t-each-uisge a` fuireach. Agus thànaig iad a
+gla	dh’ionnsaigh an loch, agus fhuair iad an cridhe ‘s an
+gla	sgamhan aig an nighinn ann an cladach an loch.
+gla	Bha Uilleam MacBhatair (Baile Mhuilinn Anndra, 1865 - 9 am Màrt
+gla	1948) na shàr-sgoilear agus a' chiad duine a chuir sgrùdadh
+gla	ainmean àite Albannach air stèidh acadaimeagach. Bha e na
+gla	thidsear ann a sgoiltean ann an Glaschu, Inbhir Nis agus Dun
+gla	Eideann. B'e an uair sin Cathraiche na Ceiltis aig Oilthigh Dun
+gla	Eideann a bh' ann bho 1914 gu 1938. B' e a mhac Seumas
+gla	MacGilleMhìcheil MacBhatair a bha an ath Chathraiche na Ceiltis.
+gla	"Bhiodh na bodaich a chunna mise a' dol do chreag-nan-eun an
+gla	uair a bha iad òg, is a' deanamh "biùmh-lamhach" mu'n
+gla	d'thubhairt iad féin e, air na sgairbh. Is iomadh sgeul a bha
+gla	aca air a bhi a' dìreadh na Stalla Duibhe an Sùl-ghorm, seadh,
+gla	agus air an t-sraighlich mhi-nàdurra bhiodh iad ag cluinntinn
+gla	am mullach a mhill ud, far an do thogadh an tigh-soluis a tha
+gla	air an diugh 'nar linn féin. Bha iad ag radh gu'm biodh na
+gla	sgairbh, an ám dol a laighe anns a' chreig, a' fàgail aon air
+gla	faire is an còrr dhiubh a' pasgadh an cinn fo'n sgroib.
+gla	Bhon bhliadhna 1988 bidh an taigh solais ag obair
+gla	fèin-ghluasadach, bidh an Northern Lighthouse Board a’
+gla	gabhail cùram air a-nise. Bhon bhliadhna 1996 tha taigh an
+gla	luchd-obrach agus na togalaichean eile aig an Ardnamurchan
+gla	Lighthouse Trust. Tha ionad airson luchd-turais ann a-nise.
+gla	Gheibh an luchd-turais fiosrachadh a bharrachd air
+gla	sanasan-fiosrachaidh ann am Beurla agus ann an Gàidhlig a
+gla	chaidh a chur an àrd aig cois an taigh-solais.
+gla	Bhuannaich Carl Gustaf Verner von Heidenstam an Duais Nobel ann
+gla	Bhuineadh Pétain do theaghlach dhe croitearan caitligeach.
+gla	Chaidh e dhan sgoil saighdearachd Saint-Cyr ann an 1886 agus
+gla	dhan Àrd Colaiste a’ Chogaidh (Fraingis: École Supérieure
+gla	de Guerre) ann an Paris an ath-bhliadhna, is bha e an siud gu
+gla	ruige 1906. Bha e follaiseach gu robh airson eòlas-cogaidh
+gla	dìonadach agus sabaid na trainnsichean daingnichte. Chaidh e a
+gla	chur suas gu còrnaileir ann an 1912.
+gla	Bidh mòran dhe fhèis a' gabhail àite tron bhliadhna sa
+gla	Mhòine Naomh: Fèis Chiùil Tradaiseanta sa Chèitean, Fèis
+gla	Chiùil Bluegrass san t-Sultain agus Fèis Ghiotàir san
+gla	Lùnasdal. A bharrachd air sin, tha iomadach ghnìomhachas ann
+gla	cuideachd: taighean-seinnse, taighean-bìdhe agus bùth-obrach
+gla	theòclaid. Tha ealain glè chudromach an seo agus chithear
+gla	ìomhaighean-chloiche air feadh na sgire.
+gla	Bithidh luchd-innlichidh gan cleachdadh a leigeil a-mach
+gla	uillnean air làrach nuair a bhitheas iad ri stacadh a-mach
+gla	Brasta (Liotuanais), Brest-Litovsk (former English and Ruiseis
+gla	name), Brześć Litewski (Pòlais), Brześć nad Bugiem (Pòlais
+gla	1918-1939); Lietuvos Brasta (former Liotuanais name)
+gla	Buill: Aonghas MacNeacail, Seumas Whannel, Eòin Lincoln, Eilidh
+gla	Ros, Fionnlagh Hickey, Gillian Cockwill
+gla	Cairt: Poblachd Dheamocrach na Congo
+gla	Canar factaran ris na h-àireamhan a tha air an iomadachadh (3
+gla	agus 2) agus an toradh ri buil an iomadachaidh (6). 'S
+gla	urrainnear ainmean àraidh a thoirt don dà fhactar fa leth –
+gla	an iomarann agus an t-iomadair – ach chionns gu bheil 3 × 2 =
+gla	2 × 3 chan eil e gu diofar cò aca tha na iomarann no na
+gla	Carragh cuimhne do Dhonnchadh Bànn ann an Eaglais nam Manach
+gla	Ceimeagair às An t-Suain.
+gla	Cha do chleachdadh an àite as dèidh sin airson 1500 bliadhna,
+gla	gus an do thogadh àirighean an seo anns na Meadhan Aoisean.
+gla	Chithear làrach de thrì bothain-àirigh agus dà bhuaile faisg
+gla	Chaidh a chleachdadh le feachdan nan Stàitean Aonaichte anns an
+gla	Dàrna Cogadh, mar chànan dìomhair airson conaltradh, a
+gla	dhèanamh cinnteach nach tuigeadh na Iapanaich dé bha tachairt.
+gla	Chaidh am baile a stèidheachadh anns a’ bhliadhna 1818.
+gla	Chaidh a mharbhadh, gun e ach 29 bliadhna a dh'aois, aig sèiste
+gla	Caisteal Rosbrog (a bha an sealbh Shasainn aig an àm) ann an
+gla	1460, nuair a sprèidh fear dhe na gunnaichean-mòra, air an
+gla	robh e cho measail, ri thaobh.
+gla	Chaidh An Eilbheis a stèidheachadh tro aonadh Uri Obwalden,
+gla	Chaidh an t-sluagh mì-thoilichte agus diombach. Às t-samhradh
+gla	1989 thòisich na ùrnaighean sìthe anns an Eaglais Nicolai ann
+gla	an Leipzig agus às deidh bha na caismeachdan-Di-Luain ann gach
+gla	seachdain. Anns an Dàmhair thuit GDR am broinn a chèile. Thuit
+gla	am Balla Bherlin aig 9mh den t-Samhain 1989. Chaidh a’
+gla	Ghearmailt ath-aonadh anns a’ bhliadhna 1990 agus b’ e
+gla	prìomh-bhaile na Gearmailt a bha ann am Berlin a-rithist.
+gla	Chaidh Bonn a thaghadh mar phrìomh-bhaile ùr na dùthcha (an
+gla	àite Frankfurt) an dèidh a’ chogaidh, oir chaidh an
+gla	dùthaich a sgaradh ann an dà stàit is bha Berlin air a
+gla	mhilleadh. Le sin, ‘s e prìomh-bhaile Poblachd Feadarail na
+gla	Gearmailte bho 1949 gu ruige 1990, nuair a thaghadh Berlin na
+gla	phrìomh-bhaile a-rithist, mar thoradh Aonadh na Gearmailte.
+gla	Chaidh pàrlamaid na Gearmailt agus pàirten den Riaghaltas a
+gla	ghluasad air ais a Bherlin ann an 1999.
+gla	Chaidh Cùl-Cinn an Droma Bhig a stèidheachadh aig Àm nam
+gla	Fuadaichean. 'S e aon de na bailtean dhen Oighreachd Asaint a
+gla	Tuath a th' ann Cùl-Cinn an Droma Bhig. An-diugh tha timcheall
+gla	air fichead daoine a' fuireach an seo. Tha cidhe beag aig a'
+gla	bhaile a chaidh a thogail aig deireadh na 1800an. Thèid a
+gla	chleachdadh le bàtaichean-iasgaich is bàtaichean beaga eile
+gla	an-diugh. Tha tuathanas-èisg ann an Cùl-Cinn an Droma Bhig
+gla	Chaidh e dhan Oilthigh Dhùn Éideann ann an 1929. Bha an
+gla	t-Ollamh Herbert Grierson ga theagaisg, is bha ùidh aig
+gla	MacGill-Eain ann am bàrdachd John Donne is na bàird
+gla	"metaphysical" eile. Fhad 's a bha e anns an oilthigh choinnich
+gla	e ri feadhainn dhan tug e àite mòr a thaobh litreachais. Nam
+gla	measg sin bha Seumas Caird agus Seòras Elder Davie agus bha
+gla	càirdeas dlùth eadar an triùir aca. An uair a bha e na
+gla	oileanach gus dreuchd na teagasg a thoirt a-mach choinnich e ri
+gla	Ùisdean MacDhiarmaid. Bha tarraing mhòr eadar an dithis agus
+gla	lean sin gus an do bhàsaich MacDhiarmaid ann an 1978. Tha gu
+gla	leòr den bheachd gun do ràinig Somhairle MacGill-Eain inbhe a
+gla	cheart cho urramach mar bhàrd ri MacDhiarmaid agus ri Edwin
+gla	Chaidh iad air turasan air feadh nan Stàitean Aonaichte agus
+gla	cuideachd ann an Alba agus anns an Roinn Eòrpa. Chluich iad ann
+gla	an Steòrnabhagh, Dùn Èideann agus Glaschu. Chluich iad
+gla	cuirm-chùil bheò air Rapal air BBC Radio nan Gaidheal agus bha
+gla	prògram mu an deidhinn air a sgaoileadh anns an t-sreath,
+gla	Chaidh Melo a chuir an grèim is ghabh José de Obaldía, à
+gla	Panama, an Riaghaltas os làimhe. A dh’aindeoin sin, bha e
+gla	saor rè na trì cùisean-lagha a fhuair ann an 1855 oir phàigh
+gla	a charaid is fear-dùthcha Manuel Murillo Toro a chuid urrais.
+gla	Chaidh Paul Roux (Afraga a Deas) a stèidheachadh.
+gla	Chaidh uallach airson maoineachadh MG ALBA a thoirt gu
+gla	Ministearan Albannach fon òrdugh seo: The Scotland Act 1998
+gla	(Transfer of Functions to the Scottish Ministers etc.) Order
+gla	Chan ann a-mhàin an Èirinn a lorgadh tù Gall bhon Lochlainn
+gla	a' dèanamh creach agus sgrios ach cuideachd an Alba, Mhanainn
+gla	(far an do ghabh iad grèim air an cathair-rìoghail) agus gu
+gla	mòr ann an Sasainn far an do dh'ionnsaigh iad bho rìgh Cnut
+gla	air a no Canute 'san aona linn deug agus cheannsaich iad an
+gla	dùthaich. Ann an Alba chaidh na h-Eileanan Siar agus a'
+gla	mhòrchuid den taobh Iar den dùthaich a ghlèidheadh fo
+gla	cumhachd nan Lochlannaich - 'sann mar seo a' tha an t-ainm
+gla	'Innse Gall againn air na h-eilean 'san latha an diugh ged is e
+gla	'Innse Gàidheal' a bhiodh nas fìrinneach.
+gla	Chan eil co-aonta ann mu cuin a thòisich an aois Bheasantian.
+gla	Bi feadhainn ga cheangail ri riaghail an t-Impire Diocletian
+gla	(284-305), a chruthaich iomadadh atharrachan anns an riaghaltas
+gla	agus 'sann mar seo a chaidh Impireachd an Ròimh a ghearradh ann
+gla	an dà leth ; pars Orientis (an leth Earrach) agus pars
+gla	Occidentis (an leth Siarach). Tha feadhainn den bheachd gur e
+gla	Constantine I a chiad Impire Beasantian. Bi feadhainn a cuir
+gla	toiseach an Impireachd sònraichte ann an riaghail Theodosius I
+gla	(379-395) agus le buaidh Chrìosdaidheachd tarsainn air an
+gla	Creideamh Romanach, air a neo a leantain a bhàs ann an 395 leis
+gla	an dealachadh den Impireachd. Tha buidhean eile ann a bhios ga
+gla	cheangail ri 476 oir gur ann 'sam bliadhn' ud a leig an Impire
+gla	mu dheireadh san Iar, Romulus Augustus, às a dhreuchd agus mar
+gla	sin a fàgail an cùmhachd ìmpireil le Impire an Ear a bhàinn.
+gla	Tha aon beachd eile ann gur e ath-chruthachadh an Impireachd ann
+gla	an aois Heraclius (mu 620) nuair a fhuair Greugais inbhe mar
+gla	cànan oifigeil agus a chuid mhòr chogadh agus strì ris an
+gla	robh an Impireachd ceangailte a gabhail àite 'san Ear. Gun
+gla	diofar de am beachd a ghabhas neach, chaidh an atharrachadh air
+gla	adhart beag air bheag agus an 330, nuair a stèidhich
+gla	Constantine prìomh-bhaile ùr airson an impireachd na ainm
+gla	fhèin - Constantinople, bha cùmhachd an cànan agus cultar
+gla	Greugach a sgaoileadh (Hellenization 'sa Bheurla) mu tha.
+gla	Chan eil Forbes cinnteach cò às a tha a’ chiad eileamaid aig
+gla	Garsbheinn a’ tighinn ach tha e a’ cur an aire gu bheil e
+gla	a’ tighinn bhon fhacal Ghàidhlig gàirsinn. Thuirt Richard
+gla	Cox ann an òraid aig Rannsachadh na Gàidhlig 2006 gu bheil
+gla	beachd sònraichte aige mu dheidhinn bheann aig a bheil -bheinn
+gla	mar dàrna eileamaid dhen ainm. Tha e a’ smaoineachadh gur e
+gla	ainmean Lochlannach a th’ annta a b’ àbhaist a bhith nam
+gla	Bla Fjall agus gun do dh’atharraich an dàrna h-eileamaid
+gla	Lochlannach gu eileamaid Gàidhlig agus gun do chum na Gàidheil
+gla	Chan urrainn do ainmear rosg-rann a dhèanamh na aonar, ged is
+gla	urrainn do gnìomhair ga dhèanamh.
+gla	Charlton Heston, actair Aimeireaganach
+gla	Cheannaich Sir Eòghann Friseal am pàipear ann an 1964 agus
+gla	an-sin, ghabh Tiny Rowland seilbh air ann an 1979 le Lonrho PLC.
+gla	Chleachdadh am fadhail anns an Elbe anns na Meadhan-Aoisean gu
+gla	math tric, ach cha robh ach baile beag ann aig an àm ùd. Bha
+gla	Meißen, baile eile faisg air, na bu chudromaiche anns na
+gla	Chruthaich e mu 3000 sreath a th' air maireann an diugh, a bheir
+gla	iomradh air eachdraidh agus poileataics Gaidhealach, mar Mort
+gla	Ghlinn Comhann agus na Cogaidhean Mhon Rois, agus gu h-àraid
+gla	blàir nan Gaidheal, mar eisimpleir Là Inbhir Lochaidh.
+gla	Chuireadh e ri dreuchd air tìr airson beagan miosan ach an ath
+gla	bhliadhna, chuireadh e os cionn iomairt rannsachaidh eile. Bha
+gla	amas a' bhoidse seo a thomhais meud de Antartica. Thug Cook an
+gla	long-thomhais cho fada dhan deas gun b'urrainn dha, a sheòl mun
+gla	agus a phlot criochan den deigh a chuairteachas Antartica. Nuair
+gla	a thill e bhon tomhais seo an 1775 rinneadh Làn Chaiptean dheth.
+gla	Chunnaic an Lochlannach ri taobh a bhìrlinn
+gla	Cleachdaidh roinn nam gnè an t-opra còmhradh cuideachdaichte
+gla	no neo-cuideachaichte leis an fhoireann-ciùil an àite dhen
+gla	aithris. Tha 'n còmhradh den t-seòrsa cuideachd an comharradh
+gla	riatanach fhaoncleas, 'na chiall na linn 19mh. Dh'fhàs
+gla	faoin-chleas den t-seòrs' ann am cuid às an dòigh a bheil a'
+gla	nochdadh 'san linn 16mh air thòiseachadh de sgrìobhadh
+gla	ceòl-teagmhaiseach ri cleasan an t-àrd-ùrlair, an dàrna cuid
+gla	na cleasan a' maireann a-cheana no socraichte 'cheana. Bidh 's
+gla	dòcha 'n t-eisimpleir as aidichte den t-seòrsa dhan roinn
+gla	leughadairean as motha 'n ceòl dhan Aisling Oidhche Leth an
+gla	t-Samhraidh le Mendelssohn; tha 'n obrach seo ach beag gu
+gla	cinnteach gnìomhaichte as trice an t-seòrsa ann am brìgh air
+gla	leth bho a cleas co-cheumnachadh, agus th' ath-sgrìobhte air
+gla	bhith air ach beag uile cothlamadh a' chiùil-caidreimh
+gla	cruth-inntinneach, cho math ris a' chòmhlan-ciùil na
+gla	ceòlcuirme. Tha 'n lag-ceòlainn a' toirt iomladh air an
+gla	ghnìomhadh a' chleasa san fhaoin-chleas na linn 19mh a'
+gla	maireann an-diugh 'san dualchas sa' cheòl fhilmean, agus is
+gla	urrainn do filmean mhothachaidh coimeasgachadh ceòl cudthromach
+gla	a bhith meòmhraichte na h-oighrean dìreach nam faoin-chleas.
+gla	'S mathaid 's urrainn do ceòl den t-seòrsa bhith eadhon, ann
+gla	am ciall, meòmhraichte eadar na h-oighrean is na coimhlichean
+gla	co-chasach ma tha, air a' char as lugha, aon loidhne
+gla	cothromachaidh aige. Ma tha òrdugh a' phoileagain còrr, thèid
+gla	an loidhne seo tarsainn air gob agus meadhan an oir mu
+gla	choinneamh. Ma tha an t-òrdugh aige cothromach, thèid an
+gla	loidhne tarsainn air dà ghob mun coinneamh no air meadhan dà
+gla	Comhairle Cathair Dhùn Eideann - Dùn Eideann
+gla	Copenaghen (Eadailtis), Copenhaga (Portagailis, Ròmanianais),
+gla	Copenhague (Fraingis, Spàinntis), Hafnia (Laideann),
+gla	Kaupmannahöfn (Tileis), Kobenhaven (Slovenianais), København
+gla	(Dànais, Nirribheis), Kūbinhāġin (Arabais), Kodaň (Teiceis,
+gla	Slobhagais), Kööpenhamina (Fionnais), Kopengagen (Bulgarian,
+gla	Ruiseis), Kopenhaagen (Estonian), Kopenhag (Turcais), Kopenhaga
+gla	(Liotuanais, Pòlais), Kopenhagen (Cròatais, Duitseis,
+gla	Gearmailtis), Kopenhāgena (Latvian), Köpenhamn (Suaneis),
+gla	Kopenkhági (Greugais), Koppenhága (Ungarais)
+gla	Crosbie Castle (cuideachd Crosbie Towers) air àird an
+gla	iar-thuath Cille Bhrìghde an Iar. B’ e Crosbie Castle an
+gla	dachaigh aig Sir Ranald Craufurd (a bha ceagailte leis an
+gla	teaghlach Uilleam Uallas) anns an 13mh linn, canar gun do chuir
+gla	Uallas uine seachad ann an Crosbie. Chaidh an caisteal a thogail
+gla	a-rithist air sgàths gun robh pàirt dhen tùr tùsail ga
+gla	leagail sìos anns an 17mh linn.
+gla	Curdy y la Cámara de los Lores. Montena (Random House
+gla	Mondadori), 2007. ISBN 978-84-8441-331-8
+gla	David Stevenson (1815–1886), innleadair Albannach is
+gla	neach-togail taighean-solais, mac
+gla	Dè tha thu ag iarraidh? - Was willst du?
+gla	dhen Chèitean 2014 ‎Wilkinson County, Mississippi (eachd)
+gla	‎[216 bytes] ‎MacRusgail (Deasbaireachd | mùthaidhean)
+gla	(Created page with "Tha '''X County ''' ann an Mississippi. Se
+gla	''' X ''' am prìomh-bhaile. {{Siorrachdan Mississippi}}
+gla	Category:Mississippi Category:Siorrachdan Mi...")
+gla	Dh'fhàs an Seacais bho chànan a thoirt na cinnidhean Seicich
+gla	còmhla, nuair a thàinig iad don dhùthaich anns an còigeamh
+gla	agus an siathamh linn, agus tha na chiad chuimhneachain
+gla	sgrìobhte againn bhon dàrna linn deug. Is e cànan
+gla	Indo-Eòrpach, Slàbhach a tha innte. Tha e nas coltaiche ri
+gla	Slòbhacais, agus o chionn 's a bha na Seicich agus na
+gla	Slòbhacaich a' fuireach anns an aon stàit an cuid as motha
+gla	dhen ficheadamh linn, tha iad a' tuigsinn ri chèile. Tha
+gla	Seacais an Ear, mar a tha daoine ga bruidhinn anns na crìochan
+gla	faisg air an t-Slòbhac gu ìre mhath coltach ri Slòbhacais mar
+gla	a tha i ri Seacais oifigeil. 'S e an aon rud le Seacais san
+gla	earra-thuath faisg air crìoch na Pòlainn a tha coltach ri
+gla	Dh'fhoillsich mòran lì-dhealbhadairean geasachd leis a' ghruag
+gla	ruadh. Thàinig an ainm an datha "titian" à Titian, a
+gla	lì-dhealbh gu tric mnathan ruadha. [5] Gabhaidh a-staigh
+gla	lì-dhealbhadairean eile ainmeil air an daoine ruadha na
+gla	Bràithreachas nan Ro-Raphaelich [6], Edmund Leighton,
+gla	Modigliani [7], Gustav Klimt [8] agus Sandro Botticelli, an
+gla	dealbh ainmeil, Breith Bheunais, a thae a' comharradh a'
+gla	bhan-dia ùr-sgeulach, Bheunas, le gruag ruadh.
+gla	Diego Coello de Portugal y Quesada (Jaén 1820 - An Ròimh 1897)
+gla	Tosgair, fear poileataigs.
+gla	Do Not Leave Your Language Alone: The Hidden Status Agendas
+gla	Within Corpus Planning in Language Policy. Lawrence Erlbaum
+gla	Associates. (ISBN 0805850244) (ISBN 978-0-8058-5024-6)
+gla	Dùthchannan le poileasaidhean nua-libearalach
+gla	Ealasaid Báthory (Erzsébet Báthory ‘san Ungaireach, Alzbeta
+gla	Bátoriová-Nádašdy ‘san Slòbhàice, 7 an Lùnasdal?, 1560
+gla	- 21 an Lùnasdal, 1614), no a’ Bhaintighearna Fhuileach na
+gla	Čachtice. Bha i ‘na ban-iarla agus rugadh i ceithir fichead
+gla	bliadhna ‘s ceithir as dèidh bàs Vlad III Dracula, cò bha
+gla	‘na neach-cinnidh cèin, agus ‘s e am ban-mharbhaiche as
+gla	maslaiche ann an eachdraidh an t-Ungair is Slobhaca bh’innte.
+gla	Elettaria ris an canar càrdamom no càrdamom uaine cuideachd.
+gla	Tha àiteachas den t-seòrsa seo sgaoilte eadar na h-Innseachan
+gla	is Sri Lanca agus Tài-lann is Malaidhsia.
+gla	Eugenio Montale (1896 – 1981): bàrd a bhuannaich an Duais
+gla	Falt bàn air Natalie Clifford Barney aig deich bliadhna a
+gla	dh'aois ann an lì-dealbh le Carolus-Duran
+gla	far a bheil na camagan ( ) a' ciallachadh gum feumar an
+gla	t-obrachadh a-stigh fhuasgladh ron fhear a-muigh. Nise, ma tha e
+gla	Fèisean a' chiùil Carrilera, an Dannsa agus a' chiùil Guasca.
+gla	Fhuair am Pàrtaidh Libearalach ballrachd dhan Bhuidheann
+gla	Sòisealach Eadar-nàiseanta ann an 1999, an dèidh pròiseas
+gla	fada a thoisich iad fo Alfonso López Michelsen ann an 1982.
+gla	Thug iad an ceum sin airson na beachdan sòisealach deamocratach
+gla	aca bho àm Rafael Uribe Uribe a leasachadh. Tha pròiseas dhe
+gla	deamocratachadh air a bhith ann taobh a-staigh a’ phàrtaidh
+gla	Fhuair e fhoghlam aig St. Benedict's, Ealing agus Eton College,
+gla	mus do chùm e air gu Magdalen College, Oilthigh Oxford airson
+gla	ceum a dhèanamh ann am Beurla. Greiseag ghoirid an dèidh dha
+gla	ceumnachadh ghabh e àite mar an ùghdar a b' oige a-riamh a
+gla	dh'fhoillsich leabhar mu eachdraidh-beatha duine nuair a
+gla	sgrìobh e mu beatha am Morair Alfried Douglas.
+gla	(fileantach bho dhùthchas), 1/2 (iomlan)
+gla	Francisco Silvela y le Vielleuze
+gla	Gabhar faicinn gum faighear an aon bhuil ma tha an dà bheactar
+gla	agus  air an cur ceann gu ceann. ’S e an t-suim aca am
+gla	bheactar a tha a’ coileanadh an triantain – am bheactar bho
+gla	Ged a b' fheudar do Eideard Alba fhàgail goirid an dèidh a
+gla	bhuaidh air sgàth cion bìdh, thill e agus ruith e thairis air
+gla	Alba corra thuras le feachd lìonmhor. Bha gach uasal san
+gla	dùthaich air ùmhlachd a thoirt do Eideard ach Uallas a-mhàin.
+gla	Lean Uallas air na b' urrainn dha, sia bliadhna an dèidh a'
+gla	bhlàir, dhragh 's a chall a chur air na Sasannach, còrr is
+gla	bliadhna an dèidh do gach dùthchair eile a armachd a leigeil
+gla	sìos. Bha e fhèin 's a luchd-leanmhainn a' tighinn beò air a'
+gla	chreach a bha iad a' toirt bho na Sasannaich.
+gla	Ged a stèidhich Comann Gàidhealtachd na h-Alba comataidh ann
+gla	an 1806 gus faclair mòr fhoillseachadh, bha Raibeart Armstrong
+gla	air thoiseach orra leis an Gaelic Dictionary ann an 1825, trì
+gla	bliadhna mus do nochd am faclair aig a' Chomann ann an 1828 fon
+gla	ainm Dictionarium Scoto-Celticum - A Dictionary of the Gaelic
+gla	Ged a tha 316,033 nan tàmh anns a' bhaile, chan eil ach 20,072
+gla	dhuibh a' fuireach anns na sgìrean dùthchasail am broinn
+gla	crìochan a' bhaile. Tha fearrann na dùthcha sin ga roinn eadar
+gla	na bailtean (Spàinntis: municipios) agus le sin tha gach
+gla	clachan agus croit fo stiùireadh baile air choireigin. Air
+gla	adhbharan trioblaidean poiliteagach air an dùthaich, tha a'
+gla	mhòr-chuid dhe na daoine anns gach uile baile a-nis a' fuireach
+gla	anns na bailtean fhèin, is na daoine a' fàgail na sgìrean
+gla	Ged a tha an dearbh fhreumh aig an ur-dhubhadh anns an trì
+gla	cànan, chan eil e ag obair air an dearbh dhòigh gu buileach.
+gla	Ged nach b' fheudar do ach dha neo trì taighean a bhith ann am
+gla	baile, cha chleachdar an teirm baile airson taigh fa-leth a'
+gla	seasamh leis fhèin. Uaireanan ged tha, far a bheil tuathanas
+gla	fad air falbh bho àiteachas eile, cuirear an t-ainm
+gla	baile-fhearainn air an taigh tuathanaich, còmhla le na
+gla	stàbullan, sabhalan agus coitean nan sgalag.
+gla	Georg Wittig (1897 - 1987), Ceimeagair.
+gla	Ghàidhealtachd Is dòcha gu bheil e a’ ciallachadh "duine
+gla	bàn, eireachdail". Nochd an t-ainm seo ann an
+gla	Giulio Rospigliosi (1600 – 1669): Pàp bho 1667 gu 1669.
+gla	Gu ceart, 's e Nirribhidh, an t-Suain agus Danmhairg ann an
+gla	Lochlainn neo Scànnanàibhia. Ach, mar is trice, chuirear an
+gla	t-ainm air Innis Tile, Suòmaidh, agus na h-Eileanan Farach,
+gla	agus bho àm gu àm, cleachdar airson Nirribhidh a-mhàin. Tha
+gla	an t-ainm a' ciallachadh "tir nan lochan" bho thùs.
+gla	Gus 1930 bhathar a' bruidhinn Wangerooger Friesisch (Frìosais
+gla	Wangerooge), cànan Indo-Eòrpach a tha dluth cheangailte ri
+gla	Gearmailtis agus Beurla. Còmhla ri Saterfriesisch b' e sin aon
+gla	de na cànanan a tha a' buntainn don teaghlach cànain Frìosach
+gla	an Ear a mhàir beò tro na linntean.
+gla	Harrison Ford (1942): Actair.
+gla	Iaimeuca, (Jamaica sa Bheurla)
+gla	Innsidh na seann leabhraichean mu dheidhinn Envigado dhuinn gun
+gla	do deach am baile Sabaneta a steidheachadh 27mh an Lùnastal
+gla	1896 leis an t-Urramach Jesús María Mejía, a bha na shagart
+gla	a’ pharraiste ann an Envigado fhèin. ‘S e ceann-latha fa
+gla	leth cudromach airson eachdraidh na sgìre, gun teagamh, leis
+gla	gun do chuir iad a’ chiad chloiche airson an eaglais ionadail
+gla	a thogail. Ged a tha e gu math soilleir gur e Maighstir Jesús a
+gla	bhrosnaich adhartas na sgìre, bha e a’ dol mus do ràinig
+gla	esan, oir bha sgoil nam balach anns an àite ann an 1858
+gla	ma-thà: tha sin a’ ciallachadh nan robh baile ann, gu robh
+gla	uiread dhe taighean ann an àite beag anns a’ char as lugha.
+gla	Cha do thoisich Maighstir Jesús an sagartachd aige ann an
+gla	Envigado ach ann an 1880 agus bho 1879 bha dà sgoile ann
+gla	ma-thà, tè airson na balaich, teile airson na nigheanan, leis
+gla	an sgoil sin fo stiùireadh Adelaida Correa.
+gla	Is ann am prìomh-bhaile a gheibhear pàrlamaid no
+gla	luchd-riaghlaidh dùthcha, air neo riaghaltas. Tha e na
+gla	cheann-bhaile, a tha an eisimeil sgìre (m.e. Inbhir Nis),
+gla	dùthaich neo nàisean (m.e. Dùn Èideann), stàit (m.e.
+gla	Lunnainn), neo fiu’s Aonadh (m.e. am Bruiseal).
+gla	Is dòcha gun do thòisich meinneireachd gual ann an Alba rè an
+gla	17mh Linn. Gun teagamh chaidh a' chiad leasachadh mòr air raon
+gla	gual an Lodainn tràth anns an 18mh cheud. Is coltach gun
+gla	chuireadh teicneòlais mèinnearachd bho Northumbria an gnìomh
+gla	aig an àm. Gun teagamh lean a' chiad rathad nan gad samhail
+gla	cho-aimsireil de rathadan nan gad ri bruathaich an Tyne.
+gla	Is e an cruth fheannaig bu chumanta am feannag taomaidh
+gla	Sonraichte ri fas nam buntata, deanar iad le roinneadh an
+gla	iomaire buntata (lann nam buntata) do stiallaibh 5 troigh anns
+gla	an leud. Comharraichear an roinneadh air an talamh (a tha mar is
+gla	trice fo fheoir ro-laimhe) le sreang sinte, agus susar (gearrar)
+gla	loidhne tro an fhod air fad na sreanga le cas-dhireach (neo
+gla	spaid). An uairsin cuibhrichear stiall, 3 troigh (0.9m) anns an
+gla	leud sios meadhan gach feannag le feumainn. As deidh sin,
+gla	cleachdar cas-chrom (neo spaid) a thionndaich ploc, troigh
+gla	(0.3m) anns an leud thairis air an fheumainn, gach taobh den
+gla	loidhne susaidh. Mar sin bithidh torran uire, troigh anns an
+gla	leud air gach taobh den fheannag, agus eadar an da torran stiall
+gla	fheumainn, ris an canar an taomadh. Eadar na feannagan, a tha
+gla	0.9m anns an leud, tha claisean 0.6m anns an leud. Cuirear pòr
+gla	buntata,le pleadhag. mar is tric aig astar de 15 oirleaich
+gla	(0.4m) eadar am pòr air fad an fheannag. Far a bheil na
+gla	feannagan air an togail air uir mona, faodaidh do na claisean
+gla	eadar na feannagan a bhi suas ri 0.6m anns an domhainn.
+gla	Is e a tha ann an contra-danns modh dannsaidh steidhichte air
+gla	"seata fada" 's a bhitheas sreath nam fir a' dannsadh an aghaidh
+gla	(contra)ri sreath na' mna. Taobh a-steachd am patran seo,
+gla	dannsaidh "cupalan" le cheile agus bithidh gach cupal (fear is
+gla	boireann)a dannsadh ri na cupalaibh eile a tha a' gabhail pairt
+gla	's an seata. Bithidh gach dannsa fa-leth deanta a gluasdan
+gla	sonraichte. Anns a' chuid bu mhor de na dannsaichean, Is e an
+gla	cupal aig ceann na seata a dhannsaicheas "turus" le na
+gla	dannsairean eile mus a bith iad a' ruigsinn bun na seata agus
+gla	toiseachaidh an dannsa a-rithis le cupal ur gan treorachadh.
+gla	Theid roinneadh eadar na dannsaichean a reir an seorsa ciuil as
+gla	freagarrach dhaibh: Port Singilte (6/8), Ruidheal (4/4) agus
+gla	Is e baile beag air taobh an iar Na Stàitean Aonaichte ann an
+gla	Oklahoma a tha ann an Tahlequah. Anns a’ bhliadhna 2010 bha
+gla	16,021 duine a’ fuireach an seo. Tha e suidhichte aig 243m os
+gla	Is e cànan Indo-Eòrpach a tha ann an Sòrbais. Tha an cànan
+gla	a’ buntainn do theaghlach nan cànanan Slàbhach. San
+gla	eachdraidh bha ainmean eile air: Wendish neo Lusatian. 'S e
+gla	"wen" an còd ISO 639-2 a tha air.
+gla	Is e DaimlerChrysler, Sony, Springer-Verlag, Walter de Gruyter
+gla	na companaidhean as cliùitiche a tha ann. Chan eil tòrr
+gla	àiteachas ann agus chan eil ach beagan gnìomhachas ann am
+gla	Berlin. Is e obair mheatailt, cheimigeachd agus bhidh am meur
+gla	gnìomhachais as motha ann am Berlin.
+gla	Is e Embassy World Championship a tha air an co-fharpais as
+gla	cudromaiche dhan snùcair, agus tacraidh e gach bliadhna aig an
+gla	Crucible ann an Sheffield, Sasainn.
+gla	Is e ma-sìn airson bualadh siol a-mach a diasan arbhair a tha
+gla	ann an inneal-bualaidh. Chaidh an-t ùrachadh air an
+gla	inneal-bualaidh le innleadair Albannach do'n u ainm Anndra
+gla	Meikle mu deidhinn am bliadhna 1784.
+gla	Is e prìomh-bhaile Tiomor an Ear a tha ann an Dili neo Díli.
+gla	'S e am baile as motha na dùthcha cuideachd. Tha e suidhichte
+gla	air cladach ann an taobh tuath na dùthcha. 'S e 8° 34' Deas
+gla	agus 125° 34' Ear a tha na co-chomharran aige. Tha mu 150,000
+gla	duine a’ fuireach anns a' bhaile fhèin.
+gla	Is e stàit Ameireaganach a tha ann an Calafòrnia. Tha i
+gla	suidhichte air taobh an iar na dùthcha, agus tha i na meadhan
+gla	cudthromach do chultar, saidheans is gnìomhachas. 'S e
+gla	Sacramento am prìomh-bhaile, agus tha Los Angeles, San Diego is
+gla	San Francisco a-measg nam bailtean as motha. Tha na Beanntan
+gla	Sierra Nevada san àirde an iar Calafòrnia. Tha e air a bhith
+gla	na stàit bho 9 an t-Sultain 1850. Tha 37,253,956 duine a'
+gla	Is i Tibet dùthaich ann an Àisia a Deas (neo Meadhan Àisia),
+gla	a-measg na Himalayas a bha neo-eisimeileach gus an d'thug na
+gla	Sìnich ionnsaigh air ann an 1959.
+gla	James Macpherson, sgrìobhadair Albannach agus neach-poileataigs
+gla	John Logie Mac a' Bhaird, innliche Albannach a dh'innlich an
+gla	Kasper, M. Baskische Geschichte Primus: 1997
+gla	Laideann fundus → bonn /pɔun̪ˠ/ (foundation)
+gla	La Vraie Religion selon Blaise Pascal (An Creideamh Ceart
+gla	A-rèir Blaise Pascal), Paris, F. Alcan, Bibliothèque de
+gla	philosophie contemporaine, 1905
+gla	Leeson Street/Mespil Road – Baile Átha Cliath
+gla	« Les causes finales - Septième et dernière lettre à M.
+gla	Charles Richet » (Ceann-fàth deireannach - seachd agus litir
+gla	mu dheireadh do Charles Richet) ann an Revue scientifique, N°17
+gla	Lluís Llach i Grande; seinneadair, sgrìobhadair, ceòladair
+gla	agus sgrìobhadair ciùil à Catalòinia
+gla	Luigi Galvani (1737-1798), neach-rannsachair nàdar-fheallsanachd
+gla	MacKillop, James. Dictionary of Celtic Mythology. Oxford: Oxford
+gla	University Press, 1998. ISBN 0-19-280120-1.
+gla	Manuel Joaquín de Santa Isabel Riascos García
+gla	Mar as cumanta, tha comharra àraidh aig obrachadh càraideach
+gla	(m.e. +, ×, ∩, 7c.) , mar eisimpleir cur-ris nan
+gla	Mar eisimpleir: 'S e am "Frankfurt Christmas Market" ann am
+gla	Birmingham, baile-chèile Frankfurt, margadh na Nollaige
+gla	Gearmailtich as motha taobh a-muigh na Gearmailt is na Ostair.
+gla	Chruthaich Kurt Stroscher (bhon Frankfurter Tourismus und
+gla	Congress GmbH) plana ann an 1997, far an do thugadh a-steach a
+gla	h-uile bathar, bùthan is reiceadairean à Frankurt do
+gla	Bhirmingham. Ged a thòisich am margadh mar phròiseict bheag
+gla	eadar an dà bhaile, bha ùidh mhòr aig an luchd-tadhail agus
+gla	dh'fhàs am margadh nas motha is nas motha bhon uair sin. Ann an
+gla	2008 bha e a' tarraing gu bhith 3 millean duine agus bha malairt
+gla	cho àird ri 67 millean not.
+gla	Mar na 1960an, bha atharrachadh mòr sa deich bliadhna seo –
+gla	bha Sputnik na chiad saideal is Yuri Gagarin na chiad duine sa
+gla	fànas. Chaill na Frangaich Vietnam gu ìre mòr, agus thòisich
+gla	Ma tha àireamh, a tha togte chun cumhachd, ath-thogte chun
+gla	cumhachd eile, tha na cumhachdan air an iomadachadh.
+gla	Matoto, far a bheil am port-adhair Gbessia Airport.
+gla	mh, an Dubhlachd: Ràinig Christopher Columbus air an eilean
+gla	Ministry of Interior building, a tha ainmeil airson an stòidhle
+gla	Muireadhach Albanach Ó Dálaigh
+gla	Na bu mhiosa na sin, bha na planaichean-cruinneachaidh nam
+gla	feachdan stèidhte gu mòr air na clàran-ama nan trèanaichean.
+gla	Ann an seòrsa de dhealbh-cluich mòr, bha fios aig gach duine
+gla	cuin a b' fheudar dha dhol ga uidheamachadh dhan ghearasdan
+gla	ionadail agus an uair sin cuin a b' fheudar dhan gach aonad a
+gla	dhol dhan stèisean trèine airson a dhol gu na crìochan. Bha e
+gla	an ìre mhath do-dhèanta stad a chuir air cruinneachadh nam
+gla	feachdan uair a chaidh e tòiseachadh gun na feachdan a chuir
+gla	troimhe chèile, rud a bheireadh làmh an uachdar dhan nàmhaid.
+gla	Agus bha làimh-an-uachdar aig an dùthaich a bha an toiseach
+gla	air an fheadhainn eile ann a bhith a' cruinneachadh a feachdan.
+gla	Leis a sin, bho a chaidh gairm gu armachd a-mach, 's e sliabh
+gla	cas gu cogadh a bh' ann dhaibh.
+gla	Narciso Heredia y Begines de los Ríos
+gla	Niça (Catalan), Nicea (Pòlais), Níkea (Greugais), Nis
+gla	(Turcais), Nisa (Ròmanianais), Niza (Spàinntis), Nizza
+gla	(Eadailtis, Fionnais, Gearmailtis, Ungarais), Nica (Liotuanais)
+gla	Nochd an t-ainm Aonghas ann an seann Ghaeilge mar Óengus. Is
+gla	dòcha gun tàinig e bho na faclan Gaeilge "óen" (aon) agus
+gla	"gus" (neart). Tha e a' faicinn gu tric ann an miotas-eòlas
+gla	Èireannach mar Óengus no Aonghus agus b' e ainm cumanta aig
+gla	rìghrean Èireannach a bh' ann.
+gla	Nua-Bhàrdachd Ghàidhlig / Modern Scottish Gaelic Poems: A
+gla	Nuair a chunnaic Eideard seo, cheangail e sìth sa thiota ri
+gla	Filib-Fionn, Rìgh na Frainge, a' toirt a thoil fhèin dha anns
+gla	gach ni ach a chuideachadh leis Alba a chìosnachadh. Chaidh
+gla	armailt mòr a thogail. Choinnich iad aig A' Chaisteal Nuaidh.
+gla	Mhèars iad do dh'Alba, 8,000 each agus còrr is 100,000
+gla	saighdear-coise. Cha robh dad a' coinneachadh ris na Sasannaich
+gla	an ceann a deas Alba ach bailtean air am fàsachadh, 's taighean
+gla	air an losgadh 's machraichean air an gearradh sìos, ged nach
+gla	robh an t-arbhar fhathast abaich. B'e seo an rian a ghabh Uallas
+gla	air a' mhàrsail a dhèanamh doirbh do na Sasannaich, 's nach
+gla	faigheadh iad biadh dhaibh fhèin no do an cuid each. Leis na
+gla	h-uile ni a bh' ann, bha na Sasannaich gu mòr air an sàrachadh
+gla	mun do ràinig iad faisg air Dùn Èideann, far an robh dùil
+gla	aig Eideard ri tionaladh bho loingeas cogaidh a bh' air an
+gla	Nuair a theich Aodh Rua mu dheireadh thall ann an 1592, thug i
+gla	airgead do Néill Garbh Ó Domhnaill, an tagraiche mu dheireadh
+gla	a bha air fhàgail agus thug i air a fear-cèile gun leigeadh e
+gla	an ceannas ann am fàbhar a mhic aca. Sgrìobh an t-seanchaidh
+gla	Hiram Morgan gur e "gnothach gu math ro-rèitichte anns an robh
+gla	buaidh a mhàthar os cionn gach nì eile" a bh’ann taghadh
+gla	Aoidh mar ceann-fheadhna nan Dómhnailleach ann an 1592. Chaidh
+gla	i air chluainidh gu Cill Mhic Réanáin. Ach, ann an 1608, leis
+gla	gach uile mac aice marbh an dèidh Teicheadh nan Iarla, chuir i
+gla	a cliamhainn, Niall Garbh, ann an lìon taobh fhealltachd is
+gla	chuireadh esan am prìson sa Tur Lunnainn. Chan eil a
+gla	ceann-latha bhàis aithnichte idir. A thuilleadh, tha e coltach
+gla	gun do chuireadh i seachad na làithean mu dheireadh aice ann an
+gla	Caisteal Mongavlin, daingneach beag ri taobh na h-Aibhne
+gla	Feabhal, dìreach mu dheas Baile Suingean sa sgìre Lagan air an
+gla	àirde an ear Dun na nGall.
+gla	O chionn’s gu bheil deagh àiteachas ann an Sagsainn-Anhalt,
+gla	tha feòil de gach seòrsa agus glasraich cudthromach airson
+gla	biadh a chuir ri chèile.M. e.: Altmärker Hochzeitsuppe
+gla	(brot-bainnse à Altmark): Is e brot feòil-circe a th’ ann le
+gla	glasraich, piòsan muic-fheòil measgte, uighean agus asparag.
+gla	Ann am Magdeburg ithear „Bötel mit Lehm und Stroh“ (cas le
+gla	crèadh agus connlach). Is e cas-muic le peasraichean measgte
+gla	agus càl geur a th’ ann. Ach uaireannan tha dòighean
+gla	còcaireachd ann a tha rud beag neonach. M.e. Is e rìs milis le
+gla	isbeanan biadh coltach ann an Anhalt.
+gla	Oilthigh Rockerfeller, Oilthigh Cholumbia, Oilthigh Chalafòrnia
+gla	Pablo Escobar (1949-1993), Ceannard na buidhne eucoireach a bu
+gla	Perpignan (Fraingis), Perpignano (Eadailtis), Perpiñán
+gla	(Spàinntis), Perpinhão (Portagailis), Perpinjan (Searbais),
+gla	Pilkington Ssengendo: (1942 – ) Dealbhadair.
+gla	Pròstanaich 30% Caitligich 20% Muslamaich 1.5%
+gla	Raymond Bruckert (1935): Sgrìobhadair.
+gla	Richard R. Ernst (1933): Ceimeagair.
+gla	Rinn e ar-a-mach còmhla ri José Hilario López an aghaidh an
+gla	Riaghaltais aig Simón Bolívar ann an 1828. An dèidh a’
+gla	bhuadhachais fhaighinn aig La Ladera, chaidh Obando air ais gu
+gla	Pasto agus fhuair e aonta còmhla ri Bolívar, a dh’ àrdaich
+gla	e gu seanailear e ann an 1829 ann an Guayaquil, agus
+gla	dh’ainmich e Ceannard Coitcheann Roinn A’ Chauca. Chaidh e a
+gla	chur an greim is iad a fàgail air gu robh e ri cùlaibh cur gu
+gla	bàs a’ Mharasgal Antonio José de Sucre ann an 1830, ach cha
+gla	robh na casaidean sin a dhearbhachadh a-riamh.
+gla	Robert De Niro, actair Aimeireaganach
+gla	Ron bhlàir, b' iad Ridire Tòmas Randolph, mac a pheathair,
+gla	Morair Seumas Dùghlas agus Ridire Eideard Brus, a bhràthair
+gla	fhèin, Seanalairean a b' àirde a bh' aig rìgh Raibeart os
+gla	cionn na h-armailt, agus fodha fhèin. Chùm e obair riutha
+gla	eadar a sia 's a seachd de bhliadhnachan na bha de chaistealan
+gla	san rìoghachd a spìonadh bho na Sasannaich.
+gla	Rugadh Clímaco Calderón Reyes ann an Santa Rosa de Viterbo,
+gla	Boyacá, Coloimbia , 23mh an Lùnasdal 1852 agus chaochail e ann
+gla	am Bogotá 19mh an t-Iuchar 1913. B’ e fear-lagha agus
+gla	fear-poileataigs a thug ceum bhon Cholaiste (a-nis Oilthigh)
+gla	Nuestra Señora del Rosario, bha e an sàs ann an iomadh
+gla	bhuidheann laghail agus Àrd-Cùirt A’ Cheartais, bha e na
+gla	mhinistear an Riaghaltais (ministear na dùthcha agus a’
+gla	cheartais an latha an-diugh) agus na Dùthchannan Cèin, agus
+gla	chaidh a dh’ainmeachadh consal ann an Eabhraig Nuadh agus a
+gla	bharrachd air sin bha e na neach-ainmichte gu ceannas na
+gla	poblachd agus an uair sin bha e na mhinistear làn-ùghdarach
+gla	(tosgair) anns na Stàitean Aonaichte. Stiùireadh e an
+gla	irisleabhar “La América” rè mòran bhliadhna. Sgrìobh e
+gla	leabhraichean cudromach mu dheidhinn an eaconamaidh agus fhuair
+gla	cliù mar sàr òraidiche. Fhad ‘s a bha e na Fhiosgal
+gla	Coitcheann na Nàisein, shuidhe e anns a’ chathair bho 21mh gu
+gla	22mh an Dùbhlachd 1882, air sgàth gun do bhàsaich an
+gla	ceann-suidhe Francisco Javier Zaldúa. Thug e sealbh air a’
+gla	chinneas . ri beulaibh na luchd-fianais Hermógenes Wilson
+gla	(cathraiche an Àrd-Cùirt) agus Pedro José Sarmiento (Ceannard
+gla	Airm Nàiseanta Choloimbia). 'S e an teirm a' chinneas a bu
+gla	ghiorra ann an eachdraidh na dùthcha a bh'aige. Phòs e Amelia
+gla	Pérez Triana, nighean Santiago Pérez de Manosalbas, seann
+gla	cheann-suidhe na dùthcha.
+gla	Rugadh e ann an Hong Kong, ach 's ann à Alba a bha a
+gla	phàrantan. Fhuair e foghlam aig Colaiste Bhalliol, Oilthigh
+gla	Oxford. Aig àm an dàrna cogaidh, bha e stèidhichte anns na
+gla	h-Innseachan. Thòisich e ag obair aig a' BhBC ann an 1955. Rinn
+gla	e iomadh prògram mu dheidhinn eachdraidh na h-Alba.
+gla	Rugadh Franz Kafka (IPA: ˈfʁants ˈkafka) (Pràg, 3 an
+gla	t-Iuchar 1883 - Ibidem, 3 an t-Ògmhios 1924) ann am Pràg anns
+gla	a' phairt den Iompaireachd Ostaireach-Ungaireach far a bheil
+gla	a-nis am Poblachd Seiceach. 'S e aon de na sgriobhadairean as
+gla	cliùiteach agus suaicheantach den 20mh linn a th' ann.
+gla	Rugadh Màrtainn Lùtair (Martin Luther 'sa Bheurla) 1483 ann an
+gla	Eisleben ann an Sagsainn-Anhalt. Chaidh a thogail ann am
+gla	Mansfeld, far an do dh’fhàs athair Mhàrtainn rud beag
+gla	beairteach le bhith ag obair mar thuathanach agus mèinnear. Mar
+gla	sin b’ urrainn do Mhàrtainn a dhol dhan oilthigh, far an do
+gla	dh’ionnsaich e Laideann, gràmair, ùr-labhairt,
+gla	ealain-reusanachaidh, beus-eòlas agus ceòl. O chionn’ s gum
+gla	bu mhiann le athair Mhàrtainn gum biodh Màrtainn na
+gla	fear-lagha, chaidh Màrtainn do Oilthigh Erfurt. Ach aon latha,
+gla	nuair a bha Màrtainn a’ tilleadh do dh’Erfurt, thàinig
+gla	stoirm le tàirneanach agus dealanach uabhasach. Bha eagal a
+gla	bheatha air, agus thuirt e: Naomh Anna, cuidich mi, ma leigeas
+gla	tu mi a bhith beò, bidh mi nam mhanach. Mar sin chaidh e
+gla	an-aghaidh toil athair do mhanach. Ann an 1507 fhuair e
+gla	òrdachadh sagartachd. An uair sin chaidh e gu Wittenberg airson
+gla	rannsachadh diadhaireach. Dh’ ionnsaich e Greugais agus Eabhra
+gla	agus ann an 1509 bha e na ollamh airson a’ bhìobaill. Ann an
+gla	1512 thoisich e air a theagasg ann an Oilthigh Wittenberg.
+gla	Ruigidh cuid den fhèidh aois mhòr, eadhon 120 - 140 bliadhna a
+gla	'S airson Anna bhòidhich, fhìnealt'
+gla	'S an eala bhàn tha tàmh ann
+gla	’S ann ann an eileanan àird a deas a’ Chuain Sèimh a tha
+gla	tùs-àite cuilc an t-siùcair. Bho an sin, sgaoil an lus tro
+gla	Àisia na h-àird an ear-dheas gus an do ràinig e na
+gla	h-Innseachan. Mu 2000 RC, thòisich cultar an t-siùcair anns na
+gla	h-Innseachan ann an àird an ear-thuath a’ mhòr-roinn, far an
+gla	robhar a’ dèanamh siùcair às a’ chuilc. Dh’fhoghlaim
+gla	muinntir nan Innseachan mar a dhèanadh iad gràinneachan tioram
+gla	à sùgh an t-siùcair mu thimcheall na bliadhna 350 no ri linn
+gla	'S ann tron linn Mheadhan-leacaich (mu eadar sia is seachd mìle
+gla	bliadhna air ais) a chaidh an uamh ùisneachadh; lorgadh
+gla	buill-acainn air an dèanamh à clach-spòir. Tha sin a
+gla	dearbhadh gum biodh sealgairean a’ tadhal air an uaimh bho àm
+gla	gu àm. Rinn iad sin tron linn Nuadh-leacaich agus tro Linn an
+gla	Umha. Tha coltas ann gun do dh’fhàs an àite na bu
+gla	chudthromaiche timcheall air a’ bhliadhna 800 RC. Aig an àm
+gla	seo chaidh cagailte mhòr a thogail faisg air beul na h-uaimhe.
+gla	Chleachdadh beul na h-uaimhe cuideachd airson rudan pearsanta a
+gla	thasgadh neo is dòcha airson tachartasan cràbhach no
+gla	deas-ghnàthach a chumail.
+gla	‘S e 7 an Lùnasdal fèis nàiseanta ann an Coloimbia mar
+gla	chuimhne air an latha eachdraidheil ud nuair a rugadh an
+gla	nàisean. A bharrachd air sin, thoir an ceann-suidhe ùr an
+gla	Riaghaltas os làimhe air a’ cheann-latha sin cuideachd, ann
+gla	an Lùchairt Nariño, ann am meadhan a’ bhaile Bogotá.
+gla	Tachraidh sin gach uile ceithir bliadhna.
+gla	'S e actair à Pennsylvania sna Stàitean Aonaichte a tha ann an
+gla	Don Keefer neo Donald H. "Don" Keefer (Highspire, 18 an
+gla	'Se ainm traidiseanta a' ceann-feadhna Mac Dhòmhnaill Dhuibh
+gla	(an t-ainm air tighinn bho' n t-sinnsear Dòmhnall Dubh (rugadh
+gla	1400), a' chiad cheann-feadhna air a bheilear cinnteach), no
+gla	Loch Iall (bho' n loch a tha faisg air cathair a' chinnidh,
+gla	Caisteal Achadh na Cairigh), a tha fhathast na àite-fuirich do
+gla	Seallaibh na h-aistean air Comann na Fàinne, Na Dà Turaid,
+gla	agus Tilleadh an Rìgh air giorrachaidhean an gnìomhaidh.
+gla	'S e Amhlaidh an t-ainm Gàidhlig airson Olaf . Thàinig an
+gla	t-ainm seo bhon t-Seann-Lochlannais Áleifr. Tha e a' gabhail
+gla	a-steach na faclan "anu" (sinnsear) agus "leifr" (neach de
+gla	shliochd), mar sin 's e neach sliochd an t-sinnsir an ciall a
+gla	‘S e an cogadh na bu mhotha agus na b’ fhuiltiche fad an
+gla	19mh Linn ann an Aimearaga-a-Deas, eadar Paraguaidh air an darna
+gla	thaobh agus An Argantain, Braisil agus Uruguaidh air an taobh
+gla	eile, a bh’ ann Cogadh a’ Chaidreachais Thrìpilte (ainm
+gla	anns an Argantain agus Uruguaidh), Cogadh Pharaguaidh (ainm ann
+gla	am Braisil) neo An Cogadh Mòr (ainm ann am Paraguaidh). Tha na
+gla	daoine ann am Paraguaidh agus eachdraichean na làimhe chlì
+gla	anns an Argantain dhen bheachd gur e An Rìoghachd Aonaichte, a
+gla	thug iasdan dhan chaidreachas a bha ri cùlaibh a’ chogadh, is
+gla	Lunnainn ag iarraidh milleadh a dhèanamh dha na gnìomhasan ann
+gla	am Paraguaidh, ach thathar ag ràdh ann am Braisil, Uruguaidh
+gla	agus An Argantain, gu h-oifigeil, gur e ionnsaighean Pharaguaidh
+gla	fhèin a bha na bu choireach.
+gla	‘S e an Libertarian Party buidhean poilitigeach ‘san
+gla	Rìoghachd Aonaichte a bhios a moladh poileasaidhean
+gla	Libertarian. . Chaidh a stèidheachadh air 1 dhen Fhaoilleach
+gla	2008 fo stiùireadh Patrick Vessey agus chaidh an clàradh leis
+gla	an Electoral Commission air 21 an t-Samhain 2007 . Tha am
+gla	pàrtaidh air ùidh sònraichte a thogail anns am blogosphere.
+gla	Tha iad ag gu bheil feallsanachd libertarian na “eaglais
+gla	fosgailte”, ach tha iad gan cuir fhèin air adhart mar
+gla	buidhean a tha “an ìre mhath an aghaidh stàit mòr” agus
+gla	gu h-àraidh airson siostam malairt shaor. Air 3 Màirt 2008
+gla	chuir iad a mach a chiad pìos fiosrachadh aca mu poileasaidhean
+gla	am pàrtaidh agus iad ag ràdh gun cuireadh iad às do
+gla	chìs-teachd-a-steach. A bharrachd air an sin tha iad airson
+gla	inbhe laghail a thoirt do dhrogaichean cleasachail, cuir às don
+gla	minimum wage – mu’n seo tha iad den bheachd gur è th' ann
+gla	ach “bacadh neo-fhialaidh air malairt shaor. Tha è a cuir
+gla	prìs mì-nàdarrach air cosgais obair agus mar seo, ga
+gla	dhèanamh nas duilich airson luchd-obrach aig nach eil mòran
+gla	sgilean obair a lorg, agus mar sin nas duilich fhathast eòlas
+gla	agus trèanadh fhaighinn.” Tha am pàrtaidh cuideachd airson
+gla	cothrom a thoirt do dhaoine gunnaichean a chleachdadh gu laghail
+gla	agus, mar sin, tha iad an aghaidh an1986 firearms act. Air an 17
+gla	den t-Sultain 2008 leig Patrick Vessey dheth a dhreuchd mar
+gla	ceannard am pàrtaidh agus ghabh Ian Parker-Joseph àite. .
+gla	'S e an t-aona duthaich cheilteach air tìr-mòr Eòrpa a th'
+gla	anns a’ Bhreatainn Bhig (Breatannais: Breizh, Fraingis:
+gla	Bretagne, Beurla: Brittany). Tha e suidhichte ann an Ceann
+gla	'S e aon de na fàsaichean as motha air feadh an t-Saoghail a
+gla	tha ann am Fàsach Phatagòinia.
+gla	'S e aon de na sgrìobhadairean as ainmeil ann an Suòmaidh a
+gla	tha ann am Frans Eemil Sillanpää. Rugadh e ann an Hämeenkyrö
+gla	ann an 1888 agus chaochail e ann an Helsinki ann an 1964.
+gla	Bhuannaich e an Duais Nobel ann an Litreachas anns a' bhliadhna
+gla	'S e Atlético Nacional fear dhe na trì sgiobaidhean ball-coise
+gla	proifeiseanta ann am Medellín agus an sgìre aige.
+gla	'S e baile air a' Ghàidhealtachd a tha ann an Inbhir Garadh.
+gla	Nochd ainm a' bhaile ann an Dwellys 1912 mar Inbhir-gharadh. Tha
+gla	am baile suidhichte san àird an ear anns a' Ghleann Mhòr far a
+gla	bheil Abhainn Gharadh a' sruthadh ann an Loch Omhaich. Faisg air
+gla	meadhan a' bhaile tha gobhal-rathaid ann eadar an A82 bho Inbhir
+gla	Nis don Ghearasdan, agus an A87 a leanas don Eilean Sgitheanach.
+gla	'S e seo na co-chomharran aige: 57° 4′ 8.11″ Tuath agus 4°
+gla	'S e baile ann am Bwrdeistref Sirol Conwy sa Chuimrigh a tha ann
+gla	an Ysbyty Ifan. Ann an 2001 bha 221 duine a' fuireach an seo.
+gla	'S e baile ann am Wisconsin, sna Stàitean Aonaichte, a th' ann
+gla	an Racine. Anns a’ bhliadhna 2010 bha 78,860 duine a’
+gla	fuireach an seo. Tha e suidhichte aig 188m os cionn ìre na mara,
+gla	'S e baile ann an Alba mheadhanach a tha ann an Deanaidh. Tha e
+gla	faisg air an Eaglais Bhrice.
+gla	'S e baile ann an Comhairle Shiorrachd Àir a Deas a tha ann an
+gla	Tarbolton. Tha e suidhichte mu 7 mìltean air àird an
+gla	ear-thuath Inbhir Àir agus mu 4 mìltean iar air Machlainn. 'S
+gla	e seo na co-chomharran aige: 55° 30′ 46.13″ Tuath agus 4°
+gla	‘S e baile ann an cridhe na h-Eilbheis a th’ ann an Schwyz
+gla	(IPA: ʃvi:ts, Fraingis: Schwytz, Eadailtis: Svitto, Rumantsch:
+gla	Sviz). Chaidh am baile a chlàradh airson a’ chiad turas ann
+gla	an 972 mar Switz. Tha e suidhichte aig 564m os cionn ìre na
+gla	mara aig bun na Beinne Mythen, eadar na Lochan Lauerzersee agus
+gla	Vierwaldstättersee, anns an roinn (Gearmailtis: Kanton) Schwyz
+gla	fhèin, dìreach 39km air falbh bho Zürich, 210km bho Ghenève
+gla	agus 91Km bho Bhern, prìomh-bhaile na dùthcha. Tha 14,423
+gla	duine a’ fuireach anns a’ bhaile, an 82mh baile na dùthcha
+gla	a-rèir àireamh-sluaigh. ‘S e Gearmailtis an cànan a tha aig
+gla	a’ mhòr-chuid dhe na daoine ann an Schwyz.
+gla	'S e baile ann an Rhode Island, sna Stàitean Aonaichte, a th'
+gla	ann an Cranston. Anns a’ bhliadhna 2010 bha 80,387 duine a’
+gla	fuireach an seo. Tha e suidhichte aig 19m os cionn ìre na mara.
+gla	'S e baile ann an taobh tuath na Ghearmailt a tha ann an
+gla	Uetersen (ˈyːtɐzən). Tha e suidhichte anns a' cheàrn
+gla	Pinneberg ann an Schleswig-Holstein. Tha e na laighe air bruach
+gla	Abhainn Pinnau. Tha Uetersen mu 30 cilemeatair air falbh san
+gla	àirde an iar-thuath Hamburg.
+gla	‘S e baile baile san sgìreachd (Duitsis: gemeente)
+gla	Molenwaard, air iomall Rotterdam, ann an ceann a deas Na Tìrean
+gla	Ìsle a th' ann an Groot-Ammers. Tha e suidhichte ri taobh na
+gla	h-Aibhne Lek, 1m os cionn ìre na mara, anns an roinn Òlaind a
+gla	Deas (Duitsis: Zuid-Holland), 49km air falbh bho Amsterdam
+gla	(prìomh-bhaile na dùthcha), 96km bho Mhiddelburg, 133km bho
+gla	Mhaastricht, 40km bho Den Haag agus 29km bho Utrecht. Chaidh
+gla	Groot-Ammers a chlàradh airson a' chiad turas ann an 1042. Tha
+gla	3,886 duine a' fuireach ann. Tha an t-ainm a’ ciallachadh
+gla	sruthadh mòr, bho groot (mòr) agus ammer (sruthadh uisge).
+gla	‘S e baile beag air an iar-thuatha na Spàinne a th’ ann
+gla	Padrón. Tha e suidhichte aig inbhir na h-Aibhnichean Sar agus
+gla	Ulla, aig astar dhe 491km bho Mhadrid, prìomh-bhaile na
+gla	dùthcha, 73km bho Chorùna, prìomh-bhaile na roinne agus 18km
+gla	bho Shantiago de Compostela, prìomh-bhaile na coimhearsnachd.
+gla	Tha am baile air an àirde an iar na Gàilise. Tha 8,841 daoine
+gla	a’ fuireach anns a’ bhaile,
+gla	‘S e baile beag ann am Boyacá, Coloimbia, a th’ ann
+gla	Guateque. Tha e suidhichte aig 1,815m os cionn ìre na mara aig
+gla	astar dhe 125km bho Thunja, prìomh-bhaile na roinne, agus 112km
+gla	bho Bhogotá. ‘S e baile le clìomaid blàth a th’ ann agus
+gla	tha teodhachd meadhanach dhe 20˚ aige, rè na bliadhna. Chaidh
+gla	am baile a stèidheachadh ann an 1636.
+gla	'S e baile-beag ann an Aonghas a th' ann an Càrn Mhoillidh. 'S
+gla	e seo na co-chomharran aige: 56° 34′ 6.11″ Tuath agus 2°
+gla	‘S e baile beag ann an ceann a tuath na h-Eadailt a th’ ann
+gla	an Sotto il Monte Giovanni XXIII (Bergamais: Sóta 'l Mut,
+gla	Laideann: Sub Montem Ioannes XXIII). Tha e suidhichte aig 269m
+gla	os cionn ìre na mara, anns an sgìre (Eadailtis: Provincia)
+gla	Bergamo, anns an roinn (Eadailtis: Regione) Lombardia, faisg air
+gla	Loch Garlate, 486km air falbh bhon An Ròimh, prìomh-bhaile na
+gla	dùthcha, 37km bho Mhilano, 188km bho Phadova agus 226km bho
+gla	Fhirenze. Tha 4,305 daoine a’ fuireach anns a’ bhaile.
+gla	' S e baile beag ann an Cundinamarca, Coloimbia, a th' ann
+gla	Guasca. Tha e suidhichte aig astar dhe 48km bho Bhogotá, ann an
+gla	sgìre ris an canar na Tìrean Còmhnard Meadhanach (Spàinntis:
+gla	Sabana Centro), faisge air Zipaquirá anns na na h-Andes. ‘S e
+gla	baile le clìomaid fuar a th’ann le teodhachd meadhanach dhe
+gla	13˚, rè na bliadhna. Chaidh am baile a stèidheachadh ann an
+gla	'S e baile beag ann an Siorrachd Lannraig a Deas a tha ann am
+gla	Baile Udain. Tha e na laighe gu taobh ear air Abhainn Chluaidh,
+gla	mu ochd mìle gun ear-dheas air meadhan a' bhaile Ghlaschu. Aig
+gla	àm a' chunntais-sluaigh ann an 2001 bha 5,576 daoine a'
+gla	fuireach ann, 0.32% dhiubh a' bruidhinn Gàidhlig.
+gla	'S e baile beag anns na Crìochan a tha ann an Allt na Crà. Tha
+gla	e suidhichte an ear air Reston anns an Lomair Mhòr. Tha e ann
+gla	an Siorrachd Bhearaig, aon de na Siorrachdan traidiseanta a bha
+gla	ann an Alba. 'S e seo na co-chomharran aige: 55° 50′ 22″
+gla	Tuath agus 2° 14′ 8″ Iar.
+gla	‘S e baile beag dùthchasail faisg air Dùn Phrìs, air an
+gla	àirde an iar-dheas na h-Alba a th’ ann an Ae. Tha e
+gla	suidhichte aig 136m os cionn ìre na mara, ann an cridhe na
+gla	roinne Dùn Phris is Gall-Ghaidhealaibh (Siorrachd Dhùn Phrìs
+gla	ro 1975), eadar Bàrr na Dris agus Am Magh Fada, ri taobh na
+gla	h-aibhne Uisge Ae. Tha e 14km air falbh bho Dhùn Phrìs agus
+gla	110km bho Dhùn Èideann, prìomh-bhaile na dùthcha. Tha
+gla	dìreach 200 duine a’ fuireach anns a’ bhaile agus 's e
+gla	Beurla a th' ann a’ chiad chànain aig a’ mhòr-chuid dhe na
+gla	daoine ann an Ae. Tha Eaconomaidh a' bhaile gu math crochte air
+gla	coilltearachd agus turasachd, gu seachd araidh baidhseagal nam
+gla	‘S e baile beag dùthchasail faisg air Mthatha, ann an ceann a
+gla	deas Afraga a Deas a th’ ann am Mvezo. Tha suidhichte aig 342m
+gla	os cionn ìre na mara, ann an cridhe na roinne Rubha an Ear
+gla	(Xhosa: EMpuma Koloni), anns an sgìre OR Tambo, eadar KuMveso
+gla	agus Mmangweni, ri taobh na h-aibhe Mbashe. Tha e 46km air falbh
+gla	bho Mthatha, 21km bho Qunu, 641km bho Johannesburg agus 695km
+gla	bho Phretoria, prìomh-bhaile na dùthcha. Tha dìreach 403
+gla	duine a’ fuireach anns a’ bhaile agus 's e Xhosa a th’ann
+gla	a’ chiad chànain aig a’ mhòr-chuid dhe na daoine ann am
+gla	‘S e baile beag san sgìreachd (Duitsis: gemeente) Grootegast,
+gla	eadar Groningen agus Leeuwarden, ann an ceann a Tuath nan
+gla	Tìrean Ìsle a th' ann an Lutjegast (IPA:ˈlʏtjəˌɣɑst).
+gla	Tha e suidhichte ri taobh na Slighe-Uisge Prinses
+gla	Margrietkanaal, leth meatair os cionn ìre na mara, anns an
+gla	roinn (Duitsis: Provincie) Gronongen, 132km air falbh bho
+gla	Amsterdam (prìomh-bhaile na dùthcha), 189km bho Rotterdam,
+gla	206km bho Eindhoven, 184km bho Den Haag agus 92km bho Utrecht.
+gla	Tha 1,014 duine a' fuireach ann.
+gla	'S e baile iasgaich ann an Alba a Deas a tha ann Cill Aba, a bha
+gla	ann an Siorrachd Bhearaig. An-diugh tha e fo smachd Comhairle
+gla	‘S e baile meadhanach ann am meadhan na h-Eadailt a th’ ann
+gla	an Castel Gandolfo neo dìreach Castello (IPA: kaˈstɛl
+gla	ɡanˈdɔlfo, Laideann: Castrum Gandulphi). Tha e suidhichte aig
+gla	307m os cionn ìre na mara, ri taobh Loch Albano, anns an sgìre
+gla	(Eadailtis: Provincia) Roma, anns an roinn (Eadailtis: Regione)
+gla	Lazio, 22km air falbh bhon An Ròimh, prìomh-bhaile na
+gla	dùthcha, 310km bho Mhilano, 413km bho Phadova agus 252km bho
+gla	Fhirenze. Tha 9,037 daoine a’ fuireach anns a’ bhaile. ‘S
+gla	ann às an Teaghlach Gandolfo, daoine à Lombardia san taobh a
+gla	tuath na dùthcha a th an t-ainm. Thoisich Pàpa Urban VIII ri
+gla	Lùchairt-samhraidh fhaighinn ann an Castel Gandolfo anns an
+gla	17mh Linn. A bharrachd air sin, ‘s e sgìre am broinn
+gla	Stàitean nam Pàp ro Aonadh na h-Eadailt a bh'ann. Tha dithis
+gla	phàp air bàsachadh ann an Castel Gandolfo: Pàpa Pius XII agus
+gla	‘S e baile meadhanach ann an cridhe na h-Eilbheis a th’ ann
+gla	am Zug (Eadailtis: Zugo, Fraingis: Zoug, Laideann: Tugium). Tha
+gla	e suidhichte aig 503m os cionn ìre na mara eadar Loch Zug
+gla	(Gearmailtis: Zugersee) agus an Coille Deinikerwald, anns an
+gla	roinn (Gearmailtis: Kanton) Zug fhèin, dìreach 22km air falbh
+gla	bho Zürich, 209km bho Ghenève agus 84Km bho Bhern,
+gla	prìomh-bhaile na dùthcha. Tha 26,327 duine a’ fuireach anns
+gla	a’ bhaile, an 26mh baile na dùthcha a-rèir àireamh-sluaigh.
+gla	‘S e Gearmailtis an cànan a tha aig a’ mhòr-chuid dhe na
+gla	daoine ann an Zug. Chaidh am baile a chlàradh airson a' chiad
+gla	‘S e baile meadhananch ann an cridhe Bhosna agus
+gla	Heartsagobhana a th’ ann an Tравник, neo Travnik. Tha e
+gla	suidhichte aig 514m os cionn ìre na mara ri taobh na h-Aibhne
+gla	Lašva, aig astar dhe 69km bho Sharajevo, prìomh-bhaile na
+gla	dùthcha. Tha na ùghdarrasan ionadail a' creidsinn gu bheil
+gla	59,093 duine a’ fuireach anns a’ bhaile, ach tha feadhainn
+gla	eile dhen bheachd gu bheil na figearan sin ro àrd is gur e
+gla	dìreach an 19mh baile na dùthcha a th' ann Travnik, a-rèir
+gla	‘S e baile mòr agus port cudromach ann an ceann a tuath
+gla	Iosrael a th’ ann an Haifa (Eabhra: חֵיפָה, IPA:
+gla	:χeiˈfä, Arabais: حيفا‎, IPA: Ḥayfā). Thathar dhen
+gla	bheachd gur ann às an t-ainm a’ ciallachadh Tràigh
+gla	Bhreàgha, bhon fhacal חוֹף (Gàidhlig: Tràigh). Tha e
+gla	suidhichte aig 290m os cionn na mara, ri taobh na Mara
+gla	Mheadhanach, eadar am Bàgh Haifa agus Beinn Charamel, 119km air
+gla	falbh bho Ierusalem (prìomh-bhaile na dùthcha) agus 86km bho
+gla	Thel Aviv. Tha 268,200 duine a’ fuireach anns a’ bhaile.
+gla	‘S e an treas baile as motha na dùthcha a th' ann Haifa.
+gla	‘S e baile mòr air an àirde an ear-dheas na h-Ostair a th’
+gla	ann an Graz (IPA: ˈɡʁaːts, Magyar: Grác). ‘S ann às an
+gla	Slòbhainis Gradec (Gàidhlig Baile Beag) a tha an t-ainm. Tha e
+gla	suidhichte faisg air na crìochan leis An t-Sèarb, aig 365m os
+gla	cionn ìre na mara, anns an Steiermark, 199km air falbh bho
+gla	Shalzburg agus 144km bho Vienna, prìomh-bhaile na dùthcha.
+gla	Chaidh an t-ainm Gearmailteach a chlàradh airson a’ chiad
+gla	turas ann an 1128 is chaidh Oilthigh Ghraz a chur air bhog ann
+gla	an 1585. Tha 261,540 duine a’ fuireach anns a’ bhaile, an
+gla	dàrna baile nas motha na dùthcha. Chaochail an Ceimeagair
+gla	Fritz Pregl an seo ann an 1930.
+gla	‘S e baile mòr air an àirde ann ear-thuath na Frainge a
+gla	th’ann an Rouen (IPA: ʁwɑ̃). A bharrachd air sin ‘s e
+gla	prìomh-bhaile a’ cheàrn Haute-Normandie agus na sgìre
+gla	Seine-Maritime, ainmeil airson a chuid eaglaisean is gu
+gla	sònraichte a cathair-eaglaise. Tha Rouen suidhichte air an
+gla	abhainn Seine, agus trì uillt nas lugha, ris an canar Aubette,
+gla	Robec agus Cailly agus tha oilthigh aige.
+gla	‘S e baile mòr ann an ceann a deas Phearu a th’ ann
+gla	Arequipa (IPA: aɾe' kipa). Chaidh Arequipa a stèidheachadh ann
+gla	an 1540. Tha e suidhichte aig 2,335m os cionn ìre na mara, aig
+gla	bun a’ Bheinn El Misti, 324km air falbh bho Chuzco agus 776km
+gla	bho Lima, prìomh-bhaile na dùthcha. Tha 749,921 a’ fuireach
+gla	ann an Arequipa, an dàrna baile as motha na dùthcha.
+gla	'S e baile mòr ann an Ostair agus prìomh-bhaile Thirol a th'
+gla	ann an Innsbruck. Tha 140,888 daoine a' fuireach anns' a bhaile.
+gla	‘S e baile, sgìreachd (Duitsis: gemeente) agus seann eilean
+gla	eadar Lelystad agus Meppel, ann an cridhe nan nan Tìrean Ìsle
+gla	a th' ann an Urk. Tha e suidhichte ri taobh Loch IJsselmeer,
+gla	dìreach 1m os cionn ìre na mara, anns an roinn (Duitsis:
+gla	Provincie) Flevoland, 58km air falbh bho Amsterdam
+gla	(prìomh-bhaile na dùthcha), 113km bho Rotterdam, 137km bho
+gla	Eindhoven, 109km bho Den Haag agus 71km bho Utrecht. Tha 19,179
+gla	duine a' fuireach ann. Chaidh Urk a chlàradh airson a' chiad
+gla	turas ann an 966 mar Urch. 'S e eilean ann an Loch Almere a
+gla	bh'ann Urk gu ruige 1939 nuair a thogadh cabhsair dhan eilean
+gla	agus, mean air mhean, thogadh talamh ùr mu timcheall a' bhaile,
+gla	air a bheil Noordoostpolder. Dh'atharraich Urk bho Overijssel gu
+gla	Se balach-cruidh neo gille-cruidh a thèid air muin eich
+gla	timcheall air tuathanas mòr ann an Astràilia, Canada agus gu
+gla	h-àraid ann an Aimearagaidh a’ coimhead an dèidh cruidh.
+gla	Sebastian Kräuter: (1922-2008) easbaig Caitligeach ann an
+gla	'S e bhuidhean de h-eileanan a tha fo smachd na Fraingich a tha
+gla	ann an French Polynesia (Fraingis: Polynésie française, Cànan
+gla	Tahitianais: Pōrīnetia Farāni). Tha iad nan laighe anns a'
+gla	Chuan Sèimh. 'S e Tahiti aon de na h-eileanan as ainmeiliche
+gla	ann an Roinn a' Chuain Shèimh. Tha am prìomh-bhaile, Papeete
+gla	'S e Branan cruth eile dhen ainm seo.
+gla	'S e cafaidh neo buth-cofaidh a tha ann an taigh-bidh neo àite
+gla	a tha a' reic cofaidh neo ti, agus uaireannan deoch làidir,
+gla	biadh 7c. Tha eadar-lìon aig feadhainn cuideachd. Bho thùs,
+gla	tha cafaidh taobh a-muigh, ach tha an ciall nas fharsainge a-nis.
+gla	'S e cànan Innd-Eòrpach a tha ann am Portagailis, ainm eile:
+gla	língua portuguesa. Thàinig e bhon chànan Laideann a bha na
+gla	daoine air a bhruidhinn ann an àirde a tuath na Portagail mu
+gla	2000 bliadhna air ais. An diugh 's e aon de na cànain as motha
+gla	a tha ann air feadh an t-Saoghail. Canar gu bheil mu 280 millean
+gla	duine ga bhruidhinn mar prìomh-chànan, gu h-àraid ann am
+gla	'S e ceann-suidhe na Bulgàiria a tha ann an Georgi Sedefchov
+gla	Parvanov (Bulgàiris: Георги Седефчов
+gla	S' e Ceimeagair à Sasainn a th'ann Harold Walter Kroto KBE FRS
+gla	(Wisbech, 7 an Damhair 1939). Fhuair e an Duais Nobel ann an
+gla	Ceimeagachd anns a' bhliadhna 1996. Thàinig a pharantan gu
+gla	Sasainn bho Phòlainn, agus 's Iùdhaich a bh' annta. Bha an
+gla	sloinneadh aca, "Krotoschiner", ach ghearr Harold e. Ann an
+gla	1995, thòisich e Filmichean Vega. Tha an amas aig Vega a chur
+gla	a-mach programman math mu dheidhinn Saidheans. Rannsaichidh e
+gla	mìon-saidheans (nanoscience) agus mìon-teicneòlas
+gla	'S e Chi (Χ, χ) an dà air fhicheadamh litir den aibidil
+gla	Ghreugach. Tha “Xi (Ξ)” san aibidil Ghreugach co-ionnan ri
+gla	“X” san aibidil Ròmanach (an aibidil againne), agus Chi
+gla	fhèin co-ionnan ri "ch" mar ann an "chì".
+gla	'S e clachan faisg air Baile a' Chaolais a tha ann an Gleann a'
+gla	Chaolais. Tha e suidhichte anns a' ghleann a tha a' leantainn
+gla	dhan Chaolas Mhic Phadraig. 'S e seo na co-chomharran aige: 56°
+gla	40′ 59.15″ Tuath agus 5° 11′ 32.96″ Iar.
+gla	'S e cleasaiche à Washington (stàit) sna Stàitean Aonaichte a
+gla	tha ann an James Patrick Caviezel (Mount Vernon, 26 an t-Sultain
+gla	1968). Chluich e am pàirt de Jesus Christ anns an fhilm "The
+gla	Passion of the Christ" (2004). Tha e ainmeil cuideachd mar
+gla	Edmond Dantès ann an "The Count of Monte Cristo" agus mar
+gla	Private Witt ann an "The Thin Red Line".
+gla	‘S e co-chruinneachadh a ghairm tro Lagh àireamh 3 dhe 1910
+gla	airson ath leasachaidhean a sgrùdadh is a ghabhail ris taobh
+gla	a’ Bun-Reachd dhe 1886 an rud na bu chudromaiche a rinn e fhad
+gla	‘s a bha e os cionn an Riaghaltais. Chruthaich an t-Ath
+gla	Leasachadh poileataigeach sin ùine mhòr shìtheil airson na
+gla	dùthcha, is le sin chaidh pròiseas dhe ùrachadh eaconamach a
+gla	Se comharrachadh "." a chleachdar aig dèireadh rosg-rainn, neo
+gla	ann an giorrachaidhean mar "m.e." ("mar eiseimpleir"), "m.s.a"
+gla	("agus mar sin air adhart") a tha ann an stad-phuing. Sa Bheurla
+gla	Breatannach full stop, agus Beurla Aimearaganach period.
+gla	'S e craoladair nàiseanta na Cuimrigh a tha ann am BBC Wales
+gla	(BBC Cymru sa Cuimris). Tha e suidhichte ann an Caerdydd.
+gla	’S e cur-ris an t-obrachadh matamataigeach a chuireas dà
+gla	àireimh ri chèile gus an t-suim a dhèanamh. ’S e sin an
+gla	àireamh a tha co-ionnan ris an uimhir gu lèir nuair a chuireas
+gla	'S e Dòrnach prìomh-bhaile na sgìre agus an t-aona borgh ann
+gla	an Cataibh. Seo cuid den na bailtean eile:
+gla	'S e dùthaich ann an Afraga a tha ann an Gini-Bissau,   neo
+gla	Guinea-Bissau, ainm oifigeil: Poblachd Ghini-Bissau
+gla	(Portagailis: República da Guiné-Bissau (IPA: ʁɛˈpublikɐ
+gla	dɐ giˈnɛ biˈsau). 'S e aon de na dùthchannan as lugha air
+gla	feadh Afraga a th' innte.
+gla	'S e dùthaich ann an Àisia a Deas a tha ann am Bangladais neo
+gla	Bangla Dais neo Bangla-deis neo Bangladeis. Tha crìochan aice
+gla	leis na h-Innseachan agus san earra-dheas le Mianmar. Tha Dhaka
+gla	'S e dùthaich anns na Greater Antilles anns a’ Mhuir
+gla	Chairibianach a tha ann am Poblachd Dhoiminicia neo A' Phoblachd
+gla	Dhominicanach (Spàinntis: República Dominicana, IPA:
+gla	re'puβlika domini'kana). 'S e an dàrna phàirt den eilean
+gla	Hispaniola, agus mar sin dheth tha crìoch aice le Haiti. Tha
+gla	Cùba agus Iaimeuca san taobh an iar agus tha Puerto Rico san
+gla	S'e each-aibhne neo capall-abhainn, (Hippopotamus amphibius a
+gla	Greugais ‘ιπποπόταμος (hippopotamos, hippos a'
+gla	ciallachadh "each" agus potamos a' ciallachadh "abhainn")) na
+gla	mhamal, mar muc mhòr, a tha a' fuireach sna h-aibhnichean ann
+gla	an Afraga. Ged a tha iad a' coimhead snog, tha eich-aibhne gu
+gla	math cunnartach - marbhaidh iad àireamh-shluaigh mòr gach
+gla	bliadhna, àireamh fada nas motha na an cearban neo crogall.
+gla	'S e eilean anns a’ Chaolas Shasannach a tha ann an Alderney
+gla	(Fraingis: Aurigny; Cànan Auregnais: Aoeur'gny). 'S e an
+gla	treasamh eilean as motha ann an Eileanan a' Chaolais. 'S e an
+gla	darna eilean as motha den Bailiwick of Guernsey.
+gla	'S e eilean deasaich nan Innse Gall a tha ann am Barraigh neo
+gla	Eilean Bharraigh. Tha ainm an eilein a' ceilearadh misionaraidh
+gla	Èireannach dom b' ainm Fionn-Barr. A rèir traidisean, thàinig
+gla	Fionn Barr gu h-Alba le Calum Cille. Is e eilean beag a tha ann,
+gla	mu seachd mìle o cheann gu cheann.
+gla	'S e eun beag a tha ann an steàrnan (Laideann Stenidae, Beurla
+gla	"tern"). Tha e coltach ri faoileag bheag, agus tha ceann dubh,
+gla	'S e fàsach a tha ann an 70% den dùthaich. Tha am Fàsach
+gla	Kalahari suidhichte ann an iar-dheas Botsuana. 'S e an Okavango
+gla	Delta an t-inbhir as motha air feadh an t-Saoghail. Tha e anns
+gla	an earra-thuath na dùthcha.
+gla	‘S e fear dhe na bailtean as shine na dùthcha agus
+gla	prìomh-bhaile roinn na Pòlainn Mhòir (Pòlais: Województwo
+gla	wielkopolskie) a th’ann Poznań. A bharrachd air sin, ‘s e
+gla	àite uabhasach cudromach taobh eachdraidh. Tha seanachaidh neo
+gla	dithis a’ cumail a’ dol gur e prìomh-bhaile na dùthcha
+gla	fhèin anns an 10mh Linn a bh’ann, agus ri linn riaghaltas an
+gla	treubh Knyaz agus na h-uachdaran Piast. Thathar a’ cleachdadh
+gla	an t-ainm Poznania ann an Pòlais airson na sgìre a tha fo
+gla	bhuaidh Phoznań, air an àirde an iar-mheadhan Wielkopolska.
+gla	Tha e coltach gun do thachairt baisteadh samhlach nam Pòlach
+gla	uile gu lèir an seo, nuair a thionndaich am prionnsa Mieszko I
+gla	gu bhith na Chrìosdaidh. Thathar dhen gun robh a’ chiad
+gla	Easbaig na Pòlainn, Jordan, na tàmh ann am Poznań ann an 968,
+gla	air an Eilean far a bheil a’ chiad chathair-eaglais an latha
+gla	’S e feartan nan cumhachdan feartan nan log-àireamhan. Gus
+gla	dà àireimh a dh’iomadachadh, tha na log-àireamhan aca air
+gla	an cur-ris. Gus àireamh a thogail chun cumhachd, tha an
+gla	log-àireamh aice air iomadachadh leis a’ chumhachd.
+gla	'S e Frankfurt am baile as motha ann an Hessen.
+gla	'S e Gleann Comhann no A’ Chàrnaich an t-aona baile a tha ann
+gla	an Gleann Comhann. Tha e suidhichte air àird an iar- dheas na
+gla	glinne far a bheil Abhainn Choe a’ struthadh dhan Loch
+gla	Lìobhann. Tha e suidhichte ann an Earra-Ghàidheal.
+gla	'S eilean anns na Lesser Antilles a tha ann an Naomh Crìstean
+gla	(Fraingeis: Saint-Christophe; Beurla: Saint Kitts). Tha am Muir
+gla	Cairibianach san iar dheth, agus an Cuan Siar san ear. Còmhla
+gla	ris an eilean Nibheis 's e pàirt den dùthaich Naomh Crìstean
+gla	'Se Ìosa an duine a thòisich an creideamh Crìosdaidh le na
+gla	thuirt e is na theagaisg e. Tha e cuideachd air ainmeachadh mar
+gla	"Ìosa Crìosd" no dìreach "Crìosd". Tha an t-ainm Ìosa a
+gla	tighean bhon ainm Eabhra (Hebrew) "Yeshua" a tha tighean bho
+gla	"Yehovah-shua" a ciallachadh "Glèidhidh Dia." Tha am facal
+gla	Crìosd a tighean 'on facal Greugais "Khristós"
+gla	(Χριστός) a ciallachadh "an neach coisrigeach." Tha am
+gla	facal Eabhra "Moshiach", no Mesiah 'sa Ghàidhlig agus 'sa
+gla	Bheurla, a ciallachadh an aon rud ris an Greugais Khristós.
+gla	'S e leabhar san t-Seann Tiomnadh a tha ann an Daniel.
+gla	'S e luibh a tha ann am biotais (Laideann: Beta vulgaris). Tha
+gla	freumh cruinn dearg ann, a chleachdar mar ghlasraich neo airson
+gla	'S e matamataig an t-eòlas a tha togte air bun-bheachdan a'
+gla	mheud, an structair, an fhànais agus a' chaochlaidh, agus an
+gla	sgoilearachd nan lùib. 'S e rannsachadh nam bun-bheachdan seo
+gla	agus nan ceanglaichean eatorra a tha obair mhatamataichean.
+gla	Thathar a' dèanamh feum de reasanachadh rianais gus
+gla	co-dhùnaidhean a chur còmhla agus baralachasan ùra a
+gla	dheasachadh 's a dhearbhadh.
+gla	‘S e na atharrachaidhean dhe 1853 a thòisich pròiseas na
+gla	feadaraileachd anns an dùthaich. Chaidh a’ chiad stàit
+gla	fheadarail a chur air dòigh air an 27mh latha dhen Ghearran
+gla	1855: Panama. Cha b’ fhada gun do lean Antioquia (11mh An
+gla	t-Ògmhios 1856) agus Santander (13mh An Cèitean 1857).
+gla	Sgrìobh còmhdhail na Poblachd lagh ùr ann an reachdas gus
+gla	sgaoileadh na dùthcha a sheachnadh, air 15mh latha dhen
+gla	Ògmhios 1857. Chruthaich an lagh sin sreath dhe stàitean le
+gla	fèin-ùghdarras, mar a leanas: Bolívar, Boyacá, Cauca,
+gla	Cundinamarca agus Magdalena. Chaidh an Stàit Tolima a
+gla	stèidheachadh air an 12mh latha dhen Iuchar 1861 air na
+gla	sgìrean air an àirde an iar Chundinamarca.
+gla	'S e neach-feallsanachd agus Ceimeagair Sasannach a bh' ann am
+gla	Michael Faraday, FRS (22 an t-Sultain 1791 – 25 an Lùnasdal
+gla	'S e neach-poileataigs Albannach a tha ann an Ridseard Baker,
+gla	BPA. Rugadh e san 29 an Cèitean 1971 ann an Dùn Èideann. Mar
+gla	BhPA tha e a' riochdachadh airson roinn Ear-thuath na h-Alba.
+gla	Tha e na bhall den Phàrtaidh Làbarach.
+gla	'S e nòs de chraobh na Nollaig a tha ann an chichilak'i
+gla	(Cairtbheilis: ჩიჩილაკი, IPA:/tʃitʃlakʼi/,
+gla	uaireannan chichilaki sa Bheurla) a gheibhear sa Chairtbheil, gu
+gla	h-àraidh ann an taobh an iar na dùthcha. Tha e air a dhèanamh
+gla	de gheug, mar is trice calltainn a thèid a shliseadh le sgian
+gla	gu fìnealta gus am bi slisean cùrlach dhen fhiodh mar bhrat
+gla	dheth. Tha a chrutha car coltach ri Craobh na Nollaig fhèin,
+gla	triantanach, ach tha e geal mar am fiodh seach uaine. Bidh iad
+gla	eadar 20cm agus grunn mheatairean a dh'àirde, le crois fhiodha
+gla	chòmhnard aig bun is barr na craoibhe.
+gla	'S e Oilthigh Oxford a' chiad oilthigh ann an Sasainn agus am
+gla	fear as aosmhor ann am Breatainn Mòr. 'S e Oxford (no Ath nan
+gla	Damh) aon de na oilthighean is ainmeile agus is cumhachdaich
+gla	anns an t-saoghal. Tha ceanglaichean agus co-dheuchainn mòr aig
+gla	Oxford ri Cambridge agus 's e Oxbridge a chuireas tòrr dhaoine
+gla	air an dà oilthigh còmhla.
+gla	Seorsa sgriobhadh mar ur-sgeulachdan, nobhailean, sgeulachdan
+gla	goirid agus ficsean san fharsaingeachd, agus neo-ficsean
+gla	(non-fiction) m.e. artagailean, aistidhean 7c.
+gla	'S e pìos meatailte a tha ann am bonn-cuimhne, a tha air a
+gla	chumadh mar chearcall, rionnaige, neo chrois. Tha e air thoirt
+gla	do dhuine o chionns gun do rinn e rudeigin gaisgeil, gu h-àraid
+gla	sa chogadh, neo rudeigin fìor mhath.
+gla	'S e prìomh-bhaile Bheinin a tha ann an Porto-Novo, ainm eile:
+gla	Hogbonou neo Adjacé. Tha e suidhichte ann an earra-dheas na
+gla	dùthcha aig an Gulf of Guinea, aig 40m os cionn ìre na mara.
+gla	Mar sin dheth tha port-mara cudthromach aige. 'S e seo an
+gla	co-chomharran aige: 6° 28' Tuath agus 2° 36' Ear. Tha Porto
+gla	Novo 25km air falbh bho Chontonou, 131km bho Lomé (Togo), 614km
+gla	bho Abuja (Nìgeiria), 784km bho Niamey (Niger) agus 796km bho
+gla	Ouagadougou (Burkina Faso).
+gla	'S e prìomh-bhaile Gini Mheadhan-Chriosach a tha ann am Malabo.
+gla	Ged a tha am pàirt as motha den dùthaich suidhichte air tìr
+gla	mhòr Afraga, tha Malako suidhichte 'san taobh tuath air an
+gla	eilean Bioko. Tha Malabo 609km air falbh bho Abuja (Nìgeiria),
+gla	450km bho Yaoundé (Camarun), agus 303km bho Libreville (Gabon).
+gla	Tha e suidhichte aig 111m os cionn ìre na mara. 'S e seo an
+gla	co-chomharran aige: 3° 45’ Tuath agus 8° 47’ Ear.
+gla	'S e prìomh-bhaile na Gaimbia a tha ann am Banjul. Tha e
+gla	suidhichte air Eilean St Mary, far a bheil an Abhainn Ghaimbia
+gla	a' sruthadh don Chuan Siar. Tha am baile ceangailte ris an tìr
+gla	'sa tuath le bàtaichean aiseig agus 'sa deas le drochaid. Tha
+gla	Banjul 167km air falbh bho Dhakar (Seanagal), 208km bho Bhissau
+gla	(Gini-Bissau), 522km bho Nouakchott (Moratainia agus 538km bho
+gla	Conakry (Gini). 'S e seo an co-chomharran aige: 13° 28' Tuath
+gla	agus 16° 36' Iar. Tha e suidhichte air an àirde an iar na
+gla	dùthcha, aig 5m os cionn ìre na mara.
+gla	'S e prìomh-bhaile na roinne Chocó, ann an Coloimbia, a th'
+gla	ann an Quibdó. Tha e suidhichte air àird an iar na dùthcha ri
+gla	taobh na h-aibhne Atrato, aig astar 564km bho Bhogotá. Tha
+gla	àirde meadhanach dhe 43m os cionn ìre na mara aige. ‘S e
+gla	baile le clìomaid teth a th’ ann le teodhachd meadhanach dhe
+gla	28˚, rè na bliadhna, leis gu bheil e faisg air a’ Chuan
+gla	Sèimh. 'S e Quibdó an 37mh baile as motha san dùthaich.
+gla	Chaidh am baile a steidheachadh ann an 1664.
+gla	'S e prìomh-bhaile riochdail is reachdail Dùthaich nan
+gla	Suasaidh a tha ann an Lobamba. Tha Mbabane na prìomh-bhaile
+gla	clèireachail. Agus 's e Manzini am baile as motha den dùthaich
+gla	'S e priomh mheur a' chinnidh Loch Iall, agus is iad na
+gla	fineachan eile Eireachd (le prìomh-athair Eòghann Camshron ),
+gla	Na Cluainean, Gleann Nibheis, agus Am Fasadh Feàrna.
+gla	'Se rìgh cho cumhachdach 'sa lorgadh tu aig àm no aite sam
+gla	bith ann an eachdraidh a bh' ann an Èideard I. Bha e mur tha
+gla	air ionnsaigh a thoirt air Èirinn agus a' Chuimrigh leis a
+gla	Chuimrigh a nis mar aon de na roinnean aig Sasainn. Thoisich
+gla	cuisean a fàs nas miosa an deidh do bean agus mic Alasdair
+gla	bàsachadh ann an tìde ghoirid. Bha seo a fàgail Rìgh na
+gla	h-Alba as aonais mac a leanadh e agus e dà fhichead sa còig
+gla	'S e roinn (Fraingis: Canton, Gearmailtis: Kanton, Eadailtis:
+gla	Cantone) anns An Eilbheis a th'ann Jura (Rumantsch/Eadailtis:
+gla	Giura). Tha e suidhichte air an àirde an iar-thuath na
+gla	dùthcha, ri taobh na crìochan leis An Fhraing. 'S e Delémont
+gla	a th'ann prìomh-bhaile na roinne. 'S e Fraingis a tha ga
+gla	bruidhinn air feadh na roinne, fiù's aig ìre oifigeil, ach tha
+gla	Gearmailtis aig na daoine ann an corra àite cuideachd. Gabh an
+gla	roinn sin ris An Eilbheis ann ann 1979. Tha an t-ainm oifigeil
+gla	na roinne a' ciallachadh Poblachd agus Roinn Jura. 'S e an 20mh
+gla	roinn as motha na h-Eilbheis, a thaobh àireamh-sluaigh.
+gla	'S e saor-stàit Gearmailteach a tha ann an Sagsainn (Sachsen sa
+gla	Ghearmailtis, Saxony sa Bheurla). Tha Dresden na phrìomh-bhaile.
+gla	'S e seinneadair le U2 a tha ann am Paul David Hewson, far-ainm
+gla	Bono. Tha e a' saothair gu mòr airson ceartas do dhaoine a'
+gla	fulang le AIDS. Tha guth làidir aige agus tha speuclairean dubh
+gla	air fad an t-siubhail. Rugadh e ann am Baile Átha Cliath
+gla	Se seòrsa cat mhòr bhreacach a tha anns am leopard-sneachda
+gla	neo unns, a tha a' fuireach ann an Aisia a-measg nam beanntan.
+gla	Se seòrsa mhaorach a tha ann an copan Moire (bàirneach;
+gla	patella vulgata) Cha chleachdar mar biadh gu tric, ach tha iad
+gla	gu math cumanta. Tha an t-ainm bàirneach air, uaireannan, ach
+gla	tha iad nas motha na fìor-bhàirneach.
+gla	‘S e sgìre dùthchasail air an àirde an iar-dheas na Suaine
+gla	a th’ ann an Sunne. Tha e suidhichte ri taobh Loch Fryken, ann
+gla	an Värmland, 243km air falbh bho Stockholm agus 240km bho
+gla	Ghöteborg. Tha 13,308 duine a' fuireach anns an sgìre.
+gla	'S e sgrìobhadair is bàrd Bengali às na h-Innseachan a tha
+gla	ann an Rabindranath Tagore (Bangla: Rabindranath Thakur)
+gla	(রবীন্দ্রনাথ ঠাকুর). Rugadh e
+gla	ann an Kolkata ann an 1861 agus chaochail e an siud fhèin ann
+gla	an 1941 Bhuannaich e an Duais Nobel ann an Litreachas anns a’
+gla	'S e siorramachd (Gaeilge: Contae) ann am Poblachd na h-Èireann
+gla	a tha ann an Contae Chill Dara (tuiseal ainmneach: Cill Dara,
+gla	Laideann: Comitatus Kildarensis). Tha e suidhichte ann an àirde
+gla	an ear na dùthcha, ann an Còigeamh Laighean. Tha 210,312 duine
+gla	a' fuireach san t-siorramachd fad 1,694km², an 23 siorramachd
+gla	as motha na dùthcha a thaobh fharsaingeachd agus an 8mh a
+gla	thaobh àireamh-sluaigh. Tha crìochan aig Contae Chill Dara le
+gla	Átha Cliath, Ceatharlach, Cill Mhantáin, Laois, An Mhí agus
+gla	Contae Uíbh Fhailí. Bha 114,488 nan tàmh sa chontae ann an
+gla	1841, ron a' Ghorta Mhòir. 'S e Cnoc Bhaile Chupid (379m) a th'
+gla	ann a' beinn as àirde na siorramachd. Chaidh Contae Chill Dara
+gla	a chruthachadh ann an 1297.
+gla	'S e Spàinntis a tha aig a' mhòrchuid ann an Aimearaga a Deas,
+gla	ach tha Braisil a' cleachdadh Portagailis (a tha gu math
+gla	càirdeil ris), agus gheibhear cànanan eile ann: cànanan
+gla	Eòrpach mar Beurla, Fraingis is Duitseis, agus mòran cànanan
+gla	tùsach. Ged a tha an àireamh de chànanan tùsach gu math
+gla	àrd, chan eil ach dà neo trì aig a bheil mòran
+gla	luchd-bruidhinn ann fhathast - Quechua (cànan Incach) is
+gla	Guaranaidh (cànan oifigeil ann am Paraguaidh, agus làidir)
+gla	‘S e stàit (Gearmailtis: Land) anns A' Ghearmailt a th' ann
+gla	an Schleswig-Holstein (IPA: ˈʃleːsvɪç ˈhɔlʃtaɪn,
+gla	Danmhairgis: Slesvig-Holsten, Frysk: Sleeswyk-Holstein). Tha an
+gla	stàit seo suidhichte ann an ceann a tuath dùthcha air na
+gla	crìochan leis An Danmhairg agus trì stàitean eile, Hamburg,
+gla	Mecklenburg-Vorpommern agus Sagsainn Iosail is iad uile ann an
+gla	ceann a deas na stàite. ‘S e Kiel a th’ann prìomh-bhaile
+gla	na stàite, agus am baile as motha cuideachd, ach ‘s e Lübeck
+gla	a th’ann am baile as eachdraidheil is as ainmeil na stàite.
+gla	Tha an stàit seo a’ sìneadh air 15,763.18km2 ri taobh na
+gla	mara Bhaltach agus a’ Chuain a Tuath, air an ceann a deas na
+gla	Doirling Jutland. Le dìreach 2,834,259 de dhaoine nan tàmh an
+gla	seo, ‘s e an naodhamh stàit as motha na Gearmailte, a thaobh
+gla	àireamh-sluaigh, a th’ann Schleswig-Holstein.
+gla	'S e Stèisean Raineach an stèisean ann an Raineach. Tha e
+gla	suidhichte air Rathad Iarainn nan Eilean eadar Loch Ossain agus
+gla	’S e T an fhicheadamh litir den aibidil Ròmanach agus an
+gla	t-seachdamh litir deug ann an aibidil na Gàidhlig. 'S e Teine
+gla	an t-aimn a th' air anns an aibideil Ghàidhlig stèidhichte air
+gla	'S e tè de na Stàitean Aonaichte a tha ann an Carolina a
+gla	Tuath. Tha i suidhichte san àirde an ear na dùthcha. Tha
+gla	9,535,483 duine a' fuireach anns an stàite. . Tha Raleigh na
+gla	prìomh-bhaile ach 's e Charlotte am baile as motha a tha ann an
+gla	Carolina a Tuath. Bha Gàidhlig air a bruidhinn an seo gus na
+gla	1920an. Tha e air a bhith na stàit bho 21 an t-Samhain 1789.
+gla	'S e tè dhe na 12 roinnean nan Tìrean Ìsle a th' ann an
+gla	Gelderland (IPA:ˈɣɛɫ.dər.ˌlɑnt, Laideann: Geldria). ' S e
+gla	Arnhem a th'ann prìomh-bhaile na roinne ach 's e Nijmegen a th'
+gla	anns a' bhaile as motha. Tha crìochan aig Gelderland le 6
+gla	roinnean eile: Noord-Brabant agus Limburg ann an ceann a deas:
+gla	Zuid-Holland agus Utrecht air an àirde an iar: Flevoland is
+gla	Overijssel ann an ceann a tuath. A bharrachd air sin, tha
+gla	crìochan eadar-nàiseanta leis A' Ghearmailt air an àirde an
+gla	's e thog an àird i na b' fhearr na mòdan.
+gla	'S e ùghdair Ròmanach a bh' ann an Titus Livius (59 RC - 17
+gla	AC). Rugadh e ann am Padova.
+gla	Sgìre ann an ceann a tuath Eilean Leòdhais. Tha mu 16 bailtean
+gla	beaga anns an sgìre: (tuath gu deas): Eoropaidh, na Còig
+gla	Peighinnean, an Cnoc Àrd, Am Port (Port Nis), Lìonal, Tàbost,
+gla	Suainebost, Cros, Cros-Sgiogarstaigh, Eoradal, Adabroc, ÀAird
+gla	Dhail, Dail bho Thuath, Dail bho Dheas, Sgiogarstaigh agus
+gla	Cuishader. Chan eil coimhearsnachd anns an Aonadh Eorpach nas
+gla	fhaide chun an iar-thuath na Nis. Tha a' Ghàidhlig nas treasa
+gla	ann an Nis na tha i ann am pàirt sam bith eile de Leòdhas; tha
+gla	Sgrìobh Horne a' chuid a bu mhotha den leabhar The Geological
+gla	Structure of the Northwest Highlands of Scotland; Memoirs of the
+gla	Geological Survey of Great Britain 1907 (còmhla ri Peach, B.
+gla	Gunn, W., Clough, C.T., agus Hinxman, L.W.), leabhar a tha
+gla	luachmhor gus an latha an-diugh .
+gla	Sheinn ise anns a' phrògram "Later with Jools" air an 25mh an
+gla	Cèitean 2007, agus 's toil le Björk 's Phil Selway (bhon
+gla	chòmhlan-ciùil Radiohead) Julie Fowlis.
+gla	‘S i aon de na gnèithean chlàraichte as aosta air an
+gla	t-saoghail a th’ anns a’ bhò ghàidhealach. Chaidh a chiad
+gla	“leabhar-treud” a chur air dòigh ann an 1884. Bha an
+gla	seòrsa cruidh seo na phàirt cudthromach ann an eachdraidh na
+gla	Gàidhealtachd ‘s nan Eilean, agus tha iad nam mìr
+gla	tarraingeach ann an àiteachas fàs-bheairteach an
+gla	'S iomadh bhiadh a bhathas agus a thathas a' dèanamh de
+gla	mhìn-choirce ann an Alba.
+gla	snaighidh mi sìos ann an rann
+gla	Stàitean Aonaichte Choloimbia
+gla	Stiùir MacGilleEathain an sgioba aige gu buaidh ann an Cupa an
+gla	Lìog san Dùbhlachd, 1979 's ga ghlèidheadh a-rithist bliadhna
+gla	as a dhèidh sin. Bha MacGilleEathain a' cosnadh cliù dhan
+gla	chlub san Roinn-Eòrpa beag air bheag, air dhaibh tighinn gu
+gla	n-inbhe ann am ball-coise na h-Alba. Rinn iad an gnothach le
+gla	dèanadas drùidhteach air sgiobannan leithid AS Monaco,
+gla	Borussia Mönchengladbach, PSV Eindhoven, Anderlecht agus Werder
+gla	Bremen. Fhreagair an stoidhle bac-ionnsaigh, a bha e fhèin air
+gla	dhealbhachadh, an ìre sin gu mòr.
+gla	S'urrainn dhut sean-oileanaich a lorg ann an iomadach ìre agus
+gla	suidheachadh cùmhachdach ann an fòghlam, lagh, diplomasaidh,
+gla	naidheachdas, riaghaltas, ionadan eadar-naiseanta, Buidhnean
+gla	Neo-Riaghaltais (NGOan), bancaireachd, dualchas-ealan, na
+gla	meadhanan agus oilthighean.
+gla	Talamh nas lugha ‘s dùil nas lugh’ ri flaitheas,
+gla	Taobh chinnidh, 's e daoine geala a th' ann a' mhòr-chuid dhe
+gla	na daoine ann an Mocoa (is mòran dhuibh mestizos). ‘S e
+gla	Tùsanaich a th' ann an 18.3% agus tha 6.5% dhe dhaoine le
+gla	freumhan ann an Afraga. 'S urrainn dhan 90.4% dhe na daoine ann
+gla	am Mocoa leughadh agus sgrìobhadh. A tuilleadh air sin, tha
+gla	fòn aig an taigh aig 32.6% dhe na dachannan.
+gla	Taobh chinnidh, ' s e daoine geala/mestizos a th'ann a'
+gla	mhòr-chuid dhe na daoine ann an Cartagena, ach tha 0.2% dhe
+gla	Tùsanaich agus 36.5% dhe daoine le freumhan ann an Afraga. ' S
+gla	urrainn dhan 91.4% dhe na daoine ann an Cartagena leughadh agus
+gla	sgrìobhadh. A tuilleadh air sin, tha fòn aig an taigh aig
+gla	tastan - Fichead seant Canadianach.
+gla	Tha 15,119 nan tàmh anns a' bhaile fa leth, ach tha a’
+gla	mhòr-chuid dhuibh, 11,126 dhuibh a’ fuireach thall anns na
+gla	sgìrean dùthchasail am broinn crìochan a' bhaile. Tha fearann
+gla	na dùthcha sin ga roinn eadar na bailtean (Spàinntis:
+gla	municipios) agus le sin tha gach clachan agus croit fo
+gla	stiùireadh baile air choireigin. Air adhbharan trioblaidean
+gla	poiliteagach air an dùthaich, tha a' mhòr-chuid dhe na daoine
+gla	anns gach uile baile a-nis a' fuireach anns na bailtean fhèin,
+gla	is na daoine a' fàgail na sgìrean dùthchasail. Le sin, ‘s e
+gla	pàtran àireimh-shluaigh gu math traidiseanta a th’ann ann am
+gla	Tha 52,769 km a dh'fharsaingeachd innte , agus tha còrr is 6
+gla	millean duine a' fuireach ann (mu 121 duine/km).
+gla	Tha a’ chiad fhianais sgrìobhte againn mu Chölln mar phàirt
+gla	den bhaile dhùbailte Bherlin-Chölln anns an Spreeinsel (Eilean
+gla	Spree) anns a’ bhliadhna 1237. Tha a’ chiad fhianais
+gla	sgrìobhte againn mu Bherlin aig bruach an Abhainn Spree anns
+gla	a’ bhliadhna 1244. Bha talla a’ bhaile cumanta air a thogail
+gla	Tha a h-uile coltas ann gur ann às a' Ghàidhlig Uamh a tha an
+gla	t-ainm. Chruthachadh tursachan aig Kirkhill ro àm nan Ròmanach
+gla	agus thogadh caisteal le motte san 12mh Linn. S' ann le Roger de
+gla	Kirkpatrick a bha an t-àite seo ann an 1357, ach bha làmh an
+gla	uachdair air a bhith aig Clann 'Ic Iain bhon 1549. Bha faisg air
+gla	580 duine a' fuireach an seo ann an 1830 ach tha
+gla	àireamh-shluaigh na sgìre air a bhith a' tuiteam bhon uairsin.
+gla	Chaidh eaglais ùr a thogail ann an 1834, ann an aon àite far
+gla	an robh sean eaglais ann o shean. Sgrìobh Walter Scott luaidh
+gla	air a bheil The Lads of Wamphray ann an 1800 mu dheidhinn
+gla	eachdraidh trioblaideach na sgìre san 16mh Linn. Thogadh
+gla	loidhne-rèile tron sgìre ann an 1847, ach dhùnadh an
+gla	stèisean ann an 1960. A-rèir carragh-chuimhne san eaglais,
+gla	fhuair naoinear à Wamphray bàs sa Chogadh Mòr agus ceithrear
+gla	Tha air uairibh na Sìthichean air fhaicinn cho luchd-dìona
+gla	garga an àiteachan-còmhnaidh - co-dhiù gum bi e cnoc shìdh,
+gla	fàinne shìdh, craobh shònraichte (gu tric sgitheach), no 's
+gla	mathaid loch no coille shònraichte. Tha an Cruinne Eile
+gla	Ceilteach air fhaicinn cho nas dlùithe ris na h-amannan nam
+gla	beul an là 's na h-oidhche, mar sin 'seo àm sònraichte dhan
+gla	sluagh Sìdhe, cho tha roinn nam fèilltean mar an Oidhche
+gla	Shamhna agus an Fhèill Eòin. Am bitheantas, 's an dealbh air
+gla	thoirt nan duine Sìdh annasach àlainn, ged 's urrainn dhaibh
+gla	Tha am baile Abercynon ann an Rhondda Cynon Taf, a' Chuimrigh.
+gla	Tha e 13.1 mi (21.0 cilemeatair) bho Caerdydd, agus 137.7 mi
+gla	(221.6 cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh
+gla	ann an 2011 bha 6125 daoine a' fuireach ann, agus bha Cuimris
+gla	aig 552 (9.0%); rugadh 95% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile a' nochdadh dà thuras anns an fiolm Braveheart,
+gla	fiolm sgrìobhte le Randall Wallace agus stiùirichte le Mel
+gla	Gibson. Anns an fhiolm chleachdadh an àite seo airson Blàr
+gla	Chùil Lodair agus Blàr na h-Eaglaise Brice.
+gla	Tha am baile Bracla ann am Pen-y-Bont ar Ogwr, a' Chuimrigh. Tha
+gla	e 16.6 mi (26.8 cilemeatair) bho Caerdydd, agus 147.6 mi (237.5
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 11276 daoine a' fuireach ann, agus bha Cuimris aig 1126
+gla	(10.0%); rugadh 79% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Cas-mael ann an Sir Benfro, a' Chuimrigh. Tha e
+gla	80.1 mi (128.9 cilemeatair) bho Caerdydd, agus 206.3 mi (332.0
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 550 daoine a' fuireach ann, agus bha Cuimris aig 287
+gla	(52.2%); rugadh 72% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Coed-ffranc ann an Castell-nedd Port Talbot, a'
+gla	Chuimrigh. Tha e 31.5 mi (50.7 cilemeatair) bho Caerdydd, agus
+gla	160.6 mi (258.5 cilemeatair) bho Lunnainn. A rèir a'
+gla	chunntais-shluaigh ann an 2011 bha 8755 daoine a' fuireach ann,
+gla	agus bha Cuimris aig 1006 (11.5%); rugadh 91% den t-sluagh anns
+gla	Tha am baile De Maelor ann an Wrecsam, a' Chuimrigh. Tha e 101.7
+gla	mi (163.7 cilemeatair) bho Caerdydd, agus 151.1 mi (243.2
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 1234 daoine a' fuireach ann, agus bha Cuimris aig 109
+gla	(8.8%); rugadh 45% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Glasgwm ann am Powys, a' Chuimrigh. Tha e 47.7 mi
+gla	(76.8 cilemeatair) bho Caerdydd, agus 140.2 mi (225.6
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 533 daoine a' fuireach ann, agus bha Cuimris aig 78
+gla	(14.6%); rugadh 54% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Jeffreyston ann an Sir Benfro, a' Chuimrigh. Tha e
+gla	70.4 mi (113.3 cilemeatair) bho Caerdydd, agus 199.6 mi (321.2
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 560 daoine a' fuireach ann, agus bha Cuimris aig 69
+gla	(12.3%); rugadh 67% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Llanddewi Efelffre ann an Sir Benfro, a' Chuimrigh.
+gla	Tha e 69.0 mi (111.0 cilemeatair) bho Caerdydd, agus 196.6 mi
+gla	(316.4 cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh
+gla	ann an 2011 bha 383 daoine a' fuireach ann, agus bha Cuimris aig
+gla	117 (30.5%); rugadh 64% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Llanengan ann an Gwynedd, a' Chuimrigh. Tha e 108.6
+gla	mi (174.7 cilemeatair) bho Caerdydd, agus 207.3 mi (333.6
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 1937 daoine a' fuireach ann, agus bha Cuimris aig 1074
+gla	(55.4%); rugadh 56% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Llanfrynach ann am Powys, a' Chuimrigh. Tha e 31.4
+gla	mi (50.6 cilemeatair) bho Caerdydd, agus 140.7 mi (226.5
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 562 daoine a' fuireach ann, agus bha Cuimris aig 39
+gla	(6.9%); rugadh 65% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Llangynyw ann am Powys, a' Chuimrigh. Tha e 82.4 mi
+gla	(132.5 cilemeatair) bho Caerdydd, agus 156.5 mi (251.9
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 573 daoine a' fuireach ann, agus bha Cuimris aig 202
+gla	(35.3%); rugadh 40% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Llansteffan ann an Sir Gaerfyrddin, a' Chuimrigh.
+gla	Tha e 55.9 mi (89.9 cilemeatair) bho Caerdydd, agus 183.7 mi
+gla	(295.6 cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh
+gla	ann an 2011 bha 924 daoine a' fuireach ann, agus bha Cuimris aig
+gla	429 (46.4%); rugadh 65% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Malpas ann an Casnewydd, a' Chuimrigh. Tha e 11.6
+gla	mi (18.7 cilemeatair) bho Caerdydd, agus 123.9 mi (199.4
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 7749 daoine a' fuireach ann, agus bha Cuimris aig 656
+gla	(8.5%); rugadh 86% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Parc ann am Merthyr Tudful, a' Chuimrigh. Tha e
+gla	21.1 mi (34.0 cilemeatair) bho Caerdydd, agus 140.8 mi (226.6
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 4213 daoine a' fuireach ann, agus bha Cuimris aig 335
+gla	(8.0%); rugadh 89% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Pistyll ann an Gwynedd, a' Chuimrigh. Tha e 115.8
+gla	mi (186.3 cilemeatair) bho Caerdydd, agus 209.8 mi (337.7
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 552 daoine a' fuireach ann, agus bha Cuimris aig 381
+gla	(69.0%); rugadh 69% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Ringland ann an Casnewydd, a' Chuimrigh. Tha e 13.1
+gla	mi (21.1 cilemeatair) bho Caerdydd, agus 120.6 mi (194.1
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 8201 daoine a' fuireach ann, agus bha Cuimris aig 668
+gla	(8.1%); rugadh 90% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Templeton ann an Sir Benfro, a' Chuimrigh. Tha e
+gla	69.9 mi (112.4 cilemeatair) bho Caerdydd, agus 198.4 mi (319.3
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 920 daoine a' fuireach ann, agus bha Cuimris aig 136
+gla	(14.8%); rugadh 65% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Tre-lech ann an Sir Gaerfyrddin, a' Chuimrigh. Tha
+gla	e 65.2 mi (104.9 cilemeatair) bho Caerdydd, agus 189.5 mi (305.0
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 737 daoine a' fuireach ann, agus bha Cuimris aig 440
+gla	(59.7%); rugadh 63% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am baile Y Mot ann an Sir Benfro, a' Chuimrigh. Tha e 75.9
+gla	mi (122.1 cilemeatair) bho Caerdydd, agus 202.5 mi (325.9
+gla	cilemeatair) bho Lunnainn. A rèir a' chunntais-shluaigh ann an
+gla	2011 bha 424 daoine a' fuireach ann, agus bha Cuimris aig 142
+gla	(33.5%); rugadh 63% den t-sluagh anns a' Chuimrigh fhèin.
+gla	Tha am bod no slat na bhall-bodhaig cleamhnais air an taobh
+gla	a-muigh fhireannach agus, ann am mamalan, am ball-bodhaig mùin
+gla	air an taobh a-muigh nam fireannach. Tha e co-ionnan ris a'
+gla	bhrillean ann am boireannaich, seach fàsaidh e às a' chruth
+gla	Tha a' mhòr-chuid dhe na seann Libearalaich, a-nis daoine aig
+gla	Uribe, fo bhratach dà bhuidheann ùra: Atharrachadh Raidigeach
+gla	(Spàinntis: Cambio Radical) agus Pàrtaidh na h-Aonaidh
+gla	Nàiseanta (Spàinntis: Partido de Unidad Nacional). Thagh am
+gla	pàrtaidh an seann cheannard César Gaviria mar riochdaire
+gla	nàiseanta ann an 2005 airson atharraidhean a dhèanamh ro na
+gla	taghaidhean ann an 2006. Chaidh Horacio Serpa a thaghadh mar
+gla	thagraiche airson an treas turas, ach bhuannaich Álvaro Uribe
+gla	Tha an àite ainmeil airson a' mhì-cheartais a rinneadh an seo
+gla	air 24 an Cèitean 1845, nuair a chaidh 18 teaghlaichean
+gla	fhuadach, mu 90 daoine uile gu lèir, le Seumas Gillanders
+gla	Seumarlan do MacDhonnachaidh Chinn Dheise. Bha Gillanders ag
+gla	amas aon Tuathanas Caora a chruthachadh anns a' Ghleann gu
+gla	lèir. Cha d' fhuair muinntir Gleann Chailbhidh fasgadh neo
+gla	tearmain san sgìre as dèidh an fhuadach siud ach an cladh
+gla	Eaglais a' Chnoic far an do dh'fhan cuid dhuibh gus an tàinig
+gla	Tha an cuid as motha dhith air tìr mhòr na h-Alba far an robh
+gla	an t-siorrachd traidiseanta Inbhir Àir. Tha a' chomhairle a'
+gla	gabail a-steach cuideachd an t-eilean Arainn a bha aig Siorrachd
+gla	Bhòid agus cuid de na h-eileanan ann an Linne Chluaidh, m. e.:
+gla	Cumaradh Mòr agus Cumaradh Bheag.
+gla	Tha an Èipheit     neo Èiphit (ainm oifigeal sa Bheurla: Arab
+gla	Republic of Egypt) suidhichte ann an Afraga a Tuath. Tha
+gla	crìochan aice san iar le Libia, sa deas le Sudàn agus san ear
+gla	le Gaza Strip 's Iosrael. Tha am Muir Meadhanach san àird a
+gla	tuath agus am Muir Ruadh san ear dhith.
+gla	Tha an Lord of the Rings (Tighearna nam Fàinnean) 'na leabhar
+gla	(no leabhraichean) ainmeil a sgrìobh J.R.R. Tolkien. Gu tric
+gla	tha e air a thaghadh mar an leabhar is fhearr a chaidh a
+gla	sgrìobhadh a-riamh. Chaidh sreath de thrì film a dheanamh mu
+gla	na leabhraichean. Tha Lord of the Rings 'na dàn mòr
+gla	sgeul-ghuailneis le J. R. R. Tolkien, iarsmadh ri obair nas
+gla	tràithe, The Hobbit. Chaidh fhoillseachadh ann an trì leabhar
+gla	às 1954 ri 1955. Tha dà ceartachadh ann am filmean air
+gla	dhèanamh, an cuid nas ainmeile a bhith an lìn de trì film
+gla	Pheadair Jackson fuasgailte às 2001 ri 2003.
+gla	Tha an Slighe na Gàidhealtachd an Iar, frith-rathad astair
+gla	eadar Glaschu agus A' Ghearastan, a' dol tron bhaile.
+gla	Tha an t-Each (Equus caballus neo Equus ferus caballus) na
+gla	bheathach ceithir-chasach callta, a tha air a chleachdadh airson
+gla	marcachd, slaodadh chairtean, tarraing chrann-treabhaidh agus
+gla	Tha an t-Slighe Fhrangach a’ tòiseachadh sa bhaile
+gla	Saint-Jean-Pied-de-Port air taobh na Frainge de na Beanntan
+gla	Pirineach agus a’ dol a-null tarsainn gu Roncesvalles air
+gla	taobh na Spàinne. Às dèidh sin tha i a’ cumail oirre 780
+gla	cilemeatair a bharrachd gu ruige Santiago de Compostela, a’
+gla	leantainn tro na bailtean mòra Pamplona, Logroño, Burgos agus
+gla	León. Feumadh i mu cheithir seachdainean co-dhiù de
+gla	choiseachd, le lath no dhà saor ri linn an t-siubhail. Tha cuid
+gla	ga marcachd air rothar. Tha na slighean bho thrì bailtean mòra
+gla	sa Fhraing, Tours, Vézelay agus Le Puy-en-Velay a’ tighinn
+gla	còmhla aig Saint-Jean-Pied-de-Port, far a bheil iad a’
+gla	sruthadh a-steach anns an t-Slighe Fhrangach.
+gla	Tha Asaint ainmeil airson na feartan-tìre aige. Tha Uamh An
+gla	Claonaite, an uamh as fhaide ann an Alba mu còig mìltean deas
+gla	air Innis nan Damh. Tha tèarmannan-nàdair ann mar an
+gla	Inverpolly Nature Reserve agus Creag a' Chnocain le
+gla	ionad-fiosrachaidh mu eòlas-talmhainn den Moine Thrust. Tha na
+gla	beanntan ann an Asaint, m.e. Quinag, Canisp, Suilven, Cùl Mòr,
+gla	Stac Pollaidh is Ben More Assynt a' tarraing mòran luchd-turais.
+gla	Tha Ball-lìn (“netball”) na chluich a tha coltach ri
+gla	ball-basgaid airson mnathan. Se cluich a tha anns am bi daoine
+gla	a’ feuchainn ri bàlla a thilgeil tro chearcall a bhios air a
+gla	cheangal deich troighean os cionn an ùrlair.
+gla	Tha bèiceareachd neo fuineadh nuair a tha biadh, air bruich ann
+gla	Tha Bloemfontein suidhichte ann am meadhan na dùthcha anns an
+gla	Highveld. Tha an fharsaingeachd rèidh le beanntan beaga
+gla	(koppies san Afrikaans) an-siud agus an-seo. 'S e seo an
+gla	co-chomharran aige: 29° 6’ Deas agus 26° 13’ Ear. Tha mu
+gla	369,568 duine a’ fuireach anns a’ bhaile fhèin.
+gla	Tha brosnachadh na òran, òraid neo dàn, airson faireachdainn
+gla	làidir, misneachail, neo tìr-gràdhach, a chuir ort. Bha iad
+gla	gu math cumanta aig aon àm, agus tha Brosnachadh Bhruis (Scots
+gla	Wha Hae) le Raibeart Burns na dheagh-eiseimpleir.
+gla	Tha cabhlach (neo "nèibhidh" ⁊c) a’ ciallachadh na
+gla	h-àireamh de bhàtaichean a bhuineas don aon dùthaich neo
+gla	bhuidhinn. Bidh itealan agus saighdearan-mara aig a’ chabhlach
+gla	Tha Caribou County ann an Idaho. Se Soda Springs am
+gla	Tha ceithir baranachdan deug (Gaeilge: barúntacht) am broinn an
+gla	Dhúin: An Aird Íochtarach, An Aird Uachtarach, An Caisleán
+gla	Riabhach Íochtarach, An Caisleán Riabhach Uachtarach, An
+gla	Duifrian, Uíbh Eachach Íochtarach (An Leath Íochtair), Uíbh
+gla	Eachach Íochtarach (An Leath Uachtair), Uíbh Eachach
+gla	Uachtarach (An Leath Íochtair), Uíbh Eachach Uachtarach (An
+gla	Leath Uachtair), Cineál Fhártaigh, Leath Cathail Íochtarach,
+gla	Leath Cathail Uachtarach, An tIúr agus Múrna. A bharrachd air
+gla	sin, tha 70 parraistean (ann an dà sgìreachd-easpaig: An Dúin
+gla	agus Drom Mhór) agus 1,666 bailtean fearainn sa chontae.
+gla	Tha Chittenden County ann an Vermont. Se Burlington am
+gla	Tha cnò-mheannt a' fàs anns na Banda Islands anns an
+gla	Innd-Innse, anns na Penang Island ann am Malaidhsia agus ann an
+gla	Kerala, sgìre ann an àirde a deas nan Innseachan. Tha e
+gla	cumanta anns a' Chairibìan cuideachd, gu h-àraidh ann an
+gla	Greanada, far a bheil e a' nochdadh air bratach na dùthcha.
+gla	Tha coltach gruag bhàn ris na daoine na Roinne-Eòrpa mu
+gla	Thuath, gu sònraichte le Lochlann; tha gruag glè bhàn air
+gla	uairibh air chantainn ri "bàn na Lochlainn". Ach tha
+gla	doilleirichte na meudan fìora is an ìre na gruaige bhàn
+gla	nàdarra air a bhith leis an àireamh nan daoine gum gealaich am
+gla	gruag. Tha an t-àireamh as àirde sa' cheud nam fireannach agus
+gla	boireannach gum cleachd stuth-duileolachd a atharrachadh an dath
+gla	nàdarra am gruag ri 'Bàn na Lochlainn' aig an t-Suain, an
+gla	dùthaich as motha is as sluaghaiche nan dùthchannan na
+gla	Lochlainn. Tha air lorgadh troimh na Roinne-Eòrpa gruag bhàn
+gla	(ged ann an roinnean nas lugha) agus 's i fiù is làthaireil
+gla	san Ear Mheadhanach agus Aisia mu Thuath, ged 's i
+gla	fìor-ainneamh an-siud, ach am measg nam Paistun na
+gla	h-Afghanistan agus Pakistan. 'S urrainn do gruag buidhe-dhonn a
+gla	bhith aig Astràilianaich Dhùthchasach, gu sònraichte air na
+gla	h-àiteachan Iar-Mheadhanach a' mhòr-thìr. [1] Mar as trice,
+gla	tha comannaichte gu ginteil le dath nas finne nan sùilean
+gla	(gorm, uaine, agus bàn-dhonn) agus dath fionn (air uairibh
+gla	breac-bhallach) an craicinn gruag bhàn anns na h-Eòrpaich.
+gla	Tha crìochan aice san ear le Malabhaidh, sa tuath le Poblachd
+gla	Dheamocrach na Congo, san ear-thuath Tansainìa, san iar le
+gla	Angòla agus sa deas le Mòsaimbic, Siombabue, Botsuana agus
+gla	Tha cuid a' cumail a-mach gun robh Seumas IV na Rìgh Alba mu
+gla	dheireadh a bha fileanta sa Ghàidhlig. Tha fios againn gun robh
+gla	Gàidhlig aige bhon fhianais a dh'fhàgadh le fear Pedro Ayala,
+gla	an tosgaire Spàinnteach - uime sin, 's e Seumas am fear mu
+gla	dheireadh air a bheil fios le cinnt againn, ged a tha cuid eile
+gla	ag ràdh gun do bhruidhinn Seumas V i. Ach Gàidhlig ann no às,
+gla	's e Seumas IV a chuir às do Thighearnas nan Eilean ann an
+gla	1493; bha an tighearnas air fàs ro chumhachdach, chun na h-ìre
+gla	far an do chuir e an rìgh fhein gu dùbhlan.
+gla	Tha dà bharanachd dheug (Gaeilge: barúntacht) am broinn Uíbh
+gla	Fhailí: Baile Átha Buí, Baile an Bhairínigh, Baile an
+gla	Bhriotaigh, Baile an Chúlaígh, Baile Mhic Comhainn, Cill
+gla	Chuairsí, Cluain Leisc, An Daingean Íochtarach, An Daingean
+gla	Uachtarach, An Eaglais, Garraí an Chaisleáin agus Géisill. A
+gla	bharrachd air sin, tha 51 parraistean (ann an còig
+gla	sgìreachdan-easpaig: An Mhí, Osraí, Ardach-Cluain Mhic Nóis,
+gla	Cill Ala agus Cill Dara-Leithghlinne) agus 1,194 bailtean
+gla	Tha dà seòrsa na neach-seinn àirde gaolach gu h-àriadh dham
+gla	Fhrangaich an Dugazon agus an Falcon, a bheil seòrsachan a'
+gla	ghutha eadarrach eadar an neach-seinn àirde agus an neach-seinn
+gla	leth-àrd: tha Dugazon 'na guth-gogaid nas doirche, tha Falcon
+gla	'na guth àirde cumhachdach nas doirche.
+gla	Tha diofar ciallan aig am facal no an t-ainm Gall aig ìre
+gla	atharaichte de dh'eachdraidh. Tha e an còmhnaidh air a
+gla	chleachdadh ri neach, air a no le sluagh 'Goill', nach eil
+gla	gàidhealach. Aig aon àm 'se gall an t-ainm a bh'aig na
+gla	Gàidhil ri na Lochlannaich agus mar sin 'se Innse Gall a
+gla	th'again fhathast air na h-Eileanan an Iar oir b'abhaist gun
+gla	robh iad uile fo smachd an t-sluagh ud fiùs ged a bhitheadh
+gla	Innse Gaidheal nas fìor mar ainm san latha an diugh. Anns na
+gla	linntean an dèidh do na Gaidhil cùmhachd fhaighinn air na
+gla	Lochlannaich an Alba thoisich Gall bhith air a chleachdadh
+gla	airson na h-Albannaich a bhitheadh a bruidhinn an t-seòrs
+gla	Beurla ris an canar A' Bheurla Ghallda agus 'se a Ghalldachd a
+gla	bha again air am pàirt de dh'Alba far an lorgadh tu iad.
+gla	Tha duine-uasal na dhuine a bhuineas do theaghlach cudromach.
+gla	Tha ciall eile aige: fear a tha gu math modhail is onarach.
+gla	Tha e ag innse gu bheil co-dhiù aon Ghearmailtich aig gach
+gla	roinn Ghàidhlig aig na h-oilthighean ann an Alba gach bliadhna
+gla	's iad a' dèanamh obair ionmholta as leth cultar is cànan nan
+gla	Gàidheal. 'S ann aig Sabhal Mòr Ostaig a tha a' chuibhreann as
+gla	motha dhiubh gach bliadhna 's na Gearmailtich a' dèanamh suas
+gla	an roinn as motha am measg nan oileanach bho thall thairis. Bha
+gla	triùir air cùrsaichean làn-tìde ann an 2011, triùir air
+gla	cùrsaichean air astar agus 11 air cùrsaichean goirid.
+gla	Tha e cho farsaing ri 43,201 heactair ceàrnagach (167 sq mi) de
+gla	mheud. 'S e Gaoda Bheinn an cnoc as àirde air an eilean. Tha e
+gla	874 meatair (2,866 troigh) os cionn na mara.
+gla	Tha El Hierro cho farsaing ri 278 cilemeatair ceàrnagach. Anns
+gla	a’ bhliadhna 2007 bha 10.558 de shluagh ann. Tha Valverde na
+gla	Tha e suidhichte ann am Mongòilia a-steach ann an Sìona.
+gla	Tha fàileadh garg duilleagan bhrùthte an luis na bhacadh do
+gla	mheanbh-fhrìde tighinn dlùth.
+gla	Tha freumhan muisca an ainm Tunja ceangailte cuideachd ri fear
+gla	dhe na cinn-fheadhna (Spàinntis: cacique) na b’ainmeil a
+gla	bh’ ann: Hunzahua. Mar sin, nuair a steidhich Gonzalo Suárez
+gla	Rendón am baile, thug e Tunja air, mar a mhìnich na
+gla	sgrìobhainnean dhen 6mh an Lùnasdal 1539. Dearbhaidh
+gla	sgrìobhainnean rìoghal an t-ainm sin nuair chaidh e a
+gla	dh’ainmeachadh mar Bhaile, 29mh am Màrt 1541, is chuir Carlos
+gla	Tha Giobraltair suidhichte ann an taobh a deas na Spàinne, far
+gla	a bheil an Cuan Siar agus a’ Mhuir Mheadhanach a’ dol ri
+gla	Tha grunn rudan ann a tha car coltach san Ìbeiris, cànan
+gla	àrsaidh eile air leth-eilean Hiospàineach, agus Aquitanais.
+gla	Ge-tà, chan urrainnear fhathast a ràdh le cinnt an e
+gla	ceanglaichean ginteil a bha ann. Chan eilear cinnteach fhathast
+gla	dè an teaghlach a bhuineas Ìbeiris fhèin dha.
+gla	Tha iad a' cluich sna leintean gorm. Logo- cluaran.
+gla	Tha inbhe co-oifigeach aig a' chànan sa Choimhearsnachd
+gla	Fhèin-riaghlaidh Bhasgach agus cuid dhe na sgìrean ann an
+gla	Nafarroa. Chan eil inbhe oifigeach aig a' chànan anns an
+gla	Fhraing fhathast agus chan urrainnear a chleachdadh anns na
+gla	cùirtean a bharrachd. Gu h-annasach, tha cead aig Basgaich
+gla	Spàinnteach an cànan a chleachdadh sna cùirtean san Fhraing a
+gla	chionn 's gu bheil e na chànan oifigeach air taobh eile na
+gla	Thàinig an t-ainm bhon ainm Ghearmanach Adalbert a bha cumanta
+gla	a-measg rìghrean Gearmailteach anns na Meadhan-aoisean. Tha e
+gla	a' gabhail a-steach an dà fhacal: "adal" (uasal) agus
+gla	"beraht".(soilleir, dearrsach). Thàinig e leis na Nòrmannaich
+gla	gu Sasainn agus chaidh an t-ainm seo a chur an àite an seann
+gla	Thàinig Brandubh bhon sheann Ghaeilge agus tha e a' ciallachadh
+gla	'fitheach dubh'. Nochd an t-ainm seo aig rìghrean na h-Èireann
+gla	agus ann am miotas-eòlas Èireannach.
+gla	Tha iomadh briod chaorach ann. San latha an diugh is iad
+gla	"Caoraich Dubh-cheannach" agus "Caoraich Mhaola" as cumanta air
+gla	Gàidhealtachd na h-Alba. Tha na dubh-cheannaich nas righinn na
+gla	na Caoraich Mhaola, agus fanaidh iad beò air monaidhean Alba
+gla	fad a' gheamhraidh, air an fheurach a-mhàin bidh cuid ag ràdh
+gla	(ged a chanadh feadhainn eile gur h-e dearg amaideas a tha seo).
+gla	Tha na caoraich mhaola nas motha agus nas truime, agus gheibh
+gla	iad prìsean as fheàrr aig fèilltean-reic nan uan a tha gan
+gla	cumail gach foghar, ach feumaidh iad biathadh geamhraidh; mar
+gla	sin tha iad nas daora a ruith. Ach tha iad fhathast fìor
+gla	Tha i suidhichte anns an sgìre Falcón faisg air Coro, anns a'
+gla	Bheiniseala. 'S e seo am farsaingeachd aice: 91.280 hm²
+gla	Tha Lafayette County ann an Arkansas. Se Lewisville am
+gla	Tha linn a’ ciallachadh cuairt ùine, gu h-àraid, ùine
+gla	mhòr. Gu tric, is urrainn do linn a’ ciallachadh 100
+gla	bliadhnaichean, mar “century” sa Bheurla.
+gla	Tha Manatee County ann an Florida. Se Bradenton am
+gla	Tha Moffat County ann an Colorado. Se Craig na prìomh-bhaile.
+gla	Tha mothtain (cuideachd: cailleach-stùir, clòimh-shìth) 'nan
+gla	dosain bheaga de dhuslach a nochdas fo àirneis no ann an oisein
+gla	nach eil 'gan glanadh gu cunbhalach. 'S e falt, lìon, craiceann
+gla	marbh, lìontan dhamhan-allaidh agus duslach a bhios annta mar
+gla	is trice, uaireannan le sgudal aotram 'nam measg agus tha iad
+gla	'gan cumail ri chèile le cumhachd dealain stadaigich agus
+gla	greimeachadh ri chèile air nòs peileige. Chan eil feum ach air
+gla	aon stùr a' gluasad ri linn oiteige shàmhach rèidh mar
+gla	thoiseach tòiseachaidh air mothtan.
+gla	Tha na h-ainmean àite sna puirt seo uile ann an Athall agus na
+gla	daoine uile ceangailte ri Oighreachd Athaill ann an dòigh air
+gla	Tha naoi baranachdan (Gaeilge: barúntacht) am broinn Mhaigh Eo:
+gla	Buiríos Umhaill, Ceara, Cill Mheáin, Clann Mhuiris,
+gla	Coistealaigh, Gaileanga, Iorras, Muraisc agus Tír Amhlaidh. A
+gla	bharrachd air sin, tha 74 parraistean (ann an ceithir
+gla	sgìreachdan-easpaig: Tuaim, Cill Ala, Achadh Conaire agus Cill
+gla	Gaillimh) agus 3,424 bailtean fearainn sa chontae.
+gla	Tha Nèamh, sa Chrìosdaidheachd is Islam, na àite àlainn far
+gla	am bidh Dia agus na h-ainglean a’ fuireach. Tha e, a-rèir
+gla	dualchas, san speur, neo an adhar, calg-dhìreach an aghaidh
+gla	Ifrinn a tha fo thalamh. A-rèir Islam, tha seachdnar ann.
+gla	Tha Obar Dheathain na dhachaigh gu dà pàipearan-naidheachdan
+gla	gach-là, Press and Journal agus pàipear-naidheachd san
+gla	feasgar, Evening Express.
+gla	Tha Orange County ann an Vermont. Se Chelsea am prìomh-bhaile.
+gla	Tha peighinn na shean thomhais-talmhainn ann an Alba an iar.
+gla	Uaireannan, bha e co-ionnan ri dabhach, ach mar b’ àbhaist, a
+gla	crochadh air an fhearann fhèin agus dè cho math a bha e. Se
+gla	tomhais Lochlannach a bha ann, a thug ainm bho "peighinn"
+gla	Tha Providence na phrìomh-bhaile ann an Rhode Island. Tha an
+gla	togalach-staide ann. 'S e Providence Mall am bùth as motha anns
+gla	a' bhaile. Tha 182,911 duine ann, agus chaidh am baile a
+gla	stèidheachadh ann an 1636 le Roger Williams, duine à Plymouth
+gla	Tha Roberts County ann an Dakota a Deas. Se Sisseton am
+gla	Tha Sächsisches Mittelgebirge le cnocan beaga sgaoilte bhon iar
+gla	gu ear Shagsainn. Air àird a deas na dùthcha tha beanntan
+gla	mòra ann ris an canar: Vogtland le Elstergebirge, Erzgebirge,
+gla	Elbsandsteingebirge agus Lausitzer Bergland leis an Zittauer
+gla	Gebirge (bhon iar gu ear).
+gla	Tha seachd baranachdan (Gaeilge: barúntacht) am broinn
+gla	Cheatharlach: Fotharta, Ráth Bhile, Tigh Moling Íochtarach,
+gla	Tigh Moling Uachtarach, Uí Dhróna Thiar, Uí Dhróna Thoir
+gla	agus Ceatharlach fhèin. A bharrachd air sin, tha 47 parraistean
+gla	(ann an dà sgìreachd-easpaig: Átha Cliath agus Cill
+gla	Dara-Leithghlinne) agus 600 bailtean fearainn sa chontae.
+gla	Tha sgeulachdan mu asail cumanta sa Bhìoball. Mharcaich Ìosa
+gla	asal, nuair a chaidh e gu Ierusalem.
+gla	Tha shin (ש) na aona litir air fichead den aibidil Eabhra. Tha
+gla	e co-ionnan ri S sa aibidil againne mar ann am faclan “sin”,
+gla	“sean”, neo “shop” sa Bheurla 7c. Tha e càirdeil ri Ш
+gla	agus Щ sa aibidil Chirillach.
+gla	Tha SOAS mar is trìc air rangachadh mar aon de na deich
+gla	oilthighean is fhearr ann am Breatainn anns na clàr rangach aig
+gla	na paipearan naidheachd. Anns an 'Guardian' tha SOAS air a
+gla	rangachadh anns an 4mh aite airson na trì bliadhna mu dheireadh
+gla	agus anns anns an clàr rangach eadar-naiseanta aig an THES tha
+gla	e 44 anns an t-saoghal, 11 anns an Roinn Eorpa agus 'se an 7mh
+gla	oilthigh breatannach air a rangachadh.
+gla	Tha sùilean gorma glè chumanta feadh gach àite na
+gla	Roinne-Eòrpa, gu sònraichte 'san Roinn-Eòrpa mu Thuath, a'
+gla	gabhail a-staigh nan Stàitean Baltach mu Thuath agus 'san Ear
+gla	Thathar 334 seòrsaichean pocanaich, agus 200 a tha tusaich ann
+gla	an Astrailia, agus na h-eileanan faisg air. Tha cuid ann an
+gla	Aimearaga-a-deas, agus aon seòrsa, an Opossum Virginianach ann
+gla	an Aimearaga a-tuath. Tha a' mhorcuid caran slaodach, ach is
+gla	urrainn do cangaru a dhol cho luath ri 31 mile gach uair (50
+gla	Thathar a’ cumail am iomadach seòrsa dhe fhèis ann an
+gla	Campamento. Chithear fèilltean caitligeach, leis gur e
+gla	dùthaich le mòr-chuid chaitligeach a th’ann fhathast,
+gla	fèisean na stàite agus tachartasan ionadail a sheallas cho
+gla	làidir ‘s tha beairteas cultarail na dùthcha.
+gla	Thathar a’ cumail am iomadach seòrsa dhe fhèis ann an
+gla	Nóvita. Chithear fèilltean caitligeach, leis gur e dùthaich
+gla	le mòr-chuid Chaitligeach a th' ann fhathast, fèisean na
+gla	stàite agus tachartasan ionadail a sheallas cho làidir ‘s a
+gla	tha beairteas cultarail na dùthcha.
+gla	Thathar a’ leudachadh air bun-bheachdan cur-ris agus
+gla	iomadachaidh gus obrachadh càraideach a dhealbhadh. ’S e seo
+gla	obrachadh coitcheann air dà eileamaid àlaich a bheireas aon
+gla	eileamaid den aon àlach. Canar obrachadh dùinte ri seo. Bhiodh
+gla	an t-obrachadh fosgailte mur eil buil an obrachaidh den aon
+gla	àlach, ach thathar a’ gabhail ris gu bheil obrachadh
+gla	càraideach dùinte. ’S e obrachadh càraideach a th’ anns
+gla	a’ chur-ris agus e a’ dèanamh 8 bho na h-àireamhan 5 agus
+gla	3; mar an ceudna ’s e obrachadh càraideach eile a th’ anns
+gla	an iomadachadh agus e a’ dèanamh 15 bhuapa.
+gla	Tha timcheall air 200 duine a' fuireach an seo.
+gla	Tha tòrr iarann innte. Mar iomadh fheamainn, tha tòrr
+gla	aidhiodain ann an duileasg 's mar sin dheth, thathas a' cur
+gla	duileasg gu feum ann a bhith a' làimseachadh trioblaidean an
+gla	Tha uachdar-fhiaclan na ghlaodhan a chleachdar airson na fiaclan
+gla	a ghlanadh. Gu h-àbhaisteach, tha uachdar-fhiaclan geal, ach
+gla	uaireannan tha srianan ioma-dathach ann. Tha Euthymol pionc.
+gla	Tha Ward County ann an Dakota a Tuath. Se Minot am
+gla	Theich Ó Dónaill chun na Spàinne an dèidh na truaighe ann an
+gla	Cionn tSáile gus taic a lorg an siud, ach chaochail e an ceann
+gla	goirid (tha amharras ann do do nimhich fear-bràthaich Sasannach
+gla	e). Leis an t-arm aige air a lùghdachadh, rinn Ó Néill an
+gla	ceum air ais gu Cúige Uladh, far an tug e gèill chun a’
+gla	chrúin is dh’iarr e mathanas rìoghail oir bha e a’
+gla	feuchainn ris na h-oighreachdan aige a dhìon. Thug feachdan
+gla	Shasainn ionnsaighean air Cúige Uladh ann an iomairtean fad
+gla	1601 – 1602, a lagaich suidheachadh Ui Néill agus
+gla	dh’adhbhraich sin a’ ghoirt eadar muinntir na sgìre. Aig
+gla	toiseach a’ bhliadhna 1603, thug Ealasid I àithne do
+gla	Mhountjoy gun thòisich e ri rèiteachadh a dheànamh leis an
+gla	Reubaltach. Chuir e ceann air sin nuair an tug Ó Néill thairis
+gla	gu tur anns a’ Ghiblean. Chaidh Ó Néill gu Baile Átha
+gla	Cliath còmhla ri Mountjoy, far a chuala e mu dheidhinn
+gla	chrùnadh Sheumais I, fear-ionlaid Ealasaid I. Nochd e ri
+gla	beulaibh an Rìgh ùr san Ògmhios, còmhla ri Ruairí Ó
+gla	Dónaill, fear-ionlaid a bhràthar, Aodh Rua Ruairí Ó
+gla	Dónaill. Thug am monarc deagh fhàilte oirbh, ged nach do
+gla	chòrd sin idir leis na h-uachdarain.
+gla	Thill e chun a’ Chòmhdhail ann an 1845 agus sgrìobh esan
+gla	agus José Eusebio Caro a’ chiad prògram an Riaghaltais aig
+gla	Buidheann nam Ministear (Spàinntis Sector Ministerial), ainm a
+gla	bha air na Tòraidhean aig an àm (1849); thathar ag ràdh gur e
+gla	steidheachadh a’ Phàirtidh Thòraidh a bh’ann an gnothach
+gla	Thogadh loidhne-rèile eadar Glaschu agus Cathair Luail ann an
+gla	1848, le stèisean ann an Dòrnach. Bha an stèisean a dhùnadh
+gla	fad 11 bliadhna bho 1854 gu ruige 1865. Chaidh ainm an stèisein
+gla	atharrachadh gu Eastriggs ann an 1923, agus dhùnadh e a-rithis
+gla	ann an 1965. Tha an loidhne-rèile fhathast ann. A-rèir
+gla	carragh-chuimhne a' bhaile, fhuair 19 duine à Dòrnach bàs sa
+gla	Chogadh Mòr agus 18 eile san Dàrna Cogadh.
+gla	Thòisich an fhicheadamh linn le faclair mòr - am Faclair
+gla	Gàidhlig 'us Beurla le Dealbhan aig Eideard Dwelly. Bha pàirt
+gla	dheth stèidhichte air faclairean a bh' ann roimhe ach chuir
+gla	Eideard mòran susbaint ris, an dà chuid o thùsan eile 's an
+gla	obair rannsachaidh aige fhèin. A dh'aindeoin aoise, 's e am
+gla	faclair aig Eideard Dwelly am faclair as ùghdarrasaiche ann an
+gla	saoghal na Gàidhlig fhathast.
+gla	Thoisich gnothach nam mèinnean sa sgìre san 18mh Linn agus
+gla	stèidhich na mèinnearan leabharlann ann an 1793. Bha dìreach
+gla	23 leabhair aig an toiseach ach fhuair iad dìleab dhe £1,000
+gla	bho Thomas Telford agus £1,700 ann an 1851. Bha 8,000 leabhar
+gla	sa leabharlann ann an 1923. S' e an leabharlann leantainneach as
+gla	sine an Alba a th' ann. Thogadh eaglais an seo ann an 1880, ach
+gla	tha clachan bho 1649 ann cuideachd. A-rèir carragh-chuimhne a'
+gla	bhaile, fhuair naoi duine deug à Bentpath bàs sa Chogadh Mòr
+gla	agus fear eile san Dàrna Cogadh.
+gla	Thug Anatole France taic làidir do dh’ Émile Zola anns a’
+gla	chùis Dreyfus, is fiù’s chuir e ainm gu athchuinge, a
+gla	dh’iarr air na ùghdarrasan sgrùdadh air a’ chùis sin a
+gla	dheànamh is gun toireadh bonn na Legión d'Honor air ais do
+gla	Zola, dìreach an latha an dèidh a dh’ fhoillsich Zola an
+gla	t-airtgil J'accuse...! ann am pàipear-naidheachd. A bharrachd
+gla	air sin bha e an sàs ann an stèidheachadh bhuidhne airson
+gla	Còirichean Daonna. Dhèanadh iomairtean ann an dà chuid airson
+gla	sgaradh na h-eaglaise bhon stàit agus airson aonaidhean-ciùide
+gla	Thug taghaidhean am broinn a’ phàrtaidh air 25mh am Màrt
+gla	2007 gus buill oifisean roinneil a’ pàrtaidh agus
+gla	riochdairean dhan Treas Còmhdhail Nàiseanta nan Libearalach
+gla	(Spàinntis: Tercer Congreso Nacional Liberal) a lorg. Ghabh an
+gla	còmhdhail sin àite ann am Medellín aig deireadh a’ Ghiblean
+gla	2007. Leis a bharrachd air 1,270,000 bhòtaichean, b’ urrainn
+gla	dhan phàrtaidh ga neartachadh fhèin, is sin an taghadh na bu
+gla	mhotha am broinn pàrtaidh poiliteageach air choireigin a
+gla	bh’ann a-riamh ann an Coloimbia.
+gla	Toll-guail ann an Glasbaidh ann an 1930
+gla	Truailleachd nàdair no gnìomh làmh
+gla	Uliga: Cridhe ionmhasail, le roinn turasachd làidir. Tha an
+gla	College of the Marshall Islands an-seo agus sgoiltean eile
+gla	Walther Wilhelm Georg Bothe, (1891 - 1957), fhuair e Duais Nobel
+gla	nàdar-fheallsanachd ann an 1954 còmhla ri Max Born

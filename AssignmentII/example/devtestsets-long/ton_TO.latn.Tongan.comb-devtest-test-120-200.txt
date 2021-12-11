@@ -1,0 +1,617 @@
+ton	1 Ko e ʻuluaki ʻaho tapu. 4 Ko e anga ʻoe fakatupu. 8 Ko e ngoue ko ʻIteni, 10 Mo hono vaitafe. 17 Ko e fakatapui ʻae ʻakau ʻoe ʻilo. 19, 20 Ko e fakahingoa ʻoe fanga manu. 21 Ko e ngaohi
+ton	He ʻoku ʻilo ʻe he ʻOtua, ʻi he ʻaho te mo kai ai, ʻe toki ʻā ai homo mata, pea te mo hangē ko e ʻotua, ke ʻilo ai ʻae lelei mo e kovi.”
+ton	Pea ko e hingoa ʻo hono tokoua ko Supale: ko e tamai ia ʻanautolu kotoa pē ʻoku faiva ʻaki ʻae meʻa tatangi mo e meʻa ʻoku ifi.
+ton	Ka te u fokotuʻumaʻu mo koe ʻeku fuakava; pea te ke haʻu ki he vaka, ʻa koe, mo ho ngaahi foha, mo ho uaifi, mo e ngaahi uaifi ʻo ho ngaahi foha mo koe.
+ton	Pea naʻe manatu ʻae ʻOtua kia Noa, mo e meʻa moʻui kotoa pē, mo e fanga manu kotoa pē ʻaia naʻe ʻi he vaka mo ia: pea naʻe pule ʻe he ʻOtua ke ʻalu atu ʻae matangi ʻi he funga ʻo
+ton	1 Ko e ui ʻae ʻOtua kia ʻEpalame, pea ne tāpuaki ia ʻaki ʻae talaʻofa kia Kalaisi. 4 ʻOku na ō mo Lote mei Halani. 6 ʻOku ne fononga ki Kēnani, 7 ʻAia ʻoku talaʻofa ai kiate ia ʻi he
+ton	meʻa hā mai. 10 Ko e meʻa ʻi he honge ʻoku ʻalu ki ʻIsipite. 11 Ko e manavahē, ko ia ʻoku ne ui ai hono uaifi ko hono tuofefine. 14 Kuo toʻo ia ʻe Felo meiate ia, pea ʻoku ne tukuange ia
+ton	Pea naʻe sio hake ʻa Lote, pea vakai ʻe ia ki he fonua fakalelei kotoa pē ʻo Sioatani, kuo lahi ʻae vai ʻi he potu kotoa pē. ʻI he teʻeki ke fakaʻauha ʻe Sihova ʻa Sotoma mo Komola,
+ton	Pea talaange ʻe ʻEpalame ki he tuʻi ʻo Sotoma, “Naʻaku hiki hoku nima kia Sihova, ko e ʻOtua fungani māʻolunga, ʻoku ʻoʻona ʻae langi, mo māmani,
+ton	Ka naʻe pehē ʻe ʻEpalame kia Selai, “Vakai, ʻoku ʻi ho nima hoʻo kaunanga; ke ke fai kiate ia hoʻo faʻiteliha.” Pea ʻi he fai fakamālohi ʻe Selai kiate ia, naʻa ne hola ia mei hono
+ton	Pea koeʻuhi ko ʻIsimeʻeli, kuo u fanongo kiate koe; “Vakai, kuo u tāpuaki ia, pea te u ngaohi ke tokolahi ʻaupito ia; te ne fakatupu ʻae ʻeiki ʻe toko hongofulu ma toko ua, pea te u ngaohi
+ton	Vakai, mai ko e kolo ni ʻoku ofi ke hola ki ai, pea ʻoku siʻi ia; ʻofa ke u hola ki ai, (ʻikai ko e siʻi ia?) Pea ʻe moʻui ai hoku laumālie.
+ton	Ka ko e moʻoni pe ko hoku tuofefine ia: he ko e ʻofefine ia ʻo ʻeku tamai, ka ʻoku ʻikai ko e tama ʻa ʻeku faʻē ʻaʻaku pea naʻe hoko ia ko hoku uaifi.
+ton	¶ Pea hili ʻae ngaahi meʻa ni, naʻe fakahā kia ʻEpalahame, ʻo pehē, “Vakai, kuo fanauʻi foki ʻe Milika ʻae fānau kia Nehoa, ko ho tokoua.
+ton	Pea pehēange ʻe he tamaioʻeiki kiate ia, “Kapau ʻe ʻikai fie haʻu mo au ʻae fefine ki he fonua ni; ʻe fēfē, te u toe ʻave ho foha ki he fonua naʻa ke haʻu mei ai?”
+ton	Pea ko Sela, ko e uaifi ʻo ʻeku ʻeiki naʻa ne fanauʻi ki heʻeku ʻeiki ʻae tama heʻene motuʻa; pea kuo ne tuku ʻa ʻene meʻa kotoa pē kiate ia.
+ton	Pea naʻe ʻomi ia ʻe ʻAisake ki he fale fehikitaki ʻo ʻene faʻē ko Sela, pea ne maʻu ʻa Lepeka, pea hoko ia ko hono uaifi: pea ʻofa ia kiate ia; pea naʻe fiemālie ʻa ʻAisake ʻi he hili
+ton	Pea toki fāʻeleʻi hono tehina, pea naʻe puke ʻe hono nima ʻae mui vaʻe ʻo ʻIsoa; pea naʻe ui hono hingoa ko Sēkope; pea naʻe onongofulu taʻu ʻa ʻAisake ʻi he fanauʻi ʻakinaua.
+ton	Pea hiki mei ai ia ʻo keli ʻae vai ʻe taha; pea naʻe ʻikai te nau fakakikihi ki ai; pea ne ui hono hingoa ʻo ia ko Leopote; pea ne pehē, “He ko eni, kuo fakaʻataʻatā ʻe Sihova ha potu
+ton	Pea naʻe fai ia ʻe Sēkope; ʻo ne fakakakato hono uike: pea ne foaki kiate ia hono ʻofefine ko Lesieli, ko hono uaifi foki.
+ton	“Pea ʻi he tuituʻia ʻae fanga manu, naʻaku hanga hake hoku mata, ʻo mamata ʻi he misi, pea vakai, ko e fanga sipitangata, naʻe hopo ki he fanga manu naʻe ilaila mo e pulepule mo e kelo.
+ton	Kuo u pehē ni ʻi he taʻu ʻe uofulu ʻi ho fale; naʻaku tauhi koe ʻi he taʻu ʻe hongofulu ma fā, koeʻuhi ko ho ongo ʻofefine, mo e taʻu ʻe ono ki hoʻo fanga manu; pea kuo ke fakakehe
+ton	Pea ne tuku fakafaʻahinga ia ki he nima ʻoe kau tauhi, pea ne pehē ki heʻene kau tamaioʻeiki, “Mou muʻomuʻa ʻiate au, ʻo fakavahavaha ʻae faʻahinga manu taki taha.”
+ton	‌ʻOku ou kole kiate koe, ke muʻomuʻa ʻa hoku ʻeiki ʻi heʻene tamaioʻeiki; pea te u muimui atu ʻo fakatuotuai, ʻo fakatatau ki he faʻa fai ʻe he fanga manu, mo e tamaiki, ʻa ʻenau
+ton	Pea naʻe tokanga kia Hemoa mo Sikemi ko hono foha, ʻakinautolu kotoa pē naʻe ʻalu kituaʻā ʻi he matapā ʻo ʻena kolo; pea kamu ʻae tangata kotoa pē, ʻio, ʻakinautolu kotoa pē naʻe hū
+ton	Pea ko e fānau eni ʻa Sipione ko ʻEiaa mo ʻAna; ko e ʻAna ia ʻaia naʻa ne ʻiloʻi ʻae fanga miuli ʻi he toafa, ʻi heʻene tauhi ʻae fanga ʻasi ʻa ʻene tamai ko Sipione.
+ton	Pea toe feitama foki ia; pea fāʻeleʻi ʻae tama; pea ne ui hono hingoa ko Sila pea naʻe ʻi Kesipi ia ʻi heʻene fanauʻi ia.
+ton	Pea talu ʻae fakanofo ia ke leʻohi hono fale, pea mo ʻene meʻa fulipē, naʻe tāpuaki ʻe Sihova ʻae fale ʻoe tangata ʻIsipite, koeʻuhi ko Siosefa: pea ko e tāpuaki ʻa Sihova naʻe ʻi
+ton	pea vakai, naʻe ʻalu hake ʻae fanga pulu kehe ʻe fitu, naʻa nau kovi mo matamata kehe, mo tutue ʻaupito, kuo ʻikai te u mamata ki he kovi pehē, ʻi he fonua kotoa pē ʻo ʻIsipite:
+ton	Pea naʻe tupu kia Siosefa ʻae foha ʻe toko ua ʻi he teʻeki ai hoko ʻae honge, ʻaia naʻe fāʻeleʻi kiate ia ʻe ʻAsinate, ko e ʻofefine ʻo Potifela, ko e taulaʻeiki ʻo ʻOni.
+ton	¶ Pea naʻe ʻave ʻe he kau tangata ʻae meʻaʻofa, pea naʻa nau toʻo ʻae kato paʻanga ʻe ua ʻi honau nima, pea mo Penisimani; pea naʻa nau tutuʻu hake ʻo toe ʻalu ki ʻIsipite, ʻo nau
+ton	Pea naʻa nau fakatoʻotoʻo ʻo tuku hifo, taki taha ʻae tangata ʻa ʻene tangai ki he kelekele, pea toʻo taki taha ʻa ʻene tangai.
+ton	Pea naʻe fekau au ʻe he ʻOtua ke muʻomuʻa ʻiate kimoutolu ke fakamoʻui homou hako ʻi māmani, ke fakahaofi hoʻomou moʻui, ʻi he fakamoʻui lahi.
+ton	‌ʻo ne pehē mai kiate au, ‘Vakai, te u ngaohi koe ke ke monūʻia, mo ke tupu ʻo tokolahi, pea te u fakatupu ʻiate koe ʻae ngaahi kakai lahi; pea te u foaki ʻae fonua ni ki ho hako ki mui
+ton	1 Kuo fanauʻi ʻa Mōsese. 3 ʻOku tuku ia ki he ʻakau ʻi he veʻe vai ʻi he kihiʻi puha. 5 ʻOku ʻilo ia ʻe he ʻofefine ʻo Felo. 11 ʻOku ne tāmateʻi ʻae tangata ʻIsipite. 13 ʻOku ne
+ton	valoki ʻae tangata Hepelū. 15 ʻOku hola ki Mitiane. 21 ʻOku na fakamaʻu mo Sipola. 22 Kuo fanauʻi ʻa Kesomi. 28 ʻOku tokangaʻi ʻe he ʻOtua ʻae tangi ʻae kakai ʻIsileli.
+ton	Pea pehē ʻe ia, ‘ʻOua naʻa ke ofi mai ki heni; toʻo ho topuvaʻe mei ho vaʻe, he ko e potu ʻoku ke tuʻu ai ko e kelekele tapu.”
+ton	Pea naʻe fakavavevave ʻakinautolu ʻe he kau enginaki ngāue, ʻo pehē, “Fakakakato hoʻomou ngāue ki he ʻaho taki taha, ʻo hangē ko ia ʻi he ʻi ai ʻae mohuku.
+ton	Pea naʻe ʻomi ʻe ʻAmilami ʻa Sokapeti ko e tuofefine ʻo ʻene tamai ʻo na mali; pea ne fanauʻi kiate ia ʻa ʻElone mo Mōsese: pea ko e ngaahi taʻu ʻoe moʻui ʻa ʻAmilami ko e taʻu ʻe
+ton	Pea naʻe fai ʻe Mōsese mo ʻElone, ʻo hangē ko e fekau ʻa Sihova: pea naʻa ne hiki hake ʻae tokotoko ʻo taaʻi ʻaki ʻae vai ʻi he vaitafe ʻi he ʻao ʻo Felo, mo e ʻao ʻo ʻene kau
+ton	Pea mafao atu hono tokotoko e Mōsese ki langi: pea naʻe fekau ʻe Sihova ʻae mana mo e ʻuha maka, pea naʻe malele ʻae afi ʻi he funga fonua; pea naʻe fakaʻuha maka ʻe Sihova ki he fonua ko
+ton	Pea te nau kai hono kakano ʻi he pō ko ia, kuo tunu ʻaki ʻae afi, mo e mā taʻefakalēvani; te nau kai ia mo e ngaahi louʻakau kona.
+ton	Pea naʻa nau taʻo ʻae ngaahi foʻi mā taʻehalēvani, ʻi he mā naʻa nau ʻomi mei ʻIsipite, he naʻe ʻikai ai ʻae lēvani; koeʻuhi naʻe kapusi ʻakinautolu mei ʻIsipite, pea naʻe ʻikai
+ton	Ka naʻe tataki ʻe he ʻOtua ʻae kakai ke afe ʻi he hala ʻoe toafa ʻoe tahi Kulokula: pea naʻe hiki teuteu tau pe ʻae fānau ʻa ʻIsileli mei he fonua ko ʻIsipite.
+ton	¶ Pea folofola ʻa Sihova kia Mōsese, “Mafao atu ho nima ki tahi, koeʻuhi ke toe haʻu ʻae tahi ki he kakai ʻIsipite, pea ki heʻenau ngaahi saliote, pea mo e kau tangata heka hoosi.”
+ton	Pea naʻe tangi ia kia Sihova, pea fakahā kiate ia ʻe Sihova ʻae ʻakau, ʻaia naʻa ne lī ki he vai, pea naʻe melie ai ʻae vai: pea naʻe fokotuʻu ʻe ia ʻi ai ʻae fekau mo e tuʻutuʻuni,
+ton	Pea naʻe haʻu ʻa Setelo, ko e tamai ʻi he fono ʻa Mōsese, mo hono ongo foha, mo hono mali kia Mōsese ʻi he toafa, ʻaia naʻa ne ʻapitanga ai ʻi he moʻunga ʻoe ʻOtua:
+ton	Pea naʻe lea fakataha ʻae kakai kotoa pē, ʻo pehē, “Te mau fai ʻaia kotoa pē kuo folofola ki ai ʻa Sihova.” Pea tala atu ʻe Mōsese ʻae ngaahi lea ʻae kakai kia Sihova.
+ton	Pea ʻe fuakava ʻakinaua ki he ʻEiki, ʻo pehē naʻe ʻikai te ne mafao atu hono nima ki he meʻa ʻa hono kaungāʻapi; pea ko ia ʻoku ʻaʻana ʻae meʻa te ne tui ki ai, pea ʻe ʻikai totongi
+ton	Pea toʻo ʻe ia ʻae tohi ʻoe fuakava, ʻo ne lau ia ke ongoʻi ʻe he kakai: pea naʻa nau tala, ‘Ko e meʻa kotoa pē kuo folofola ki ai ʻa Sihova te mau fai, pea talangofua.”
+ton	Pea te ke ngaohi ʻae selupi ʻe tahaʻi he tā ʻe taha, mo e selupi ʻe taha ʻi he tā ʻe taha; ʻe ʻi he nofoʻanga ʻaloʻofa ʻae ongo selupimi ʻi hono tā ʻe ua ʻo ia.
+ton	Pea ke hokohoko ʻae puipui ʻe nima ke taha pe, mo e puipui ʻe ono ke fakataha, pea ke peluki hono ono ʻoe puipui ʻi he ʻao ʻoe mata fale fehikitaki.
+ton	Pea te ke ngaohi ʻae ngaahi nifo ʻi ai ʻi hono tuliki ʻe fā: ʻe ʻi he meʻa pe ko ia ʻa hono ngaahi nifo: pea te ke ʻaofi ʻaki ia ʻae palasa.
+ton	Te ke tongitongi ʻae ngaahi hingoa ʻoe fānau ʻa ʻIsileli ʻi he ongo maka, ʻaki ʻae ngāue ʻae tufunga tongi maka, pea hangē ko e tongitongi ʻoe mama; te ke ngaohi ia ke maʻu ʻi he
+ton	Pea te ke ngaohi ʻae ngaahi kofu vaʻe moʻonautolu ke ʻufiʻufi ʻenau telefua: te nau hifo mei he noʻotangavala ki he ʻateʻivaʻe:
+ton	¶ Pea ko e ngaahi kofu tapu ʻo ʻElone ʻe hoko ki hono ngaahi foha ki mui ʻiate ia, ʻaia ʻe tākai ai, pea ʻe fakatapui ai ʻakinautolu.
+ton	Ko eni ia te nau ʻatu: ko ia kotoa pē ʻoku kau mo kinautolu kuo lau, ʻe ʻatu hono vaeuaʻanga ʻoe sikeli ʻo fakatatau ki he sikeli ʻoe fale fehikitaki: (pea ko e kela ʻe uofulu ʻae sikeli,)
+ton	Pea ʻi he tātā ʻoe ngaahi maka koloa, ke fakamaʻu ia, pea ʻi he tātā ʻae ʻakau, mo e ngāue ʻi he ngaahi ngāue fakatufunga kotoa pē.
+ton	Pea ʻi he fanongo ʻa Siosiua ki he longoaʻa ʻoe kakai ʻi heʻenau kalanga, naʻe pehē ʻe ia kia Mōsese, “ʻOku longolongo tau ʻae ʻapitanga.”
+ton	Pea ko ʻeni, ʻoku ou kole kiate koe, kapau kuo u maʻu ʻae ʻofa ʻi ho ʻao, ke ke fakahā ni kiate au ho hala, koeʻuhi ke u ʻilo koe, pea te u ʻilo ai ʻae ʻofa ʻi ho ʻao: pea ke ʻafioʻi
+ton	Ka ko e ʻuluaki ʻuhiki ʻoe ʻasi ke ke huhuʻi ʻaki ia ʻae lami; pea kapau ʻe ʻikai te ke huhuʻi ia, pea ke fesiʻi hono kia. Ko e ʻuluaki fānau kotoa pē ʻi ho ngaahi foha te ke huhuʻi.
+ton	Mo e feilaulauʻanga ʻoe meʻa namu kakala, mo hono haʻamo, mo e lolo tākai, mo e meʻa namu kakala, mo e puipui ke tautau ʻi he matapā ʻi he hūʻanga ʻoe fale fehikitaki.
+ton	Pea naʻa ne ngaohi ʻae nāunau kotoa pē ʻoe feilaulauʻanga, ʻae ngaahi ipu, mo e ngaahi huo, mo e ngaahi ipu luoluo, mo e ngaahi huhu ʻoe kakano, mo e ngaahi ʻaiʻanga afi; ko hono ngaahi
+ton	Pea naʻa ne ngaohi ʻae ʻefoti ʻaki ʻae koula, mo e lanumoana, mo e paʻuhiʻuhi, mo e kulaʻahoʻaho, mo e tupenu tuʻovalevale.
+ton	¶ Pea naʻa nau ʻomi ʻae fale tapu kia Mōsese, ko e fale fehikitaki, mo hono nāunau kotoa pē, ko hono ngaahi fakamaʻu, mo hono ngaahi laupapa, mo hono ngaahi ʻakau fakamaʻu, mo hono ngaahi
+ton	¶ Pea naʻa ne ʻave ʻae fuakava ʻo ne ʻai ia ki he puha, pea naʻe ʻai ʻae ongo ʻakau haʻamo ki he puha, pea naʻe hili ʻae nofoʻanga ʻaloʻofa ki ʻolunga ʻi he puha.
+ton	Pea te ne tafa ia ki hono ngaahi konga, mo hono ʻulu mo hono ngako: pea ʻe hili totonu ia ʻe he taulaʻeiki ʻi he fefie, ʻaia ʻoku ʻi he afi ʻi he funga feilaulauʻanga:
+ton	Pea ʻe hili ʻe ia hono nima ki he ʻulu ʻo ʻene feilaulau, pea ʻe tāmateʻi ia ʻi he mata fale fehikitaki ʻoe kakai, pea ʻe luluku takatakai ʻaki hono toto ʻae funga feilaulauʻanga ʻe he
+ton	Pea ʻe fetuku ʻe ia ʻae pulu kituaʻā ʻi he ʻapitanga, pea ʻe tutu ia ʻo hangē ko ʻene tutu ʻae ʻuluaki pulu: ko e feilaulau ia maʻae angahala ʻae fakataha.
+ton	Pea ʻe fai ʻe ia ʻae totongi ki he kovi kuo ne fai ki he meʻa māʻoniʻoni, pea te ne fakalahi ʻaki ʻe ia hono nima ʻoe vahe, ʻo ʻatu ia ki he taulaʻeiki: pea ʻe fai ʻae fakalelei
+ton	Ko ia kotoa pē ʻe ala ki hono kakano ʻe tapu ai ia: pea ka luluku ʻaki ʻae toto ʻo ia ki ha kofu, te ke fō ʻaia naʻe luluku ʻi he potutapu.
+ton	Pea naʻa nau ʻatu kiate ia ʻae feilaulau tutu, mo hono ngaahi konga ʻo ia mo e ʻulu: pea ne tutu ia ki he funga ʻoe feilaulau.
+ton	Pea pehē ʻe ʻElone kia Mōsese, “Vakai, kuo nau ʻatu he ʻaho ni ʻenau feilaulau maʻae angahala mo ʻenau feilaulau tutu ʻi he ʻao ʻo Sihova: pea kuo tō ʻae ngaahi meʻa pehē ni kiate
+ton	¶ Ko e ngaahi meʻa ni ʻoku totolo ʻi he kelekele ʻoku taʻemaʻa kiate kimoutolu; ko e uiseli, mo e kumā, mo e fonu papālangi ʻi hono faʻahinga.
+ton	Pea ʻe sio ʻae taulaʻeiki ki he mahaki ʻi he kili ʻoe sino: pea kapau kuo liliu ʻo hinehina ʻae fulufulu ʻi he hangatāmaki, pea ʻoku aʻu hifo ki lalo ʻi he kili ʻo hono sino ʻae mahaki,
+ton	Pea ʻe mamata ʻae taulaʻeiki ki he kamaa ʻi hono fitu ʻoe ʻaho: pea vakai, kapau ʻoku ʻikai totolo ʻae kamaa ʻi he kili, pea ʻikai hā ʻi lalo ʻi he kili; ʻe toki fakahā ʻe he
+ton	‌ʻE toki fekau leva ʻe he taulaʻeiki kenau fetuku ʻae meʻa kotoa pē mei he fale ʻi he teʻeki hū ki ai ʻae taulaʻeiki ke mamata ki he mahaki, telia naʻa hoko ʻo taʻemaʻa ʻaia kotoa
+ton	Pea ʻe ʻatu ʻe ʻElone ʻae pulu ki he feilaulau maʻae angahala, ʻaia ʻoku maʻana, ʻo fai ʻaki ʻae fakalelei maʻana pea mo hono fale.
+ton	Lea kia ʻElone, pea ki hono ngaahi foha, pea ki he fānau kotoa pē ʻa ʻIsileli ʻo pehē kiate kinautolu, Ko eni ʻae meʻa ʻaia kuo fekau ʻe Sihova, ʻo pehē,
+ton	¶ “ʻOua naʻa ke feʻaluʻaki fano ke fetuku talanoa ʻi hoʻo kakai; pea ʻoua naʻa ke lea ke mate ai ho kaungāʻapi: Ko au ko Sihova.
+ton	¶ He ko ia kotoa pē ʻoku kapeʻi ʻene tamai pe ko ʻene faʻē, ko e moʻoni ʻe tāmateʻi ia kuo ne kapeʻi ʻene tamai pe ko ʻene faʻē pea ʻe ʻiate ia pe hono toto.
+ton	Ke mou ʻatu ʻo fai loto lelei pe, ʻae manu tangata taʻehanomele mei he fanga pulu pe ko e fanga sipi, pe ko e fanga kosi.
+ton	‌ʻIo, ʻo hoko mo e pongipongi ʻi he hili hono fitu ʻoe Sāpate ke mou lau ʻae ʻaho ʻe nimangofulu; pea ke mou ʻatu ʻae feilaulau foʻou ʻoe meʻakai kia Sihova.
+ton	Fekau ki he fānau ʻa ʻIsileli, koeʻuhi kenau ʻomi kiate koe ʻae lolo ʻolive lelei kuo tuki ki he maama, koeʻuhi ke ulo lelei maʻuaipē ʻae maama.
+ton	Pea te ke toki fekau ke ifi ʻae meʻa lea ʻoe siupeli ʻi hono hongofulu ʻoe ʻi hono fitu ʻoe māhina, ʻi he ʻaho ʻoe fakalelei ke mou fakaongo atu ʻae meʻa lea ʻi homou fonua kotoa pē.
+ton	Ka ʻe ʻiate koe ia ʻo hangē ha tamaioʻeiki ʻoku ngāue ki ha totongi, mo e ʻāunofo, pea te ne ʻiate koe ko e tauhi ʻo aʻu ki he taʻu ʻoe siupeli:
+ton	Pea kapau te mou liʻaki ʻeku ngaahi tuʻutuʻuni ni, pea kapau ʻe fehiʻa homou laumālie ki heʻeku ngaahi fakamaau, pea ʻikai te mou fai ʻeku ngaahi fekau kotoa pē, ka mou liʻaki ʻeku
+ton	Ko eni ʻae ngaahi tuʻutuʻuni mo e ngaahi fono, mo e ngaahi fekau, ʻaia naʻe fokotuʻu ʻe Sihova ke kau kiate ia mo e fānau ʻa ʻIsileli ʻi he moʻunga ko Sainai ʻi he nima ʻo Mōsese.
+ton	Pea ko hono hongofulu ʻoe vahe kotoa pē ʻoe fonua, pe ko e meʻa ʻi he tenga ʻoe fonua, pe ʻi he ngaahi fua ʻoe ʻakau ʻoku ʻa Sihova ia: ʻoku māʻoniʻoni ia kia Sihova.
+ton	¶ Ko e fānau ʻa Siuta, ʻi honau ngaahi toʻutangata, mo honau ngaahi faʻahinga, ʻi he fale ʻo ʻenau ngaahi tamai, ʻo fakatatau ki he lau ʻoe ngaahi hingoa, mei hono taʻu ʻe uofulu ʻo fai
+ton	‌ʻE nofo ʻae tangata taki taha ʻoe fānau ʻa ʻIsileli ki hono fakaʻilonga, ʻo fakataha mo e fuka ʻoe fale ʻo ʻenau tamai; pea tenau nofo mamaʻo ʻo folifoliaki ʻi he fale fehikitaki
+ton	Pea tenau ʻuʻufi ʻaki ia ʻae kofu kulaʻahoʻaho, pea ʻe toe ʻuʻufi ʻaki ia ʻae kiliʻi pasia, pea ʻe ʻai ki ai hono ʻakau haʻamo.
+ton	Mei he taʻu ʻe tolungofulu ʻo fai hake, ʻio, ʻo aʻu ki he taʻu ʻe nimangofulu, ʻakinautolu kotoa pē ʻoku hū ke fai ʻae ngāue, ki he ngāue ʻi he fale fehikitaki ʻoe kakai,
+ton	Pea kapau kuo ke afe ki ha tokotaha, ka ʻoku ʻikai ko ho husepāniti, pea kapau kuo ke ʻuliʻi koe, pea kuo mo mohe mo ha tangata ʻoku ʻikai ko ho husepāniti:
+ton	Pea ʻe ʻave ʻe he taulaʻeiki ʻae alanga ʻoe sipitangata kuo haka, pea mo e foʻi mā ʻe taha taʻefakalēvani mei he kato, mo e mā manifinifi ʻe taha taʻefakalēvani, ʻo ne tuku ia ki he
+ton	Pea naʻe lea ʻa Siosiua ko e foha ʻo Nuni, ko e tamaioʻeiki ʻa Mōsese, ko e tokotaha ʻi heʻene kau tangata talavou, ʻo pehē, “Ko ʻeku ʻeiki ko Mōsese ke ke taʻofi ʻakinaua.”
+ton	Pea naʻe lāunga ʻae fānau kotoa pē ʻa ʻIsileli kia Mōsese pea mo ʻElone: pea naʻe pehē ʻe he kakai kotoa pē kiate kinaua, “ʻAmusiaange ʻekimautolu ne mau mate ʻi he fonua ko
+ton	Pea ʻe ʻalu fano pe hoʻomou fānau ʻi he toafa ʻi he taʻu ʻe fāngofulu, ʻo fua hoʻomou feʻauaki, kaeʻoua ke ʻosiʻosi homou ʻangaʻanga ʻi he toafa.
+ton	“Ke ke lea ki he fānau ʻa ʻIsileli, ʻo ke pehē kiate kinautolu, ‘ʻOka mou ka hoko ki he fonua ʻaia teu ʻave ʻakimoutolu ki ai,
+ton	Pea tuku ki ai ʻae afi, ʻo ʻai ʻae ʻakau namu kakala ki ai ʻi he ʻao ʻo Sihova ʻapongipongi: pea ʻe hoko ʻo pehē, ko e tangata ʻe fili ki ai ʻa Sihova ko e māʻoniʻoni ia: ʻoku mou
+ton	Pea naʻe ʻave ʻe ʻEliesa ko e taulaʻeiki ʻae ngaahi ipu ʻaiʻanga afi palasa, ʻaia naʻe feilaulau ʻaki ʻekinautolu kuo vela; pea naʻe ngaohi ʻaki ia ʻae ngaahi fono lafalafa laulahi ke
+ton	Pea te mou tokanga ki he tauhi ʻoe faletapu, mo e tauhi ʻoe feilaulauʻanga: koeʻuhi ke ʻoua naʻa toe hoko ʻae houhau ki he fānau ʻa ʻIsileli.
+ton	Pea te mou foaki ia kia ʻEliesa ko e taulaʻeiki, koeʻuhi ke ne ʻomi ia ki he tuʻa ʻapitanga, pea ʻe tāmateʻi ia ʻe ha tokotaha ʻi hono ʻao:
+ton	Pea naʻe hiki hake ʻe Mōsese ʻa hono nima, pea naʻa ne taaʻi ʻae maka ʻo liunga ua ʻaki ʻa hono tokotoko, pea naʻe hā mai ʻae vai ʻo lahi, pea naʻe inu ai ʻae kakai mo ʻenau fanga
+ton	Pea naʻe ʻalu ʻae ʻāngelo ʻa Sihova, pea naʻe tuʻu ia ʻi he potu ʻapiʻapi, pea naʻe ʻikai ʻi ai ha hala ke afe ki he nima toʻomataʻu ki he toʻohema.
+ton	¶ Ko e fānau ʻa ʻAseli ʻi honau ngaahi faʻahinga: ʻIa Simina, ko e faʻahinga ʻoe kau Simina ʻia ʻIsui, ko e faʻahinga ʻoe kau ʻIsui: ʻia Pelia, ko e faʻahinga ʻoe kau Pelia.
+ton	Pea kapau ʻe taʻofi ia ʻe heʻene tamai ʻi he ʻaho ʻoku fanongo ai ia; pehē, ʻe ʻikai maʻu ʻene ngaahi fuakava, he ko ʻene ngaahi lea papau ʻaia naʻa ne nonoʻo ʻaki ʻa hono
+ton	Pea te mou nofo ki he tuʻa ʻapitanga ʻi he ʻaho ʻe fitu; ko ia kuo ne tāmateʻi ha taha, pea mo ia kuo ala ki he mate, fakamaʻa ʻakimoutolu mo homou kau pōpula ʻi hono ʻaho tolu, pea mo
+ton	Ko ia kuo mau ʻomi ai ʻae feilaulau kia Sihova, ʻi he meʻa kuo taki taha maʻu ʻe he tangata, ko e ngaahi teunga koula, mo e ngaahi kahoa, mo e ngaahi vesa, mo e ngaahi mama, mo e ngaahi hau ki
+ton	Ko ʻemau fānau iiki, mo homau ngaahi uaifi, mo ʻemau fanga sipi, mo ʻemau fanga manu kotoa pē, tenau nofo ai ʻi he ngaahi kolo ʻo Kiliati:
+ton	‌ʻAia naʻe ʻalu muʻomuʻa ʻi he hala ʻiate kimoutolu, ke kumi ʻae potu ke fokotuʻu ai homou ngaahi fale fehikitaki, ʻi he afi ʻi he poʻuli, ke fakahā kiate kimoutolu ʻae hala ko ia te
+ton	Ko e ngaahi kolo kotoa pē ʻoe toafa, mo Kiliati kotoa pē, mo Pesani kotoa pē, ʻo aʻu ki Salika mo ʻEtilei, ko e ngaahi kolo ʻoe puleʻanga ʻo Oki ko e tuʻi ʻo Pesani.”
+ton	Pea naʻa mou haʻu ʻo ofi ʻo tuʻu ʻi he lalo moʻunga; pea naʻe vela ʻae moʻunga ʻi he afi ʻo aʻu atu ki he loto langi, ʻi he fakapoʻuli, mo e ngaahi ʻao, mo e poʻuli matolu.
+ton	Ko Peseli ʻi he toafa, ʻi he potu fonua toafa ʻoe faʻahinga ʻo Lupeni mo Lemoti ʻi Kiliati, ʻoe faʻahinga ʻo Kata mo Kolani ʻi Pesani, ʻi he faʻahinga ʻo Manase.
+ton	Pea naʻa mou pehē, Vakai, kuo fakahā kiate kimautolu ʻe Sihova ko homau ʻOtua hono nāunau mo hono lahi, pea kuo mau ongoʻi hono leʻo mei he loto afi: kuo mau mamata he ʻaho ni ʻoku alea
+ton	Te ke toki pehē ki ho foha, ‘Naʻa mau nofo ko e kau pōpula ʻa Felo ʻi ʻIsipite: pea naʻe ʻomi ʻakimautolu ʻe Sihova mei ʻIsipite ʻaki ʻae nima mālohi:
+ton	Pea ʻoua naʻa ke ʻomi ʻae meʻa fakalielia ki ho fale, telia naʻa ke hoko ko e meʻa malaʻia ʻo hangē ko ia: ka ke fehiʻa matemate ki ai, pea ke fakaliliʻa ki ai he ko e meʻa fakamalaʻia
+ton	‌ʻI heʻeku ʻalu hake ki he moʻunga ke maʻu ʻae ongo maka lafalafa, ʻae ongo maka ʻoe fuakava ʻaia naʻe fai ʻe Sihova mo kimoutolu, pea ne u nofo ʻi he moʻunga ʻi he ʻaho ʻe
+ton	Pea ne u tatali ʻi he moʻunga, ʻi he ʻaho ʻe fāngofulu mo e pō ʻe fāngofulu, ʻo hangē ko e fuofua fai; pea naʻe tokanga kiate au ʻa Sihova ʻi he kuonga foki ko ia, pea naʻe ʻikai fie
+ton	¶ “Ko ia ke mou ʻai ʻeku ngaahi lea ni ki homou loto mo homou laumālie, pea nonoʻo ia ki ho nima ko e fakaʻilonga, pea ke ʻiate koe ia ko e pale ʻi he vahaʻa ʻo ho mata.
+ton	Te ke toki fehuʻi koe, ʻo faʻa ʻeke, fehuʻi fakapapau; pea vakai, kapau ʻoku moʻoni, pea kuo pau ʻaupito ʻae meʻa ko ia pea kuo fai ʻae meʻa kovi lahi ko ia ʻiate kimoutolu;
+ton	Pea ke ʻatu ʻae ngaahi paʻanga ko ia ki he meʻa kotoa pē ʻoku ke holi ki ai, ʻae fanga pulu, pe ko e sipi, pe ko e uaine, pe ko e inu mālohi, pe ko e meʻa ʻoku ke holi ki ai; pea te ke kai
+ton	‌ʻOua naʻa ke kai mo ia ʻae mā kuo fakalēvani: ke ke kai ia mo e mā taʻefakalēvani ʻi he ʻaho ʻe fitu, ʻio, ʻae mā ʻoe fakamamahi; he naʻa ke haʻu kituʻa mei he fonua ko ʻIsipite
+ton	ʻi he fakatoʻotoʻo: koeʻuhi ke ke manatu ai ki he ʻaho naʻa ke haʻu ai mei he fonua ko ʻIsipite ʻi he ʻaho kotoa pē ʻo hoʻo moʻui ni.
+ton	Ke ke fai ʻo tatau mo e fakamaau ʻoe fono ʻaia tenau ako ʻaki kiate koe, pea hangē ko e fakamaau ʻaia tenau tala kiate koe, ʻoua naʻa ke afe mei hono fakatonutonu ʻaia tenau fakahā kiate
+ton	Pea ko hai ha tangata kuo poloʻi ha fefine kiate ia, pea ʻoku teʻeki ai te ne maʻu ia? Ke ʻalu ia pea foki ki hono fale, telia naʻa mate ia ʻi he tau, pea maʻu ia ʻe ha tangata kehe.’
+ton	Ka ʻe fakahā ʻe ia ʻae tama ʻae fehiʻanekina ko e ʻuluaki tupu, ʻi heʻene ʻatu kiate ia ʻae vāhenga ʻe ua ʻi he meʻa kotoa pē ʻoku ne maʻu, he ko e kamataʻanga ia ʻo hono mālohi;
+ton	Te mou toki ʻomi ʻakinaua kituʻa ki he matapā ʻoe kolo, pea te mou tolongaki ʻaki ʻakinaua ʻae maka ke na mate: ʻae fefine, koeʻuhi naʻe ʻikai kalanga ia, ka kuo ne ʻi he kolo; mo e
+ton	tangata ko e meʻa ʻi heʻene fakahalaʻi ʻae uaifi ʻo hono kaungāʻapi: ʻe pehē pe hoʻo tukuange ʻae kovi meiate kimoutolu.
+ton	¶ “ʻOka ke ka hoko ki he ngoue vaine ʻa ho kaungāʻapi, ʻe ngofua ʻa hoʻo kai ʻae kālepi ko hoʻo faʻiteliha ke ke mākona ai; kaeʻoua naʻa ke faʻo ha niʻihi ʻi hoʻo ipu.
+ton	Pea ʻe pehē, ko e ʻuluaki tama ʻoku fanauʻi ʻe hoko ia ki he hingoa ʻo hono tokoua ʻaia kuo pekia, koeʻuhi ke ʻoua naʻa tāmateʻi hono hingoa mei ʻIsileli.
+ton	Kuo ke fakahā he ʻaho ni ko Sihova ko ho ʻOtua, pea te ke ʻalu ʻi hono ngaahi hala, mo ke tauhi ʻene ngaahi tuʻutuʻuni, mo ʻene ngaahi fekau, mo ʻene ngaahi fakamaau, pea te ke tokanga ki
+ton	Pea ʻe hoko ʻo pehē, “Kapau te ke tokanga lelei ki he fono ʻa Sihova ko ho ʻOtua, ke tokanga mo fai ʻene ngaahi fekau kotoa pē ʻaia ʻoku ou fekauʻi koe he ʻaho ni, ʻe hiki koe ʻe
+ton	Ko ho ngaahi foha mo ho ngaahi ʻofefine ʻe foaki ki he kakai kehe, pea ʻe fakasio ho mata, pea mole ʻi he holi kiate kinautolu ʻi he ʻaho kotoa: pea ʻe ʻikai ha mafai ʻi ho nima.
+ton	Pea ʻe hoko ʻo pehē, hangē naʻe fiefia ʻa Sihova kiate kimoutolu ke fai lelei kiate kimoutolu, pea ke fakatokolahi ʻakimoutolu: ʻe pehē, ʻe fiefia ʻa Sihova kiate kimoutolu ke fakaʻauha
+ton	Pea ʻe pehē ʻe he kakai, ‘Ko e meʻa ʻi heʻenau liʻaki ʻae fuakava ʻa Sihova ko e ʻOtua ʻo ʻenau ngaahi tamai, ʻaia naʻe fai mo kinautolu ʻi heʻene ʻomi ʻakinautolu kituaʻā mei
+ton	Pea ʻe tukuange ʻakinautolu ʻe Sihova ʻi homou ʻao, koeʻuhi ke mou fai kiate kinautolu ʻo fakatatau ki he ngaahi fekau ʻaia kuo u fekau ni kiate kimoutolu.
+ton	Kuo nau fakahalaʻi ʻakinautolu, ko honau ʻila ʻoku ʻikai ko e fakaʻilonga ʻo ʻene fānau: ko e toʻutangata mioʻi mo pikopiko ʻakinautolu.
+ton	Koeʻuhi ʻe fakamaau ʻe Sihova ʻa hono kakai, pea ʻe lolou ia koeʻuhi ko ʻene kau tamaioʻeiki, ʻi heʻene ʻafioʻi kuo ʻosi honau mālohi, pea ʻoku ʻikai ha niʻihi kuo tāpuni, pe toe.
+ton	Pea ʻi he ngaahi fua maʻongoʻonga ʻoku langaʻi ʻe he laʻā, pea ʻi he ngaahi meʻa maʻongoʻonga ʻoku fakatupu ʻe he ngaahi māhina,
+ton	“Kuo pekia ʻa ʻeku tamaioʻeiki ko Mōsese; pea ko eni, ke ke tuʻu hake, mo ʻalu ki he kauvai ʻe taha ʻo Sioatani, ʻa koe mo e kakai ni kotoa pē, ki he fonua ʻaia ʻoku ou foaki kiate
+ton	Pea naʻe tala kiate ia ʻe he ongo tangata, “Ko ʻema moʻui, ki hoʻomou moʻui, ʻo kapau ʻe ʻikai te mou fakahā ʻema ngāue ni.” Pea ʻe hoko ʻo pehē, “ʻI he tuku mai ʻe Sihova ʻae
+ton	pea mou fekau kiate kinautolu, ʻo pehē, “Mou toʻo mai mei loto Sioatani, mei he potu naʻe tuʻumaʻu ai ʻae vaʻe ʻoe kau taulaʻeiki, ʻae maka ʻe hongofulu mā ua, pea mou fua ia ʻo ʻave
+ton	Pea naʻe folofola ʻa Sihova kia Siosiua, “Kuo u tekaʻi ʻiate kimoutolu he ʻaho ni ʻae manuki ʻo ʻIsipite.” Ko ia ʻoku ui ai ʻae potu ko ia, ko Kilikali ʻo aʻu ki he ʻaho ni.
+ton	Pea naʻa nau tutu ʻae kolo ʻaki ʻae afi, mo ia kotoa pē naʻe ʻi ai: ka ko e koula, mo e siliva, mo e ngaahi ipu palasa mo e ʻaione, naʻa nau tuku ki he fale koloa ʻo Sihova.
+ton	1 ʻOku tokoni ʻe he ʻOtua ʻa Siosiua. 3 Ko e fakakākā ʻaia naʻe lavaʻi ai ʻa ʻAi. 29 ʻOku tautau hono tuʻi ʻo ia. 30 ʻOku langa ʻe Siosiua ʻae feilaulauʻanga. 32 ʻOku tohi ʻae
+ton	‌ʻo hangē ko e fekau ʻa Mōsese ko e tamaioʻeiki ʻa Sihova ki he fānau ʻa ʻIsileli, ʻo hangē ko ia kuo tohi ʻi he tohi ʻoe fono ʻa Mōsese, “ko e feilaulauʻanga, ʻoe ngaahi maka
+ton	kātoa, ʻaia kuo ʻikai hiki ʻe ha tangata ha ukamea ki ai:” pea naʻa nau ʻatu ʻi ai ʻae ngaahi feilaulau tutu kia Sihova, mo e ngaahi feilaulau fakalelei.
+ton	Pea naʻa ne fai ia kiate kinautolu, ʻo fakahaofi ʻakinautolu mei he nima ʻae fānau ʻa ʻIsileli, pea naʻe ʻikai te ne tāmateʻi ʻakinautolu.
+ton	Ko ia naʻe maʻu ʻe Siosiua ʻae fonua kotoa pē, ko e ngaahi moʻunga, mo e ngaahi fonua ki he potu tonga, mo e fonua kotoa pē ko Koseni, mo e teleʻa, mo e toafa, mo e moʻunga ʻo ʻIsileli,
+ton	¶ Pea naʻe foaki ʻe Mōsese ki hono vaeuaʻanga ʻoe faʻahinga ʻo Manase: pea ko e ʻo hono vaeuaʻanga ʻoe fānau ʻa Manase ʻi honau ngaahi faʻahinga.
+ton	Pea naʻe ʻalu fakatakamilo hono ngataʻanga mei Peala ʻi lulunga ki he moʻunga ko Seia, pea mole ai pe ʻo aʻu ki he potu ʻoe moʻunga ko Sialimi, ʻaia ʻoku ʻi Kesaloni, ʻi he potu tokelau,
+ton	Pea naʻe ʻalu hono ngataʻanga mei Tapua ʻi he potu lulunga ʻo aʻu atu ki he vaitafe ko Kana; pea ko hono ngataʻanga ʻo ia ko e tahi. Ko eni ʻae tofiʻa ʻoe faʻahinga ʻoe fānau ʻa
+ton	Pea naʻe ʻalu ʻae kau tangata ʻo mole ʻo ʻasi ʻi he fonua, ʻo tohi vahevahe ia ʻi he tohi ko e vahe fitu, ʻo toe haʻu kia Siosiua ki he fakataha ki Sailo.
+ton	Pea naʻe ʻalu hake honau ngataʻanga ʻo hanga ki tahi, mo Malela, pea hoko atu ki Tapiseti, pea aʻu atu ki he vaitafe ʻaia ʻoku feʻunga mo Sokiniami;
+ton	Pea naʻe foaki kiate kinautolu ʻae kolo ʻo ʻAlipa ko e tamai ʻa ʻAnaki, ʻae kolo ko ia ko Hepeloni, ʻi he fonua moʻunga ʻo Siuta, mo hono veʻe kolo ʻoku tuʻu takatakai.
+ton	Ka koeʻuhi ke hoko ko e fakamoʻoni ia kiate kimautolu mo kimoutolu, pea ki hotau ngaahi toʻutangata kimui ʻiate kitautolu, koeʻuhi ke mau fai ʻae ngāue ʻa Sihova ʻi hono ʻao ʻaki ʻemau
+ton	ngaahi feilaulau tutu, mo ʻemau ngaahi feilaulau, mo ʻemau ngaahi feilaulau fakalelei; ke ʻoua naʻa lau ʻe hoʻomou fānau ki heʻemau fānau ʻamui, ʻOku ʻikai te mou kau kia Sihova.’
+ton	Pea naʻaku ʻomi hoʻomou ngaahi tamai mei ʻIsipite: pea naʻa mou haʻu ki he tahi: pea naʻe tuli hoʻomou ngaahi tamai ʻe he kakai ʻIsipite ʻaki ʻae ngaahi saliote mo e kau tangata heka
+ton	Pea naʻe lea ʻa Siuta ki hono tokoua ko Simione, ʻo pehē, “Haʻu ke ta ō mo koe ki hoku tofiʻa, koeʻuhi ke ta tauʻi ʻae kau Kēnani; pea te u ʻalu mo koe foki ki ho tofiʻa.” Pea naʻe
+ton	Pea naʻe kapusi ʻe he kau ʻAmoli ʻae fānau ʻa Tani ki he moʻunga: he naʻe ʻikai tenau tuku ʻakinautolu ke ʻalu hifo ki he teleʻa.
+ton	Pea naʻe tuku ke ʻahiʻahiʻi ʻaki ʻa ʻIsileli ʻekinautolu, ke ʻilo pē tenau fanongo ki he ngaahi fekau ʻa Sihova, ʻaia naʻa ne fekau ki heʻenau ngaahi tamai ʻi he nima ʻo Mōsese.
+ton	Pea naʻe tangi ʻae fānau ʻa ʻIsileli kia Sihova: he naʻe ʻiate ia ʻae saliote ʻaione ʻe hivangeau; pea naʻa ne fakamamahi lahi ki he fānau ʻa ʻIsileli ʻi he taʻu ʻe uofulu.
+ton	¶ Pea naʻe ʻalu ai ʻa Kitione, ʻo ne teu ʻae ʻuhikiʻi kosi, mo e mā taʻefakalēvani ʻi he efa ʻe taha ʻoe mahoaʻa: naʻa ne faʻo ʻae kakano ʻi ha kato, pea ne ʻai ʻae vaihū ki ha
+ton	¶ Pea naʻe hoko ʻo pehē ʻi he pō ko ia, naʻe folofola ʻa Sihova kiate ia, “Tuʻu hake, pea ke ʻalu hifo ki matatau; he kuo u tukuange ia ki ho nima.
+ton	Pea naʻe haʻu ia ki he kau tangata ʻo Sukote, ʻo ne pehē, “Vakai kia Sipa mo Salimuna, ʻaia naʻa mou manuki ai kiate au, ʻo pehē, Ko eni, he ʻoku ʻi ho nima ʻae nima ʻo Sipa mo
+ton	Pea naʻe nofo ʻa ʻApimeleki ʻi Eluma pea naʻe kapusi ʻe Sepuli ʻa Keali mo hono kāinga, ke ʻoua naʻa nau nofo ʻi Sikemi.
+ton	‌ʻAlu ʻo tangi ki he ngaahi ʻotua ʻaia kuo mou fili: tuku kenau fakamoʻui ʻakimoutolu ʻi he ʻaho ʻo hoʻomou tuʻutāmaki lahi.”
+ton	Naʻe nofo ʻa ʻIsileli ʻi Hesiponi mo hono ngaahi kolo, pea ʻi ʻAloeli mo hono ngaahi kolo, pea ʻi he ngaahi kolo ʻoku tuʻu ʻi hono ngaahi ngataʻanga ʻoe fonua ʻo ʻAlanoni, ʻi he taʻu
+ton	1 ʻOku ʻi he nima ʻoe kau Filisitia ʻa ʻIsileli. 2 ʻOku fakahāhā ʻae ʻāngelo ki he uaifi ʻo Manoa. 8 ʻOku fakahāhā ʻae ʻāngelo kia Manoa. 15 Ko e feilaulau tutu ʻa Manoa, ʻaia
+ton	¶ Pea naʻe ʻalu hifo ʻa Samisoni, mo ʻene tamai mo ʻene faʻē, ki Timinate, pea nau hoko ki he ngaahi ngoue vaine ʻi Timinate: pea vakai, naʻa ne fetaulaki mo e laione mui ʻaia naʻe ʻoho
+ton	Pea naʻa ne taaʻi ʻakinautolu ʻi he ʻakahi mo e malamalaki ʻi he tāmateʻi lahi: pea naʻe ʻalu hifo ia ʻo nofo ʻi he tumutumu ʻoe makatuʻu ko ʻEtami.
+ton	Pea ʻi he mamata ʻe Tilila kuo ne fakahā kiate ia hono loto kotoa, naʻe fekau ia ʻo ui ke haʻu ʻae houʻeiki ʻoe kau Filisitia, ʻo ne pehē, “Mou haʻu ke toe tā tuʻo taha, he kuo ne
+ton	fakahā kiate au ʻa hono loto kotoa.” Pea naʻe haʻu ai ʻae ngaahi ʻeiki ʻoe kau Filisitia kiate ia, pea naʻe ʻomi ʻae ngaahi paʻanga ʻi honau nima.
+ton	Pea ʻi heʻenau ofi ki he fale ʻo Maika, naʻa nau ʻilo ʻae leʻo ʻoe tangata talavou ko e Livai: pea naʻa nau afe ki ai, ʻonau pehē kiate ia, “Ko hai naʻa ne ʻomi koe ki heni? Pea ko e
+ton	Pea naʻe fai angahala ʻe hono fefine kiate ia, pea hola ia meiate ia ki he fale ʻo ʻene tamai ʻi Petelihema Siuta, pea naʻe ʻi ai ia ʻi he māhina kātoa ʻe fā.
+ton	Pea naʻe haʻu foki ʻae kakai mālohi kotoa pē, ʻi he ngaahi faʻahinga kotoa pē ʻo ʻIsileli ki he fakataha ʻoe kakai ʻoe ʻOtua, ko e kau tangata tau ʻe toko fā kilu naʻe toʻo heletā.
+ton	Pea naʻe tuʻu hake ʻae kau tangata kotoa pē mei honau potu, pea tali tau pe ʻakinautolu ʻi Peali tama: pea naʻe hiki ʻae malumu mei honau ngaahi potu, ʻio, mei he ngaahi ngoue mohuku ʻo
+ton	Pea naʻe pehē ʻe ia kiate kinautolu, “ʻOua naʻa ui au ko Naomi kae ui au ko Mala: he kuo fai fakamamahi lahi kiate au ʻe he Māfimafi.
+ton	Pea ka tokoto hifo ia, pea ʻe pehē, Ke ke vakai ki he potu ʻaia ʻoku tokoto ai ia, pea ke ʻalu ki ai, pea toʻo ʻae kafu mei hono vaʻe, pea ke tokoto hifo; pea ʻe fakahā ʻe ia kiate koe
+ton	¶ Pea hili ʻa hono fakamavae ia, naʻa ne ʻave ia, pea mo e fanga pulu ʻe tolu, mo e efa ʻe taha ʻoe mahoaʻa, mo e hina uaine ʻe taha, ʻo ʻomi ia ki he fale ʻo Sihova ʻi Sailo: pea naʻe
+ton	Pea te ke mamata ki he fakamamahiʻi ʻo hoku nofoʻanga, neongo ʻae lelei kotoa pē kuo foaki ki ʻIsileli: pea ʻe ʻikai ha tangata ʻe motuʻa ʻi ho fale ʻo taʻengata.
+ton	Ko ia naʻe fekau ʻe he kakai ki Sailo, koeʻuhi kenau ʻomi mei ai ʻae puha ʻoe fuakava ʻo Sihova ʻoe ngaahi kautau, ko ia ʻoku nofo ʻi he vahaʻa ʻoe ongo Selupi: pea naʻe haʻu ai ʻae
+ton	Pea ko e kau tangata naʻe ʻikai mate naʻe taaʻi ʻakinautolu ʻaki ʻae mahaki kovi: pea naʻe ʻalu hake ki langi ʻae tangi ʻae kolo.
+ton	Pea naʻe pehē ʻe he fānau ʻa ʻIsileli kia Samuela, “ʻOua naʻa tuku hoʻo tangi kia Sihova ko hotau ʻOtua, koeʻuhi ke ne fakamoʻui ʻakimautolu mei he nima ʻoe kakai Filisitia.”
+ton	Pea naʻe toʻo ʻe Samuela ʻae hina lolo, ʻo lingi ia ki hono fofonga, pea ʻuma kiate ia, ʻo ne pehē, “ʻIkai ko e meʻa ʻi he fakatapui koe ʻe Sihova ke ke ʻeiki koe ki hono tofiʻa?
+ton	¶ Pea naʻe hoko ʻae kau talafekau ki Kipea ʻo Saula, pea fakahā ʻae ongoongo ki he telinga ʻoe kakai: pea naʻe hiki honau leʻo ʻe he kakai kotoa pē ʻo tangi.
+ton	Pea naʻe pehē ʻe he kakai kotoa pē kia Samuela, “Ke ke hūfia ʻa hoʻo kau tamaioʻeiki kia Sihova ko ho ʻOtua ke ʻoua naʻa mau mate: he kuo mau fakalahi ʻaki ʻemau ngaahi angahala kotoa
+ton	1 Ko e ʻalu ʻa Sonatane ʻo taaʻi ʻae kolo tau ʻae kakai Filisitia. 15 Ko e ilifia naʻe fakahoko mei he ʻOtua ke nau fetāmateʻaki ʻakinautolu. 17 Naʻe ʻikai tatali ʻa Saula ki he lea
+ton	ʻae taulaʻeiki, ka nau hoko atu kiate kinautolu. 21 Ko e kau Hepelū naʻe hopoate mo kinautolu naʻe toitoi, ʻoku nau hoko atu ʻo tauʻi ʻakinautolu. 24 Ko e lea tuʻutāmaki ʻa Saula naʻa ne
+ton	taʻofi hono lavaʻi ʻoe tau. 32 ʻOku ne taʻofi ʻae kakai ʻi he kai ʻoe toto. 35 ʻOku ne fokotuʻu ʻae feilaulauʻanga. 36 ʻOku moʻua ʻa Sonatane ʻi he talotalo, kae fakamoʻui ia ʻe he
+ton	Pea naʻa nau taaʻi ʻae kakai Filisitia ʻi he ʻaho ko ia mei Mikimasi ʻo aʻu ki ʻAsaloni: pea naʻe vaivai lahi ʻae kakai.
+ton	Pea naʻe pehē ʻe ia, “ʻOku ou haʻu melino pē: kuo u haʻu ke fai ʻae feilaulau kia Sihova: fakatapui ʻakimoutolu, pea mou haʻu mo au ki he feilaulau.” Pea naʻa ne fakatapui ʻa Sese mo
+ton	¶ Pea ko Tevita ko e foha ia ʻoe tangata ʻo Efalata ʻo Petelihema, ko hono hingoa ko Sese; pea naʻe ʻiate ia ʻae foha ʻe toko valu: pea naʻe lau ʻae tangata ko ia mo e kau mātuʻa ʻi he
+ton	Pea pehē ʻe he tangata Filisitia kia Tevita, “Ko e kulī au, kuo ke haʻu ai kiate au mo e ngaahi ʻakau?” Pea kapeʻi ʻe he tangata Filisitia ʻa Tevita ʻi hono ngaahi ʻotua.
+ton	Pea naʻe toe fekau ʻe Saula ʻae kau talafekau kenau mamata kia Tevita, ʻo pehē, “Mou ʻomi ia kiate au ʻi hono mohenga, koeʻuhi ke u tāmateʻi ia.”
+ton	Pea vakai, Te u fekau ha tamasiʻi, ʻo pehē, ‘ʻAlu ʻo kumi ʻae ngahau.’ Kapau ʻoku ou lea fakapapau ki he tamasiʻi, ‘Vakai, ʻoku ʻi he potu mai kiate koe ʻae ngahau, toʻo ia ʻo
+ton	Pea pehē ʻe he taulaʻeiki, “Ko e heletā ʻa Kolaiate ko e tangata Filisitia, ʻaia naʻa ke tāmateʻi ʻi he teleʻa ʻo Ila, Vakai ʻoku tuku tākai ʻae kofu ʻi he tuʻa ʻefoti kapau ko ho
+ton	loto ke ʻave ia, ʻave ia he ʻoku ʻikai ha taha kehe ka ko ia pe ʻi heni.” Pea naʻe pehē ʻe Tevita, “ʻOku ʻikai hano tatau mo ia; tuku mai ia.”
+ton	1 ʻOku fehuʻi ʻe Tevita kia Sihova ʻia ʻApiata pea ne fakahaofi ʻa Kiʻila. 7 ʻI he fakahā kiate ia ʻe he ʻOtua ʻe haʻu ʻa Saula, mo e kākā ʻoe kakai Kiʻila, ʻoku ne hola ia mei
+ton	Kiʻila. 14 ʻOku hoko ʻa Sonatane kiate ia ʻi Sifi ʻo ne fakafiemālieʻi ia. 19 ʻOku fakahā ia ʻe he kakai Sifi kia Saula. 25 ʻOku fakahaofi ia meia Saula ʻi Maoni ʻi he hoko mai ʻae tau
+ton	Pea ʻi he liu mai ʻa Saula mei heʻene tuli ʻae kau Filisitia, pea hoko ʻo pehē, naʻe tala kiate ia, ʻo pehē, “Vakai, ʻoku ʻi he toafa ʻo Eni-Keti ʻa Tevita.”
+ton	Pea ʻi he hoko atu ʻae kau talavou ʻa Tevita, naʻa nau lea kia Napale ʻi he hingoa ʻo Tevita ʻo fakatatau ki he ngaahi lea ni kotoa pē, pea ngata.
+ton	Pea ʻi he hoko atu ʻae kau tamaioʻeiki kia ʻApikale ki Kameli naʻa nau lea kiate ia ʻo pehē, “Kuo fekau mai ʻakimautolu ʻa Tevita kiate koe, ke mau ʻave koe kiate ia ko hono uaifi.”
+ton	1 Naʻe fanongo ʻa Saula ʻoku ʻi Kati ʻa Tevita, pea naʻe ʻikai te ne toe kumi ia. 5 ʻOku kole ʻe Tevita, ʻa Sikilaki ʻia ʻAkisi. 8 Ko e tauʻi ʻe ia ʻae fonua kehe, pea fakalotoʻi ʻa
+ton	Ko e meʻa ʻi he ʻikai te ke talangofua ki he leʻo ʻo Sihova, pea fai kia ʻAmaleki hono houhau lahi, ko ia kuo fai ai ʻe Sihova ʻae meʻa ni kiate koe he ʻaho ni.
+ton	¶ Pea naʻa nau ʻilo ʻae tangata ʻIsipite ʻi he ngoue, ʻonau ʻomi ia kia Tevita, pea ne ʻatu kiate ia ʻae mā, pea ne kai pea nau fakainu ia ʻi he vai.
+ton	Pea naʻa nau ʻai hono ngaahi kofu tau ki he fale ʻo ʻAsitelote: pea naʻa nau fakamaʻu hono sino ki he ʻā maka ʻo Pete-Sani.
+ton	‌ʻO ne fakanofo ia ke tuʻi ʻi Kiliati, pea ki he kakai ʻAsilia, mo Sesilili, mo ʻIfalemi pea mo Penisimani, pea ki ʻIsileli kātoa.
+ton	Pea naʻe ai ʻae fefine sinifu ʻo Saula, ʻaia naʻe hingoa ko Lisipa, ko e taʻahine ʻo ʻAia: pea naʻe pehē ʻe kia ʻApina, “Ko e hā kuo ke hū atu ai ki he sinifu ʻo ʻeku tamai?”
+ton	Pea naʻe pehē ʻe he tuʻi ki heʻene kau tamaioʻeiki, “ʻIkai ʻoku mou ʻilo ko e ʻeiki mo e tangata ongoongo kuo tō hifo he ʻaho ni ʻi ʻIsileli?
+ton	Pea naʻe pehē ʻe Tevita kia Mikale, “he ʻao ʻo Sihova, ʻaia naʻa ne fili au ʻi he ʻao ʻo hoʻo tamai mo e ʻao ʻo hono fale kotoa pē, ke ne fakanofo au ko e pule ki he kakai ʻo Sihova,
+ton	Pea ko eni, ʻE Sihova ko e ʻOtua, ko koe ʻae ʻOtua ko ia, pea ʻoku moʻoni ʻa hoʻo ngaahi folofola, pea kuo ke talaʻofa ʻaki ʻae lelei ni ki hoʻo tamaioʻeiki:
+ton	Pea ko ia te ke ngoueʻi ʻae fonua maʻana, ʻe koe mo hoʻo ngaahi foha, pea mo hoʻo kau tamaioʻeiki, pea te ke utu mai, koeʻuhi ke ai ha meʻakai ki he foha ʻo hoʻo ʻeiki: ka ʻe kai ʻe
+ton	Mifiposeti ko e foha ʻo hoʻo ʻeiki, ʻi hoku keinangaʻanga maʻuaipē.” Pea ko eni naʻe ʻia Sipa ʻae fānau tangata ʻe toko hongofulu ma nima, mo e kau tamaioʻeiki ʻe toko uofulu.
+ton	Pea ʻi heʻene hoko mai ʻa ʻUlia kiate ia, naʻe ʻeke ʻe Tevita pe kuo fēfē ʻa Soape, pea fēfē mo e kakai, pea kuo fēfē ʻae fai ʻoe tau.
+ton	Pea ko eni foki, ʻe ʻikai mahuʻi ʻae heletā mei ho fale ʻo taʻengata; koeʻuhi kuo ke manuki kiate au, pea kuo ke ʻomi ʻae uaifi ʻo ʻUlia ko e tangata Heti, ke hoko ko ho uaifi.
+ton	Pea naʻa ne toʻo mai ha ipu ʻo ne lilingi ia ʻi hono ʻao: ka naʻe ʻikai loto ia ke kai. Pea naʻe pehē ʻe ʻAmanoni, “Tuku kituʻa ʻae kau tangata kotoa pē meiate au.” Pea naʻa nau
+ton	1 Ko e lea fakatātā ʻa Soape ʻaia naʻe ueʻi ʻaki ʻae loto ʻoe tuʻi ke ne toe ʻomi ʻa ʻApisalomi ki hono fale ʻi Selūsalema. 25 Ko e toulekeleka ʻo ʻApisalomi, pea ko hono louʻulu,
+ton	Pea naʻe tuʻu hake ai ʻa Soape, ʻo ne haʻu ki he fale ʻo ʻApisalomi, ʻo ne pehē kiate ia, “Ko e hā kuo tutu ai ʻe hoʻo kau tamaioʻeiki ʻa ʻeku ngoue?
+ton	Ko ia naʻe toe ʻave ai ʻae puha tapu ʻae ʻOtua ki Selūsalema ʻe Satoki pea mo ʻApiata, pea naʻa na tatali ʻo nofo ʻi ai.
+ton	Ko ia naʻa nau folahi atu ai ha fale tupenu ʻi he tuʻa fale ki ʻolunga: pea naʻe hū atu ki ai ʻa ʻApisalomi ki he sinifu ʻo ʻene tamai ʻi he ʻao ʻo ʻIsileli kotoa pē.
+ton	Mo e honi, mo e pota, mo e fanga sipi, mo e siisi mei hefanga pulu fefine, maʻa Tevita, pea mo e kakai kotoa pē naʻe ʻiate ia, kenau kai: he naʻa nau pehē, Kuo fiekaia ʻae kakai, mo ongosia,
+ton	Pea kuo ne lauʻikoviʻi ʻa hoʻo tamaioʻeiki ki hoku ʻeiki ko e tuʻi; ka ʻoku tatau ʻa hoku ʻeiki ko e tuʻi mo ha ʻāngelo ʻae ʻOtua: ko ia ke ke fai ʻaia ʻoku matamatalelei kiate koe.
+ton	¶ Pea naʻa ne ʻalu atu ʻi he ngaahi faʻahinga kotoa pē ʻo ʻIsileli ʻo aʻu ki ʻEpeli, pea ki Pete Meaka, pea mo e kakai ʻo Peli kātoa: pea naʻe fakataha ʻakinautolu, ʻonau muimui foki
+ton	Pea hili foki eni naʻe hoko ʻo pehē, naʻe toe fai ʻae tau mo e kakai Filisitia ʻi Kopo: pea naʻe tāmateʻi ʻa Safi ʻaia naʻe ʻoe fānau ʻa Lafa ʻe Sipikei ko e tangata Husati.
+ton	Kiate ia ʻoku ʻaloʻofa ongongofua te ke fakahā ʻe koe ʻae ʻaloʻofa, pea ki he tangata angatonu te ke fakahā koe ko e angatonu.
+ton	Neongo ʻoku ʻikai pehē ʻa hoku fale ki he ʻOtua, ka kuo ne fai mo au ha fuakava taʻengata, kuo tuʻutuʻuni lelei ʻi he meʻa kotoa pē mo maʻu: pea ko ia kotoa pē te u moʻui ai, mo ia
+ton	Pea ko ʻeni kuo motuʻa ʻa Tevita pea lahi ʻa hono taʻu; pea naʻa nau ʻufiʻufi ʻaki ia ʻae ngaahi kofu, ka naʻe ʻikai ke ne māfana ai.
+ton	¶ Pea naʻe pehē ʻe he tuʻi ko Tevita, Ui mai ʻa Satoki ko e taulaʻeiki, mo Netane ko e palōfita, mo Penaia ko e foha ʻo Sehoiata. Pea naʻa nau haʻu ki he ʻao ʻoe tuʻi.
+ton	Ka ko eni, ʻoua naʻa ke lau ia ko e taʻehalaia: he ko e tangata poto koe, pea ʻoku ke ʻilo ʻae meʻa ʻoku totonu ke ke fai kiate ia; ka ke ʻohifo ʻe koe ʻa hono ʻuluhinā ki he faʻitoka
+ton	Pea naʻe tuʻu hake ʻa Simi, ʻo ne ʻai ʻae hekaʻanga ki heʻene ʻasi, pea ʻalu ia ki Kati kia ʻAkisi ke kumi ki heʻene ongo tamaioʻeiki: pea naʻe ʻalu ʻa Simi, ʻo ne ʻomi ʻa ʻene
+ton	¶ Pea naʻe maʻu ʻe Solomone ʻae potu tuʻuʻanga ʻe fā mano ki he fanga hoosi ʻo ʻene ngaahi saliote, pea mo e kau heka hoosi ʻe tokotaha mano ma toko ua afe.
+ton	Pea ko hono lōloa ʻoe hūʻanga fale fakamalumalu ʻi he ʻao ʻoe falelotu, ko e hanga ʻe fāngofulu, ʻo fakatatau mo e māukupu ʻoe fale; pea ko hono māukupu ʻi he ʻao ʻoe fale ko e hanga
+ton	Pea ko hono matapā ʻe ua naʻe ʻoe ʻakau ko e paini; naʻe faʻa mapelu ʻae potu ʻe ua ʻoe matapā ʻe taha, pea naʻe faʻa mapelu ʻae potu ʻe ua ʻoe matapā kehe ʻe taha.
+ton	Pea ko hono matolu ko e nima ʻe taha, pea naʻe ngaohi ʻa hono ngutu ʻo hangē ko e ngutu ʻo ha ipu, ʻaki ʻae fisiʻiʻakau ʻoe fili: pea ko hono fonu ʻo ia ko e kaloni ʻe taha mano mo e ono
+ton	Pea ko e tuʻi ko Solomone, pea mo e fakataha kotoa pē ʻo ʻIsileli, ʻaia naʻe fakataha kiate ia, naʻa nau tutuʻu mo ia ʻi he ʻao ʻoe puha tapu ke feilaulauʻaki ʻae fanga sipi mo e fanga
+ton	Ke ke toki fanongo ʻe koe ʻi he langi, pea fakamolemole ʻae angahala ʻa hoʻo kau tamaioʻeiki, pea mo hoʻo kakai ʻIsileli koeʻuhi ke ke akoʻi ʻakinautolu ʻi he hala lelei ʻaia ʻoku
+ton	1 Ko e hā mai ʻae ʻOtua kia Solomone mo ʻene fuakava kiate ia. 10 Ko e feʻofaʻaki ʻa Helami mo Solomone. 15 Ko e fai kehekehe ʻae kau ʻae kakai Senitaile mo e kakai ʻIsileli ki he ngāue
+ton	ʻa Solomone. 24 Ko e nofo ʻae ʻofefine ʻo Felo ki hono fale ʻoʻona. 25 Ko e ngaahi feilaulau ʻa Solomone ʻi he taʻu kotoa pē. 26 ʻOku ʻalu ʻene folau ke fetuku koula mei Ofeli.
+ton	Pea naʻe haʻu ia ki Selūsalema mo e fuʻu fononga tokolahi, mo e fanga kāmeli naʻe fetuku ʻae ngaahi meʻa namu kakala, mo e koula lahi ʻaupito, mo e ngaahi maka mahuʻinga: pea ʻi heʻene
+ton	Pea naʻa ne maʻu ʻae uaifi ʻe fitungeau naʻe ʻeiki lahi, pea mo e sinifu ʻe toko tolungeau: pea naʻe fakatafoki hono loto ʻe hono ngaahi uaifi.
+ton	Ka ʻe ʻikai foki te u toʻo mei hono nima ʻae puleʻanga kātoa: ka te u tuku ia ke tuʻi ʻi he ʻaho kotoa pē ʻo ʻene moʻui koeʻuhi ko Tevita ko ʻeku tamaioʻeiki, ʻaia naʻaku fili,
+ton	¶ Pea ʻi heʻene hoko mai ʻa Lehopoami ki Selūsalema, naʻa ne fakataha mai ʻae fale kotoa pē ʻo Siuta, mo e faʻahinga ʻo Penisimani, ko e kautau ʻe tokotaha kilu mo e toko valu mano, ko e
+ton	kau tangata naʻe fili, ke tauʻi ʻae fale ʻo ʻIsileli, koeʻuhi ke toe ʻomi ai ʻae puleʻanga kia Lehopoami ko e foha ʻo Solomone.
+ton	Pea naʻe pehē ʻe ia kiate ia, “Ko e palōfita foki au ʻo hangē ko koe; pea naʻe lea mai ha ʻāngelo kiate au ʻi he fekau ʻa Sihova, ʻo pehē, ‘Toe ʻomi ia mo koe ki ho fale, koeʻuhi
+ton	Pea ʻe fokotuʻu hake foki ʻe Sihova maʻana ha tuʻi ki ʻIsileli, ʻaia te ne fakaʻauha ʻae fale ʻo Selopoami ʻi he ʻaho ko ia: kae fēfē? ʻE hoko ia ʻi hono kuonga.
+ton	Pea ko Meaka foki ko ʻene kui naʻa ne liliu ia mei heʻene nofo ko e tuʻi fefine, koeʻuhi ko ʻene ngaohi ha tamapua ʻi ha vao tapu; pea naʻe maumauʻi ʻe ʻAsa ʻa hono tamapua, ʻo ne tutu
+ton	He naʻe hū atu ʻa Simili ʻo ne taaʻi ia ke ne mate, ʻi hono uofulu ma fitu ʻoe taʻu ʻa ʻAsa ko e tuʻi ʻo Siuta, mo ne fetongi ia ʻi he pule.
+ton	Pea naʻe ʻomi ʻae mā mo e kanomate kiate ia ʻe he fanga leveni ʻi he pongipongi, mo e mā mo e kanomate ʻi he efiafi; pea naʻa ne inu mei he vaitafe.
+ton	Pea ʻe hoko ʻo pehē, kau ka ʻalu leva meiate koe, ʻe ʻave koe ʻe he Laumālie ʻo Sihova ki ha potu ʻoku ʻikai te u ʻiloʻi; pea ʻi heʻeku fakahā kia ʻEhapi, pea ʻoku ʻikai ke ne
+ton	Pea pehē ʻe ia ki heʻene tamaioʻeiki, “ʻAlu hake eni ʻo sio atu ki tahi.” Pea naʻa ne ʻalu hake, mo ne sio, pea ne pehē, “ʻOku ʻikai ha meʻa.” Pea naʻa ne pehē, “Ke ke toe
+ton	Pea naʻe toe haʻu ʻae kau talafekau, ʻonau pehē, “ʻOku pehē mai ʻe Peni-Hatati, Neongo ʻa ʻeku fekau atu kiate koe, ʻo pehē, Te ke tuku mai kiate au hoʻo siliva, mo hoʻo koula, mo ho
+ton	Pea naʻa ne toki pehē kiate ia, “Koeʻuhi kuo ʻikai te ke fai talangofua ki he folofola ʻa Sihova, vakai, ʻoka ke ka ʻalu atu leva meiate au, ʻe tāmateʻi koe ʻe ha laione.” Pea ʻi
+ton	Pea ia Sisipeli foki naʻe folofola ai ʻa Sihova, ʻo pehē, ʻE kai ʻa Sisipeli ʻe he fanga kulī ʻi he veʻe ʻa ʻo Sesilili.
+ton	Ka naʻe ʻalu atu ke ofi ʻa Setikia ko e foha ʻo Kinana, ʻo ne taaʻi ʻa Mikaia ʻi hono kouʻahe, mo ne pehē, “Naʻe ʻalu ʻi he hala fē ʻae Laumālie ʻo Sihova meiate au ke lea kiate
+ton	Naʻa ne toʻo hake foki ʻae pulupulu ʻo ʻIlaisiā ʻaia naʻe tō hifo meiate ia, pea ne foki ki mui, mo ne tuʻu ki he kauvai ʻo Sioatani:
+ton	Pea naʻe ʻalu hake ia, ʻo ne fakatokoto ia ki he mohenga ʻoe tangata ʻoe ʻOtua, mo ne tāpuni ʻae matapā kiate ia, pea ʻalu ia kituʻa.
+ton	Pea naʻe hoko ʻo pehē hili ʻa ʻene lau ʻe he tuʻi ʻo ʻIsileli ʻae tohi, naʻa ne haehae ʻa hono ngaahi kofu, mo ne pehē, “He ko e ʻOtua au, ke tāmate mo fakamoʻui, kuo fekau ai ʻe
+ton	he tangata ni ke u fakamoʻui ha tangata mei heʻene kilia? Ko ia mou vakai, pea mou tokanga ki heʻene kumi ha meʻa ke fakatupu ai ʻae kovi kiate au.”
+ton	Pea naʻe fekau atu ʻe he tuʻi ʻo ʻIsileli ki he potu naʻe fakaʻilo ʻe he tangata ʻoe ʻOtua mo valoki ai ia, pea naʻa ne fakamoʻui ia ʻi ai ʻo ʻikai ke liunga taha pe liunga ua.
+ton	Pea ko ia naʻa nau tutuʻu hake ai ʻo hola ʻi heʻene kei fakapoʻupoʻuli, mo nau siʻaki honau ngaahi fale fehikitaki, mo ʻenau fanga hoosi, mo ʻenau fanga ʻasi, ʻio, ʻae ʻapitanga kotoa
+ton	Ko ia naʻe ʻalu ʻae tokotaha naʻe heka hoosi ke fetaulaki mo ia, pea naʻa ne pehē, “ʻOku pehē mai ʻe he tuʻi, pe ko e lelei pe ʻikai?” Pea naʻe pehē ʻe Sehu, “Ko e hā ʻa hoʻo
+ton	kau ʻaʻau ki he lelei? Foki atu ki hoku tuʻa. Pea naʻe fakahā ʻe he tangata leʻo, ʻo pehē, “Naʻe hokoange ʻae tangata fekau kiate kinautolu ka ʻoku ʻikai toe foki mai ia.”
+ton	Ko ia, naʻe tāmateʻi ʻe Sehu ʻakinautolu kotoa pē naʻe toe ʻi he fale ʻo ʻEhapi ʻi Sesilili, pea mo ʻene kakai ongoongo kotoa pē, pea mo hono kāinga, mo ʻene kautaulaʻeiki, pea naʻe
+ton	Pea naʻa ne fekau kiate kinautolu, ʻo pehē, “Ko eni ʻae meʻa te mou fai; ʻakimoutolu ʻoku hū ange ʻi he ʻaho tapu, pea ko homou vahe ʻe taha ʻe tauhi mo leʻohi ʻae fale ʻoe tuʻi;
+ton	Pea naʻe angaʻofa ʻa Sihova kiate kinautolu, pea naʻa ne manavaʻofa kiate kinautolu, pea naʻa ne tokanga kiate kinautolu, koeʻuhi ko ʻene fuakava mo ʻEpalahame, mo ʻAisake, pea mo Sēkope,
+ton	¶ Pea ko eni, ko hono toe ʻoe ngaahi ngāue ʻa Selopoami, mo e meʻa kotoa pē naʻa ne fai, pea mo ʻene mālohi, ʻae anga ʻo ʻene faʻa tau, pea mo e meʻa naʻa ne toe maʻu ai ʻa
+ton	Tamasikusi, mo Hemati, ʻaia naʻe kau ki Siuta, ke ʻia ʻIsileli ia, ʻikai kuo tohi ia ʻi he tohi fakamatala ki he ngaahi tuʻi ʻo ʻIsileli?
+ton	Naʻe haʻu ʻa Tekilati-Pilesa ko e tuʻi ʻo ʻAsilia, ʻi he ngaahi ʻaho ʻo Peka ko e tuʻi ʻo ʻIsileli, ʻo ne kapasia ʻa Isoni mo ʻEpeli-Petemeaka, mo Sanoa, mo Ketesi, mo Hasoa, mo
+ton	1 Ko e pule kovi ʻa Hosea. 3 ʻOku fakavaivai ia ʻe Salimanesa, pea ʻoku ne te u ke lapasi ia. 5 Ko e fakapōpulaʻi ʻo Samēlia koeʻuhi ko hono ngaahi kovi. 24 ʻOku kau fakataha ʻae ngaahi
+ton	Pea ʻe he kakai ʻAvi naʻe fokotuʻu ʻa Nipasi mo Talitaki, pea ʻe he kakai Sifaveimi naʻe tutu ʻenau fānau ʻi he afi kia ʻAtilameleki mo ʻAnameleki, ko e ngaahi ʻotua ʻo Sifaveimi.
+ton	‌ʻOku ke pehē, (ka ko e lea launoa pe) “ʻOku ʻiate au ʻae fakakaukau mo e mālohi ki he tau. Pea ko eni, ko hai ia ʻoku ke falala ki ai, kuo ke angatuʻu ai kiate au?
+ton	Pea te u fakatolotolonga ʻa hoʻo ngaahi ʻaho ʻi he taʻu ʻe hongofulu ma nima; pea te u fakamoʻui koe mo e kolo ni mei he nima ʻoe tuʻi ʻo ʻAsilia; pea te u maluʻi ʻae kolo ni koeʻuhi ko
+ton	Ko e meʻa ʻi heʻenau fai kovi ʻi hoku ʻao, mo fakatupu ʻeku houhau, talu ʻae ʻaho naʻe haʻu ai ʻenau ngaahi tamai mei ʻIsipite, ʻio, ʻo aʻu ki he ʻaho ni.”
+ton	Ko ia, vakai, Te u fakataha koe mo hoʻo ngaahi tamai, pea ʻe tānaki koe ki ho tanuʻanga ʻi he melino; pea ʻe ʻikai mamata ʻe ho mata ki he kovi kotoa pē ʻaia te u ʻomi ki he potu ni. Pea
+ton	Pea naʻe ʻave ia, ka kuo pekia, ʻe heʻene kau tamaioʻeiki ʻi he saliote mei Mekito ki Selūsalema, pea naʻe tanu ia ʻi he tanuʻanga ʻoʻona. Pea naʻe ʻave ʻe he kakai ʻoe fonua ʻa
+ton	Pea ko e ngaahi foha ʻo Mitiane; ko ʻEfaa, mo ʻEfee, mo Henoke, mo ʻApaita, mo Elitaa. Ko kinautolu kotoa pē ko eni ko e ngaahi tama ʻa Ketula.
+ton	Pea ko e ngaahi foha eni ʻo Sosaia, ko hono ʻuluaki fānau ko Sohanani, ko hono toko ua ko Sihoiakimi, ko hono toko tolu ʻa Setikia, ko hono toko fā ʻa Salumi.
+ton	¶ Pea ko e ngaahi foha ʻo Sela ko e foha ʻo Siuta, ko ʻEa ko e tamai ʻa Leka, mo Lata ko e tamai ʻa Malesa, pea mo e ngaahi faʻahinga ʻoe fale ʻokinautolu naʻe ngaohi ʻae tupenu lelei
+ton	Mo Pela ko e foha ʻo ʻAsasi, ko e foha ʻo Sema, ko e foha ʻo Soeli, ʻaia naʻe nofo ʻi ʻAloeli, ʻo aʻu atu ki Nipo mo Peali mioni.
+ton	Pea ʻi heʻene hū atu ki hono uaifi naʻe tuʻituʻia ia, mo ne fāʻeleʻi ʻae tama, pea naʻa ne ui ʻa hono hingoa ko Pelia, koeʻuhi naʻe ʻaluʻalu ʻi mala ʻa hono fale.
+ton	Ko Pelia foki, mo Sema, ʻakinaua naʻe tuʻukimuʻa ʻi he kau mātuʻa ʻoe kakai ʻo ʻAsaloni, pea naʻa na kapusi atu ʻae kakai naʻe nofo ʻi Kati:
+ton	Pea naʻe nofo ʻi Selūsalema mei he fānau ʻa Siuta, pea mei he fānau ʻa Penisimani, pea mei he fānau ʻa ʻIfalemi, pea mo Manase;
+ton	Ko kinautolu ni naʻe tuʻukimuʻa ʻi he kau mātuʻa ʻoe kakai Livai, pea naʻa nau ʻeiki hake ʻi honau ngaahi toʻutangata; pea naʻe nofo ʻakinautolu ni ʻi Selūsalema.
+ton	Pea naʻe pehē ʻe he kakai ʻo Sepusi kia Tevita, “ʻE ʻikai te ke hoko mai ki heni.” Ka neongo ia naʻe kapasia ʻe Tevita ʻae kolotau ʻo Saione, ʻa ia ko e “Kolo ʻo Tevita.”
+ton	Pea naʻe tō mai kia Tevita ha niʻihi meia Manase, ʻi heʻene omi fakataha mo e kakai Filisitia ke tauʻi ʻa Saula: ka naʻe ʻikai maʻu ʻekinautolu ʻenau tokoni: he naʻe loto ʻae houʻeiki
+ton	Pea ʻi heʻenau hoko ange ki he fale hahaʻanga uite ʻo Kitoni, naʻe ala atu ʻe Usa ʻa hono nima ke puke ki he puha; he naʻe ngaueue ia ʻi he ʻalu ʻae fanga pulu.
+ton	Pea kofaʻā ia ha puleʻanga ʻe taha ʻi māmani kuo tatau mo hoʻo kakai ʻIsileli, ʻaia naʻe ʻalu ai ʻae ʻOtua ke huhuʻi ko hono kakai ʻoʻona, ke ngaohi koe ko e hingoa lahi mo
+ton	fakamanavahē ʻia, ko e meʻa ʻi heʻene kapusi atu ʻae ngaahi puleʻanga mei he ʻao ʻo hoʻo kakai, ʻakinautolu kuo ke huhuʻi mai mei ʻIsipite?
+ton	¶ Pea ʻi he toki ʻilo ʻe he fānau ʻa ʻAmoni kuo nau fakanamukūʻi ʻakinautolu kia Tevita, naʻe ʻave ʻe Hanuni mo e fānau ʻa ʻAmoni ha taleniti siliva ʻe afe ke totongi ʻaki ha ngaahi
+ton	Pea naʻe pehē ai ʻe Tevita ki he ʻOtua, “Kuo u fai angahala ʻo lahi, koeʻuhi ko ʻeku fai ʻae meʻa ni: ka ko eni, ʻoku ou kole kiate koe, ke ke hiki atu ʻae angahala ʻa hoʻo
+ton	Ka naʻe hoko mai ʻae folofola ʻa Sihova kiate au, ʻo pehē, “Kuo lahi ʻae toto kuo ke lilingi, pea kuo ke fai ʻae ngaahi tau lahi: ʻe ʻikai te ke langa ʻe koe ha fale ki hoku huafa,
+ton	Pea naʻe tō mai ʻae vahenga kia Supimi mo Hosa ki he feituʻu lulunga, fakataha mo e matapā ko Saleketi ʻi he potu hala ʻoku hake ki ʻolunga, pea naʻe fehangaʻaki ʻae nofoʻanga leʻo ki he
+ton	Ko hono toko hongofulu ma taha ʻoe māhina, ko Penaia ko e tangata Pilatoni, ʻoe fānau ʻa ʻIfalemi: pea naʻe ʻi hono lakanga ʻoʻona ʻae toko ua mano mo e fā afe.
+ton	Pea ke foaki kia Solomone ko hoku foha ha loto haohaoa, ke ne tokanga ki hoʻo ngaahi fekau, mo hoʻo ngaahi fakamoʻoni, mo hoʻo ngaahi fono, pea ke fai ia kotoa pē, pea ke langa ʻae fale lahi
+ton	Naʻe mafola atu ʻae ngaahi kapakau ʻoe ongo selupi ni ʻi he hanga ʻe fāngofulu: pea naʻa na tuʻu ki ʻolunga ki hona vaʻe, pea naʻe fehāngaaki ki loto ʻa hona mata.
+ton	Ko ia naʻe fakataha mai ʻae kau tangata kotoa pē ʻo ʻIsileli ki he tuʻi ʻi he kātoanga naʻe fai ʻi hono fitu ʻoe māhina.
+ton	Ko ia ke ke ʻafio lelei ki he lotu ʻa hoʻo tamaioʻeiki, pea ki heʻene kole tāumaʻu, ʻE Sihova ko hoku ʻOtua, ke fakaongo ki he tangi mo e lotu ʻaia ʻoku lotu ʻaki ʻi ho ʻao ʻe hoʻo
+ton	Pea naʻe fakatapui foki ʻe Solomone ʻae potu ki loto ʻoe lotoʻā ʻaia naʻe ʻi he ʻao ʻoe fale ʻo Sihova: he naʻa ne ʻatu ʻi he potu ko ia ʻae ngaahi feilaulau tutu, mo e ngako ʻoe
+ton	ngaahi feilaulau fakamelino, he koeʻuhi naʻe ʻikai faʻa hao ʻi he feilaulauʻanga palasa ʻaia naʻe ngaohi ʻe Solomone, ʻae ngaahi feilaulau tutu, mo e ngaahi feilaulau meʻakai, pea mo e
+ton	Pea naʻe ʻikai fai kehe ʻakinautolu mo e fekau ʻae tuʻi ki he kau taulaʻeiki mo e kau Livai ʻi ha meʻa ʻe taha, pe ʻi he meʻa ki he ngaahi koloa.
+ton	Pea naʻe ngaohi ʻae siliva ʻe he tuʻi ke tatau ʻi Selūsalema mo e ngaahi maka, pea ko e ngaahi ʻakau sita naʻe hangē ia ko e ngaahi ʻakau sukamino ʻaia naʻe ʻi he ngaahi potu tokalelei,
+ton	¶ Ko ia naʻe fakamālohiʻi ia ʻe Lehopoami ʻi Selūsalema, pea pule ia: he naʻe fāngofulu taʻu mo e taʻu ʻe taha ʻae motuʻa ʻo Lehopoami ʻi heʻene kamata pule, pea naʻe pule ia ʻi he
+ton	taʻu ʻe hongofulu ma fitu ʻi Selūsalema, ko e kolo ʻaia naʻe fili ʻe Sihova mei he ngaahi faʻahinga kotoa pē ʻo ʻIsileli, ke tuku ki ai hono huafa. Pea ko e hingoa ʻo ʻene faʻē ko
+ton	pea ke pehē, ‘ʻOku pehē mai ʻae tuʻi, Fakahū ʻae siana ni ki he fale fakapōpula, pea fafanga ia ʻaki ʻae mā ʻoe mamahi mo e vai ʻoe mamahi, ʻo aʻu ki heʻeku liu mai ʻi he
+ton	Pea ko eni, vakai, ko e fānau ʻa ʻAmoni mo Moape mo e moʻunga ko Seia, ʻakinautolu naʻe ʻikai te ke tuku ʻa ʻIsileli ke nau tauʻi, ʻi heʻenau haʻu kituaʻā mei he fonua ko ʻIsipite, ka
+ton	Pea naʻe foaki kiate kinautolu ʻe heʻenau tamai ʻae ngaahi foaki lahi ʻoe siliva mo e koula, pea mo e ngaahi meʻa mahuʻinga lahi, mo e ngaahi kolotau ʻi Siuta: ka naʻa ne foaki ʻae
+ton	1 Kuo ʻosi hono teuteu ʻae ngaahi meʻa pea fakanofo ʻe Sihoiata ʻa Soasi he tuʻi. 12 Ko e tāmateʻi ʻa ʻAtalia. 16 ʻOku toe fokotuʻu Sihoiata ʻae lotu.
+ton	Pea naʻa nau fai ʻae fono ki Siuta kotoa pē mo Selūsalema, ke ʻomi kia Sihova ʻae koloa tukuhau ʻaia naʻe fekau ʻe Mōsese ko e tamaioʻeiki ʻae ʻOtua ki ʻIsileli ʻi he toafa:
+ton	Pea ko e toko mano ʻe taha naʻe moʻui naʻe puke ʻe he fānau ʻa Siuta ʻo ʻave fakapōpula, pea naʻe ʻohake ʻakinautolu ki he tumutumu ʻoe makatuʻu, ʻo lī ʻakinautolu mei he tumutumu
+ton	Pea naʻe tokonaki ʻe ʻUsaia moʻonautolu ʻi he tau kotoa pē ʻae ngaahi pā, mo e tao, mo e tatā, mo e ngaahi kofutau, mo e ngaahi kau fana, mo e ngaahi makatā.
+ton	Pea ko ia mou tokanga mai kiate au, pea mou tukuange ʻae kau pōpula, ʻaia kuo mou maʻu fakapōpula ʻi homou ngaahi kāinga: he ʻoku ʻiate kimoutolu ʻae houhau lahi ʻa Sihova.”
+ton	Pea ko eni ke ʻoua naʻa mou kia kekeva, ʻo hangē ko hoʻomou ngaahi tamai, kae tukuange ʻakimoutolu kia Sihova, pea hū ki hono fale nofoʻanga, ʻaia naʻe fakatapui ke taʻengata: pea tauhi
+ton	‌ʻO nau ʻomi totonu ki ai ʻae ngaahi meʻa foaki mo e ngaahi vāhenga meʻa ʻoe ngaahi meʻa naʻe fakatapui: pea naʻe pule ki ai ʻa Kononaia ko e tangata Livai, pea hoko mo ia ʻa Simi ko
+ton	¶ Pea naʻe fekau ʻe Sihova ʻae ʻāngelo, ʻaia naʻa ne taaʻi ʻae kau tangata toʻa mālohi kotoa pē, mo e kau taki tau mo e houʻeiki pule ʻi he ʻapitanga ʻoe tuʻi ʻo ʻAsilia. Ko ia
+ton	naʻe toe ʻalu ai ia ʻo mata mā ki hono fonua. Pea ʻi heʻene hoko ki he fale ʻo hono ʻotua naʻe tāmateʻi ia ʻaki ʻae heletā, ʻekinautolu naʻe tupu mei hono fatu ʻoʻona.
+ton	¶ Pea ko hono toe ʻoe ngāue ʻa Manase, mo ʻene lotu ki hono ʻOtua, mo e ngaahi lea ʻae kau kikite ʻaia naʻa nau lea ʻaki kiate ia ʻi he huafa ʻo Sihova ko e ʻOtua ʻo ʻIsileli, vakai,
+ton	Pea naʻe lea ia kiate kinautolu, ʻOku pehē ʻe Sihova ko e ʻOtua ʻo ʻIsileli, “Mou tala ki he tangata naʻa ne fekau ʻakimoutolu kiate au,
+ton	¶ Pea hili ʻae meʻa ni kotoa pē, pea ʻosi hono teuʻi ʻae faletapu ʻe Sosaia, naʻe ui hake ʻa Niko ko e tuʻi ʻo ʻIsipite ke tauʻi ʻa Kalikimisi ʻaia ʻoku ofi ki he ʻIufaletisi: pea
+ton	‌ʻOku pehē ʻe Kolesi ko e tuʻi ʻo Peasia, “Kuo tuku ʻe Sihova ko e ʻOtua ʻoe langi, ʻae ngaahi puleʻanga kotoa pē ʻo māmani kiate au: pea kuo ne fekau kiate au ke u langa ʻae fale
+ton	moʻona ʻi Selūsalema ʻaia ʻoku ʻi Siuta. Ko hai ia ʻiate kimoutolu kotoa pē ʻoku ʻo hono kakai? Ke ʻiate ia ʻa Sihova ko hono ʻOtua, pea tuku ke ʻalu hake ia.”
+ton	Pea naʻe tuʻu fakataha ai ʻa Sesua mo hono ngaahi foha mo hono ngaahi kāinga, mo Katimieli mo hono ngaahi foha, ko e ngaahi foha ʻo Siuta, ke fakahoko ʻae kau tangata ngāue ʻi he fale ʻoe
+ton	Pea koe ongo palōfita, ko Hakeai ko e palōfita, mo Sakalia ko e foha ʻo Ito, naʻa na lea ki he kakai Siu naʻe ʻi Siuta mo Selūsalema ʻi he huafa ʻoe ʻOtua ʻo ʻIsileli, ʻio, kiate
+ton	Pea naʻe langa ʻe he kau mātuʻa ʻoe kakai Siu, pea naʻa nau monūʻia, ko e meʻa ʻi he akonaki ʻa Hakeai ko e palōfita mo Sakalia ko e foha ʻo Ito. Pea naʻa nau langa ia ke ʻosi, ʻo
+ton	fakatatau ki he fekau ʻae ʻOtua ʻo ʻIsileli, pea fakatatau ki he fekau ʻa Kolesi, mo Talaiasi, mo ʻAtakisekisi ko e tuʻi ʻo Peasia.
+ton	Pea mo ia kotoa pē ʻoku ʻaonga ki he fale ʻo ho ʻOtua, ʻaia te ke loto ki ai ke foaki, foaki ia mei he fale koloa ʻoe tuʻi.
+ton	Pea ʻoe kau Netenimi foki, ʻaia naʻe fakanofo ʻe Tevita mo e houʻeiki ki he ngāue ʻoe kau Livai, ko e Netenimi ʻe toko uangeau ma uofulu: naʻe lau ʻakinautolu kotoa pē ʻi honau hingoa.
+ton	He te mau toe liʻaki hoʻo ngaahi fekau, pea hoko ʻo fakataha ʻakimautolu mo e kakai ʻoe ngaahi angakovi ni? Pea ʻikai te ke houhau ai kiate kimautolu ke ʻoua ke fakaʻauha ʻakimautolu, pea
+ton	¶ Pea ne u toki hoko atu ki he kau pule ʻi he tuʻa vaitafe, pea u tuku kiate kinautolu ʻae ngaahi tohi ʻoe tuʻi. Pea naʻe fekau ʻe he tuʻi ke ʻalu mo au ʻae ngaahi ʻeiki ʻoe tau mo e kau
+ton	Pea hoko mo ia naʻe langaʻi ʻe Esili ko e foha ʻo Sesua, ko e pule ʻo Misipa, ʻae konga ʻe taha naʻe hangatonu atu ki he fale ʻoe mahafutau ʻi he afenga ʻoe ʻā maka.
+ton	Ko kinautolu naʻe langa ʻi he ʻā maka, mo kinautolu naʻe haʻamo kavenga, mo kinautolu naʻe fakaheka, naʻa nau fai ʻo ngāueʻaki ʻae nima ʻe taha ʻi he ngāue, pea puke mahafutau ʻaki
+ton	Ko e kau leʻo matapā eni: ko e fānau ʻa Salumi, ko e fānau ʻa ʻAteli, ko e fānau ʻa Talimoni, ko e fānau ʻa ʻAkupi, ko e fānau ʻa Hatita, ko e fānau ʻa Sopai, ko e toko teau mā
+ton	Ko ia naʻe nofo ʻi honau ngaahi kolo ʻae kau taulaʻeiki, mo e kau Livai, mo e kau leʻo matapā, mo e kau hiva, mo e kakai niʻihi, mo e kau Netenimi, mo ʻIsileli kotoa pē: pea ʻi he hokosia
+ton	Pea naʻa ke vaeua ʻae tahi ʻi honau ʻao, ko ia naʻa nau ʻalu ai ʻi he kelekele mōmoa ʻi he loto tahi: pea naʻa ke lī honau kau fakatanga ki he loloto, ʻo hangē ha maka ki he ngaahi tahi
+ton	Pea naʻa tau fai ʻae talotalo ki he kau taulaʻeiki, mo e kau Livai, mo e kakai, ki he feilaulau ʻoe fefie, ke fetuku ia ki he fale ʻo hotau ʻOtua, ʻo fakatatau ki he ngaahi fale ʻo ʻemau
+ton	ngaahi tamai, ʻi he ngaahi kuonga kuo kotofa ʻi he taʻu tukufakaholo, ke tutu ʻi he funga ʻoe feilaulauʻanga ʻo Sihova ko hotau ʻOtua, ʻo hangē ko ia kuo tohi ʻi he fono:
+ton	Pea koeʻuhi ko e ngaahi potu nofoʻanga kakai, mo ʻenau ngaahi ngoue, naʻe nofo ai ʻae fānau niʻihi ʻa Siuta ʻi Kesa-ʻAlipa, pea ʻi he ngaahi potu kakai ʻo ia, pea ki Tiponi, pea ʻi he
+ton	Pea naʻe hoko ʻo pehē, ʻi heʻenau fanongo ki he fono, naʻa nau fakamavae mei ʻIsileli ʻae ngaahi kakai kehekehe kotoa pē.
+ton	‌ʻI he ngaahi ʻaho ko ia, ʻi heʻene nofo ʻae tuʻi ko ʻAhasivelo, ki he nofoʻa fakatuʻi ʻo hono puleʻanga, ʻaia naʻe ʻi Susani ko e kolo fakaʻeiki.
+ton	Pea ʻi he ʻilo ʻe Motekiai ʻaia kotoa pē kuo fai, naʻe haehae hono ngaahi kofu ʻe Motekiai, pea ʻai ʻae kofu tauangaʻa mo e efuefu, pea ʻalu ia kituʻa ki he loto kolo, pea tangi kalanga
+ton	¶ Pea naʻe lea ʻa Selesi ko hono uaifi, mo hono ngaahi kāinga kotoa pē kiate ia, , “Tuku ke ngaohi ʻae ʻakau ko e tautauʻanga, ko e hanga ʻe teau ʻa hono māʻolunga, pea ke lea ʻe koe
+ton	ki he tuʻi ʻapongipongi ke tautau ʻa Motekiai ki ai: pea ke toki ʻalu fakafiefia koe mo e tuʻi ki he kātoanga inu.” Pea naʻe fiemālie ʻa Hamani ʻi he meʻa ko ia pea naʻe fekau ʻe ia ke
+ton	‌ʻI hono hongofulu mā tolu ʻoe ʻaho ʻoe ko ʻAtali: pea ʻi hono hongofulu mā fā ʻoe ʻaho ʻoe māhina ko ia naʻa nau mālōlō, ʻonau ngaohi ia ko e ʻaho kātoanga kai mo fakafiefia:
+ton	1 ʻOku fakahā ʻe Elifasi ʻoku ʻikai ʻaonga ki he ʻOtua ʻae angalelei ʻae tangata. 5 ʻOku ne talakoviʻi ʻa Siope kuo hala ia. 21 ʻOku ne enginaki ia ke fakatomala kae ʻilo ʻae
+ton	Ko ia ke mou toʻo ni kiate kimoutolu ʻae fanga pulu ʻe fitu, mo e sipitangata ʻe fitu, ʻo ʻalu ki heʻeku tamaioʻeiki ko Siope, pea ʻohake ʻae feilaulau tutu koeʻuhi ko kimoutolu; pea ʻe
+ton	hūfia ʻakimoutolu ʻe heʻeku tamaioʻeiki ko Siope: he te u maʻu ia: telia naʻaku taaʻi kiate kimoutolu ʻo hangē ko hoʻomou vale, ko e meʻa ʻi he ʻikai te mou lea ʻaki kiate au ʻaia
+ton	1 ʻOku fakahā ʻe Tevita ʻene falala ki he ʻOtua, pea ne valoki hono ngaahi fili. 5 ʻOku fie tokoni ki he angalelei. 9 ʻOku taʻeʻaonga ke falala ki he ngaahi meʻa fakamaama. 11 ʻOku ʻi he
+ton	1 ʻOku enginakiʻi ʻe Tevita ke fakamālō ki he ʻOtua, 5 Ke tokanga ki heʻene ngaahi ngāue lahi, 8 Ke fakafetaʻi kiate ia ʻi heʻene ngaahi tāpuaki. 12 ʻOku fuakava ia ke ne tauhi ʻae
+ton	Pea naʻaku toki pehē ai ʻi hoku loto, “Hangē ko ia ʻoku hoko ki he vale, ko ia foki ʻoku hoko kiate au; pea ko e hā ia kuo u poto lahi hake ai?” Pea naʻaku toki pehē ʻi hoku loto,
+ton	Pea ko e tangata kotoa pē ʻaia ʻoku foaki ki ai ʻe he ʻOtua ʻae maʻumeʻa mo e koloa lahi, pea mo e mālohi ke ne kai mei ai, pea ke maʻu hono ʻinasi, pea ke fiefia ʻi heʻene ngāue; ko e
+ton	‌ʻOua naʻa lahi fau hoʻo māʻoniʻoni; pea ʻoua naʻa ke kumi ki he poto lahi fau: he ko e hā te ke fakaʻauha ai koe ʻe koe pe?
+ton	Pea naʻaku mamata ki he ngāue kotoa pē ʻae ʻOtua, ʻoku ʻikai faʻa ʻiloʻi ʻe he tangata ʻae ngāue ʻoku fai ʻi he lalo laʻā: he neongo ʻae fai feinga hono kumi ʻe he tangata, ʻe
+ton	Kapau ʻoku peku ʻae toki, pea ʻikai fakaʻalo, ʻoku totonu ke ne ʻai ʻaki ia ʻae mālohi lahi; ka ʻoku ʻaonga ʻae poto ke fakahinohino.
+ton	Pea naʻe fakahā ki he fale ʻo Tevita, ʻo pehē, ʻOku kau fakataha ʻa Silia mo ʻIfalemi. Pea naʻe ngaueue hono loto, mo e loto ʻo hono kakai, ʻo hangē ʻoku lūluuʻi ʻe he matangi ʻae
+ton	Ko ia foki, vakai, ʻoku ʻomi ʻe Sihova kiate kinautolu ʻae ngaahi vai ʻoe vaitafe, ʻoku mālohi pea lahi, ʻio, ʻae tuʻi ʻo ʻAsilia mo hono mālohi kotoa pē: pea te ne ʻalu hake ki hono
+ton	¶ Ko ia ʻoku pehē ʻe Sihova ko e ʻEiki ʻoe ngaahi kautau, “ʻE hoku kakai ʻaia ʻoku nofo ʻi Saione, ʻoua ʻe manavahē ki he tangata ʻAsilia: te ne taaʻi koe ʻaki ʻae meʻa tā, pea
+ton	Vakai, ʻoku haʻu ʻae ʻaho ʻo Sihova, ʻoku mamafa ʻi he tuʻutāmaki pea mo e houhau lahi, ke fakaʻauha ʻae fonua: pea te ne tāmateʻi ʻae kakai angahala mei ai.
+ton	‌ʻAia naʻa ne ngaohi ʻa māmani ke hangē ko ha toafa, pea ne fakaʻauha hono ngaahi kolo; ʻaia naʻe ʻikai fakaava ʻae fale ʻo ʻene kau pōpula?’”
+ton	Pea ʻe fokotuʻumaʻu ʻae nofoʻanga ʻoe tuʻi ʻi he ʻaloʻofa: pea te ne nofo ai ʻi he moʻoni ʻi he fale fehikitaki ʻo Tevita, ʻo fai ʻae fakamaau, pea kumi ki he angatonu, mo fakavave
+ton	‌ʻE tuku fakataha ia ki he manupuna ʻoe ngaahi moʻunga, pea ki he fanga manu fekai ʻoe kelekele: ko e ngaahi manupuna te nau kai ai ʻi he faʻahitaʻu mafana, pea ʻe kai ai ʻae manu fekai
+ton	Pea naʻe pehē ʻe Sihova, ʻO hangē kuo ʻeveʻeva telefua pea taʻehatopuvaʻe ʻa ʻeku tamaioʻeiki ko ʻIsaia ʻi he taʻu ʻe tolu ko e fakaʻilonga mo e meʻa fakaofo ki ʻIsipite pea ki
+ton	Pea te mou mamata ki he ngaahi ava ʻi he Kolo ʻo Tevita, koeʻuhi ʻoku lahi ia: pea te mou tānaki fakataha ʻae ngaahi vai ki he luo vai ki lalo.
+ton	He kuo ke liliu ʻae kolo ko e fokotuʻunga ʻotoʻota; ʻae kolo naʻe ai hono ʻā ko e tuʻunga fale kuo maumau: ʻae nofoʻanga fakaʻeiʻeiki ʻoe kakai muli ke lala: ʻe ʻikai ʻaupito toe
+ton	Ke hā ʻae ʻaloʻofa ki he angakovi, ka e ʻikai te ne ako ki he māʻoniʻoni: ʻi he fonua ʻoe angatonu te ne fai kākā, pea ʻe ʻikai te ne mamata ki he māfimafi ʻa Sihova.
+ton	¶ ʻI he ʻaho ko ia ʻe hoko ʻa Sihova ʻoe ngaahi kautau ko e tatā ongoongolelei, pea ko e pale fakasanisani, ki hono toe ʻo hono kakai,
+ton	‌ʻE ʻaʻahi kiate koe ʻe Sihova ʻoe ngaahi kautau ʻaki ʻae mana, pea mo e mofuike, mo e longoaʻa lahi, ʻaki ʻae matangi lahi mo e afā, pea mo e ulo ʻoe afi fakaʻauha.
+ton	Ko ia ʻoku pehē ʻe he tokotaha māʻoniʻoni ʻo ʻIsileli, Ko e meʻa ʻi hoʻomou fehiʻa ki he folofola ni, pea falala ki he fakamālohi mo e mioʻi, mo faʻaki ki ai:
+ton	Vakai telia naʻa fakalotoʻi ʻakimoutolu ʻe Hesekaia, ʻo pehē, ‘ʻE fakamoʻui ʻakitautolu ʻe Sihova.’ ʻOku ai ha ʻotua ʻoe ngaahi puleʻanga kuo ne fakamoʻui hono fonua mei he nima
+ton	‌ʻIkai kuo ke fanongo fuoloa, kuo u fai ia ʻe au; pea ʻi he ngaahi kuonga ʻi muʻa, naʻaku tuʻutuʻuni ki ai? ko eni, kuo u fakahoko ia, koeʻuhi ke ke liliu ʻae ngaahi kolo kuo teu tau, ko
+ton	¶ Pea naʻe toki haʻu ʻa ʻIsaia ko e palōfita ki he tuʻi ko Hesekaia, pea pehē kiate ia, “Ko e hā ʻae lea ʻae kau tangata ni? Pea naʻa nau haʻu mei fē kiate koe?” Pea pehē ʻe
+ton	1 ʻOku ui ʻae ʻOtua kia Kolesi koeʻuhi ko hono siasi. 5 ʻOku ne fekau ke talangofua ko e meʻa ʻi heʻene Māfimafi. 20 ʻOku ne fakamoʻoni ʻae vaʻinga ʻoe ngaahi tamapua ʻaki hono mālohi
+ton	1 Naʻe fakahā ʻe he ʻOtua ʻene ngaahi kikite ke fakaʻilo ki he kakai ʻa ʻenau angatuʻu, naʻa ne muʻaki ʻafioʻi. 9 ʻOku ne fakamoʻui ʻakinautolu koeʻuhi ko ʻene ʻafio. 12 ʻOku ne
+ton	enginaki ke nau talangofua koeʻuhi ko hono mālohi mo ʻene puleʻi. 16 ʻOka ne mamahi ʻi heʻenau fakatoupīkoi. 20 ʻOku ne fakamoʻui hono kakai mei Papilone ʻi heʻene māfimafi.
+ton	Pea te u foaki kiate kimoutolu ʻae kau tauhi ʻo hangē ko hoku loto, pea te nau fafanga ʻaki ʻakimoutolu ʻae poto mo e ʻilo.
+ton	¶ ʻA hoku fatu, ʻa hoku fatu! ʻOku ou mamahi ʻo aʻu ki hoku loto: ʻoku ueʻi hoku loto ʻiate au; ʻoku ʻikai te u faʻa fakalongo pe, koeʻuhi kuo u fanongo ki he meʻalea, kuo fanongo ʻa
+ton	Pea te u toki pule ke mou nofo ʻi he potu ni, ko e fonua naʻaku foaki ki hoʻomou ngaahi tamai, ʻo taʻengata pea taʻengata.
+ton	Pea ʻe fili ʻae mate ʻi he moʻui ʻekinautolu kotoa pē ʻoku toe ʻi he faʻahinga kovi ni, ʻakinautolu kotoa pē ʻoku toe ʻi he ngaahi potu kuo u kapusi ʻakinautolu ki ai,” ʻoku pehē
+ton	He naʻaku ako lahi ki hoʻomou ngaahi tamai, ʻi he ʻaho naʻaku ʻomi ai ʻakinautolu mei he fonua ko ʻIsipite, ʻo aʻu ki he ʻaho ni, ʻo tuʻu hengihengi hake pe ʻo ako, ʻo pehē, Mou
+ton	Pea naʻe hoko, ʻo pehē, ʻi he hili ʻae ngaahi ʻaho lahi, naʻe pehē ʻe Sihova kiate au, “Tuʻu, pea ke ʻalu ki ʻIufaletesi, pea toʻo mei ai ʻae noʻo, ʻaia naʻaku fekau ke ke
+ton	Pea ka ʻikai te mou fanongo kiate au ke fakahaohaoa ʻae ʻaho tapu, pea ʻoua naʻa fua ha kavenga, ʻo hū mo ia ki he ngaahi matapā ʻo Selūsalema ʻi he ʻaho tapu, pehē te u toki tutu ʻae
+ton	afi ki hono ngaahi matapā, pea ʻe fakaʻauha ʻaki ia ʻae ngaahi fale fakaʻeiʻeiki ʻo Selūsalema, pea ʻe ʻikai ʻaupito tāmateʻi ia.”
+ton	‌ʻOku pehē ʻe Sihova, Vakai, ʻoku ou fehiʻa ki he kau palōfita, ʻakinautolu ʻoku nau lea ʻaki honau ʻelelo, ʻo pehē, ʻOku pehē ʻe ia.
+ton	Pea te u toʻo meiate kinautolu ʻae leʻo ʻoe fiefia, pea mo e leʻo ʻoe nekeneka, ʻae leʻo ʻoe tangata taʻane, pea mo e leʻo ʻoe taʻahine, pea mo e ʻuʻulu ʻoe maka momosi, pea mo e ulo
+ton	‌ʻI he kamataʻanga ʻoe pule ʻa Sihoiakimi ko e foha ʻo Siosaia ko e tuʻi ʻo Siuta naʻe haʻu ʻae folofola ni meia Sihova, ʻo pehē,
+ton	pea fekau ʻakinautolu ke lea ki honau houʻeiki,” ʻOku pehē mai ʻa Sihova ʻoe ngaahi kautau, ko e ʻOtua ʻo ʻIsileli; “Ke mou lea pehē ki homou houʻeiki;
+ton	¶ Pea hili hono maumauʻi ʻe he palōfita ko Hanania ʻae haʻamonga mei he kia ʻoe palōfita ko Selemaia, naʻe toki hoko mai ʻae folofola ʻa Sihova ki he palōfita ko Selemaia, ʻo pehē,
+ton	‌ʻOku folofola mai ʻa Sihova ʻoe ngaahi kautau, ko e ʻOtua ʻo ʻIsileli, ʻo pehē, Koeʻuhi kuo ke ʻatu ʻae ngaahi tohi ʻi ho hingoa ʻoʻou ki he kakai kotoa pē ʻi Selūsalema; pea kia
+ton	Ka ʻe mate ʻae tangata taki taha ʻi heʻene hia ʻaʻana: ʻe maninia ʻae nifo ʻoe tangata taki taha ʻoku kai ki he kālepi mahi.”
+ton	Ko e lahi ia ʻi he fakakaukau, pea mālohi ʻi he ngāue: he ʻoku ʻi he ngaahi faianga ʻoe ngaahi fānau ʻae tangata ʻa ho fofonga: ke ʻatu taki taha kiate kinautolu ʻo hangē ko hono ngaahi
+ton	Naʻa nau haʻu ke tau mo e kau Kalitia, ka ko e meʻa ke fakapito ʻaki ʻakinautolu ʻae ʻangaʻanga ʻoe kakai, ʻakinautolu kuo u tāmateʻi ʻi heʻeku tuputāmaki mo hoku houhau, mo kinautolu
+ton	“Ka ke fanongo ki he folofola ʻa Sihova, ʻE Setikia ko e tuʻi ʻo Siuta: ʻoku pehē ʻe Sihova, kiate koe, ‘ʻE ʻikai te ke mate koe ʻi he heletā.
+ton	Pea naʻe fekau ʻe he tuʻi kia Sehuti ke ʻomi ʻae tohi tākai: pea ne ʻomi ia mei he potu fale ʻo ʻIlisama ko e tangata tohi. Pea lau ia ʻe Sehuti ʻi he telinga ʻoe tuʻi, pea ʻi he
+ton	Pea ko eni, vakai, kuo u vete mei ho nima he ʻaho ni ʻae maea ukamea fihifihi. Pea kapau ʻoku lelei kiate koe ke tā ʻo mo au ki Papilone, haʻu; pea te u fai lelei kiate koe: pea kapau ʻoku
+ton	kovi kiate koe ke tā ʻo mo au ki Papilone, tuku: vakai ʻoku ʻi ho ʻao ʻae fonua kotoa pē: pea ko e potu ʻoku lelei mo ʻaonga kiate koe ke ʻalu ki ai, ke ke ʻalu ki ai.”
+ton	Pea ko Sohanani ko e foha ʻo Kalia, mo e houʻeikitau kotoa pē, pea mo e kakai kotoa pē, naʻe ʻikai te nau talangofua ki he leʻo ʻo Sihova, ke nofo ʻi he fonua ko Siuta.
+ton	“Ko e meʻa namu kakala ʻaia kuo mou tutu ʻi he ngaahi kolo ʻo Siuta, pea ʻi he ngaahi hala ʻo Selūsalema, ʻakimoutolu, mo hoʻomou ngaahi tamai, mo homou ngaahi tuʻi, pea mo homou
+ton	mo e ngaahi tuʻi ʻo Mitia, mo hono ngaahi ʻeikitau, mo hono kau pule kotoa pē, pea mo e fonua kotoa pē ʻo honau puleʻanga.
+ton	Pea naʻa ne lea lelei kiate ia, pea naʻe hiki hake hono nofoʻanga fakaʻeiʻeiki ke māʻolunga he nofoʻanga ʻoe ngaahi tuʻi naʻe ʻi ai mo ia ʻi Papilone.
+ton	Pea naʻa nau nima ʻo hangē ko e tangata ʻi honau lalo kapakau ʻi honau potu ʻe fā; pea naʻe ʻi honau potu ʻe fā ʻae mata mo e kapakau.
+ton	Ko koe foki, “Foha ʻoe tangata, toʻo kiate koe ha makaʻumea, pea tuku ia ʻi ho ʻao, pea tohi ki ai ha fakatātā ki he kolo ko Selūsalema:
+ton	Pea te u ngaohi foki koe ke lala pea ko e manukiʻanga ʻoe ngaahi puleʻanga ʻoku takatakai ʻiate koe, ʻi he ʻao ʻokinautolu kotoa pē ʻoku ʻalu ange ʻiate koe.
+ton	Kuo hoko hono kuonga, kuo ofi ʻae ʻaho: ʻoua naʻa fiefia ʻaia ʻoku fakatau mai, pe mamahi ʻaia ʻoku fakatau atu: he kuo nofo ʻae houhau ki hono kakai kotoa pē.
+ton	Pea naʻa ne pehē kiate au, “Kuo ke mamata ʻa eni, ʻe foha ʻoe tangata? Toe tangaki hake pea te ke sio ki he ngaahi fakalielia ʻoku lahi hake ʻi he meʻa ni.”
+ton	Ko ia ke ke lea kiate kinautolu, ʻOku pehē ʻe Sihova ko e ʻOtua; ʻE ʻikai toe fakatuotuai haʻaku lea ʻe taha, ka ko e lea ʻaia kuo u lea ʻaki ʻe fai, ʻoku pehē ʻa Sihova ko e ʻOtua.”
+ton	¶ “Ko ia ke ke lea ki he fale ʻo ʻIsileli, ʻOku pehē ʻe Sihova ko e ʻOtua; Fakatomala pea tafoki mei hoʻomou ngaahi tamapua; pea tafoki homou mata mei hoʻomou ngaahi fakalielia kotoa pē.
+ton	Pea koeʻuhi ko ho fāʻeleʻi, ʻi he ʻaho naʻe fanauʻi ai koe naʻe ʻikai tā ho uho, pea naʻe ʻikai kaukau koe ʻi ha vai, ke fakamolū koe; naʻe ʻikai ngaohi ʻaki koe ha māsima, pea
+ton	Kaeʻumaʻā foki, naʻaku hiki hake hoku nima kiate kinautolu ʻi he toafa, koeʻuhi ke u ʻomi ʻakinautolu ki he fonua naʻaku foaki kiate kinautolu ʻoku fetafeaki ai ʻae huʻahuhu mo e hone,
+ton	“Foha ʻoe tangata, fakahanga ho mata ki he feituʻu tonga, pea tuku hoʻo lea ki he feituʻu tonga, pea ke kikite ki he vao ʻakau ʻoe ngoue ʻi he feituʻu tonga;
+ton	“Foha ʻoe tangata, kuo hoko ʻae fale ʻo ʻIsileli kiate au ko e ʻefinanga meʻa: kuo tatau kotoa pē ʻakinautolu mo e palasa, mo e tini, mo e ukamea, mo e pulu ʻi he loto tutuʻanga meʻa;
+ton	Pea naʻe haʻu ʻae kau Papilone kiate ia ki hono mohenga, ʻonau fakalielia ia ʻi heʻenau fai angahala, pea naʻe fakalielia ia ʻiate kinautolu, pea naʻe tafoki hono loto meiate kinautolu.
+ton	He naʻe hili ʻae tāmate ʻenau fānau ki hona ngaahi tamapua, pea na omi foki ʻi he ʻaho pe ko ia ki hoku fale tapu ke fakalieliaʻi ia; pea, vakai, kuo pehē pe ʻena fai ʻi he lotolotonga ʻo
+ton	“Lea ki he fale ʻo ʻIsileli, ʻOku pehē ʻe Sihova ko e ʻOtua; Vakai te u fakalieliaʻi ʻa hoku fale tapu, ʻaia ko homou mālohiʻanga, ʻaia ʻoku holi ki ai ho mata, pea mamae ki ai ho
+ton	Ko e kau fakatau ʻo Sipa mo Laama, ko hoʻo kau fakatau ʻakinautolu: naʻa nau fakatau ʻiate koe ʻae ngaahi ʻakau namu kakala mahuʻinga mo e ngaahi maka koloa, pea mo e koula.
+ton	Pea ʻe ʻilo ʻe he kakai kotoa pē ʻo ʻIsipite ko au ko Sihova, koeʻuhi kuo nau tatau pe mo e vaʻa kaho ki he fale ʻo ʻIsileli.
+ton	Ko ʻena ʻa ʻItomi, mo hono ngaahi tuʻi, mo hono houʻeiki, ko kinautolu mo ʻenau mālohi kuo fakatokoto fakataha mo kinautolu kuo tāmateʻi ʻaki ʻae heletā: te nau tokoto fakataha mo e kau
+ton	Ke ke lea ʻo pehē kiate kinautolu, ʻOku pehē ʻe Sihova ko e ʻOtua; Ko au eni, ʻoku ou moʻui, pea ko e moʻoni ʻe tō hifo ʻi he heletā, ʻakinautolu ʻoku ʻi he ngaahi potu lala, pea mo
+ton	ia ʻoku ʻi he ʻataʻatā ʻoe ngoueʻanga, te u foaki ia ko e meʻakai ki he fanga manu, pea ko kinautolu ʻe ʻi he kolo tau, pe ʻi he ngaahi ʻanaʻi maka te nau mate ʻi he mahaki fakaʻauha.
+ton	Pea ko au Sihova, te u hoko ko honau ʻOtua; pea ko ʻeku tamaioʻeiki ko Tevita ko e ʻeiki ʻiate kinautolu; ko au Sihova, kuo u lea ki ai.
+ton	Ko ia ʻoku pehē ai ʻe Sihova ko e ʻOtua, kuo u hiki hake hoku nima, ko e moʻoni ʻe fua pe ʻenau mā ʻe he hiteni, ʻoku ofi kiate kimoutolu.
+ton	‌ʻO hangē ko e fanga sipi māʻoniʻoni, ʻae fanga sipi ʻi Selūsalema ʻi he ngaahi kātoanga māʻoniʻoni ʻi ai; ʻe pehē ʻae fakapito ʻaki ʻae kakai ʻae ngaahi kolo ne liʻaki: pea te
+ton	¶ ʻOku pehē ʻe Sihova ko e ʻOtua, “Vakai kuo hokosia ia, pea kuo ʻosi hono fai; ko e ʻaho eni ʻaia naʻaku folofola ki ai.
+ton	Naʻa ne fua foki ʻae fale hala ʻoe matapā, ko e kiupite ʻe valu; pea ko hono pou ʻo ia, ko e kiupite ʻe ua; pea naʻe tuʻu ki loto ʻae fale hala ʻoe matapā.
+ton	Pea ʻi hono potu kituʻa, ʻi he potu ʻoku ʻalu ai ha taha ki he hūʻanga ʻoe matapā ki he tokelau, naʻe ʻi ai ʻae palepale ʻe ua; pea ʻi he potu ʻe taha ʻi he fale hala ʻoe matapā,
+ton	He kuo mou ʻomi ʻae kakai muli, ʻae kau taʻekamu ʻi loto, pea taʻekamu fakakakano ke nau ʻi hoku potu toputapu ke nau fakalieliaʻi ia, ʻio, ʻa hoku fale, ʻi hoʻomou ʻatu ʻa ʻeku meʻa,
+ton	¶ Pea te mou vaheʻi ʻae tuʻunga ʻoe kolo, ko hono māukupu ko e nima afe, pea ko hono lōloa ko e ua mano ma nima afe, ʻi heʻene hangatonu mai ki he vahe ʻoe potu tapu: pea ʻe ʻoe fale
+ton	Pea ʻi he ngaahi kātoanga mo e ngaahi fakataha fakatoputapu ko e feilaulau ʻoe meʻakai, ko e efa ʻe taha ki he pulu ʻe taha, mo e efa ʻe taha ki he sipitangata, pea ko e meʻa ki he fanga lami
+ton	Pea ko hono ngataʻanga mei tahi, ko Hasaenani, ʻi he ngataʻanga ʻo Tamasikusi, mo hono potu tokelau, ʻo fai atu ki he tokelau, pea mo e ngataʻanga ʻo Hamati. Pea ko hono potu tokelau ia.
+ton	Pea naʻe lea ʻae tuʻi mo kinautolu; pea ʻiate kinautolu kotoa pē, naʻe ʻikai ke ʻilo ha niʻihi ʻoku tatau mo Taniela, mo Hanania, mo Misaeli, mo ʻAsalia: ko ia naʻe tuʻu ʻakinautolu ʻi
+ton	Pea naʻe ngaohi ʻa Taniela ʻe he tuʻi, ko e tangata lahi, pea ne foaki kiate ia ʻae ngaahi meʻa lahi kehekehe, pea ne fokotuʻu ia ko e pule ki he potu kotoa pē ʻo Papilone, pea ko e ʻuluaki
+ton	Ko ia ʻoku ou fokotuʻu ʻae fono, ʻilonga ha kakai, pe ha puleʻanga, pe ha lea, ʻoku lea kovi ki he ʻOtua ʻo Seteleki, mo Mesake, mo ʻApeteniko, ʻe tuʻutuʻu fakaikiiki ʻakinautolu, pea
+ton	‌ʻOku ai ʻae tangata ʻi ho puleʻanga, ʻaia ʻoku ʻiate ia ʻae ʻatamai ʻoe ngaahi ʻotua māʻoniʻoni, pea ʻi he ngaahi ʻaho ʻo hoʻo tamai, naʻe ʻilo ʻiate ia ʻae maama, mo e
+ton	ʻilo, mo e poto, ʻo hangē ko e poto ʻoe ngaahi ʻotua; ʻaia naʻe fakanofo ʻe he tuʻi ko Nepukanesa ko hoʻo tamai, ʻoku ou pehē, ʻae tuʻi ko hoʻo tamai, ko e pule ʻoe kau fai meʻa mana
+ton	Ko e ʻuluaki, naʻe hangē ha laione, pea naʻe ʻiate ia ʻae kapakau ʻoe ʻikale: pea ne u vakai, mo ʻene fusi ʻa hono ongo kapakau, pea naʻe hiki hake ia mei he kelekele, pea naʻe fokotuʻu
+ton	1 ʻOku fakakaukau ʻa Taniela ki he kuonga ʻoe pōpula. 3 ʻOku ne vete ʻae ngaahi angahala. 16 ʻOku ne kole ke toe lelei ʻa Selūsalema. 20 ʻOku fakahā ʻe Kepeleli kiate ia ʻae uike ʻe
+ton	‌ʻI hono tolu ʻoe taʻu ʻo Kolesi ko e tuʻi ʻo Peasia, naʻe ai ha meʻa naʻe fakahā kia Taniela, ʻaia naʻe hingoa ko Pelitisasa; pea naʻe moʻoni ʻae meʻa, ka naʻe fuoloa ʻae kuonga
+ton	¶ “Pea ʻi he kuonga ʻamui ʻe fakatuʻotuʻa ʻae tuʻi ʻoe potu tonga kiate ia: pea ʻe ʻoho kiate ia ʻae tuʻi ʻoe potu tokelau ʻo hangē ko e ʻahiohio, mo e ngaahi saliote, mo e kau tau
+ton	Pea ʻe toki tānaki fakataha ʻae fānau ʻa Siuta mo e fānau ʻa ʻIsileli, pea ʻe tuʻutuʻuni ha ʻulu pe taha moʻonautolu, pea te nau haʻu mei he fonua: koeʻuhi ʻe lahi ʻae ʻaho ʻo
+ton	¶ Pea naʻe tali ʻe ʻAmosi, ʻo ne pehē kia ʻAmasia, “Naʻe ʻikai ko e palōfita au, pe ko e foha ʻo ha palōfita; ko e tangata tauhimanu au, pea ko e tānaki ʻoe fua ʻoe sukamino:
+ton	‌ʻE mate ʻi he heletā ʻae kau angahala kotoa pē ʻa hoku kakai, ʻoku lea pehē, ‘ʻE ʻikai moʻua pe taʻofi ʻakitautolu ʻe he kovi.’
+ton	He ʻoku ofi ʻae ʻaho ʻo Sihova ki he kakai hiteni; ʻo hangē ko ia kuo ke fai ʻe fai pehē kiate koe: ʻe foki mai hoʻo totongi ki ho ʻulu ʻoʻou.
+ton	¶ Pea naʻe ʻafio ʻe he ʻOtua ki heʻenau ngāue, kuo nau tafoki mei honau hala kovi: pea naʻe liliu ʻae ʻOtua mei he kovi ʻaia naʻa ne pehē te ne fakahoko kiate kinautolu; pea naʻe ʻikai
+ton	Pea naʻe folofola ʻa Sihova kiate au, ʻo pehē, “Tohi ʻae meʻa hā mai, pea fai ke ʻilongofua ia ʻi he ngaahi palepale, koeʻuhi ke faʻa lele ʻe ia ʻoku ne lau ia.
+ton	Ke ke fakalongo pē ʻi he ʻao ʻoe ʻEiki ko e ʻOtua: he ʻoku ofi ʻae ʻaho ʻo Sihova: he kuo teuteu ʻe Sihova ʻae feilaulau, kuo ne tala ki heʻene kakai.
+ton	Ko hono houʻeiki ʻi ai ko e fanga laione ngungulu; ko ʻene kau fakamaau ko e fanga ulofi ʻoe efiafi; ʻoku nau tatali ke nau kai pongipongi ʻae ngaahi hui.
+ton	¶ Pea naʻe ueʻi ʻe Sihova ʻae laumālie ʻo Selupepeli ko e foha ʻo Sialiteli, ko e pule ʻo Siuta, mo e laumālie ʻo Siosiua, ko e foha ʻo Sosataki, ko e taulaʻeiki lahi mo e laumālie he
+ton	¶ Pea naʻe toki ʻalu atu ʻae ʻāngelo ʻaia naʻa ma talanoa mo au, ʻo ne pehē kiate au, “Hanga hake eni ho mata, pea ke sio pe ko e hā ʻae meʻa ni ʻoku ʻalu atu.”
+ton	1 ʻOku maluʻi ʻe he ʻOtua ʻa hono siasi. 9 ʻOku enginakiʻi ʻa Saione ke ne fiefia koeʻuhi ko e hāʻele mai ʻa Kalaisi, mo hono puleʻanga melino. 12 ʻOku fakahā ʻe he ʻOtua ʻae ikuna
+ton	1 Ko e matavai ki he fakamaʻa ʻa Selūsalema mei he tauhi tamapua, mo e kikite loi. 7 Ko e pekia ʻa Kalaisi, pea mo e ʻahiʻahiʻi ʻo hono tolu ʻoe vahe ʻanautolu.
+ton	“Naʻe fai ʻeku fuakava mo ia, ko e meʻa ki he moʻui mo e melino; pea naʻaku ʻatu ia ki ai, koeʻuhi ko ʻene manavahē, ʻaia naʻa ne manavahē ai kiate au, pea manavahē ki hoku huafa.
+ton	Pea te mou toki liliu mai, pea ʻilo hono fai kehekehe ʻae māʻoniʻoni mo e angahala, mo hono fai kehekehe, ʻaia ʻoku ngāue ki he ʻOtua, mo ia ʻoku ʻikai ke ngāue ki ai.
+ton	Ka naʻe lea ia, ʻo pehēange, “Kuo tohi, ‘ʻE ʻikai moʻui ʻae tangata ʻi he mā pe, ka ʻi he folofola kotoa pē ʻoku haʻu mei he ʻOtua.’”
+ton	“Ko ia ʻoua naʻa mou tatau mo kinautolu: he ʻoku ʻilo ʻe hoʻomou Tamai, ʻi he teʻeki ai te mou kole kiate ia, ʻae ngaahi meʻa ʻoku mou masiva ai.
+ton	Pea ʻe fēfē haʻo faʻa pehē ki ho kāinga, ‘Tuku ke u toʻoa mai ʻae malamalaʻi ʻakau mei ho mata:’ kae vakai, ʻae fuʻu ʻakau ʻi ho mata ʻoʻou?
+ton	Pea talu mei he ngaahi ʻaho ʻo Sione ko e Papitaiso ʻo aʻu ki he ʻaho ni, ʻoku fai mālohi ki he puleʻanga ʻoe langi, pea ʻoku lavaʻi fakamālohi ia ʻe he kau mālohi.
+ton	Pea mamahi ai ʻae tuʻi: ka koeʻuhi ko ʻene fuakava, mo kinautolu naʻa nau nonofo mo ia ʻi he kai, naʻa ne fekau ke ʻange ia .
+ton	Ka naʻe lea ia, ʻo pehēange kiate kinautolu, “Ko e hā ʻoku mou liʻaki ai foki ʻae fekau ʻae ʻOtua ʻi hoʻomou talatupuʻa?
+ton	Ko ia naʻe ofo lahi ai ʻae kakai, ʻi heʻenau mamata kuo fakalea ʻae noa, pea fakahaohaoa ʻae lavea, pea fakaʻeveʻeva ʻae pipiki, pea fakaʻā ʻae kui: pea nau fakamālō ki he ʻOtua ʻo
+ton	¶ Pea ʻi heʻenau hoko ki Kapaneume, naʻe haʻu kia Pita ʻae kau tānaki tukuhau, ʻo pehē, “ʻOku ʻikai tukuhau ʻa homou ʻEiki?”
+ton	Ka naʻe leaange ʻa Sisu, ʻo pehē, “ʻOku ʻikai te mou ʻilo ʻaia ʻoku mou kole. ʻOku mou faʻa fai ke inu ʻi he ipu te u inu ai, pea ke papitaiso ʻi he papitaiso ko ia te u papitaiso
+ton	Pea kuo mamata ʻae kau taulaʻeiki lahi mo e kau tangata tohi ki he ngaahi meʻa mana naʻa ne fai, mo e kalanga ʻae tamaiki ʻi he falelotu lahi, ʻo pehē, “Hosana ki he foha ʻo Tevita;”
+ton	He ʻoku ou tala atu kiate kimoutolu, Ngata mei heni, ʻe ʻikai te mou mamata kiate au, kaeʻoua ke mou pehē, ‘ʻOku monūʻia ia ʻoku haʻu ʻi he huafa ʻoe ʻEiki.’”
+ton	Pea ʻe toki hā mai ʻae fakaʻilonga ʻoe Foha ʻoe tangata ʻi he langi: pea ʻe toki tangi ʻae ngaahi faʻahinga kotoa pē ʻo māmani, pea te nau mamata ki he Foha ʻoe tangata ʻoku haʻu ʻi
+ton	Ka naʻe lea ʻae poto, ʻo pehēange, ‘Ka koeʻuhi naʻa siʻi ia kiate kimautolu mo kimoutolu: ka mou ʻalu kiate kinautolu ʻoku fakatau, ʻo fakatau maʻamoutolu.’
+ton	Pea ʻe lea ʻae Tuʻi, ʻo pehēange kiate kinautolu, ‘Ko ʻeku tala moʻoni atu kiate kimoutolu, Ko e meʻa ʻi hoʻomou fai ia ki ha taha ʻoku kihiʻi siʻi hifo ʻi hoku kāinga ni, ko
+ton	‌ʻOku ʻalu ʻae Foha ʻoe tangata ʻo hangē ko ia kuo tohi kiate ia: kae malaʻia ʻae tangata ko ia ʻaia ʻoku lavakiʻi ai ʻae Foha ʻoe tangata! Naʻe lelei ki he tangata ko ia ʻoka ne
+ton	‌ʻI he feituʻu pō ko ia naʻe lea ai ʻa Sisu ki he kakai lahi, “ʻOku mou haʻu mo e ngaahi heletā mo e ʻakau ke puke au, ʻo hangē ko ha kaihaʻa? Naʻaku nofo mo kimoutolu ʻo ako ʻi he
+ton	Pea kuo hili ʻae Sāpate, pea kamata hoko ʻae ʻuluaki ʻoe uike, mo ʻene omi ʻa Mele Makitaline, mo e Mele ʻe taha, ke vakai ki he fonualoto.
+ton	Pea naʻa ne malanga, ʻo pehē, “ʻOku muimui ʻiate au ʻae tokotaha ʻoku lahi kiate au, ko e nonoʻo ʻoe topuvaʻe ʻoʻona ʻoku ʻikai taau mo au ke u punou hifo ʻo vevete.
+ton	Pea pehē ʻe ia kiate kinautolu, “Ke tau ō ki he ngaahi potu kakai ʻoku ofi mai, koeʻuhi ke u malanga ai foki: he ko ia naʻaku haʻu ai.”
+ton	Pea naʻe ʻalu ia ʻi he ngaahi ngoue uite ʻi he ʻaho Sāpate; pea ʻi heʻenau ʻalu, naʻe kamata toli ʻe heʻene kau ākonga ʻae fua ʻoe uite.
+ton	Pea ko kinautolu eni kuo tūtuuʻi ki he kelekele lelei; ʻoku nau fanongo ki he folofola, pea maʻu , pea tupu ai ʻae fua, ko e taki tolungofulu ʻae niʻihi, pea taki onongofulu ʻae niʻihi, pea
+ton	Ka naʻa nau kakata manuki kiate ia. Pea kuo fekau ʻe ia ke nau ʻalu kotoa pē kituʻa, pea ne ʻave ʻae tamai mo e faʻē ʻae taʻahine, mo kinautolu naʻe ʻiate ia, pea nau hū ki he potu
+ton	Pea ʻi heʻenau mamata ki he niʻihi ʻi heʻene kau ākonga ʻoku nau kai mā ʻi he nima ʻuli, ko e pehē, ko e taʻefanofano, naʻa nau hanu ai.
+ton	Pea puke ʻe ia ʻae nima ʻoe tangata kui, ʻo tataki ia kituʻa mei he potu kakai; pea kuo ne ʻaʻanu ki hono mata, mo ʻai hono nima kiate ia, pea ne fehuʻi kiate ia, pe ʻoku ne mamata ki ha
+ton	Pea fua lea ia kiate kinautolu, ʻi he ngaahi fakatātā, ʻo pehē, “Naʻe tō ʻe he tangata ʻae ngoue vaine, pea ne takatakai ʻaki ʻae ʻā keli ʻae potu tataʻoʻanga uaine, pea langa ʻae
+ton	Pea pehēange ʻe Sisu kiate ia, “Ko e lahiʻi he ngaahi fekau kotoa pē, ‘Fanongo, ʻe ʻIsileli; Ko Sihova ko hotau ʻOtua ko Sihova ʻoku taha pe:
+ton	Pea ʻe lavakiʻi ʻe he tokotaha ʻa tokoua ke mate, mo e tamai ʻae foha; pea ʻe tuʻu hake ʻae fānau ki he mātuʻa, mo pule ke tāmateʻi ʻakinautolu.
+ton	Pea pehē ʻe ia, “ʻApā, Tamai, ʻoku faʻa fai ʻe koe ʻae meʻa kotoa pē; ke ke ʻave ʻae ipu ni ʻiate au: kaeʻoua naʻaku faʻiteliha au, ka ko koe pe.”
+ton	Pea ʻi heʻene mamata kia Pita ʻoku ne mumū, naʻa ne sio kiate ia, mo ne pehē, “Ta ko koe foki naʻa ke ʻia Sisu ʻo Nāsaleti.”
+ton	Pea naʻa nau hū leva kituʻa, ʻo feholaki mei he fonualoto; he naʻa nau tetetete mo ilifia: pea ʻikai te nau lea siʻi ki ha taha; he naʻa nau manavahē.
+ton	Pea pehē ʻe Sakalaia ki he ʻāngelo, “Te u ʻilo ʻi he hā ʻae meʻa ni? He ko e tangata motuʻa au, pea kuo lahi ʻae taʻu ʻo hoku uaifi.”
+ton	‌ʻOku ʻi hono nima ʻa hono fohe, pea te ne fakamaʻa ʻaupito hono hahaʻanga, pea ʻe ia ʻae kafukafu ʻaki ʻae afi taʻemate.”
+ton	Pea ne ʻomi ia ki Selūsalema, ʻo ne tuku ia ki he tuʻa falelotu lahi, pea pehē kiate ia, “Kapau ko e ʻAlo koe ʻoe ʻOtua, fakatō koe ʻi heni ki lalo:
+ton	¶ Pea vakai, naʻe ʻomi ʻe he kau tangata ʻae tangata ʻi mohenga kuo pukea ʻi he mahaki tete: pea naʻa nau feinga pe fēfeeʻi hono lava mai ki loto, ke tuku ʻi hono ʻao.
+ton	Pea toki pehē atu ʻe Sisu kiate kinautolu, “Te u fehuʻi kiate kimoutolu ki he meʻa ʻe taha; Ko e hā ʻoku ngofua ke fai ʻi he ʻaho Sāpate, ko e lelei pe ko e kovi! Ko e fakamoʻui pe ko e
+ton	Kuo haʻu ʻae Foha ʻoe tangata ʻo kai mo inu; ka mou pehē, ‘Vakai, ko e tangata faʻa kai, mo faʻa inu uaine, ko e kāinga ʻoe kau tānaki tukuhau mo e angahala!’
+ton	Ka ko ia ʻoku ʻi he kelekele moʻui, ko kinautolu eni ʻoku nau fanongo ki he folofola, ʻo maʻu ki he loto totonu mo lelei, pea fakatupu ʻae fua ʻi he fakakukafi.
+ton	Pea pehē ʻe ia kiate kinautolu. “Ka ʻoku pehē ʻekimoutolu ko hai au?” Pea lea ʻa Pita, ʻo pehēange, “Koe Kalaisi koe ʻoe ʻOtua.”
+ton	Pea pehē, ʻi he ofi ʻae ngaahi ʻaho ke maʻu hake ai ia ki ʻolunga, naʻa ne fakahangatonu hono fofonga ke ʻalu ki Selūsalema,
+ton	Vakai, ʻoku ou foaki ʻae mālohi kiate kimoutolu ke malaki hifo ʻae ngaahi ngata, mo e sikopio, pea mo e mālohi kotoa pē ʻoe fili: pea ʻe ʻikai ʻaupito ha meʻa ʻe lavea ai ʻakimoutolu.
+ton	‌ʻE tuʻu hake ʻae tuʻi-fefine ʻoe feituʻu tonga ʻi he fakamaau mo e kakai ʻoe toʻutangata ni, ʻo fakahalaʻia ia; he naʻe haʻu ia mei he potu mamaʻo ʻo māmani ke fanongo ki he poto
+ton	Ka ko e ngaahi tuʻoni louʻulu ʻo homou ʻulu kuo lau kotoa pē. Ko ia ʻoua ʻe manavahē: ʻoku mou mahuʻinga hake ʻi he fanga kihiʻi manu lahi.
+ton	Pea kapau ʻe haʻu ia ʻi hono ua ʻoe leʻo, pe haʻu ʻi hono tolu ʻoe leʻo, pea ne ʻilo ʻoku pehē pe, ʻe monūʻia ʻae kau tamaioʻeiki ko ia.
+ton	‌ʻOku ʻikai ʻaonga ia ki he kelekele, pe ki he tuʻunga ʻotoʻota; ka ʻoku lī ia kituʻa. Ko ia ʻoku ne telinga ongo, ke ongoʻi ia.”
+ton	Ka kuo haʻu leva ho foha ko eni, ʻaia naʻe maumauʻi hoʻo koloa mo e kau faʻa feʻauaki, pea ke tāmateʻi maʻana ʻae ʻuhiki pulu sino.’
+ton	Naʻa nau kai, mo inu, naʻa nau mali uaifi, pea foaki ke mali, ʻo aʻu ki he ʻaho naʻe hū ai ʻa Noa ki he vaka, pea ʻoho mai ʻae vai, ʻo fakaʻauha ʻakinautolu kotoa pē.
+ton	‌ʻOku ke ʻilo ʻae ngaahi fekau, ‘ʻOua naʻa ke tono fefine,’ ‘ʻOua naʻa ke fakapō,’ ‘ʻOua naʻa ke kaihaʻa,’ ‘ʻOua naʻa ke fakamoʻoni loi,’ ‘Fakaʻapaʻapa ki hoʻo
+ton	‌ʻO pehē, “‘ʻOku monūʻia ʻae Tuʻi ʻoku hāʻele mai ʻi he huafa ʻo Sihova:’ Ke fiemālie ʻi he langi, pea fakamālō fungani lahi ʻi ʻolunga.”
+ton	“Vakai ki he kau tangata tohi, ʻakinautolu ʻoku nau manako ke ʻalu mo e kofu fakatōtōlofa, mo nau leleiʻia ʻi he fetapa ʻi he ngaahi potu fakatau, mo e nofoʻanga māʻolunga ʻi he ngaahi
+ton	Pea pehē ʻe Sisu ki he kau taulaʻeiki lahi, mo e kau pule ʻoe falelotu lahi, mo e kau mātuʻa, naʻe haʻu kiate ia, “Kuo mou omi mo e ngaahi heletā, mo e ngaahi ʻakau, ʻo hangē ki ha
+ton	Pea taukaea ia ʻe Helota, mo ʻene kautau, mo nau manukiʻi, pea nau ʻai ʻae kofu ngingila kiate ia, ʻo toe fekau ia kia Pailato.
+ton	Pea ke malangaʻaki ʻae fakatomala, mo e fakamolemole ʻoe angahala ʻi hono hingoa, ʻi he puleʻanga kotoa pē, ʻo fuofua fai ʻi Selūsalema.
+ton	Pea talaange ʻe Sisu kiate kinautolu, “Ko ʻeku meʻakai ko e fai ʻae loto ʻo ia naʻa ne fekau au, pea fakaʻosi ʻene ngāue.
+ton	¶ Ko ia naʻe pehē ai ʻae kakai Siu kiate ia kuo fakamoʻui, “Ko e ʻaho Sāpate eni: ʻoku ʻikai ngofua ke ke fua ho mohenga.”
+ton	Pea ʻi he mamata ʻae kakai ʻoku ʻikai ʻi ai ʻa Sisu, pe ko ʻene kau ākonga, naʻa nau heka vaka, pea haʻu ki Kapaneume, ʻo kumi ʻa Sisu.
+ton	¶ Pea haʻu ai ʻae kau tangata fekau ki he kau taulaʻeiki lahi mo e kau Fālesi; pea nau pehē kiate kinautolu, “Ko e hā ʻoku ʻikai ai te mou ʻomi ia?”
+ton	Pea pehē ai ʻae kakai Siu, “ʻE tāmateʻi ʻe ia ia? He ʻoku ne pehē, ‘Ko e potu ʻoku ou ʻalu ki ai, ʻe ʻikai te mou hokosia.’”
+ton	Pea naʻa nau toe ui ʻae tangata naʻe kui, ʻonau pehē kiate ia, “Tuku ki he ʻOtua ʻae fakamālō: ʻoku mau ʻilo ko e angahala ʻae tangata ni.”
+ton	Pea kuo ʻalu ange ʻa Mele ki he potu ʻoku ʻi ai ʻa Sisu, ʻo ne mamata ki ai, pea tōmapeʻe ia ki hono vaʻe, ʻo ne pehē kiate ia, “ʻEiki, ka ne ke ʻi heni, pehē, ne ʻikai mate hoku
+ton	‌ʻI hoʻomou kei maʻu ʻae maama, tui ki he maama, koeʻuhi ke mou hoko ko e fānau ʻae maama.” Naʻe lea ʻaki ʻe Sisu ʻae ngaahi meʻa ni, pea ʻalu, ʻo ne fufū ia ʻiate kinautolu.
+ton	Pea talaange ʻe Sisu kiate ia, “Ko ia kuo kaukau, ʻoku ʻikai ʻaonga ke fufulu ka ko hono vaʻe , he ʻoku maʻa kotoa pē ia: pea ʻoku maʻa ʻakimoutolu, kae ʻikai kotoa pē.”
+ton	‌ʻI he fale ʻo ʻeku Tamai ʻoku ai ʻae ngaahi nofoʻanga ʻoku lahi: ka ne ʻikai, pehē kuo u tala ia kiate kimoutolu. ʻOku ou ʻalu ke teuteu ha potu moʻomoutolu.
+ton	Ka kuo u tala ʻae ngaahi meʻa ni kiate kimoutolu, koeʻuhi ʻoka hoko ʻae kuonga, ke mou manatu naʻaku tala ia kiate kimoutolu. “Pea naʻe ʻikai te u tala ʻae ngaahi meʻa ni kiate kimoutolu
+ton	Naʻe lea ʻaki ʻe Sisu ʻae ngaahi lea ni, ʻo hanga hake hono fofonga ki he langi, ʻo ne pehē, “ʻE Tamai, kuo hokosia ʻae ʻaho; fakaongoongolelei ho ʻAlo, koeʻuhi ke fakaongoongolelei koe
+ton	Pea nau talaange kiate ia, “Ko Sisu ʻo Nāsaleti.” Pea pehē ʻe Sisu kiate kinautolu, “Ko au ia.” Pea naʻe tuʻu foki mo kinautolu ʻa Siutasi, ʻaia naʻa ne lavakiʻi ia.
+ton	Pea pehē ʻe Sisu, “ʻOku ʻikai ʻo māmani hoku puleʻanga; ka ne ʻo māmani hoku puleʻanga, pehē, ʻe tau hoku kakai, ke ʻoua naʻa ʻatu au ki he kakai Siu: ka ko eni, ʻoku ʻikai mei
+ton	¶ Pea ʻi he ngaahi ʻaho ko ia, naʻe tuʻu hake ʻa Pita ʻi he ʻao ʻoe kau ākonga (koe lau fakataha ʻoe kakai ko e toko teau mo e toko uofulu,) ʻo ne pehē,
+ton	Pea te u fakahā ʻae ngaahi meʻa fakaofo ʻi ʻolunga ʻi he langi, mo e ngaahi fakaʻilonga ki lalo ʻi māmani; ko e toto mo e afi, mo e ʻahu ʻoe afi;
+ton	Pea kuo ʻomi ʻakinaua ki honau ʻao, naʻa nau fehuʻi, ʻo , “Ko e mālohi fē, mo e hingoa ʻo hai, kuo mo fai ai ʻae meʻa ni?”
+ton	1 Ko e mate ʻa ʻAnanaia mo Sāfaila koeʻuhi ko ʻena fai kākā. 12 Ko e fai ʻae meʻa mana lahi ʻe he kau ʻaposetolo, 14 ʻOku tupu ʻo lahi ai ʻae tui: 17 ʻOku toe fakahū ki he fale
+ton	fakapōpula ʻae kau ʻaposetolo, 19 Ka ʻoku fakamoʻui ʻakinautolu ʻe ha ʻāngelo, mo ne fekau ke nau malanga fakahā ki he kakai kotoa pē: 21 Pea kuo hili ʻenau malanga ʻi he falelotu lahi,
+ton	pea mo e ʻao ʻoe kau fakamaau, 33 Naʻa nau tuʻutāmaki ki he tāmateʻi, ka nau moʻui ʻi he lea ʻa Kāmelieli, ko e fakamaau lahi ʻi he kakai Siu. 40 Ko honau tautea mo nau fakamālō ai ki
+ton	Pea kuo hakeakiʻi ia ʻe he ʻOtua ʻaki hono nima toʻomataʻu ko e ʻEiki mo e Fakamoʻui, ke foaki ʻae fakatomala ki ʻIsileli, mo e fakamolemole ʻoe angahala.
+ton	Kuo u mamata, kuo u mamata, ki he mamahi, ʻa hoku kakai ʻi ʻIsipite, pea kuo u fanongo ki heʻenau toʻe, pea kuo u ʻalu hifo ke fakamoʻui ʻakinautolu. Pea ke haʻu, te u fekau koe ki ʻIsipite.
+ton	Pea ʻoku fakamoʻoni kiate ia ʻae kau palōfita kotoa pē, ko ia fulipē ʻe tui kiate ia, ʻe maʻu ʻae fakamolemole ʻoe angahala ʻi hono huafa.”
+ton	Pea naʻe nofo ʻi Lisita ʻae tangata ʻe taha, naʻe veʻe mate, ko e pipiki ia mei he manāva ʻo ʻene faʻē, kuo teʻeki ʻaupito ke ʻeveʻeva:
+ton	Pea ko eni, ko e hā ʻoku mou ʻahiʻahi ai ki he ʻOtua, ke ʻai ki he kia ʻoe kau ākonga ʻae haʻamo, ʻaia naʻe ʻikai ke faʻa kātakiʻi ʻe heʻetau mātuʻa pē ko kitautolu?
+ton	Pea ʻi he ʻuluaki ʻaho ʻoe uike, naʻe kātoa ai ʻae kau ākonga ke tofitofi mā, pea malanga ʻa Paula kiate kinautolu, kuo ʻamanaki ʻalu ia ʻi he ʻapongipongi; pea malanga ia ʻo aʻu ki
+ton	‌ʻO lahi taha pe ʻenau mamahi koeʻuhi ko ʻene lea naʻe pehē, ʻe ʻikai te nau toe mamata ki hono mata. Pea naʻa nau ō mo ia ki he vaka.
+ton	Pea naʻe maveuveu ʻae kolo kotoa pē, ko e feleleʻi ʻae kakai ʻo fakataha: pea naʻa nau puke ʻa Paula, mo toho ia mei he falelotu lahi: pea tāpuni leva ʻae ngaahi matapā.
+ton	Pea ʻi he lilingi ʻoe toto ʻo hoʻo fakamoʻoni ko Setiveni, naʻaku tuʻu ʻi ai foki, pea u loto ki hono tāmateʻi, pea ne u tauhi ʻae kofu ʻokinautolu naʻa nau tāmateʻi ia.’
+ton	Pea ne pehē, “Kuo alea ʻae kakai Siu ke kole kiate koe ke ke ʻohifo ʻa Paula ʻapongipongi ki he kau fakamaau, ʻo hangē ko haʻanau fie fehuʻi fakapapau ʻi ha meʻa kiate ia.
+ton	Pea ʻoku ou maʻu ʻae ʻamanaki lelei ki he ʻOtua, ʻaia ʻoku maʻu foki ʻekinautolu, ʻe ai ha toetuʻu ʻoe pekia, ʻae angatonu mo e taʻeangatonu.
+ton	Pea ʻi he ʻikai hā mai ʻae laʻā pe ko e fetuʻu ʻi he ngaahi ʻaho lahi, pea ʻalo ʻae afā, naʻe mole ʻiate kimautolu ʻae ʻamanaki ki he moʻui.
+ton	Ka naʻa nau ʻamanaki ki heʻene pupula, pe tō hifo ʻo mate fakafokifā pe: pea kuo nau siosio ʻo fuoloa, kae ʻikai mamata ki ha kovi kuo hoko kiate ia; pea liliu honau loto, ʻonau pehē,
+ton	‌ʻAia kuo mau maʻu ai ʻae ʻaloʻofa mo e ngāue fakaʻaposetolo, ke ai ha talangofua ki he tui ʻi he ngaahi puleʻanga kotoa pē, koeʻuhi ko hono huafa:
+ton	Pea ko koe, ʻe tangata, ʻoku ke fakamaauʻi ʻakinautolu ʻoku fai ʻae ngaahi meʻa pehē, ka ʻoku ke fai pehē pe ʻe koe, ʻoku ke mahalo te ke hao koe mei he fakamaau ʻae ʻOtua?
+ton	‌ʻE ʻikai ʻaupito: ʻio, ke moʻoni ʻae ʻOtua, kae loi ʻae tangata kotoa pē; ʻo hangē ko ia kuo tohi, “Koeʻuhi ke ke tonuhia ʻi hoʻo ngaahi tala, pea koeʻuhi ke ke māʻoniʻoni
+ton	Ka ʻoku fakahā ʻe he ʻOtua ʻene ʻofa kiate kitautolu ʻi he meʻa ni, lolotonga ko e kau angahala ʻakitautolu, ne pekia ʻa Kalaisi maʻatautolu.
+ton	Naʻa mou nofo ko e kau tamaioʻeiki ki he angahala, kae fakafetaʻi ki he ʻOtua, ʻi hoʻomou talangofua mei he loto ki he anga ʻoe akonaki naʻe ʻatu kiate kimoutolu.
+ton	He ko kinautolu naʻa ne tomuʻa ʻilo, naʻa ne tuʻutuʻuni foki ki he tatau ʻo hono ʻAlo, koeʻuhi ke hoko ia ko e ʻuluaki fānau ʻi he kāinga tokolahi:
+ton	‌ʻIkai, ʻe tangata, he ko hai koe ʻoku ke kikihi ki he ʻOtua? ʻE lea ʻae meʻa kuo ngaohi kiate ia naʻa ne ngaohi ia, “Ko e hā kuo ke ngaohi ai au ke pehē ni?”
+ton	Pea ʻe fakamoʻui ʻa ʻIsileli kotoa pē: ʻo hangē ko ia kuo tohi, “ʻE haʻu mei Saione ʻae Fakamoʻui, pea ʻe fakafoki ʻe ia ʻae angahala meia Sēkope:
+ton	Ko ia, “Kapau ʻoku fiekaia ho fili, fafanga ia; kapau ʻoku fieinu, ʻatu ha inu kiate ia: koeʻuhi ʻi hoʻo fai pehē, te ke fokotuʻu ʻae malalaʻi afi ki hono ʻulu.”
+ton	‌ʻOku ou ʻilo, pea kuo u maʻu pau mei he ʻEiki ko Sisu, koeʻuhi ʻoku ʻikai ha meʻa ʻoku taʻemaʻa tuʻungaʻa pē: ka ko ia ʻoku ne lau ha meʻa ko e taʻemaʻa, ʻoku taʻemaʻa ia
+ton	Kae hangē ko ia kuo tohi, “Ko kinautolu naʻe ʻikai leaʻaki ia ki ai, te nau mamata: pea ko kinautolu naʻe ʻikai fanongo, te nau ʻilo.”
+ton	He ko kinautolu ʻoku pehē, ʻoku ʻikai te nau tauhi ki hotau ʻEiki ko Sisu Kalaisi, ka ko honau kete pē; pea ʻi he ngaahi lea lelei mo e talanoa fakalai ʻoku nau oloa ai ʻae loto ʻoe
+ton	He koeʻuhi ʻi he poto ʻoe ʻOtua naʻe ʻikai ʻilo ʻae ʻOtua ʻe māmani ʻi hono poto, pea naʻe lelei ki he ʻOtua ʻi he “vale” ʻoe malanga ke fakamoʻui ʻakinautolu ʻoku tui.
+ton	He ʻoku mou kei fakakakano: he ʻoku ʻiate kimoutolu ʻae femehekaʻaki, mo e fakakikihi, mo e mavahevahe, ʻikai ʻoku mou fakakakano, pea felakaʻi ʻo fakatatau ki he tangata?
+ton	Ko e kau vale ʻakimautolu koeʻuhi ko Kalaisi, ka ʻoku poto ʻakimoutolu ʻia Kalaisi; ʻoku mau vaivai, ka ʻoku mālohi ʻakimoutolu; ʻoku ʻapasia ʻakimoutolu, ka ʻoku manukia ʻakimautolu.
+ton	‌ʻOku ou lea ko homou fakamā. ʻoku pehē koā, ʻoku ʻikai ʻaupito ha tokotaha poto ʻiate kimoutolu? ʻOku ʻikai ha tokotaha ʻoku faʻa fai ke fakamaau ki hono ngaahi kāinga?
+ton	Pea kapau ʻe ʻalu ʻae taʻetui, tuku pe ke ʻalu. ʻOku ʻikai haʻisia ha kāinga tangata, pe ha kāinga fefine, ʻi he ngaahi meʻa pehē; ka kuo ui ʻakitautolu ʻe he ʻOtua ki he anga
+ton	He neongo ʻoku ʻi ai ʻoku ui “ko e ngaahi ʻotua,” ʻi he langi pe ʻi he māmani, (he ʻoku ai ʻae “ʻotua” tokolahi, mo e “ʻeiki” tokolahi),
+ton	Ne u hangē kuo u vaivai ki he vaivai, koeʻuhi ke u lavaʻi mai ʻae vaivai: kuo u hangē ko e meʻa kotoa pē ki he kakai kotoa pē, kau fakamoʻui ʻi he ngāue kotoa pē ʻae niʻihi.
+ton	Ko e hā ia? He ʻoku ʻikai hamou ngaahi fale ke kai mo inu ai? Pe ko hoʻomou manuki ia ki he siasi ʻoe ʻOtua, mo fakamā ʻakinautolu ʻoku masiva? Te u pehē atu kiate kimoutolu ko e hā? Te u
+ton	Ke longo pē homou kau fefine ʻi he ngaahi siasi: he ʻoku ʻikai ngofua kiate kinautolu ke lea: ka ke nau anganofo, ʻo hangē foki ko e tala ʻe he fono.
+ton	Fakafetaʻi ki he ʻOtua, mo e Tamai ʻa hotau ʻEiki ko Sisu Kalaisi, ko e Tamai ʻae ngaahi ʻaloʻofa, mo e ʻOtua ʻoe fiemālie kotoa pē;
+ton	He ko e meʻa ko ia naʻaku tohi ai foki, koeʻuhi ke u ʻilo ai ha fakaʻilonga kiate kimoutolu, pe ʻoku mou talangofua ki he ngaahi meʻa kotoa pē.
+ton	Pea naʻe pekia ia maʻae kakai kotoa pē, koeʻuhi ko kinautolu ʻoku moʻui, ke ʻoua naʻa nau toe moʻui kiate kinautolu, ka kiate ia naʻe pekia maʻanautolu, pea toetuʻu hake.
+ton	Koeʻuhi ʻi heʻemau hoko ki Masitōnia, naʻe ʻikai ha mālōlō ki homau kakano, ka naʻe fakamamahi ʻakimautolu mei he potu kotoa pē; naʻe ʻituʻa ʻae ngaahi tau, pea ʻi loto ʻae
+ton	‌ʻOku kau ʻeku lea ki he manukiʻi, ʻo hangē kuo moʻoni ʻemau vaivai. Ka koeni, ʻilonga ha meʻa ʻoku pole ai ha toko taha, (ʻoku ou lea ʻo hangē ha vale,) ʻoku ou pole ai foki.
+ton	Naʻaku kole kia Taitusi, pe au fekau mo ia ha kāinga . Naʻe maʻumeʻa ʻa Taitusi meiate kimoutolu? ʻIkai naʻa ma ʻaʻeva ʻi he laumālie pe taha pea ma topuvaʻe taha pe?
+ton	1 ʻOku ne ako ke nau ʻofa ki he kāinga kuo hekea, 2 Pea nau fetoutou fefuaʻaki honau ngaahi kavenga: 6 Ke nau ʻofa ki honau kau tauhi, 9 Pea ʻoua naʻa fiu ʻi he fai lelei. 12 ʻOku ne fakahā
+ton	ʻae loto ʻokinautolu ʻoku malangaʻaki ʻae kamu. 14 ʻOku ʻikai polepole ʻa Paula ʻi ha meʻa ʻe taha, kae ʻi he ʻakau ʻo Kalaisi.
+ton	Pea ko eni, ʻoku ʻikai ai ko e kau muli mo e kau ʻāunofo ʻakimoutolu, ka ko e kaunga kolo mo e kāinga māʻoniʻoni, pea mo e fale ʻoe ʻOtua.
+ton	Ka ko e feʻauaki, mo e ʻuli kotoa pē, mo e manumanu, ke ʻoua naʻa lea tuʻo taha ki ai ʻiate kimoutolu, ʻo hangē ko ia ʻoku taau mo e kāinga māʻoniʻoni;
+ton	1 Ko e anga ʻoku totonu ke fai ʻe he fānau ki heʻenau mātuʻa, 5 Mo e kau tamaioʻeiki ki honau ngaahi ʻeiki. 10 Ko ʻetau moʻui ke fai ʻae tau, 12 ʻIkai pe ki he kakano mo e loto, ka ki he
+ton	ngaahi fili fakalaumālie. 13 Ko e mahafu kotoa ʻoe Kalisiano, 18 Mo hono ngāue totonu ʻaki. 21 Ko e fakaongolelei ʻo Tikiko.
+ton	‌ʻOku ou ʻilo pau ʻae meʻa ko eni, koeʻuhi ko ia kuo ne kamata ʻae ngāue lelei ʻiate kimoutolu, te ne fakahaohaoa ia ʻo aʻu ki he ʻaho ʻo Sisu Kalaisi:
+ton	Pea ko eni, ʻae kau Filipai, ke mou ʻilo foki, ʻi he kamataʻanga ʻoe ongoongolelei, ʻi heʻeku ʻalu mei Masitōnia, naʻe ʻikai kau ha siasi ʻe taha kiate au ʻi he fefoakiʻaki, ka ko
+ton	‌ʻI he sino ʻo hono kakano, ʻi he mate, koeʻuhi ke ne ʻatu ʻakimoutolu ʻoku mou māʻoniʻoni mo taʻemele mo taʻevalokiʻia ʻi hono ʻao:
+ton	Ko e ngaahi meʻa ko ia ʻoku ʻai moʻoni hono matamata poto ʻi he fiefie lotu, mo e angavaivai, pea mo e taʻetokangaʻi ʻoe sino; ka ʻoku ʻikai ʻaonga, ka ki he fakafiemālie ʻoe kakano.
+ton	He ʻoku mou ʻilo, naʻe ʻikai te mau ngāueʻaki ʻae lea fakalai ʻi ha kuonga ʻe taha, pe ko e kofu ʻoe manumanu; ko e fakamoʻoni ʻae ʻOtua:
+ton	Pea ko eni, ʻoku mau enginaki kiate kimoutolu, ʻe kāinga, valokiʻi ʻakinautolu ʻoku fakamaveuveu, fakafiemālie ki he kau loto foʻi, poupou ʻae vaivai, ke mou faʻa kātakiʻi kotoa pē.
+ton	‌ʻOua naʻa kākaaʻi ʻakimoutolu ʻe ha tokotaha ʻi ha meʻa ʻe taha: koeʻuhi , ʻo kapau ʻe ʻikai tomuʻa hoko ʻae liliu kovi, pea fakahā ʻae tangata ʻoe angahala, ko e foha ʻoe
+ton	Ko eni, ʻofa ke foaki ʻe he ʻEiki ʻoe melino ʻae melino maʻuaipē kiate kimoutolu ʻi he meʻa kotoa pē. Ke ʻiate kimoutolu kotoa pē ʻae ʻEiki.
+ton	‌ʻAia kuo fakanofo au ki ai ko e malanga, mo e ʻaposetolo, (ʻoku ou leaʻaki ʻae moʻoni ʻia Kalaisi, ʻoku ʻikai teu loi;) ko e akonaki ki he ngaahi Senitaile ʻi he tui mo e moʻoni.
+ton	Ke ʻia Timote, ko e foha ʻofeina, ʻae ʻaloʻofa, mo e ʻofa mataʻataʻatā pe, mo e melino, mei he ʻOtua ko e Tamai mo Kalaisi Sisu ko hotau ʻEiki.
+ton	Fakamanatu ʻae ngaahi meʻa ni, ʻo fekau ʻi he ʻao ʻoe ʻEiki, ke ʻoua naʻa nau fakakikihi ʻi he ngaahi lea ʻoku ʻikai hano ʻaonga, ko e fakahēʻi ʻoe kau fanongo ki ai.
+ton	1 ʻOku ne enginaki ke ne fai ʻene ngaue ʻi he tokanga mo e faʻa fai, 6 ʻO ne tala kia Timote kuo ofi ʻene mate, 9 ʻO ne loto ke vave ʻa Timote kiate ia pea ke ʻalu mo Maʻake, mo e meʻa
+ton	niʻihi naʻa ne tohi ke ʻomi. 14 ʻOku ne tala ke vakai telia ʻa ʻAlekisānita ko e tufunga ngaohi meʻa kapa. 16 ʻAe anga ʻo ʻene fuofua fakamatala. 19 Ko ʻene lea fakaʻosi.
+ton	Kae ʻofa ia ki he fai angalelei, pea ʻofa ki he kakai angalelei, ke ne anga fakapotopoto, mo angatotonu, mo māʻoniʻoni, mo angamaau;
+ton	‌ʻI heʻeku ʻamanaki lelei ki hoʻo talangofua kuo u tohi ai kiate koe, pea ʻoku ou ʻilo te ke fai ʻo lahi hake ʻi he meʻa ʻoku ou tala.
+ton	Pea naʻe angatonu moʻoni ʻa Mōsese ʻi hono fale kotoa pē, ʻo hangē ko e tamaioʻeiki, ko e fakamoʻoni ʻoe ngaahi meʻa ko ia ʻe leaʻaki;
+ton	Ko ia ke tau haʻu mālohi ai ki he ʻafioʻanga ʻoe ʻaloʻofa, koeʻuhi ke tau maʻu ʻae ʻaloʻofa, pea ʻilo mo e foaki ʻofa, ke tokoni mai ʻi he ʻaho ʻe ʻaonga ai.
+ton	Ko ia foki ʻoku ne faʻa fai ai ke fakamoʻui haohaoa ʻakinautolu ʻoku haʻu ki he ʻOtua ʻiate ia, ko e meʻa ʻi heʻene moʻui maʻuaipē ke hūfakiʻi ʻakinautolu.
+ton	He kapau naʻe fakamāʻoniʻoniʻi ʻae taʻemaʻa ki he fakamaʻa ʻoe sino, ʻi he luluku ʻaki ʻae toto ʻoe fanga pulu tangata mo e fanga kosi, mo e efu ʻoe pulu fefine:
+ton	Ka ʻi he taʻemaʻu ʻae tui ʻoku ʻikai mafai hono fakafiemālieʻi: he ko ia ʻoku haʻu ki he ʻOtua, ʻoku totonu ke ne tui ʻoku ai ia, pea ʻoku ne totongi kiate kinautolu ʻoku kumi lahi
+ton	Naʻe tolongaki ʻaki ʻae maka ʻakinautolu, naʻe kilisi ʻo fahiua ʻakinautolu, naʻe ʻahiʻahiʻi, naʻe tāmateʻi ʻaki ʻae heletā: naʻa nau ʻalu fano ʻi he kiliʻi sipi mo e kiliʻi
+ton	Pea ko e pehē, “Ko e toe taha,” ko e fakahā ʻoe hiki ʻoe ngaahi meʻa ko ia kuo luluʻi, ʻo taau mo e ngaahi meʻa kuo ngaohi, koeʻuhi ke tuʻumaʻu pe ʻae ngaahi meʻa ʻoku ʻikai faʻa
+ton	Fanongo, ʻe hoku kāinga ʻofeina, ʻIkai kuo fili ʻe he ʻOtua ʻae masiva ʻoe māmani ke koloaʻia ʻi he tui, pea ko e kau hoko ki he puleʻanga ʻaia kuo ne talaʻofa ki ai kiate kinautolu
+ton	Ko ia ʻoku tau fakafetaʻi ʻaki ki he ʻOtua ko e Tamai; pea ko ia ʻoku kape ʻaki ʻae kakai, ʻaia naʻe ngaohi ʻi he tatau ʻoe ʻOtua.
+ton	Kuo ʻumeʻumea ʻa hoʻomou koula mo e siliva; pea ko hono ʻumeʻumea ʻo ia ʻe fakamoʻoni ia kiate kimoutolu, pea ʻe kai ʻe ia ʻa homou kakano ʻo hangē ko e afi. Kuo mou fokotuʻu ʻae
+ton	Ko ia ke nonoʻo ʻae noʻotanga vala ʻa homou loto, pea leʻo, ʻo ʻamanaki lelei ʻo aʻu ki he ngataʻanga, ki he lelei ʻe ʻomi kiate kimoutolu ʻi he fakahā ʻo Sisu Kalaisi;
+ton	Pea ko e meʻa ʻi he mamahi ʻa Kalaisi ʻi he sino koeʻuhi ko kitautolu, ke teuteu ʻakimoutolu foki ʻaki ʻae loto pe ko ia: he ko ia kuo mamahi ʻi he sino, kuo tuku ʻe ia ʻae angahala;
+ton	Kuo u tohi siʻi kiate kimoutolu ʻia Silivenusi, ʻaia (ʻoku ou pehē) ko e kāinga angatonu, ke enginaki mo fakahā ko e ʻaloʻofa moʻoni eni ʻae ʻOtua, ʻaia ʻoku mou tuʻu ai.
+ton	‌ʻO ne tuku ʻae ongo kolo ko Sotoma mo Komola ki he fakaʻauha, ʻo ne liliu ia ko e efuefu, pea ne ngaohi ia ko e fakaʻilonga kiate kinautolu ʻe moʻui fai angahala ki mui;
+ton	Ko ia, ʻe kāinga, ko e meʻa ʻi hoʻomou ʻamanaki ki he ngaahi meʻa pehē, mou hangahanga fai pe koeʻuhi ke ʻilo ʻe ia ʻakimoutolu ʻoku mou melino taʻehaʻila, mo taʻehalaia.
+ton	‌ʻOua naʻa ʻofa ki māmani, pe ki he ngaahi meʻa ʻi he māmani. Kapau ʻoku ʻofa ha taha ki māmani, ʻoku ʻikai ʻiate ia ʻae ʻofa ʻae Tamai.
+ton	Ko e meʻa ni ʻoku tau ʻilo ai ʻae ʻofa, koeʻuhi kuo ne tuku hifo ʻene moʻui maʻatautolu: pea totonu ai ʻetau tuku hifo ʻetau moʻui koeʻuhi ko e kāinga.
+ton	1 Ko ia ʻoku ʻofa ki he ʻOtua, ʻoku ʻofa foki ia ki heʻene fānau, pea ne fai ʻene ngaahi fekau: 3 ʻOku maʻamaʻa ʻae ngaahi fekau ki he kakai māʻoniʻoni, kae ʻikai fakamamahi. 9 Ko e
+ton	ʻAlo ʻoe ʻOtua ʻa Sisu, ʻoku ne faʻa fakamoʻui ʻakitautolu, 15 Pea ke ongoʻi ʻetau ngaahi lotu, ʻaia ʻoku tau lotua ai ʻakitautolu, pea mo e kakai kehe.
+ton	Ko ia ia ʻoku fai hala, pea ʻikai nofomaʻu ʻi he akonaki ʻa Kalaisi, ʻoku ʻikai maʻu ʻe ia ʻae ʻOtua. Ko ia ia ʻoku nofo ʻi he akonaki ʻa Kalaisi, ʻoku maʻu ʻe ia fakatouʻosi ʻae
+ton	‌ʻE malaʻia ʻakinautolu! He kuo nau ʻalu ʻi he hala ʻo Keini, ʻo tāfea atu ki he hē ʻa Pelami koeʻuhi ko e totongi, pea nau ʻauha ʻi he angatuʻu ʻa Kola.
+ton	Pea naʻe ʻi hono nima toʻomataʻu ʻae fetuʻu ʻe fitu: pea naʻe ʻalu atu ʻi hono ngutu ʻae heletā māsila ʻo fakatoumata: pea naʻe tatau hono fofonga mo e laʻā ʻi heʻene ulo ʻi hono
+ton	Pea ko ia ia ʻe ikuna, pea ne fai ki heʻeku ngaahi ngāue ʻo aʻu ki he ngataʻanga, ko ia ia te u foaki ki ai ʻae mālohi ki he ngaahi puleʻanga:
+ton	Pea naʻe tuʻu takatakai ʻi he nofoʻa fakaʻeiʻeiki ʻoe nofoʻa ʻe uofulu ma fā: pea ne u mamata ʻoku nofo ʻi he ngaahi nofoʻa ʻae mātuʻa ʻe toko uofulu ma toko fā, kuo kofuʻaki ʻae
+ton	Pea ne u mamata, pea vakai, ko e hoosi hinehina pea naʻe ʻiate ia naʻe heka ai ʻae kaufana; pea naʻe foaki kiate ia ʻae pale: pea naʻe ʻalu atu ia ʻi he ikuna ki he ikuna.
+ton	Ko ia ai ʻoku nau ʻi he muʻa nofoʻa fakaʻeiʻeiki ʻoe ʻOtua, ʻo tauhi ia ʻi he ʻaho mo e pō ʻi hono fale tapu: pea ko ia ʻoku nofo ʻi he nofoʻa fakaʻeiʻeiki, ʻe nofo ia ʻiate
+ton	‌ʻOku pehē ki hono ono ʻoe ʻāngelo, naʻe ʻi ai ʻae meʻa lea, “Vevete ʻae kau ʻāngelo ʻe toko fā, ʻaia kuo haʻisia ʻi he vaitafe lahi ko ʻIufaleti.”
+ton	Pea hili ʻae ʻaho ʻe tolu mo e konga ʻaho, naʻe hū kiate kinaua ʻae laumālie ʻoe moʻui mei he ʻOtua, pea naʻa na tuʻu ʻi hona vaʻe; pea naʻe tō ʻae manavahē lahi kiate kinautolu
+ton	Pea naʻa nau hū ki he fuʻu ngata ʻaia ne ne ʻatu ʻae mālohi ki he manu fekai: ʻonau hū ki he manu fekai, ʻonau pehē, “Ko hai ʻoku tatau mo e manu fekai? Ko hai ʻoku faʻa fai ke tauʻi
+ton	Pea naʻe lilingi ʻe hono fitu ʻoe ʻāngelo ʻa ʻene hina ki he ʻatā; pea naʻe ongo mai ʻae leʻo lahi mei he fale tapu ʻi he langi, mei he nofoʻa fakaʻeiʻeiki, ʻoku pehē mai, “Kuo
+ton	Tuku kiate ia ʻae tautea mo e mamahi ʻo fakatatau ki hono lahi ʻo ʻene fakahikihikiʻi ia, mo ʻene moʻui fakapelepeleʻi ia: he kuo pehē ʻe ia ʻi hono loto, ‘ʻOku ou nofo ko e tuʻi
+ton	Pea ne pehē mai kiate au, “Kuo fai ia. Ko au ko e ʻAlifa mo ʻOmeka, ko e kamataʻanga mo e ngataʻanga. Te u foaki taʻetotongi mei he matavai moʻui kiate ia ʻoku fieinu.
+ton	Pea pehē mai ʻe ia kiate au, “Vakai ke ʻoua: he ko hoʻo kaungā tamaioʻeiki au, pea ʻoku ou ʻi ho kāinga ko e kau palōfita, pea ʻokinautolu ʻoku nau fai ʻae ngaahi lea ʻoe tohi ni: hū
