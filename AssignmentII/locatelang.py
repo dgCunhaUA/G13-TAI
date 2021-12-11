@@ -25,7 +25,22 @@ def main():
 
     #reference_file_name = args.freference
     target_file_name = args.ftarget
-    reference_file_dict = dict({"ENG": "example/example.txt", "PT": "example/lusiadas.txt"})    
+    reference_file_dict = dict({"AFG": "example/texts/afghanistan.utf8",
+                                "AFR": "example/texts/afrikaans.utf8",
+                                "BUL": "example/texts/bulgarian-big.utf8",
+                                "CRO": "example/texts/croatian-big.utf8",
+                                "FIN": "example/texts/finnish-big.utf8",
+                                "FR": "example/texts/french-big.utf8",
+                                "ENG": "example/texts/gb_english.utf8",
+                                "GER": "example/texts/german.utf8",
+                                "HUN": "example/texts/hungarian-big.utf8",
+                                "IT": "example/texts/italian-big.utf8",
+                                "POL": "example/texts/polish-big.utf8",
+                                "PT": "example/texts/portuguese.utf8",
+                                "RUS": "example/texts/russian-big.utf8",
+                                "SPA": "example/texts/spanish-big.utf8",
+                                "UKR": "example/texts/ukrainian-big.utf8"
+                                })    
     k = args.k
     alpha = args.a
 
