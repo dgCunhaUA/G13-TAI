@@ -33,7 +33,7 @@ def get_number_of_bits_required_to_compress(fcm_model, text, target_alphabet, mu
         else:
             num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
 
-        if multiplelangflag:
+        if multiplelangflag and num_bits < threshold:
             symbols[char_position_in_text] = num_bits
             
         total_num_bits += num_bits
@@ -41,35 +41,32 @@ def get_number_of_bits_required_to_compress(fcm_model, text, target_alphabet, mu
         current_context = current_context[1:] + char
         char_position_in_text += 1
 
-    return total_num_bits, symbols
-    
+    current_pos = 0
+    while current_pos < len(text):
+        if text[current_pos] == " ":
+            current_pos += 1        
+            initial_position = current_pos
+            new_word = ""
+            word_total_bits = 0
+            completeWord = True
+            while True:
+                if text[current_pos] != " ":
+                    if current_pos in symbols:
+                        new_word += text[current_pos]
+                        word_total_bits += symbols[current_pos]
+                        current_pos += 1
+                    else:
+                        completeWord = False
+                        current_pos += 1
+                        break
+                else:
+                    if completeWord and len(new_word) > 2:
+                        words[(new_word, initial_position)] = round(word_total_bits, 3)
+                    break
+        else:
+            current_pos += 1
 
-
-    #current_pos = 0
-    #while current_pos < len(text):
-    #    if text[current_pos] == " ":
-    #        current_pos += 1        
-    #        new_word = ""
-    #        word_total_bits = 0
-    #        completeWord = True
-    #        while True:
-    #            if text[current_pos] != " ":
-    #                if current_pos in symbols:
-    #                    new_word += text[current_pos]
-    #                    word_total_bits += symbols[current_pos]
-    #                    current_pos += 1
-    #                else:
-    #                    completeWord = False
-    #                    current_pos += 1
-    #                    break
-    #            else:
-    #                if completeWord and len(new_word) > 2:
-    #                    words[new_word] = round(word_total_bits, 3)
-    #                break
-    #    else:
-    #        current_pos += 1
-
-    #return total_num_bits, words
+    return total_num_bits, words
 
 
     #for element in symbols:
