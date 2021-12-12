@@ -8,6 +8,23 @@ import math
 from fcm import Fcm
 
 
+####
+# Argument Verification Function
+####
+
+def checkAlphaValue(a):
+    ### Function to ensure alpha is between 0 and 1
+    a = float(a)
+    if a > 1 or a <= 0:
+        raise argparse.ArgumentTypeError("Alpha must be a value within ]0,1]")
+    return a
+
+
+####
+# Function that calculates number of bits required to compress a target file using a finite context model from a reference file.
+#   - MultipleLangFlag is used to also store the set of words contained in target file that belong to reference file language.
+####
+
 def get_number_of_bits_required_to_compress(fcm_model, text, target_alphabet, multiplelangflag):
 
     total_num_bits = 0
@@ -40,7 +57,7 @@ def get_number_of_bits_required_to_compress(fcm_model, text, target_alphabet, mu
 
         current_context = current_context[1:] + char
         char_position_in_text += 1
-
+    
     current_pos = 0
     while current_pos < len(text):
         if text[current_pos] == " ":
@@ -67,39 +84,9 @@ def get_number_of_bits_required_to_compress(fcm_model, text, target_alphabet, mu
                     break
         else:
             current_pos += 1
-
+    
     return total_num_bits, words
-
-
-    #for element in symbols:
-    #    if text[element-1] == " ":
-    #        word_total_bits = symbols[element]
-    #        new_word = text[element]
-    #        completeWord = True
-    #        contador = 1
-    #        for char in text[element+1:]:
-    #            if char != " ":
-    #                if element+contador in symbols:
-    #                    new_word += char
-    #                    word_total_bits += symbols[element]
-    #                    contador += 1
-    #                else:
-    #                    completeWord = False
-    #            else:
-    #                break       
-    #        if completeWord and len(new_word) > 2:
-    #            words[new_word] = round(word_total_bits, 3)
-
-
-    #return total_num_bits, words
             
-
-def checkAlphaValue(a):
-    ### Function to ensure alpha is between 0 and 1
-    a = float(a)
-    if a > 1 or a <= 0:
-        raise argparse.ArgumentTypeError("Alpha must be a value within ]0,1]")
-    return a
 
 
 
@@ -150,7 +137,7 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
     fcm_model.calculate_probabilities()
 
     bits, foreign_words = get_number_of_bits_required_to_compress(fcm_model, target_file_text, target_alphabet, multiplelangflag)
-    
+
     return bits, foreign_words
 
 
@@ -171,5 +158,6 @@ if __name__ == "__main__":
     alpha = args.a
     multiplelangflag = args.multiplelang
     
-    main(reference_file_name, target_file_name, k, alpha, multiplelangflag)
+    bits, foreign_words = main(reference_file_name, target_file_name, k, alpha, multiplelangflag)
+    print("Number of bits required to compress: ", round(bits, 3))
     

@@ -4,6 +4,10 @@ import argparse
 import lang
 
 
+####
+# Argument Verification Function
+####
+
 def checkAlphaValue(a):
     ### Function to ensure alpha is between 0 and 1
     a = float(a)
@@ -13,32 +17,47 @@ def checkAlphaValue(a):
 
 
 
-def main():
+def main(target_file_name, k, alpha):
 
+    reference_file_dict = dict({"AFG": "example/texts/afghanistan.utf8",
+                                "AFR": "example/texts/afrikaans.utf8",
+                                "BUL": "example/texts/bulgarian-big.utf8",
+                                "CRO": "example/texts/croatian-big.utf8",
+                                "FIN": "example/texts/finnish-big.utf8",
+                                "FRA": "example/texts/french-big.utf8",
+                                "ENG": "example/texts/gb_english.utf8",
+                                "GER": "example/texts/german.utf8",
+                                "HUN": "example/texts/hungarian-big.utf8",
+                                "ITL": "example/texts/italian-big.utf8",
+                                "POL": "example/texts/polish-big.utf8",
+                                "POR": "example/texts/portuguese.utf8",
+                                "RUS": "example/texts/russian-big.utf8",
+                                "SPA": "example/texts/spanish-big.utf8",
+                                "UKR": "example/texts/ukrainian-big.utf8"
+                                })    
+
+    print("Searching for the best language...")
+    best_choice = (None, None)
+    for language in reference_file_dict:
+        num_bits, foreign_words = lang.main(reference_file_dict[language], target_file_name, k, alpha, False)
+        
+        if best_choice[1] == None or best_choice[1] > num_bits:
+            best_choice = (language, num_bits)
+    
+    print("Target file name: ", target_file_name)
+    print("Predicted Language: ", best_choice[0])
+
+if __name__ == "__main__":
     ### Verify Parameters
     parser = argparse.ArgumentParser(description='Define context length and a smoothing parameter.')
-    #parser.add_argument('-freference', type=str, required=True, help='Path to reference file with an text example')
     parser.add_argument('-ftarget', type=str, required=True, help='Path to target file')
     parser.add_argument('-k', type=int, required=True, help='Context length')
     parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
     args = parser.parse_args()
 
-    #reference_file_name = args.freference
     target_file_name = args.ftarget
-    reference_file_dict = dict({"example/example.txt": "ENG", "example/small.txt":"ENG", "example/lusiadas.txt":"PT"})    
     k = args.k
     alpha = args.a
 
-    best_choice = (None, None)
-    for reference_file in reference_file_dict:
-        num_bits, foreign_words = lang.main(reference_file, target_file_name, k, alpha, False)
-        
-        if best_choice[1] == None or best_choice[1] > num_bits:
-            best_choice = (reference_file, num_bits)
-    
-    print("Target file name: ", target_file_name)
-    print("Predicted Language: ", reference_file_dict[best_choice[0]])
-
-if __name__ == "__main__":
-    main()
+    main(target_file_name, k, alpha)
     
