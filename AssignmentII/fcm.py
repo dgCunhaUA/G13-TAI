@@ -1,40 +1,42 @@
 #!/usr/bin/python
 
 import copy
+import sys
 
 class Fcm:
 
-    def __init__(self, text:str, k:int, alpha:float):
-        self.text = text
+    def __init__(self, reference_file_name:str, k:int, alpha:float):
         self.k = k
         self.alpha = alpha
-
-        ### Get Alphabet
-        self.alphabet = set()
-        for character in text:
-            self.alphabet.add(character)
-
-        # Number of total states(contexts) of text, calculated based on k value
-        self.number_of_states = len(self.text) - k
-
-        self.model = {}
         self.state_probabilities = {}   # Probabilities of each char in each context
-
-    
-    def create_fcm_model(self):
-        # Creation of fcm model in iterative way
+        self.number_of_states = 0       # Number of total states(contexts) in text
+        self.alphabet = set()           # Different chars in text
         self.model = {}
-        for i in range(0, len(self.text)-self.k):
-            ctx = self.text[i:i+self.k]
-            char = self.text[i+self.k:i+self.k+1]
-            if ctx in self.model:
-                if char in self.model[ctx]:
-                    self.model[ctx][char] += 1
+        self.create_fcm_model(reference_file_name)
+
+    def create_fcm_model(self, reference_file_name:str):
+        # Creation of fcm model in iterative way
+        try:
+            f = open(reference_file_name, "r", encoding='utf-8-sig')
+            ctx = f.read(self.k)
+            char = f.read(1)
+            while char:
+                self.alphabet.add(char)     # Add char to alphabet set
+                self.number_of_states += 1  # Increment number of states
+                if ctx in self.model:
+                    if char in self.model[ctx]:
+                        self.model[ctx][char] += 1
+                    else:
+                        self.model[ctx][char] = 1
                 else:
+                    self.model[ctx] = {}
                     self.model[ctx][char] = 1
-            else:
-                self.model[ctx] = {}
-                self.model[ctx][char] = 1
+                ctx = ctx[1:] + char
+                char = f.read(1)
+            f.close()
+        except OSError:
+            print("Error opening file: ", reference_file_name)
+            sys.exit()
 
 
     def calculate_probabilities(self):

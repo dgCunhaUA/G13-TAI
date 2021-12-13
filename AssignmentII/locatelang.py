@@ -49,11 +49,9 @@ def main(target_file_name, k, alpha):
     merged_words_dict = {}
     for language in words_dict:     # For each language
         words = words_dict[language][0]     # Get the words of this language
-
         for word in words:     # For each word
             position_in_text = word[1]
             num_bits = words[word]
-
             if position_in_text in merged_words_dict:      # If the word is already in the merged dictionary
                 assigned_language = merged_words_dict[position_in_text]     # Get the language that the word has at the moment
                 if num_bits < words_dict[ assigned_language ][0][word]:     # If the new language compresses the word with less bits
@@ -68,8 +66,7 @@ def main(target_file_name, k, alpha):
     positions_in_text_list = list(merged_words_dict.keys())    # List of the merged dict keys
     positions_to_remove = []
     for i in range(len(positions_in_text_list)-1):
-
-        if (merged_words_dict[positions_in_text_list[i]][0] == merged_words_dict[positions_in_text_list[i+1]][0]):
+        if (merged_words_dict[positions_in_text_list[i]] == merged_words_dict[positions_in_text_list[i+1]]):
             positions_to_remove.append(positions_in_text_list[i+1])
 
     for position in positions_to_remove:
