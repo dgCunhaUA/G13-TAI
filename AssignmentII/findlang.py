@@ -8,12 +8,13 @@ import lang
 # Argument Verification Function
 ####
 
-def check_arg_value(a):
-    ### Function to ensure k and alpha are greater than 0
-    a = int(a)
-    if a <= 0:
-        raise argparse.ArgumentTypeError("k and alpha must be a integer greater than 0")
+def checkAlphaValue(a):
+    ### Function to ensure alpha is between 0 and 1
+    a = float(a)
+    if a > 1 or a <= 0:
+        raise argparse.ArgumentTypeError("Alpha must be a value within ]0,1]")
     return a
+
 
 
 def main(target_file_name, k, alpha):
@@ -38,7 +39,7 @@ def main(target_file_name, k, alpha):
     print("Searching for the best language...")
     best_choice = (None, None)
     for language in reference_file_dict:
-        num_bits, foreign_words = lang.main(reference_file_dict[language], target_file_name, k, alpha, False)
+        num_bits, words = lang.main(reference_file_dict[language], target_file_name, k, alpha, False)
         
         if best_choice[1] == None or best_choice[1] > num_bits:
             best_choice = (language, num_bits)
@@ -50,8 +51,8 @@ if __name__ == "__main__":
     ### Verify Parameters
     parser = argparse.ArgumentParser(description='Define context length and a smoothing parameter.')
     parser.add_argument('-ftarget', type=str, required=True, help='Path to target file')
-    parser.add_argument('-k', type=check_arg_value, required=True, help='Context length')
-    parser.add_argument('-a', type=check_arg_value, required=True, help='Desired size of the generated text')
+    parser.add_argument('-k', type=int, required=True, help='Context length')
+    parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
     args = parser.parse_args()
 
     target_file_name = args.ftarget
