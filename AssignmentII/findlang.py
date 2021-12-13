@@ -39,7 +39,7 @@ def main(target_file_name, k, alpha):
     print("Searching for the best language...")
     best_choice = (None, None)
     for language in reference_file_dict:
-        num_bits, words = lang.main(reference_file_dict[language], target_file_name, k, alpha, False)
+        num_bits, foreign_words = lang.main(reference_file_dict[language], target_file_name, k, alpha, False)
         
         if best_choice[1] == None or best_choice[1] > num_bits:
             best_choice = (language, num_bits)
