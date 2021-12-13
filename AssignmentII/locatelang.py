@@ -8,13 +8,12 @@ import lang
 # Argument Verification Function
 ####
 
-def checkAlphaValue(a):
-    ### Function to ensure alpha is between 0 and 1
-    a = float(a)
-    if a > 1 or a <= 0:
-        raise argparse.ArgumentTypeError("Alpha must be a value within ]0,1]")
+def check_arg_value(a):
+    ### Function to ensure k and alpha are greater than 0
+    a = int(a)
+    if a <= 0:
+        raise argparse.ArgumentTypeError("k and alpha must be a integer greater than 0")
     return a
-
 
 
 def main(target_file_name, k, alpha):
@@ -127,8 +126,8 @@ if __name__ == "__main__":
     ### Verify Parameters
     parser = argparse.ArgumentParser(description='Define context length and a smoothing parameter.')
     parser.add_argument('-ftarget', type=str, required=True, help='Path to target file')
-    parser.add_argument('-k', type=int, required=True, help='Context length')
-    parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
+    parser.add_argument('-k', type=check_arg_value, required=True, help='Context length')
+    parser.add_argument('-a', type=check_arg_value, required=True, help='Desired size of the generated text')
     args = parser.parse_args()
 
     target_file_name = args.ftarget
