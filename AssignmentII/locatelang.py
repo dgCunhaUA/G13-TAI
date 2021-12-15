@@ -68,7 +68,6 @@ def main(target_file_name, k, alpha):
     ### Sort the dicitonary by number of bits
     words_dict = {k: v for k, v in sorted(words_dict.items(), key=lambda item: item[1][1] )}
 
-
     ### Merge step
     merged_words_dict = {}
     for language in words_dict:     # For each language

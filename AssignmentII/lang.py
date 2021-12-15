@@ -79,30 +79,31 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
                 
             total_num_bits += num_bits
 
-            if word_creation:       # If a word is being created
-                if char != " " and char != '\n':    
-                    if multiplelangflag and num_bits<threshold:   # If the char is compressed using a number of bits below the threshold
-                        new_word += char                # Append the char to the word
-                        word_total_bits += num_bits     # Add the number of bits of this char to the word's total number of bits
+            if multiplelangflag: 
+                if word_creation:                       # If a word is being created
+                    if char != " " and char != '\n':    
+                        if num_bits<threshold:   # If the char is compressed using a number of bits below the threshold
+                            new_word += char            # Append the char to the word
+                            word_total_bits += num_bits # Add the number of bits of this char to the word's total number of bits
+                        else:
+                            word_total_bits += num_bits
+                            new_word += char
+                            valid_word = False          # Flag to tell that this word has symbols that are not in this language, that's why it will not be saved
                     else:
-                        word_total_bits += num_bits
-                        new_word += char
-                        valid_word = False            # Flag to tell that this word has symbols that are not in this language, that's why it will not be saved
-                else:
 
-                    print("NEW WORD CREATION: ", new_word)
-                    print("Valid word: ", valid_word )
-                    print("Number Bits: ", word_total_bits)
-                    if valid_word and len(new_word) > 2:      # Check if the word is valid. 1 - If it has no foreign symbols; 2 - If it has more than two chars
-                        words[(new_word, initial_position + 1)] = round(word_total_bits, 3)
-                    word_creation = False           # Word creation process ended
-            
-            if char == " " and not word_creation:   # This means that a new word will be created
-                new_word = ""                       # String for creating the word
-                word_total_bits = 0                 # Total number of bits of the word
-                initial_position = char_position_in_text    # Initial position of the word in text
-                valid_word = True                   # Flag used to tell that the word has symbols that are not in this language
-                word_creation = True                # Flag to tell that a new word will be created
+                        #print("NEW WORD CREATION: ", new_word)
+                        #print("Valid word: ", valid_word )
+                        #print("Number Bits: ", word_total_bits)
+                        if valid_word and len(new_word) > 2:      # Check if the word is valid. 1 - If it has no foreign symbols; 2 - If it has more than two chars
+                            words[(new_word, initial_position + 1)] = round(word_total_bits, 3)
+                        word_creation = False           # Word creation process ended
+                
+                if char == " " and not word_creation:   # This means that a new word will be created
+                    new_word = ""                       # String for creating the word
+                    word_total_bits = 0                 # Total number of bits of the word
+                    initial_position = char_position_in_text    # Initial position of the word in text
+                    valid_word = True                   # Flag used to tell that the word has symbols that are not in this language
+                    word_creation = True                # Flag to tell that a new word will be created
 
             current_context = current_context[1:] + char    # Update the context
             char = f.read(1)                        
@@ -118,7 +119,7 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
             
 
 def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
-    
+
     ### Read Content of target file
     try:
         f = open(target_file_name, "r", encoding='utf-8-sig')
@@ -135,7 +136,6 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
     except OSError:
         print("Error opening file: ", target_file_name)
         sys.exit()
-    
 
     ### Creation of Finite Context Model from reference text
     fcm_model = Fcm(reference_file_name, k, alpha)
@@ -156,7 +156,7 @@ if __name__ == "__main__":
     parser.add_argument('-ftarget', type=str, required=True, help='Path to target file')
     parser.add_argument('-k', type=checkKValue, required=True, help='Context length')
     parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
-    parser.add_argument('--multiplelang', action='store_true', required=False, default=True, help='Flag to check for multiple lang in the target text')
+    parser.add_argument('--multiplelang', action='store_true', required=False, default=False, help='Flag to check for multiple lang in the target text')
     args = parser.parse_args()
 
     reference_file_name = args.freference
