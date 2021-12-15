@@ -36,22 +36,26 @@ def checkKValue(k):
 def main(target_file_name, k, alpha):
 
 
-    reference_file_dict = dict({"AFG": "example/texts/afghanistan.utf8",
-                                "AFR": "example/texts/afrikaans.utf8",
-                                "BUL": "example/texts/bulgarian-big.utf8",
-                                "CRO": "example/texts/croatian-big.utf8",
-                                "FIN": "example/texts/finnish-big.utf8",
-                                "FRA": "example/texts/french-big.utf8",
-                                "ENG": "example/texts/gb_english.utf8",
-                                "GER": "example/texts/german.utf8",
-                                "HUN": "example/texts/hungarian-big.utf8",
-                                "ITL": "example/texts/italian-big.utf8",
-                                "POL": "example/texts/polish-big.utf8",
-                                "POR": "example/texts/portuguese.utf8",
-                                "RUS": "example/texts/russian-big.utf8",
-                                "SPA": "example/texts/spanish-big.utf8",
-                                "UKR": "example/texts/ukrainian-big.utf8"
-                                })    
+    reference_file_dict = dict({"AFG": "example/AFG/afghanistan-medium.utf8",
+                                "AFR": "example/AFR/afrikaans-big.utf8",
+                                "ARA": "example/ARA/arabic-big.utf8",
+                                "BUL": "example/BUL/bulgarian-big.utf8",
+                                "CRO": "example/CRO/croatian-big.utf8",
+                                "DEN": "example/DEN/danish-big.utf8",
+                                "ENG": "example/ENG/gb_english.utf8",
+                                "SPA": "example/ESP/spanish-big.utf8",
+                                "FIN": "example/FIN/finnish-big.utf8",
+                                "FRA": "example/FRA/french-big.utf8",
+                                "GER": "example/GER/german-big.utf8",
+                                "GRE": "example/GRE/greek-big.utf8",
+                                "HUN": "example/HUN/hungarian-big.utf8",
+                                "ICE": "example/ICE/icelandic-big.utf8",
+                                "ITA": "example/ITA/italian-big.utf8",
+                                "POL": "example/POL/polish-big.utf8",
+                                "POR": "example/POR/portuguese-big.utf8",
+                                "RUS": "example/RUS/russian-big.utf8",
+                                "UKR": "example/UKR/ukrainian-big.utf8"
+                                })  
     
     words_dict = dict({})
     for language in reference_file_dict:

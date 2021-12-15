@@ -156,7 +156,7 @@ if __name__ == "__main__":
     parser.add_argument('-ftarget', type=str, required=True, help='Path to target file')
     parser.add_argument('-k', type=checkKValue, required=True, help='Context length')
     parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
-    parser.add_argument('--multiplelang', type='store_true', required=False, default=True, help='Flag to check for multiple lang in the target text')
+    parser.add_argument('--multiplelang', action='store_true', required=False, default=True, help='Flag to check for multiple lang in the target text')
     args = parser.parse_args()
 
     reference_file_name = args.freference
