@@ -13,11 +13,27 @@ from fcm import Fcm
 ####
 
 def checkAlphaValue(a):
-    ### Function to ensure alpha is between 0 and 1
-    a = float(a)
-    if a > 1 or a <= 0:
-        raise argparse.ArgumentTypeError("Alpha must be a value within ]0,1]")
+    ### Function to ensure alpha is greater than 0
+    try:
+        a = float(a)
+    except:
+        raise argparse.ArgumentTypeError("Alpha must be a value greater than 0")
+   
+    if a <= 0:
+        raise argparse.ArgumentTypeError("Alpha must be a value greater than 0")
     return a
+
+def checkKValue(k):
+    ### Function to ensure k is an integer value greater than 0
+    try:
+        k = int(k)
+    except:
+        raise argparse.ArgumentTypeError("K must be an integer value greater than 0")
+    
+    if k <= 0:
+        raise argparse.ArgumentTypeError("K must be an integer value greater than 0")
+    return k
+
 
 
 ####
@@ -65,7 +81,7 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
 
             if word_creation:       # If a word is being created
                 if char != " " and char != '\n':    
-                    if multiplelangflag :   # If the char is compressed using a number of bits below the threshold
+                    if multiplelangflag and num_bits<threshold:   # If the char is compressed using a number of bits below the threshold
                         new_word += char                # Append the char to the word
                         word_total_bits += num_bits     # Add the number of bits of this char to the word's total number of bits
                     else:
@@ -73,6 +89,10 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
                         new_word += char
                         valid_word = False            # Flag to tell that this word has symbols that are not in this language, that's why it will not be saved
                 else:
+
+                    print("NEW WORD CREATION: ", new_word)
+                    print("Valid word: ", valid_word )
+                    print("Number Bits: ", word_total_bits)
                     if valid_word and len(new_word) > 2:      # Check if the word is valid. 1 - If it has no foreign symbols; 2 - If it has more than two chars
                         words[(new_word, initial_position + 1)] = round(word_total_bits, 3)
                     word_creation = False           # Word creation process ended
@@ -98,23 +118,19 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
             
 
 def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
-
-    target_file_text = ""
     
     ### Read Content of target file
     try:
         f = open(target_file_name, "r", encoding='utf-8-sig')
-        file_content = f.readlines()
-        f.close()
-
-        ### Get String Text
-        for line in file_content:
-            target_file_text += line
 
         ### Get Target Alphabet
         target_alphabet = set()
-        for character in target_file_text:
-            target_alphabet.add(character)
+
+        char = f.read(1)
+        while char:
+            target_alphabet.add(char)
+            char = f.read(1)
+        f.close()
 
     except OSError:
         print("Error opening file: ", target_file_name)
@@ -138,7 +154,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Define context length and a smoothing parameter.')
     parser.add_argument('-freference', type=str, required=True, help='Path to reference file with an text example')
     parser.add_argument('-ftarget', type=str, required=True, help='Path to target file')
-    parser.add_argument('-k', type=int, required=True, help='Context length')
+    parser.add_argument('-k', type=checkKValue, required=True, help='Context length')
     parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
     parser.add_argument('--multiplelang', type='store_true', required=False, default=True, help='Flag to check for multiple lang in the target text')
     args = parser.parse_args()

@@ -9,11 +9,26 @@ import lang
 ####
 
 def checkAlphaValue(a):
-    ### Function to ensure alpha is between 0 and 1
-    a = float(a)
-    if a > 1 or a <= 0:
-        raise argparse.ArgumentTypeError("Alpha must be a value within ]0,1]")
+    ### Function to ensure alpha is greater than 0
+    try:
+        a = float(a)
+    except:
+        raise argparse.ArgumentTypeError("Alpha must be a value greater than 0")
+   
+    if a <= 0:
+        raise argparse.ArgumentTypeError("Alpha must be a value greater than 0")
     return a
+
+def checkKValue(k):
+    ### Function to ensure k is an integer value greater than 0
+    try:
+        k = int(k)
+    except:
+        raise argparse.ArgumentTypeError("K must be an integer value greater than 0")
+    
+    if k <= 0:
+        raise argparse.ArgumentTypeError("K must be an integer value greater than 0")
+    return k
 
 
 
@@ -51,7 +66,7 @@ if __name__ == "__main__":
     ### Verify Parameters
     parser = argparse.ArgumentParser(description='Define context length and a smoothing parameter.')
     parser.add_argument('-ftarget', type=str, required=True, help='Path to target file')
-    parser.add_argument('-k', type=int, required=True, help='Context length')
+    parser.add_argument('-k', type=checkKValue, required=True, help='Context length')
     parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
     args = parser.parse_args()
 
