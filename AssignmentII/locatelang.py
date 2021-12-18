@@ -37,24 +37,24 @@ def main(target_file_name, k, alpha):
 
 
     reference_file_dict = dict({"AFG": "example/AFG/afghanistan-medium.utf8",
-                                "AFR": "example/AFR/afrikaans-big.utf8",
-                                "ARA": "example/ARA/arabic-big.utf8",
-                                "BUL": "example/BUL/bulgarian-big.utf8",
-                                "CRO": "example/CRO/croatian-big.utf8",
-                                "DEN": "example/DEN/danish-big.utf8",
+                                "AFR": "example/AFR/afrikaans-small.utf8",
+                                "ARA": "example/ARA/arabic-small.utf8",
+                                "BUL": "example/BUL/bulgarian-medium.utf8",
+                                "CRO": "example/CRO/croatian-medium.utf8",
+                                "DEN": "example/DEN/danish-medium.utf8",
                                 "ENG": "example/ENG/gb_english.utf8",
-                                "SPA": "example/ESP/spanish-big.utf8",
-                                "FIN": "example/FIN/finnish-big.utf8",
-                                "FRA": "example/FRA/french-big.utf8",
-                                "GER": "example/GER/german-big.utf8",
-                                "GRE": "example/GRE/greek-big.utf8",
-                                "HUN": "example/HUN/hungarian-big.utf8",
-                                "ICE": "example/ICE/icelandic-big.utf8",
-                                "ITA": "example/ITA/italian-big.utf8",
-                                "POL": "example/POL/polish-big.utf8",
-                                "POR": "example/POR/portuguese-big.utf8",
-                                "RUS": "example/RUS/russian-big.utf8",
-                                "UKR": "example/UKR/ukrainian-big.utf8"
+                                "SPA": "example/ESP/spanish-medium.utf8",
+                                "FIN": "example/FIN/finnish-medium.utf8",
+                                "FRA": "example/FRA/french-medium.utf8",
+                                "GER": "example/GER/german-medium.utf8",
+                                "GRE": "example/GRE/greek-medium.utf8",
+                                "HUN": "example/HUN/hungarian-medium.utf8",
+                                "ICE": "example/ICE/icelandic-medium.utf8",
+                                "ITA": "example/ITA/italian-medium.utf8",
+                                "POL": "example/POL/polish-medium.utf8",
+                                "POR": "example/POR/portuguese-medium.txt",
+                                "RUS": "example/RUS/russian-medium.utf8",
+                                "UKR": "example/UKR/ukrainian-medium.utf8"
                                 })  
     
     words_dict = dict({})
@@ -85,7 +85,7 @@ def main(target_file_name, k, alpha):
     ### Sort the final dictionary by positions in text (keys)
     merged_words_dict = {k: v for k, v in sorted(merged_words_dict.items(), key=lambda item: item[0] )}
 
-    print("\nMerged Dictionary: ", merged_words_dict, "\n")
+    #print("\nMerged Dictionary: ", merged_words_dict, "\n")
 
     ### "truncate" the merged dict. Remove positions that have the same language of their last "neighbour"
     positions_in_text_list = list(merged_words_dict.keys())    # List of the merged dict keys

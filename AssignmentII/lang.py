@@ -41,7 +41,7 @@ def checkKValue(k):
 #   - MultipleLangFlag is used to also store the set of words contained in target file that belong to reference file language.
 ####
 
-def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_alphabet, multiplelangflag):
+def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag):
 
     total_num_bits = 0
     different_chars_in_target = 0
@@ -50,8 +50,8 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
         if char not in fcm_model.alphabet:
             different_chars_in_target += 1
 
-    threshold = -math.log2(fcm_model.alpha / (fcm_model.alpha * len(fcm_model.alphabet))) 
-    symbols = dict({})
+    threshold = -math.log2(fcm_model.alpha / (fcm_model.alpha * len(fcm_model.alphabet)))   
+
     words = dict({})
     char_position_in_text = 0
 
@@ -86,14 +86,8 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
                             new_word += char            # Append the char to the word
                             word_total_bits += num_bits # Add the number of bits of this char to the word's total number of bits
                         else:
-                            word_total_bits += num_bits
-                            new_word += char
                             valid_word = False          # Flag to tell that this word has symbols that are not in this language, that's why it will not be saved
                     else:
-
-                        #print("NEW WORD CREATION: ", new_word)
-                        #print("Valid word: ", valid_word )
-                        #print("Number Bits: ", word_total_bits)
                         if valid_word and len(new_word) > 2:      # Check if the word is valid. 1 - If it has no foreign symbols; 2 - If it has more than two chars
                             words[(new_word, initial_position + 1)] = round(word_total_bits, 3)
                         word_creation = False           # Word creation process ended
@@ -116,6 +110,108 @@ def get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_
         sys.exit()
     
     return total_num_bits, words
+
+
+
+
+
+
+
+
+
+
+
+
+
+####
+# Function that calculates number of bits required to compress a target file using a finite context model from a reference file.
+#   - MultipleLangFlag is used to also store the set of words contained in target file that belong to reference file language.
+####
+
+def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, window_size, multiplelangflag):
+
+    total_num_bits = 0
+    different_chars_in_target = 0
+
+    for char in target_alphabet:
+        if char not in fcm_model.alphabet:
+            different_chars_in_target += 1
+
+    threshold = math.log2(len(target_alphabet)) / 2   
+
+    char_position_in_text = 0
+    sections_dict = []
+
+    current_context = random.choice(list(fcm_model.model.keys()))
+
+    ### Read Content of target file
+    try:
+        f = open(target_file_name, "r", encoding='utf-8-sig')
+        
+        window_initial_pos = 0
+        window_buffer = []
+
+        initial_chars = f.read(k)
+        for i in range(len(initial_chars)):
+            char = initial_chars[i]
+            if current_context in fcm_model.state_probabilities:
+                if char in fcm_model.state_probabilities[current_context]:
+                    num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
+                else:
+                    num_bits = -math.log2( 1 / different_chars_in_target)
+            else:
+                num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
+            
+            total_num_bits += num_bits
+
+            window_buffer[i] = num_bits
+        
+        if multiplelangflag:
+            window_total_bits = 0
+            for i in range(len(window_buffer)):
+                window_total_bits += window_buffer[i]
+            if window_total_bits/window_size < threshold:
+                sections_dict.append( tuple(window_initial_pos, window_initial_pos+window_size) )
+
+        char = f.read(1)
+        while char:
+            window_initial_pos += 1
+            
+            if current_context in fcm_model.state_probabilities:
+                if char in fcm_model.state_probabilities[current_context]:
+                    num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
+                else:
+                    num_bits = -math.log2( 1 / different_chars_in_target)
+            else:
+                num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
+                
+            total_num_bits += num_bits
+
+            if multiplelangflag: 
+               pass
+
+            current_context = current_context[1:] + char    # Update the context
+            char = f.read(1)                        
+            char_position_in_text += 1
+
+        f.close()
+
+    except OSError:
+        print("Error opening file: ", target_file_name)
+        sys.exit()
+    
+    return total_num_bits
+
+
+
+
+
+
+
+
+
+
+
             
 
 def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
@@ -143,7 +239,7 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
     ### Calculate entropy
     fcm_model.calculate_probabilities()
 
-    bits, foreign_words = get_number_of_bits_required_to_compress(fcm_model, target_file_name, target_alphabet, multiplelangflag)
+    bits, foreign_words = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
 
     return bits, foreign_words
 
