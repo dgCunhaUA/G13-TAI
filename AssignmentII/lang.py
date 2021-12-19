@@ -149,9 +149,9 @@ def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, targ
         f = open(target_file_name, "r", encoding='utf-8-sig')
         
         window_initial_pos = 0
-        window_buffer = []
+        window_buffer = [ None for i in range(window_size)]
 
-        initial_chars = f.read(k)
+        initial_chars = f.read(window_size)
         for i in range(len(initial_chars)):
             char = initial_chars[i]
             if current_context in fcm_model.state_probabilities:
@@ -171,7 +171,7 @@ def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, targ
             for i in range(len(window_buffer)):
                 window_total_bits += window_buffer[i]
             if window_total_bits/window_size < threshold:
-                sections_dict.append( tuple(window_initial_pos, window_initial_pos+window_size) )
+                sections_dict.append( (window_initial_pos, window_initial_pos+window_size) )
 
         char = f.read(1)
         while char:
@@ -188,7 +188,21 @@ def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, targ
             total_num_bits += num_bits
 
             if multiplelangflag: 
-               pass
+                ### Get the char position in buffer that does not belong to this new section
+                previous_char_index = (window_initial_pos + window_size - 1) % window_size
+
+                ### Remove the number of bits of this char to the window_total_bits
+                window_total_bits -= window_buffer[previous_char_index]
+
+                ### Sum the number of bits of the new char to the window_total_bits
+                window_total_bits += num_bits
+
+                ### Save the number of bits of the new char in the previous char position
+                window_buffer[previous_char_index] = num_bits
+
+                if window_total_bits/window_size < threshold:
+                    sections_dict.append( (window_initial_pos, window_initial_pos+window_size) )
+            
 
             current_context = current_context[1:] + char    # Update the context
             char = f.read(1)                        
@@ -200,7 +214,7 @@ def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, targ
         print("Error opening file: ", target_file_name)
         sys.exit()
     
-    return total_num_bits
+    return total_num_bits, sections_dict
 
 
 
@@ -214,24 +228,25 @@ def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, targ
 
             
 
-def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
+def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, target_alphabet=None):
 
-    ### Read Content of target file
-    try:
-        f = open(target_file_name, "r", encoding='utf-8-sig')
+    if target_alphabet == None:
+        ### Read Content of target file
+        try:
+            f = open(target_file_name, "r", encoding='utf-8-sig')
 
-        ### Get Target Alphabet
-        target_alphabet = set()
+            ### Get Target Alphabet
+            target_alphabet = set()
 
-        char = f.read(1)
-        while char:
-            target_alphabet.add(char)
             char = f.read(1)
-        f.close()
+            while char:
+                target_alphabet.add(char)
+                char = f.read(1)
+            f.close()
 
-    except OSError:
-        print("Error opening file: ", target_file_name)
-        sys.exit()
+        except OSError:
+            print("Error opening file: ", target_file_name)
+            sys.exit()
 
     ### Creation of Finite Context Model from reference text
     fcm_model = Fcm(reference_file_name, k, alpha)
@@ -239,9 +254,9 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag):
     ### Calculate entropy
     fcm_model.calculate_probabilities()
 
-    bits, foreign_words = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
+    bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
 
-    return bits, foreign_words
+    return bits, sections
 
 
 
