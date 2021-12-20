@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import argparse
+from typing import Final
 import lang
 import sys
 
@@ -33,6 +34,33 @@ def checkKValue(k):
 
 
 
+def truncate_and_merge_sections(sections_dict, sections, language):
+    merged_sections = []
+    if len(sections) > 1:
+        initial_section = sections[0]           # Get the first section
+        merged_section = initial_section[0]     # Merged section initialized only with the starting value
+        for i in range(1, len(sections)):       # For the next sections
+            previous_section = sections[i-1]    # Get the previous section
+            current_section = sections[i]       # Get the section
+
+            if previous_section[1] < current_section[0] - 1:    # For example: (3, 9) (11, 17) = If 9 < 11 - 1 it means that this section has ended and is not continuos anymore 
+                merged_section = (merged_section, previous_section[1])    # Create final merged section (starting, end). For example (3, 9)
+                merged_sections.append(merged_section)
+                merged_section = current_section[0]      # Assign the current section starting position to final_section
+        
+        merged_section = (merged_section, current_section[1])    # Final merged section is assigned with the end-value of the last section end-value
+        merged_sections.append(merged_section)
+
+    for section in merged_sections:
+        if section in sections_dict:
+            sections_dict[section].append( language )
+        else:
+            sections_dict[section] = [language]
+
+    return sections_dict
+
+
+
 
 def main(target_file_name, k, alpha):
 
@@ -58,7 +86,6 @@ def main(target_file_name, k, alpha):
                                 "UKR": "example/UKR/ukrainian-medium.utf8"
                                 })  
     
-    # TODO Mudar isto provavelmente
     ### Read Content of target file
     try:
         f = open(target_file_name, "r", encoding='utf-8-sig')
@@ -78,34 +105,10 @@ def main(target_file_name, k, alpha):
         sys.exit()
 
 
-
     sections_dict = dict({})
     for language in reference_file_dict:
-        num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet)
-        
-        merged_sections = []
-        if len(sections) > 1:
-            initial_section = sections[0]           # Get the first section
-            merged_section = initial_section[0]     # Merged section initialized only with the starting value
-            for i in range(1, len(sections)):       # For the next sections
-                previous_section = sections[i-1]    # Get the previous section
-                current_section = sections[i]       # Get the section
-
-                if previous_section[1] < current_section[0] - 1:    # For example: (3, 9) (11, 17) = If 9 < 11 - 1 it means that this section has ended and is not continuos anymore 
-                    merged_section = (merged_section, previous_section[1])    # Create final merged section (starting, end). For example (3, 9)
-                    merged_sections.append(merged_section)
-                    merged_section = current_section[0]      # Assign the current section starting position to final_section
-            
-            merged_section = (merged_section, current_section[1])    # Final merged section is assigned with the end-value of the last section end-value
-            merged_sections.append(merged_section)
-
-        for section in merged_sections:
-            if section in sections_dict:
-                sections_dict[section].append( language )
-            else:
-                sections_dict[section] = [language]
-
-    print("\n\n")
+        num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet, None)
+        sections_dict = truncate_and_merge_sections(sections_dict, sections, language)
 
     ### Sort the dicitonary by number of bits
     sections_dict = {k: v for k, v in sorted(sections_dict.items(), key=lambda item: item[0][0] )}
@@ -131,105 +134,23 @@ def main(target_file_name, k, alpha):
 
     if remainder_sections[-1] - initial_pos > 5:
         final_remainder_sections.append( (initial_pos, remainder_sections[-1]) )
+    final_remainder_sections = [(0, 6), (41, 55), (68, 76), (84, 90), (96, 109), (145, 156), (225, 232)]
     print(final_remainder_sections)
     
+    print("Upgrading Threshold")
+    for language in reference_file_dict:
+        num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet, final_remainder_sections)
+        sections_dict = truncate_and_merge_sections(sections_dict, sections, language)
 
-    """
 
-    ### Merge step
-    merged_sections_dict = {}
-    for language in sections_dict:     # For each language
-        sections = sections_dict[language][1]     # Get the sections of this language
-        
-        if len(sections) == 0:          # If this language doesnt have any section, we pass to the next language
-            continue
+    ### Sort the dicitonary by number of bits
+    sections_dict = {k: v for k, v in sorted(sections_dict.items(), key=lambda item: item[0][0] )}
 
-        if len(sections) == 1:          # If this language has only one section
-            merged_sections_dict[language] = [sections[0]]
-            continue
+    for item in sections_dict.items():
+        print("Posições: ", item[0], end="")
+        print(", Language: ", item[1])
 
-        final_sections = []
-        initial_section = sections[0]           # Get the first section
-        merged_section = initial_section[0]      # Merged section initialized only with the starting value
-        for i in range(1, len(sections)):       # For the next sections
-            previous_section = sections[i-1]    # Get the previous section
-            current_section = sections[i]       # Get the section
 
-            if previous_section[1] < current_section[0] - 1:    # For example: (3, 9) (11, 17) = If 9 < 11 - 1 it means that this section has ended and is not continuos anymore 
-                merged_section = (merged_section, previous_section[1])    # Create final merged section (starting, end). For example (3, 9)
-                final_sections.append(merged_section)
-                merged_section = current_section[0]      # Assign the current section starting position to final_section
-        
-        merged_section = (merged_section, current_section[1])    # Final merged section is assigned with the end-value of the last section end-value
-        final_sections.append(merged_section)
-
-        merged_sections_dict[language] = final_sections     # Save the merged sections to dictionary
-            
-    print(merged_sections_dict)
-
-    #remainder_sections = [ i for i in range(target_file_length) ]
-    #print(remainder_sections)
-
-    remainder_text = { k: [] for k in merged_sections_dict.keys() }
-
-    for language in merged_sections_dict:
-        start_text = -1
-        for section in merged_sections_dict[language]:
-            if section[0] == 0:
-                start_text = section[1]
-                continue
-            if section[1] == target_file_length:
-                continue
-            remainder_text[language].append((start_text + 1, section[0] - 1))
-            start_text = section[1]
-
-        if section[1] != target_file_length:
-            remainder_text[language].append((section[1] + 1, target_file_length))
-
-    print(remainder_text)
-
-    merged_remainder_text = []
-    checked_sections = []
-    languages = list(remainder_text.keys())
-    language = languages.pop()
-    print("Primeira language " , language)
-    merged_remainder_text = remainder_text[language]
-    while len(languages) != 0:
-        other_language = languages.pop()
-        print(other_language)
-        new_merged_remainder_text = []
-        for section_idx, section in enumerate(merged_remainder_text):
-            initial_section_value = section[0]
-            end_section_value = section[1]
-            
-            next_sections = [ section for section in remainder_text[other_language] if section not in checked_sections ]
-            for other_section_idx, other_section in enumerate(next_sections):
-        
-                if other_section[0] > initial_section_value:
-                    if other_section[0] > end_section_value:
-                        new_merged_remainder_text.append( (initial_section_value, end_section_value) )
-                        break
-                    initial_section_value = other_section[0]
-
-                if other_section[1] < end_section_value:
-                    new_merged_remainder_text.append( (initial_section_value, other_section[1]) )
-                    initial_section_value = other_section[1]
-                    checked_sections.append(other_section)
-
-                if other_section[1] >= end_section_value:
-                    new_merged_remainder_text.append( (initial_section_value, end_section_value) )
-                    if section_idx != len(merged_remainder_text) - 1:
-                        break
-
-        print("merged")            
-        print(new_merged_remainder_text)
-        merged_remainder_text = new_merged_remainder_text
-
-    print("\n")
-    print(merged_remainder_text)
-                    
-    return merged_sections_dict
-    """
 
     """
     words_dict = dict({})
