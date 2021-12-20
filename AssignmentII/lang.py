@@ -116,201 +116,229 @@ def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, targ
 
 
 
-
-
-
-
-
-
 ####
 # Function that calculates number of bits required to compress a target file using a finite context model from a reference file.
 #   - MultipleLangFlag is used to also store the sections of chars contained in target file that are well compressed.
 ####
-def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, window_size, multiplelangflag, nonlangsections):
+def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, window_size, multiplelangflag):
 
     total_num_bits = 0
     different_chars_in_target = 0
 
+    ### Calculate the number of different chars between the two alphabets
     for char in target_alphabet:
         if char not in fcm_model.alphabet:
             different_chars_in_target += 1
 
     sections_dict = []
 
+    ### Choose a random first context
     current_context = random.choice(list(fcm_model.model.keys()))
 
-    if nonlangsections == None:
-        threshold = math.log2(len(target_alphabet)) / 2   
+    ### Threshold value to determine if a section is well compressed or not
+    threshold = math.log2(len(target_alphabet)) / 2   
 
-        ### Read Content of target file
-        try:
-            f = open(target_file_name, "r", encoding='utf-8-sig')
+    ### Read Content of target file
+    try:
+        f = open(target_file_name, "r", encoding='utf-8-sig')
+        
+        window_initial_pos = 0
+        window_buffer = [ None for i in range(window_size)]     # Window buffer of size k
+
+        initial_chars = f.read(window_size)
+        for i in range(len(initial_chars)):
+            char = initial_chars[i]
+            if current_context in fcm_model.state_probabilities:  # If the current context exists in fcm model
+                if char in fcm_model.state_probabilities[current_context]:  # If char exists in the fcm model
+                    num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
+                else:       # If char doesn't exist in fcm alphabet
+                    num_bits = -math.log2( 1 / different_chars_in_target)
+
+            else:       # If the current context does not exist in fcm model
+                num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
             
-            window_initial_pos = 0
-            window_buffer = [ None for i in range(window_size)]
+            total_num_bits += num_bits
 
-            initial_chars = f.read(window_size)
-            for i in range(len(initial_chars)):
-                char = initial_chars[i]
-                if current_context in fcm_model.state_probabilities:
-                    if char in fcm_model.state_probabilities[current_context]:
-                        num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
-                    else:
-                        num_bits = -math.log2( 1 / different_chars_in_target)
+            window_buffer[i] = num_bits     # Save position and num_bits in buffer
+
+            current_context = current_context[1:] + char    # Update the context
+        
+        if multiplelangflag:
+            window_total_bits = 0
+            ### Sum of number of bits of all chars in current sliding window
+            for i in range(len(window_buffer)):
+                window_total_bits += window_buffer[i]
+
+            if window_total_bits/window_size < threshold:       # If the average value of number of bits of this section is less than the threshold
+                sections_dict.append( (window_initial_pos, window_initial_pos+window_size) )
+
+        ### For the next chars, do the same process
+        char = f.read(1)
+        while char:     
+            window_initial_pos += 1
+            
+            if current_context in fcm_model.state_probabilities:
+                if char in fcm_model.state_probabilities[current_context]:
+                    num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
                 else:
-                    num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
+                    num_bits = -math.log2( 1 / different_chars_in_target)
+            else:
+                num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
                 
-                total_num_bits += num_bits
+            total_num_bits += num_bits
 
-                window_buffer[i] = num_bits
-            
-            if multiplelangflag:
-                window_total_bits = 0
-                for i in range(len(window_buffer)):
-                    window_total_bits += window_buffer[i]
-                if window_total_bits/window_size < threshold:
+            if multiplelangflag: 
+                ### Get the char position in buffer that does not belong to this new section
+                previous_char_index = (window_initial_pos + window_size - 1) % window_size
+
+                ### Remove the number of bits of this char to the window_total_bits
+                window_total_bits -= window_buffer[previous_char_index]
+
+                ### Sum the number of bits of the new char to the window_total_bits
+                window_total_bits += num_bits
+
+                ### Save the number of bits of the new char in the previous char position
+                window_buffer[previous_char_index] = num_bits
+
+                if window_total_bits/window_size < threshold:       # If the average value of number of bits of this section is less than the threshold
                     sections_dict.append( (window_initial_pos, window_initial_pos+window_size) )
-
-            char = f.read(1)
-            while char:
-                window_initial_pos += 1
-                
-                if current_context in fcm_model.state_probabilities:
-                    if char in fcm_model.state_probabilities[current_context]:
-                        num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
-                    else:
-                        num_bits = -math.log2( 1 / different_chars_in_target)
-                else:
-                    num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
-                    
-                total_num_bits += num_bits
-
-                if multiplelangflag: 
-                    ### Get the char position in buffer that does not belong to this new section
-                    previous_char_index = (window_initial_pos + window_size - 1) % window_size
-
-                    ### Remove the number of bits of this char to the window_total_bits
-                    window_total_bits -= window_buffer[previous_char_index]
-
-                    ### Sum the number of bits of the new char to the window_total_bits
-                    window_total_bits += num_bits
-
-                    ### Save the number of bits of the new char in the previous char position
-                    window_buffer[previous_char_index] = num_bits
-
-                    if window_total_bits/window_size < threshold:
-                        sections_dict.append( (window_initial_pos, window_initial_pos+window_size) )
-                
-
-                current_context = current_context[1:] + char    # Update the context
-                char = f.read(1)                        
-
-            f.close()
-
-        except OSError:
-            print("Error opening file: ", target_file_name)
-            sys.exit()
-    else:
-        threshold = (3*math.log2(len(target_alphabet))) / 4   
-        char_position_in_text = 0
-
-        ### Read Content of target file
-        try:
-            f = open(target_file_name, "r", encoding='utf-8-sig')
             
-            for section in nonlangsections:
+            current_context = current_context[1:] + char    # Update the context
+            char = f.read(1)                        
 
-                section_initial_pos = section[0]
-                section_final_pos = section[1]
+        f.close()
 
-                window_initial_pos = 0
-
-                if section_initial_pos - window_size < 0:
-                    f.seek(0)
-                    char_position_in_text = 0
-                    window_initial_pos = 0
-                else:
-                    f.seek(section_initial_pos - window_size)
-                    char_position_in_text = section_initial_pos - window_size
-                    window_initial_pos = section_initial_pos - window_size
-
-                window_buffer = [ None for i in range(window_size)]
-
-                initial_chars = f.read(window_size)
-
-                char_position_in_text += window_size
-
-                for i in range(len(initial_chars)):
-                    char = initial_chars[i]
-                    if current_context in fcm_model.state_probabilities:
-                        if char in fcm_model.state_probabilities[current_context]:
-                            num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
-                        else:
-                            num_bits = -math.log2( 1 / different_chars_in_target)
-                    else:
-                        num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
-                    
-                    total_num_bits += num_bits
-
-                    window_buffer[i] = num_bits
-                
-                window_total_bits = 0
-                for i in range(len(window_buffer)):
-                    window_total_bits += window_buffer[i]
-
-                if window_total_bits/window_size < threshold and window_initial_pos >= section_initial_pos:
-                    sections_dict.append( (window_initial_pos, window_initial_pos+window_size) )
-
-                char = f.read(1)
-                char_position_in_text += 1
-                window_initial_pos += 1
-                while char_position_in_text <= section_final_pos:
-                    
-                    if current_context in fcm_model.state_probabilities:
-                        if char in fcm_model.state_probabilities[current_context]:
-                            num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
-                        else:
-                            num_bits = -math.log2( 1 / different_chars_in_target)
-                    else:
-                        num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
-                        
-                    total_num_bits += num_bits
-
-                    ### Get the char position in buffer that does not belong to this new section
-                    previous_char_index = (window_initial_pos + window_size - 1) % window_size
-
-                    ### Remove the number of bits of this char to the window_total_bits
-                    window_total_bits -= window_buffer[previous_char_index]
-
-                    ### Sum the number of bits of the new char to the window_total_bits
-                    window_total_bits += num_bits
-
-                    ### Save the number of bits of the new char in the previous char position
-                    window_buffer[previous_char_index] = num_bits
-
-                    if window_total_bits/window_size < threshold and window_initial_pos >= section_initial_pos:
-                        sections_dict.append( (window_initial_pos, window_initial_pos+window_size) )
-                    
-
-                    current_context = current_context[1:] + char    # Update the context
-                    char = f.read(1)                        
-                    char_position_in_text += 1
-                    window_initial_pos += 1
-
-            f.close()
-
-        except OSError:
-            print("Error opening file: ", target_file_name)
-            sys.exit()
-
+    except OSError:
+        print("Error opening file: ", target_file_name)
+        sys.exit()
         
     return total_num_bits, sections_dict
 
 
 
+####
+# Function that returns the sections that are well compressed using a higher threshold.
+####
+def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alphabet, window_size, nonlangsections):
+
+    total_num_bits = 0
+    different_chars_in_target = 0
+
+    ### Calculate the number of different chars between the two alphabets
+    for char in target_alphabet:
+        if char not in fcm_model.alphabet:
+            different_chars_in_target += 1
+
+    sections_dict = []
+
+    ### Higher Threshold value to determine if a section is well compressed or not
+    threshold = (3*math.log2(len(target_alphabet))) / 4   
+
+    ### Read Content of target file
+    try:
+        f = open(target_file_name, "r", encoding='utf-8-sig')
+        
+        for section in nonlangsections:
+            section_initial_pos = section[0]    # Get section initial position
+            section_final_pos = section[1]      # Get section final position
+
+            window_initial_pos = section_initial_pos        # Sliding window inital position
+            window_final_pos = section_initial_pos     # Current char position in text
+
+            if section_initial_pos - window_size < 0:   # If there are not enough chars before this section to build a initial context
+                ### Seek file to section initial position
+                f.seek(section_initial_pos)   
+                
+                ### Choose a random first context
+                current_context = random.choice(list(fcm_model.model.keys()))
+            else:
+                ### Seek file to section inital position - window_size in order to read the first context of size window_size
+                f.seek(section_initial_pos - window_size)
+
+                ### Read the first context
+                current_context = f.read(window_size)
+
+            window_buffer = [ None for i in range(window_size)]     # Initialize buffer of size k
+            
+            initial_chars = f.read(window_size)         # Read section's first chars
+
+            window_final_pos += window_size        # Increment the window_final_pos by window_size because we read the initial chars in the previous line
+
+            for i in range(len(initial_chars)):
+                char = initial_chars[i]
+                if current_context in fcm_model.state_probabilities:    # If the current context exists in fcm model
+                    if char in fcm_model.state_probabilities[current_context]:      # If the char exists in fcm model
+                        num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
+                    else:       # If char doesn't exist in fcm alphabet
+                        num_bits = -math.log2( 1 / different_chars_in_target)
+
+                else:   # If the current context does not exist in fcm model
+                    num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
+                
+                total_num_bits += num_bits
+
+                window_buffer[i] = num_bits     # Save position and num_bits in buffer
+                current_context = current_context[1:] + char    # Update the context
             
 
-def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, target_alphabet=None, nonlangsections=None):
+            ### Sum of number of bits of all chars in current sliding window
+            window_total_bits = 0
+            for i in range(len(window_buffer)):
+                window_total_bits += window_buffer[i]
+
+            ### If the average value of the current sliding value is less than the threshold
+            if window_total_bits/window_size < threshold:
+                sections_dict.append( (window_initial_pos, window_final_pos) )
+
+            char = f.read(1)
+            window_final_pos += 1
+            window_initial_pos += 1
+            ### Analyse next chars until we reach the end of the section
+            while window_final_pos <= section_final_pos:
+                
+                if current_context in fcm_model.state_probabilities:
+                    if char in fcm_model.state_probabilities[current_context]:
+                        num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
+                    else:
+                        num_bits = -math.log2( 1 / different_chars_in_target)
+                else:
+                    num_bits = -math.log2( fcm_model.alpha / (fcm_model.alpha*len(fcm_model.alphabet)) )
+                    
+                total_num_bits += num_bits
+
+                ### Get the char position in buffer that does not belong to this new section
+                previous_char_index = (window_initial_pos + window_size - 1) % window_size
+
+                ### Remove the number of bits of this char to the window_total_bits
+                window_total_bits -= window_buffer[previous_char_index]
+
+                ### Sum the number of bits of the new char to the window_total_bits
+                window_total_bits += num_bits
+
+                ### Save the number of bits of the new char in the previous char position
+                window_buffer[previous_char_index] = num_bits
+
+                if window_total_bits/window_size < threshold:       # If the average value of number of bits of this section is less than the threshold
+                    sections_dict.append( (window_initial_pos, window_final_pos) )
+            
+
+                current_context = current_context[1:] + char    # Update the context
+                char = f.read(1)                        
+                window_final_pos += 1
+                window_initial_pos += 1
+
+        f.close()
+
+    except OSError:
+        print("Error opening file: ", target_file_name)
+        sys.exit()
+
+    return total_num_bits, sections_dict
+
+
+            
+
+def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, target_alphabet=None):
 
     if target_alphabet == None:
         ### Read Content of target file
@@ -336,7 +364,7 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, targ
     ### Calculate entropy
     fcm_model.calculate_probabilities()
 
-    bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag, nonlangsections)
+    bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
     #bits, sections = get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag)
     
     return bits, sections

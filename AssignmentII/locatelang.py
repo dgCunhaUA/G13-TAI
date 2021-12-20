@@ -2,6 +2,7 @@
 
 import argparse
 from typing import Final
+from fcm import Fcm
 import lang
 import sys
 
@@ -65,6 +66,7 @@ def truncate_and_merge_sections(sections_dict, sections, language):
 
 def main(target_file_name, k, alpha):
 
+    
     reference_file_dict = dict({"AFG": "example/AFG/afghanistan-medium.utf8",
                                 "AFR": "example/AFR/afrikaans-small.utf8",
                                 "ARA": "example/ARA/arabic-small.utf8",
@@ -85,7 +87,29 @@ def main(target_file_name, k, alpha):
                                 "RUS": "example/RUS/russian-medium.utf8",
                                 "UKR": "example/UKR/ukrainian-medium.utf8"
                                 })  
-    
+    """
+    # Small references texts
+    reference_file_dict = dict({"AFG": "example/AFG/afghanistan-small.utf8",
+                                "AFR": "example/AFR/afrikaans-small.utf8",
+                                "ARA": "example/ARA/arabic-small.utf8",
+                                "BUL": "example/BUL/bulgarian-small.utf8",
+                                "CRO": "example/CRO/croatian-small.utf8",
+                                "DEN": "example/DEN/danish-small.utf8",
+                                "ENG": "example/ENG/gb_english.utf8",
+                                "SPA": "example/ESP/spanish-small.txt",
+                                "FIN": "example/FIN/finnish-small.utf8",
+                                "FRA": "example/FRA/french-small.utf8",
+                                "GER": "example/GER/german-small.utf8",
+                                "GRE": "example/GRE/greek-small.utf8",
+                                "HUN": "example/HUN/hungarian-small.utf8",
+                                "ICE": "example/ICE/icelandic-small.utf8",
+                                "ITA": "example/ITA/italian-small.utf8",
+                                "POL": "example/POL/polish-small.utf8",
+                                "POR": "example/POR/portuguese-small.utf8",
+                                "RUS": "example/RUS/russian-small.utf8",
+                                "UKR": "example/UKR/ukrainian-small.utf8"
+                                })  
+    """
     ### Read Content of target file
     try:
         f = open(target_file_name, "r", encoding='utf-8-sig')
@@ -108,9 +132,14 @@ def main(target_file_name, k, alpha):
 
     sections_dict = dict({})
     for language in reference_file_dict:
+        ### Creation of Finite Context Model from reference text
+        fcm_model = Fcm(reference_file_dict[language], k, alpha)
+
+        ### Calculate entropy
+        fcm_model.calculate_probabilities()
 
         ### Get the sections of target text that are well compressed using the language
-        num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet, None)
+        num_bits, sections = lang.get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, True)
 
         ### Save the sections to main dictionary
         sections_dict = truncate_and_merge_sections(sections_dict, sections, language)
@@ -145,9 +174,15 @@ def main(target_file_name, k, alpha):
     
 
     for language in reference_file_dict:
-        ### Get the sections of the remainder sections that are well compressed using the language using a larger threshold
-        num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet, remainder_sections)
+        ### Creation of Finite Context Model from reference text
+        fcm_model = Fcm(reference_file_dict[language], k, alpha)
+
+        ### Calculate entropy
+        fcm_model.calculate_probabilities()
         
+        ### Get the sections of the remainder sections that are well compressed using the language using a larger threshold
+        num_bits, sections = lang.get_sections_from_remaining_sections(fcm_model, target_file_name, target_alphabet, k, remainder_sections)
+
         ### Truncate the sections and save them to the main dictionary
         sections_dict = truncate_and_merge_sections(sections_dict, sections, language)
 
