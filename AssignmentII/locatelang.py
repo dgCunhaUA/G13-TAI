@@ -35,6 +35,7 @@ def checkKValue(k):
 
 
 def truncate_and_merge_sections(sections_dict, sections, language):
+    ### Function to truncate the sections, for example: [(3,8), (5,10), (12,17), (16,21), (20,25)] -> [(3,10), (12,25)] 
     merged_sections = []
     if len(sections) > 1:
         initial_section = sections[0]           # Get the first section
@@ -51,7 +52,7 @@ def truncate_and_merge_sections(sections_dict, sections, language):
         merged_section = (merged_section, current_section[1])    # Final merged section is assigned with the end-value of the last section end-value
         merged_sections.append(merged_section)
 
-    for section in merged_sections:
+    for section in merged_sections:     # Save the sections and language to main dictionary
         if section in sections_dict:
             sections_dict[section].append( language )
         else:
@@ -63,7 +64,6 @@ def truncate_and_merge_sections(sections_dict, sections, language):
 
 
 def main(target_file_name, k, alpha):
-
 
     reference_file_dict = dict({"AFG": "example/AFG/afghanistan-medium.utf8",
                                 "AFR": "example/AFR/afrikaans-small.utf8",
@@ -105,41 +105,50 @@ def main(target_file_name, k, alpha):
         sys.exit()
 
 
+
     sections_dict = dict({})
     for language in reference_file_dict:
+
+        ### Get the sections of target text that are well compressed using the language
         num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet, None)
+
+        ### Save the sections to main dictionary
         sections_dict = truncate_and_merge_sections(sections_dict, sections, language)
 
-    ### Sort the dicitonary by number of bits
+    ### Sort the dicitonary by sections positions
     sections_dict = {k: v for k, v in sorted(sections_dict.items(), key=lambda item: item[0][0] )}
 
-    remainder_sections = []
+    ### Get the sections that were not well compressed by any language
+    remainder_positions = []     # List that will contain all positions of target text that were not comprresed by any language
     for i in range(target_file_length):
         valid = True
         for section in sections_dict:
-            if section[0] == i:
+            if section[0] == i:     
                 valid = False
             elif section[0] < i and section[1] >= i :
                 valid = False
         if valid:
-            remainder_sections.append( i )
+            remainder_positions.append( i )
 
-    final_remainder_sections = []
+    ### Convert the list of positions that were not compressed by any language to a list of sections [(start, end), (start, end), ...]
+    remainder_sections = []
     initial_pos = 0
-    for i in range(len(remainder_sections) - 1):
-        if remainder_sections[i] + 1 != remainder_sections[i+1]:
-            if remainder_sections[i] - initial_pos > 5:
-                final_remainder_sections.append( (initial_pos, remainder_sections[i]) )
-            initial_pos = remainder_sections[i + 1]
-
-    if remainder_sections[-1] - initial_pos > 5:
-        final_remainder_sections.append( (initial_pos, remainder_sections[-1]) )
-    final_remainder_sections = [(0, 6), (41, 55), (68, 76), (84, 90), (96, 109), (145, 156), (225, 232)]
-    print(final_remainder_sections)
+    for i in range(len(remainder_positions) - 1):   
+        if remainder_positions[i] + 1 != remainder_positions[i+1]:
+            if remainder_positions[i] - initial_pos > k:    # Check if the length of the section is greater than k
+                remainder_sections.append( (initial_pos, remainder_positions[i]) )
+            initial_pos = remainder_positions[i + 1]
     
-    print("Upgrading Threshold")
+    ### Repeat the process for the final section
+    if remainder_positions[-1] - initial_pos > k:           # Check if the length of the section is greater than k      
+        remainder_sections.append( (initial_pos, remainder_positions[-1]) )
+    
+
     for language in reference_file_dict:
-        num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet, final_remainder_sections)
+        ### Get the sections of the remainder sections that are well compressed using the language using a larger threshold
+        num_bits, sections = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet, remainder_sections)
+        
+        ### Truncate the sections and save them to the main dictionary
         sections_dict = truncate_and_merge_sections(sections_dict, sections, language)
 
 
@@ -147,15 +156,15 @@ def main(target_file_name, k, alpha):
     sections_dict = {k: v for k, v in sorted(sections_dict.items(), key=lambda item: item[0][0] )}
 
     for item in sections_dict.items():
-        print("Posições: ", item[0], end="")
+        print("Positions: ", item[0], end="")
         print(", Language: ", item[1])
 
-
-
+    return sections_dict
+    
     """
     words_dict = dict({})
     for language in reference_file_dict:
-        num_bits, words = lang.main(reference_file_dict[language], target_file_name, k, alpha, True)
+        num_bits, words = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet)
         words_dict[language] = [words, num_bits]
 
         print("\nLanguage: ", language)

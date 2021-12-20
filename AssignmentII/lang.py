@@ -40,7 +40,7 @@ def checkKValue(k):
 # Function that calculates number of bits required to compress a target file using a finite context model from a reference file.
 #   - MultipleLangFlag is used to also store the set of words contained in target file that belong to reference file language.
 ####
-
+"""
 def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag):
 
     total_num_bits = 0
@@ -111,8 +111,7 @@ def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, targ
     
     return total_num_bits, words
 
-
-
+"""
 
 
 
@@ -125,9 +124,8 @@ def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, targ
 
 ####
 # Function that calculates number of bits required to compress a target file using a finite context model from a reference file.
-#   - MultipleLangFlag is used to also store the set of words contained in target file that belong to reference file language.
+#   - MultipleLangFlag is used to also store the sections of chars contained in target file that are well compressed.
 ####
-
 def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, window_size, multiplelangflag, nonlangsections):
 
     total_num_bits = 0
@@ -310,10 +308,6 @@ def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, targ
 
 
 
-
-
-
-
             
 
 def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, target_alphabet=None, nonlangsections=None):
@@ -343,7 +337,8 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, targ
     fcm_model.calculate_probabilities()
 
     bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag, nonlangsections)
-
+    #bits, sections = get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag)
+    
     return bits, sections
 
 
