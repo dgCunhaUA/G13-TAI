@@ -39,6 +39,8 @@ def checkKValue(k):
 ####
 # Function that calculates number of bits required to compress a target file using a finite context model from a reference file.
 #   - MultipleLangFlag is used to also store the set of words contained in target file that belong to reference file language.
+#
+# Note: This function is used by a second implementation of locatelang.py. Detailed explanation was written in report document.
 ####
 """
 def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag):
@@ -336,38 +338,126 @@ def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alp
     return total_num_bits, sections_dict
 
 
+
+
+
+####
+# Function that calculates number of bits required to compress a target file using multiple finite context models from a reference file.
+####
+def get_number_of_bits_required_to_compress_multiplemodel(first_fcm_model, second_fcm_model, target_file_name, target_alphabet):
+
+    total_num_bits = 0
+    percentage_first_model = 0.5
+    percentage_second_model = 0.5
+    different_chars_in_target = 0
+
+    ### Calculate the number of different chars between the two alphabets (Since both models are created from same file, the value will be the same in both models.)
+    for char in target_alphabet:
+        if char not in first_fcm_model.alphabet:
+            different_chars_in_target += 1
+
+    ### Choose a random first context from second_fcm_model since it requires a bigger context (k=4)
+    current_context_first_model = random.choice(list(first_fcm_model.model.keys()))  
+    current_context_second_model = random.choice(list(second_fcm_model.model.keys()))  
+
+
+    ### Read Content of target file
+    try:
+        f = open(target_file_name, "r", encoding='utf-8-sig')
+
+        char = f.read(1)
+        while char:
+
+            ### Calculate required bits with first model
+            if current_context_first_model in first_fcm_model.state_probabilities:
+                if char in first_fcm_model.state_probabilities[current_context_first_model]:
+                    num_bits_first_model = -math.log2( first_fcm_model.state_probabilities[current_context_first_model][char] )
+                else:
+                    num_bits_first_model = -math.log2( 1 / different_chars_in_target)
+            else:
+                num_bits_first_model = -math.log2( first_fcm_model.alpha / (first_fcm_model.alpha*len(first_fcm_model.alphabet)) )
+
+            ### Calculate required bits with second model
+            if current_context_second_model in second_fcm_model.state_probabilities:
+                if char in second_fcm_model.state_probabilities[current_context_second_model]:
+                    num_bits_second_model = -math.log2( second_fcm_model.state_probabilities[current_context_second_model][char] )
+                else:
+                    num_bits_second_model = -math.log2( 1 / different_chars_in_target)
+            else:
+                num_bits_second_model = -math.log2( second_fcm_model.alpha / (second_fcm_model.alpha*len(second_fcm_model.alphabet)) )
+            
+            total_num_bits += (percentage_first_model*num_bits_first_model) + (percentage_second_model*num_bits_second_model)
+
+
+            ### Update percentage of each model
+            if num_bits_first_model < num_bits_second_model and percentage_first_model <= 0.97:
+                percentage_first_model += 0.02
+                percentage_second_model -= 0.02
+            elif num_bits_second_model < num_bits_first_model and percentage_second_model <= 0.97:
+                percentage_first_model -= 0.02
+                percentage_second_model += 0.02
+
+
+            current_context_first_model = current_context_first_model[1:] + char        # Update the context
+            current_context_second_model = current_context_second_model[1:] + char      # Update the context
+            char = f.read(1)                        
+
+        f.close()
+
+    except OSError:
+        print("Error opening file: ", target_file_name)
+        sys.exit()
+        
+    return total_num_bits
+
+
+
+
             
 
-def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, target_alphabet=None):
+def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, multipleModelsFlag):
 
-    if target_alphabet == None:
-        ### Read Content of target file
-        try:
-            f = open(target_file_name, "r", encoding='utf-8-sig')
-
-            ### Get Target Alphabet
-            target_alphabet = set()
-
-            char = f.read(1)
-            while char:
-                target_alphabet.add(char)
-                char = f.read(1)
-            f.close()
-
-        except OSError:
-            print("Error opening file: ", target_file_name)
-            sys.exit()
-
-    ### Creation of Finite Context Model from reference text
-    fcm_model = Fcm(reference_file_name, k, alpha)
-
-    ### Calculate entropy
-    fcm_model.calculate_probabilities()
-
-    bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
-    #bits, sections = get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag)
     
-    return bits, sections
+    ### Read Content of target file
+    try:
+        f = open(target_file_name, "r", encoding='utf-8-sig')
+
+        ### Get Target Alphabet
+        target_alphabet = set()
+
+        char = f.read(1)
+        while char:
+            target_alphabet.add(char)
+            char = f.read(1)
+        f.close()
+
+    except OSError:
+        print("Error opening file: ", target_file_name)
+        sys.exit()
+
+    if multipleModelsFlag:
+        first_fcm_model = Fcm(reference_file_name, 2, alpha)
+        first_fcm_model.calculate_probabilities()
+
+        second_fcm_model =  Fcm(reference_file_name, 4, alpha)
+        second_fcm_model.calculate_probabilities()
+                
+        bits = get_number_of_bits_required_to_compress_multiplemodel(first_fcm_model, second_fcm_model, target_file_name, target_alphabet)
+        
+        return bits
+    else:
+        ### Creation of Finite Context Model from reference text
+        fcm_model = Fcm(reference_file_name, k, alpha)
+
+        ### Calculate entropy
+        fcm_model.calculate_probabilities()
+
+        bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
+    
+        ### Following line needs to be uncommented in order to use second implementation of locatelang.py. Detailed explanation was written in report document.
+        #bits, sections = get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag)
+    
+        return bits, sections
 
 
 
@@ -379,6 +469,8 @@ if __name__ == "__main__":
     parser.add_argument('-k', type=checkKValue, required=True, help='Context length')
     parser.add_argument('-a', type=checkAlphaValue, required=True, help='Desired size of the generated text')
     parser.add_argument('--multiplelang', action='store_true', required=False, default=False, help='Flag to check for multiple lang in the target text')
+    parser.add_argument('--multiplemodels', action='store_true', required=False, default=False, help='Flag to use multiple fcmodels to predict language for target text')
+
     args = parser.parse_args()
 
     reference_file_name = args.freference
@@ -386,7 +478,11 @@ if __name__ == "__main__":
     k = args.k
     alpha = args.a
     multiplelangflag = args.multiplelang
-    
-    bits, foreign_words = main(reference_file_name, target_file_name, k, alpha, multiplelangflag)
+    multipleModelsFlag = args.multiplemodels
+
+    if multipleModelsFlag:
+        bits = main(reference_file_name, target_file_name, k, alpha, multiplelangflag, multipleModelsFlag)
+    else:
+        bits, foreign_words = main(reference_file_name, target_file_name, k, alpha, multiplelangflag, multipleModelsFlag)
     print("Number of bits required to compress: ", round(bits, 3))
     

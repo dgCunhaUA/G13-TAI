@@ -196,10 +196,14 @@ def main(target_file_name, k, alpha):
 
     return sections_dict
     
+
+    ###
+    # The next comments section contains a second implementation to the problem. Detailed explanation was written in report document.
+    ###
     """
     words_dict = dict({})
     for language in reference_file_dict:
-        num_bits, words = lang.main(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet)
+        num_bits, words = lang.get_number_of_bits_required_to_compress_v1(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet)
         words_dict[language] = [words, num_bits]
 
         print("\nLanguage: ", language)
