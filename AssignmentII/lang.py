@@ -452,6 +452,7 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, mult
         fcm_model.calculate_probabilities()
 
         bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
+
     
         return bits, sections
 
