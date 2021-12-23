@@ -129,7 +129,9 @@ def main(target_file_name, k, alpha):
         sys.exit()
 
 
-
+    ##
+    #   Sliding window implementation
+    ##
     sections_dict = dict({})
     for language in reference_file_dict:
         ### Creation of Finite Context Model from reference text
@@ -195,19 +197,27 @@ def main(target_file_name, k, alpha):
         print(", Language: ", item[1])
 
     return sections_dict
-    
+    ##
+    #   End of Sliding window implementation
+    ##
+
+
 
     ###
-    # The next comments section contains a second implementation to the problem. Detailed explanation was written in report document.
+    #   Words sections implementation. Detailed explanation was written in report document.
     ###
     """
     words_dict = dict({})
     for language in reference_file_dict:
-        num_bits, words = lang.get_number_of_bits_required_to_compress_v1(reference_file_dict[language], target_file_name, k, alpha, True, target_alphabet)
+        ### Creation of Finite Context Model from reference text
+        fcm_model = Fcm(reference_file_dict[language], k, alpha)
+
+        ### Calculate entropy
+        fcm_model.calculate_probabilities()
+
+        num_bits, words = lang.get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, True)
         words_dict[language] = [words, num_bits]
 
-        print("\nLanguage: ", language)
-        print("Dictionary: ", words_dict[language])
 
     ### Sort the dicitonary by number of bits
     words_dict = {k: v for k, v in sorted(words_dict.items(), key=lambda item: item[1][1] )}
@@ -246,6 +256,9 @@ def main(target_file_name, k, alpha):
     print("Language Sections: ", merged_words_dict)
     return words_dict
     """
+    ###
+    #   End of Words sections implementation. 
+    ###
 
 
 if __name__ == "__main__":

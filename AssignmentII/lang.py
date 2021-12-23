@@ -42,7 +42,6 @@ def checkKValue(k):
 #
 # Note: This function is used by a second implementation of locatelang.py. Detailed explanation was written in report document.
 ####
-"""
 def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag):
 
     total_num_bits = 0
@@ -113,7 +112,7 @@ def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, targ
     
     return total_num_bits, words
 
-"""
+
 
 
 
@@ -453,9 +452,6 @@ def main(reference_file_name, target_file_name, k, alpha, multiplelangflag, mult
         fcm_model.calculate_probabilities()
 
         bits, sections = get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, target_alphabet, k, multiplelangflag)
-    
-        ### Following line needs to be uncommented in order to use second implementation of locatelang.py. Detailed explanation was written in report document.
-        #bits, sections = get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, multiplelangflag)
     
         return bits, sections
 
