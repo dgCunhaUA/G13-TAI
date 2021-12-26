@@ -216,7 +216,6 @@ def get_number_of_bits_required_to_compress_v2(fcm_model, target_file_name, targ
     return total_num_bits, sections_dict
 
 
-
 ####
 # Function that returns the sections that are well compressed using a higher threshold.
 ####
@@ -238,7 +237,10 @@ def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alp
     ### Read Content of target file
     try:
         f = open(target_file_name, "r", encoding='utf-8-sig')
-        
+
+        line = f.readline()         # Read initial line
+        initial_char_in_line_position = 0
+        number_of_chars_read = len(line)
         for section in nonlangsections:
             section_initial_pos = section[0]    # Get section initial position
             section_final_pos = section[1]      # Get section final position
@@ -246,27 +248,57 @@ def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alp
             window_initial_pos = section_initial_pos        # Sliding window inital position
             window_final_pos = section_initial_pos     # Current char position in text
 
-            if section_initial_pos - window_size < 0:   # If there are not enough chars before this section to build a initial context
-                ### Seek file to section initial position
-                f.seek(section_initial_pos)   
+            section_chars = ""      # String to store the section chars
+            
+            # Get section_chars and context
+            while True:
                 
-                ### Choose a random first context
-                current_context = random.choice(list(fcm_model.model.keys()))
-            else:
-                ### Seek file to section inital position - window_size in order to read the first context of size window_size
-                f.seek(section_initial_pos - window_size)
+                ### Convert section position in target text to line index position
+                initial_section_position_in_line_string = section_initial_pos - initial_char_in_line_position
+                final_section_position_in_line_string = section_final_pos - initial_char_in_line_position
 
-                ### Read the first context
-                current_context = f.read(window_size)
+                # If section is in the current line
+                if section_final_pos < number_of_chars_read:
+                    if section_initial_pos - window_size < 0:   # If there are not enough chars before this section to build a initial context
+                        ### Choose a random first context
+                        current_context = random.choice(list(fcm_model.model.keys()))
+                        ### Get all the chars of the section
+                        section_chars = line[initial_section_position_in_line_string:final_section_position_in_line_string]
+                    else:
+                        ### Read the original context
+                        current_context = line[initial_section_position_in_line_string - window_size:initial_section_position_in_line_string]
+                        ### Get all the chars of the section
+                        section_chars = line[initial_section_position_in_line_string:final_section_position_in_line_string]
+                    break
+
+                # If section is between two lines
+                elif section_final_pos > number_of_chars_read and section_initial_pos < number_of_chars_read:
+                    ### Read the original context
+                    current_context = line[initial_section_position_in_line_string - window_size:initial_section_position_in_line_string]
+                    ### Read the chars from the current line
+                    section_chars = line[initial_section_position_in_line_string:]
+
+                    ### Read next line
+                    line = f.readline()
+                    initial_char_in_line_position = number_of_chars_read
+                    number_of_chars_read += len(line)
+
+                    ### Read the chars from the next line
+                    section_chars += line[:section_final_pos - initial_char_in_line_position]
+                    break
+
+                # If section is not in the current line we read another line
+                else:
+                    line = f.readline()
+                    initial_char_in_line_position = number_of_chars_read
+                    number_of_chars_read += len(line)
 
             window_buffer = [ None for i in range(window_size)]     # Initialize buffer of size k
-            
-            initial_chars = f.read(window_size)         # Read section's first chars
 
             window_final_pos += window_size        # Increment the window_final_pos by window_size because we read the initial chars in the previous line
 
-            for i in range(len(initial_chars)):
-                char = initial_chars[i]
+            for i in range(window_size):
+                char = section_chars[i]
                 if current_context in fcm_model.state_probabilities:    # If the current context exists in fcm model
                     if char in fcm_model.state_probabilities[current_context]:      # If the char exists in fcm model
                         num_bits = -math.log2( fcm_model.state_probabilities[current_context][char] )
@@ -280,7 +312,6 @@ def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alp
 
                 window_buffer[i] = num_bits     # Save position and num_bits in buffer
                 current_context = current_context[1:] + char    # Update the context
-            
 
             ### Sum of number of bits of all chars in current sliding window
             window_total_bits = 0
@@ -291,11 +322,10 @@ def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alp
             if window_total_bits/window_size < threshold:
                 sections_dict.append( (window_initial_pos, window_final_pos) )
 
-            char = f.read(1)
             window_final_pos += 1
             window_initial_pos += 1
-            ### Analyse next chars until we reach the end of the section
-            while window_final_pos <= section_final_pos:
+            ### Analyse next chars of the section
+            for char in section_chars[window_size:]:
                 
                 if current_context in fcm_model.state_probabilities:
                     if char in fcm_model.state_probabilities[current_context]:
@@ -322,9 +352,7 @@ def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alp
                 if window_total_bits/window_size < threshold:       # If the average value of number of bits of this section is less than the threshold
                     sections_dict.append( (window_initial_pos, window_final_pos) )
             
-
-                current_context = current_context[1:] + char    # Update the context
-                char = f.read(1)                        
+                current_context = current_context[1:] + char    # Update the context                 
                 window_final_pos += 1
                 window_initial_pos += 1
 
@@ -335,7 +363,6 @@ def get_sections_from_remaining_sections(fcm_model, target_file_name, target_alp
         sys.exit()
 
     return total_num_bits, sections_dict
-
 
 
 

@@ -81,12 +81,20 @@ def main(target_file_name, k, alpha, multipleModelsFlag):
 
     print("Searching for the best language...")
     best_choice = (None, None)
-    for language in reference_file_dict:
-        num_bits, words = lang.main(reference_file_dict[language], target_file_name, k, alpha, False, multipleModelsFlag)
-        
-        if best_choice[1] == None or best_choice[1] > num_bits:
-            best_choice = (language, num_bits)
+
+    if multipleModelsFlag:
+        for language in reference_file_dict:
+            num_bits = lang.main(reference_file_dict[language], target_file_name, k, alpha, False, multipleModelsFlag)
             
+            if best_choice[1] == None or best_choice[1] > num_bits:
+                best_choice = (language, num_bits)
+    else:
+        for language in reference_file_dict:
+            num_bits, words = lang.main(reference_file_dict[language], target_file_name, k, alpha, False, multipleModelsFlag)
+            
+            if best_choice[1] == None or best_choice[1] > num_bits:
+                best_choice = (language, num_bits)
+                
     print("Target file name: ", target_file_name)
     print("Predicted Language: ", best_choice[0])
 
@@ -103,6 +111,6 @@ if __name__ == "__main__":
     k = args.k
     alpha = args.a
     multipleModelsFlag = args.multiplemodels
-
+    
     main(target_file_name, k, alpha, multipleModelsFlag)
     

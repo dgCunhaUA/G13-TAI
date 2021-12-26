@@ -148,7 +148,7 @@ def main(target_file_name, k, alpha):
 
     ### Sort the dicitonary by sections positions
     sections_dict = {k: v for k, v in sorted(sections_dict.items(), key=lambda item: item[0][0] )}
-
+    """
     ### Get the sections that were not well compressed by any language
     remainder_positions = []     # List that will contain all positions of target text that were not comprresed by any language
     for i in range(target_file_length):
@@ -173,7 +173,6 @@ def main(target_file_name, k, alpha):
     ### Repeat the process for the final section
     if remainder_positions[-1] - initial_pos > k:           # Check if the length of the section is greater than k      
         remainder_sections.append( (initial_pos, remainder_positions[-1]) )
-    
 
     for language in reference_file_dict:
         ### Creation of Finite Context Model from reference text
@@ -191,7 +190,7 @@ def main(target_file_name, k, alpha):
 
     ### Sort the dicitonary by number of bits
     sections_dict = {k: v for k, v in sorted(sections_dict.items(), key=lambda item: item[0][0] )}
-
+    """
     for item in sections_dict.items():
         print("Positions: ", item[0], end="")
         print(", Language: ", item[1])
