@@ -2,9 +2,11 @@
 
 # Assignment I - Teoria Algorítmica da Informação
 
-#### 92969 - Diogo Carvalho - Participação 1/3 
-#### 95278 - Diogo Cunha - Participação 1/3 
-#### 93367 - Rafael Baptista - Participação 1/3 
+92969 - Diogo Carvalho - Participação 1/3 
+
+95278 - Diogo Cunha - Participação 1/3 
+
+93367 - Rafael Baptista - Participação 1/3 
 
 
 ## Instruções de execução
