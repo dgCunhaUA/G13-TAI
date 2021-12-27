@@ -21,6 +21,11 @@ Argumentos Opcionais:
 --multiplemodels    Usar modelos com tamanho de contextos diferentes
 ```
 
+```
+Exemplo de uso:
+python3 src/lang.py -freference example/POR/portuguese-medium.txt -ftarget example/POR/portuguese-small.utf8 -k 4 -a 0.5
+```
+
 ### Findlang
 Programa capaz de reconhecer em que língua um determinado texto alvo está escrito.
 
@@ -33,8 +38,19 @@ Argumentos Opcionais:
 --multiplemodels    Usar modelos com tamanho de contextos diferentes
 ```
 
+```
+Exemplo de uso:
+python3 src/findlang.py -ftarget example/POR/portuguese-small.utf8 -k 4 -a 0.5
+```
+
 ### Locatelang
 Programa capaz de reconhecer em que secções e respetivas línguas um determinado texto alvo escrito em várias línguas possui.
+
 ```
 python3 locatelang.py -ftarget path_do_ficheiro -k tamanho_do_contexto -a smoothing_parameter
+```
+
+```
+Exemplo de uso:
+python3 src/locatelang.py -ftarget example/multilang1-PT-ENG-PT.txt -k 4 -a 0.5
 ```
