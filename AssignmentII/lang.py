@@ -53,7 +53,7 @@ def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, targ
 
     threshold = -math.log2(fcm_model.alpha / (fcm_model.alpha * len(fcm_model.alphabet)))   
 
-    words = dict({})
+    words = []
     char_position_in_text = 0
 
     current_context = random.choice(list(fcm_model.model.keys()))
@@ -90,7 +90,7 @@ def get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, targ
                             valid_word = False          # Flag to tell that this word has symbols that are not in this language, that's why it will not be saved
                     else:
                         if valid_word and len(new_word) > 2:      # Check if the word is valid. 1 - If it has no foreign symbols; 2 - If it has more than two chars
-                            words[(new_word, initial_position + 1)] = round(word_total_bits, 3)
+                            words.append( (initial_position + 1, char_position_in_text) )
                         word_creation = False           # Word creation process ended
                 
                 if char == " " and not word_creation:   # This means that a new word will be created

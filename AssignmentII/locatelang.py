@@ -37,6 +37,24 @@ def checkKValue(k):
 
 def truncate_and_merge_sections(sections_dict, sections, language):
     ### Function to truncate the sections, for example: [(3,8), (5,10), (12,17), (16,21), (20,25)] -> [(3,10), (12,25)] 
+
+    # Get sections from this language that are already in dictionary and remove them from the dictionary
+    sections_to_remove = []     # List to save sections that need to be removed from the dictionary because they will have an empty list of languages
+    for section in sections_dict:
+        if language in sections_dict[section]:
+            sections.append(section)    # Append section to the new sections list
+            if len(sections_dict[section]) == 1:
+                sections_to_remove.append(section)
+            else:
+                sections_dict[section].remove(language)
+
+    # Remove those sections from the final dictionary in order to truncate them with the new ones
+    for section in sections_to_remove:
+        del sections_dict[section]
+
+    # Order the sections
+    sections = [ elem for elem in sorted(sections, key=lambda item: item[0]) ]
+
     merged_sections = []
     if len(sections) > 1:
         initial_section = sections[0]           # Get the first section
@@ -52,6 +70,9 @@ def truncate_and_merge_sections(sections_dict, sections, language):
         
         merged_section = (merged_section, current_section[1])    # Final merged section is assigned with the end-value of the last section end-value
         merged_sections.append(merged_section)
+    elif len(sections) == 1:        # If sections only have one section, we just add it to merged_sections
+        merged_sections.append(sections[0])
+
 
     for section in merged_sections:     # Save the sections and language to main dictionary
         if section in sections_dict:
@@ -128,7 +149,6 @@ def main(target_file_name, k, alpha):
         print("Error opening file: ", target_file_name)
         sys.exit()
 
-
     ##
     #   Sliding window implementation
     ##
@@ -174,6 +194,7 @@ def main(target_file_name, k, alpha):
     if remainder_positions[-1] - initial_pos > k:           # Check if the length of the section is greater than k      
         remainder_sections.append( (initial_pos, remainder_positions[-1]) )
 
+
     for language in reference_file_dict:
         ### Creation of Finite Context Model from reference text
         fcm_model = Fcm(reference_file_dict[language], k, alpha)
@@ -201,11 +222,10 @@ def main(target_file_name, k, alpha):
     ##
 
 
-
+    """
     ###
     #   Words sections implementation. Detailed explanation was written in report document.
     ###
-    """
     words_dict = dict({})
     for language in reference_file_dict:
         ### Creation of Finite Context Model from reference text
@@ -215,44 +235,34 @@ def main(target_file_name, k, alpha):
         fcm_model.calculate_probabilities()
 
         num_bits, words = lang.get_number_of_bits_required_to_compress_v1(fcm_model, target_file_name, target_alphabet, True)
-        words_dict[language] = [words, num_bits]
+        if words != []:
+            words_dict[language] = words
+
+    ### Truncate step
+    for language in words_dict:
+        sections = words_dict[language]
+        if len(sections) > 1:
+            initial_section = sections[0]           # Get the first section
+            merged_section = initial_section[0]     # Merged section initialized only with the starting value
+            merged_sections = []
+            for i in range(1, len(sections)):       # For the next sections
+                previous_section = sections[i-1]    # Get the previous section
+                current_section = sections[i]       # Get the section
+
+                if previous_section[1] < current_section[0] - 1:    # For example: (3, 9) (11, 17) = If 9 < 11 - 1 it means that this section has ended and is not continuos anymore 
+                    merged_section = (merged_section, previous_section[1])    # Create final merged section (starting, end). For example (3, 9)
+                    merged_sections.append(merged_section)
+                    merged_section = current_section[0]      # Assign the current section starting position to final_section
+            
+            merged_section = (merged_section, current_section[1])    # Final merged section is assigned with the end-value of the last section end-value
+            merged_sections.append(merged_section)
+            words_dict[language] = merged_sections
 
 
-    ### Sort the dicitonary by number of bits
-    words_dict = {k: v for k, v in sorted(words_dict.items(), key=lambda item: item[1][1] )}
-
-    ### Merge step
-    merged_words_dict = {}
-    for language in words_dict:     # For each language
-        words = words_dict[language][0]     # Get the words of this language
-        for word in words:     # For each word
-            position_in_text = word[1]
-            num_bits = words[word]
-            if position_in_text in merged_words_dict:      # If the word is already in the merged dictionary
-                assigned_language = merged_words_dict[position_in_text]     # Get the language that the word has at the moment
-                if num_bits < words_dict[ assigned_language ][0][word]:     # If the new language compresses the word with less bits
-                    merged_words_dict[position_in_text] = language          # Save the language that compresses with less bits
-            else:
-                merged_words_dict[position_in_text] = language   # Add the word to dictionary and save Ex: 4: ("ENG", 3.424)
+    for language in words_dict:
+        print("Language : " + language)
+        print(words_dict[language])
     
-    ### Sort the final dictionary by positions in text (keys)
-    merged_words_dict = {k: v for k, v in sorted(merged_words_dict.items(), key=lambda item: item[0] )}
-
-    #print("\nMerged Dictionary: ", merged_words_dict, "\n")
-
-    ### "truncate" the merged dict. Remove positions that have the same language of their last "neighbour"
-    positions_in_text_list = list(merged_words_dict.keys())    # List of the merged dict keys
-    positions_to_remove = []
-    for i in range(len(positions_in_text_list)-1):
-        if (merged_words_dict[positions_in_text_list[i]] == merged_words_dict[positions_in_text_list[i+1]]):
-            positions_to_remove.append(positions_in_text_list[i+1])
-
-    for position in positions_to_remove:
-        del merged_words_dict[position]
-
-
-    print("Target file name: ", target_file_name)
-    print("Language Sections: ", merged_words_dict)
     return words_dict
     """
     ###
