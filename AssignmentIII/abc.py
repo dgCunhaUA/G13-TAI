@@ -31,5 +31,5 @@ class Abc:
                 database_path+filename+".wav",
                 "-G",
                 "-r 44100",
-                database_path+filename+".wav"
+                "./musics/"+filename+".wav"
             ])
