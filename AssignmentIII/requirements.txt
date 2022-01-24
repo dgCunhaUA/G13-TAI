@@ -1,2 +1,3 @@
-pydub
 ffmpeg
+lz4
+sox
