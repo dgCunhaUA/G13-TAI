@@ -2,6 +2,7 @@ import subprocess
 import os
 import sys
 import argparse
+import preprocesser
 
 ####
 # Argument Verification Function
@@ -55,18 +56,22 @@ def checkTypeValue(a):
 
 
 def main(ftarget, start, duration, noise, noisetype):
-    
-    database_dir_path = "./database/"
+
+    new_videos_dir_path = "./newVideos/"
+    videos_for_samples_dir_path = "./videoToSample/"
     sample_dir_path = "./samples/"
 
+    ### process possible videos_to_sample
+    preprocesser.main(new_videos_dir_path, videos_for_samples_dir_path) 
+
     ### Verify that the file provided is a valid music in the database
-    if os.path.isfile(database_dir_path+ftarget+".wav") == False:
-        print("Error! Target file {} was not found in database.".format(ftarget))
+    if os.path.isfile(videos_for_samples_dir_path+ftarget+".wav") == False:
+        print("Error! Target file {} was not found in videoToSample folder. If the file is a new video, you must place it on newVideos folder to be processed first.".format(ftarget))
         sys.exit()
 
     run_sox = subprocess.run([
             "sox",                                      
-            database_dir_path + ftarget + ".wav",
+            videos_for_samples_dir_path + ftarget + ".wav",
             sample_dir_path + ftarget + ".wav",
             "trim",
             str(start),
@@ -103,7 +108,7 @@ def main(ftarget, start, duration, noise, noisetype):
 
 if __name__ == "__main__":
     ### Verify Parameters
-    parser = argparse.ArgumentParser(description="Define context length and a smoothing parameter.")
+    parser = argparse.ArgumentParser(description="Define target file, sample start second and duration time and noise type and volume.")
     parser.add_argument("-ftarget", type=str, required=True, help="Target music file name")
     parser.add_argument('-start', type=checkStartValue, required=False, default=0, help="Select new sample start second")
     parser.add_argument('-duration', type=checkDurationValue, required=False, default=20, help="Select new sample duration")
