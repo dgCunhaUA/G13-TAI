@@ -19,7 +19,6 @@ Desenvolvimento de um programa fcm.py que permite recolher informação estatís
 
 Desenvolvimento de um programa generator.py capaz de gerar texto com base no modelo de contexto finito desenvolvido anteriormente.
 
-
 ## Assignment II
 
 Neste assignment, o programa fcm.py desenvolvido anteriormente foi adaptado.
@@ -29,3 +28,7 @@ Desenvolvimento de um programa lang.py capaz de calcular a quantidade de bits ne
 Desenvolvimento de um programa findlang.py capaz de reconhecer em que língua um determinado texto alvo está escrito.
 
 Desenvolvimento de um programa locatelang.py capaz de reconhecer em que secções e respetivas línguas um determinado texto alvo escrito em várias línguas possui.
+
+## Assignment III
+
+Desenvolvimento de um programa capaz de identificar músicas dado uma sample. Este programa tem por base o cálculo de NCD.
